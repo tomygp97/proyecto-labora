@@ -1,0 +1,20 @@
+Message-ID: <7df7487dc3a948668ecc9c7bc4cb333c@thyme>
+Date: Sun, 16 Jul 2006 00:00:00 -0700
+From: usuario510@example.com
+To: usuario317@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario510 <usuario510@example.com>
+X-To: Usuario317 <usuario317@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario510_folder\_sent_mail
+X-Origin: usuario510-P
+X-FileName: usuario510.pst
+
+I wanted to follow up on our last meeting
+Here are the documents I mentioned during our call.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

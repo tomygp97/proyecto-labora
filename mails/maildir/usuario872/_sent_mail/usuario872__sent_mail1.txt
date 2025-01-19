@@ -1,0 +1,20 @@
+Message-ID: <17aa4e47531a4fc2a830060f3bea1b3b@thyme>
+Date: Fri, 22 Jun 2001 00:00:00 -0700
+From: usuario872@example.com
+To: usuario774@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario872 <usuario872@example.com>
+X-To: Usuario774 <usuario774@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario872_folder\_sent_mail
+X-Origin: usuario872-P
+X-FileName: usuario872.pst
+
+I wanted to give you an update on the status of the project.
+Please let me know if there's anything else you need from my end.
+Let me know if you need any additional details.
+----------------------------------------

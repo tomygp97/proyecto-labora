@@ -1,0 +1,20 @@
+Message-ID: <a7debe7aa7b04f378ce2a91ca56a52cd@thyme>
+Date: Mon, 22 Mar 2021 00:00:00 -0700
+From: usuario259@example.com
+To: usuario954@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario259 <usuario259@example.com>
+X-To: Usuario954 <usuario954@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario259_folder\sent
+X-Origin: usuario259-P
+X-FileName: usuario259.pst
+
+I appreciate your attention to this matter.
+Please let me know if there are any changes to the schedule.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

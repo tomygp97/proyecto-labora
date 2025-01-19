@@ -1,0 +1,20 @@
+Message-ID: <16c3c5c2f1a54f18900c09968162ebf3@thyme>
+Date: Sat, 02 Nov 2019 00:00:00 -0700
+From: usuario532@example.com
+To: usuario922@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario532 <usuario532@example.com>
+X-To: Usuario922 <usuario922@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario532_folder\_sent_mail
+X-Origin: usuario532-P
+X-FileName: usuario532.pst
+
+Looking forward to discussing the project in more detail soon.
+Thank you for your attention
+Here is a summary of the last meeting for your reference.
+----------------------------------------

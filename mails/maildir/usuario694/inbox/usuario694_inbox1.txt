@@ -1,0 +1,20 @@
+Message-ID: <b3971aeec1c349a89c45ec0c013b5c17@thyme>
+Date: Fri, 17 Dec 2021 00:00:00 -0700
+From: usuario694@example.com
+To: usuario752@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario694 <usuario694@example.com>
+X-To: Usuario752 <usuario752@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario694_folder\inbox
+X-Origin: usuario694-P
+X-FileName: usuario694.pst
+
+Please let me know if there's anything else you need from my end.
+Here is a summary of the last meeting for your reference.
+Can you please confirm receipt of the files?
+----------------------------------------

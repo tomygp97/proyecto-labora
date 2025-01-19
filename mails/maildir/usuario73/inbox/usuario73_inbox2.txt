@@ -1,0 +1,20 @@
+Message-ID: <58589170f556492aa5fe24204e8f5834@thyme>
+Date: Tue, 14 Jun 2005 00:00:00 -0700
+From: usuario73@example.com
+To: usuario125@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario73 <usuario73@example.com>
+X-To: Usuario125 <usuario125@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario73_folder\inbox
+X-Origin: usuario73-P
+X-FileName: usuario73.pst
+
+I look forward to your response.
+I have included all the necessary details in the attached report.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

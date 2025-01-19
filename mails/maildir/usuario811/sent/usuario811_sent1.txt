@@ -1,0 +1,20 @@
+Message-ID: <814babe41c9041dba6f821f6c0bc5747@thyme>
+Date: Wed, 17 May 2000 00:00:00 -0700
+From: usuario811@example.com
+To: usuario485@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario811 <usuario811@example.com>
+X-To: Usuario485 <usuario485@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario811_folder\sent
+X-Origin: usuario811-P
+X-FileName: usuario811.pst
+
+Can you please confirm receipt of the files?
+Please let me know if there's anything else you need from my end.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

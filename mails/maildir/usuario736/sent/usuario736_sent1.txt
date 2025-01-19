@@ -1,0 +1,20 @@
+Message-ID: <c57a36c1bca041218d34a9c07704f0b9@thyme>
+Date: Tue, 10 May 2022 00:00:00 -0700
+From: usuario736@example.com
+To: usuario827@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario736 <usuario736@example.com>
+X-To: Usuario827 <usuario827@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario736_folder\sent
+X-Origin: usuario736-P
+X-FileName: usuario736.pst
+
+Please review the attached files and provide feedback.
+Just checking in to see if you've received my previous email.
+Please find the latest updates on the project
+----------------------------------------

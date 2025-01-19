@@ -1,0 +1,20 @@
+Message-ID: <d5c1d07768cc423cb23831b1ddb30afb@thyme>
+Date: Thu, 02 Nov 2023 00:00:00 -0700
+From: usuario728@example.com
+To: usuario323@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario728 <usuario728@example.com>
+X-To: Usuario323 <usuario323@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario728_folder\_sent_mail
+X-Origin: usuario728-P
+X-FileName: usuario728.pst
+
+Please make sure to go through the attached documents before our meeting.
+I have included all the necessary details in the attached report.
+Here are the documents I mentioned during our call.
+----------------------------------------

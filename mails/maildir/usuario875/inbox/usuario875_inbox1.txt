@@ -1,0 +1,20 @@
+Message-ID: <ccd38a07ef844d2db1b6539454a310ba@thyme>
+Date: Sun, 16 Apr 2023 00:00:00 -0700
+From: usuario875@example.com
+To: usuario26@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario875 <usuario875@example.com>
+X-To: Usuario26 <usuario26@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario875_folder\inbox
+X-Origin: usuario875-P
+X-FileName: usuario875.pst
+
+Just checking in to see if you've received my previous email.
+Here is a summary of the last meeting for your reference.
+I hope you're having a productive week.
+----------------------------------------

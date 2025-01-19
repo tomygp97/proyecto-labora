@@ -1,0 +1,20 @@
+Message-ID: <09a771f760f54b66864e3d6c6edb105a@thyme>
+Date: Fri, 22 Oct 2010 00:00:00 -0700
+From: usuario993@example.com
+To: usuario867@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario993 <usuario993@example.com>
+X-To: Usuario867 <usuario867@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario993_folder\_sent_mail
+X-Origin: usuario993-P
+X-FileName: usuario993.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I have included all the necessary details in the attached report.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

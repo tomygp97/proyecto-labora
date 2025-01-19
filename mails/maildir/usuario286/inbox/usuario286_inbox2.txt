@@ -1,0 +1,20 @@
+Message-ID: <5d9a01c25e3047e1b2e85dd291ebd4b4@thyme>
+Date: Sun, 20 Sep 2009 00:00:00 -0700
+From: usuario286@example.com
+To: usuario6@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario286 <usuario286@example.com>
+X-To: Usuario6 <usuario6@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario286_folder\inbox
+X-Origin: usuario286-P
+X-FileName: usuario286.pst
+
+Thank you for your attention
+Here are the next steps we need to take.
+I hope you're enjoying a nice week so far.
+----------------------------------------

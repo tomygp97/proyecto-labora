@@ -1,0 +1,20 @@
+Message-ID: <e4bd2d02a35942ebaedef33538dfd944@thyme>
+Date: Sat, 08 Dec 2007 00:00:00 -0700
+From: usuario807@example.com
+To: usuario687@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario807 <usuario807@example.com>
+X-To: Usuario687 <usuario687@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario807_folder\_sent_mail
+X-Origin: usuario807-P
+X-FileName: usuario807.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to confirm our meeting for tomorrow.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <de465fd3986e4d3c913f1c7998d957be@thyme>
+Date: Fri, 06 Apr 2001 00:00:00 -0700
+From: usuario6@example.com
+To: usuario371@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario6 <usuario6@example.com>
+X-To: Usuario371 <usuario371@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario6_folder\_sent_mail
+X-Origin: usuario6-P
+X-FileName: usuario6.pst
+
+Just checking in to see if you've received my previous email.
+I look forward to your response.
+I wanted to give you an update on the status of the project.
+----------------------------------------

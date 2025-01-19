@@ -1,0 +1,20 @@
+Message-ID: <fccd4c7cb842490e9b17c0bf5ccaa75e@thyme>
+Date: Tue, 13 Jun 2000 00:00:00 -0700
+From: usuario883@example.com
+To: usuario503@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario883 <usuario883@example.com>
+X-To: Usuario503 <usuario503@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario883_folder\_sent_mail
+X-Origin: usuario883-P
+X-FileName: usuario883.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here is our forecast
+Let me know if there's anything I can assist you with.
+----------------------------------------

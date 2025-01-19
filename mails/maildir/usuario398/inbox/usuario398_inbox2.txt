@@ -1,0 +1,20 @@
+Message-ID: <c3b0b7406f574bbabde67933f2e13869@thyme>
+Date: Mon, 08 Aug 2016 00:00:00 -0700
+From: usuario398@example.com
+To: usuario655@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario398 <usuario398@example.com>
+X-To: Usuario655 <usuario655@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario398_folder\inbox
+X-Origin: usuario398-P
+X-FileName: usuario398.pst
+
+Here is our forecast
+Please don't hesitate to reach out if you need any help.
+Please find the attached report for the last quarter
+----------------------------------------

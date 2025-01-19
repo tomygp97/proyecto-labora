@@ -1,0 +1,20 @@
+Message-ID: <2b3838bafedd40eb8f11f43f2d2ce42f@thyme>
+Date: Sun, 31 Jul 2022 00:00:00 -0700
+From: usuario651@example.com
+To: usuario131@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario651 <usuario651@example.com>
+X-To: Usuario131 <usuario131@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario651_folder\inbox
+X-Origin: usuario651-P
+X-FileName: usuario651.pst
+
+Please find the latest updates on the project
+Here is a summary of the last meeting for your reference.
+Here are the next steps we need to take.
+----------------------------------------

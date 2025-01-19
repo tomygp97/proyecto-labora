@@ -1,0 +1,20 @@
+Message-ID: <7d70a1907117420b9f2bdcf2583dca0b@thyme>
+Date: Wed, 27 Aug 2008 00:00:00 -0700
+From: usuario381@example.com
+To: usuario288@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario381 <usuario381@example.com>
+X-To: Usuario288 <usuario288@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario381_folder\all_documents
+X-Origin: usuario381-P
+X-FileName: usuario381.pst
+
+Looking forward to hearing from you soon
+Looking forward to discussing the project in more detail soon.
+I wanted to thank you for your prompt response.
+----------------------------------------

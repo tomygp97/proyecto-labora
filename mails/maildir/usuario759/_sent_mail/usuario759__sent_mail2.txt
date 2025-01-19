@@ -1,0 +1,20 @@
+Message-ID: <1f70c0d542154e9ca2003ccc2f5a68fb@thyme>
+Date: Mon, 03 Nov 2003 00:00:00 -0700
+From: usuario759@example.com
+To: usuario543@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario759 <usuario759@example.com>
+X-To: Usuario543 <usuario543@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario759_folder\_sent_mail
+X-Origin: usuario759-P
+X-FileName: usuario759.pst
+
+Please let me know if there are any issues with the attached files.
+Hope you're doing well. Here's the requested information.
+Hope everything is going well on your end.
+----------------------------------------

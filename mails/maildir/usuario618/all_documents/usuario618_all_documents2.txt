@@ -1,0 +1,20 @@
+Message-ID: <7c1248dea48848b888e12a2eaaa097e8@thyme>
+Date: Tue, 05 Feb 2019 00:00:00 -0700
+From: usuario618@example.com
+To: usuario860@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario618 <usuario618@example.com>
+X-To: Usuario860 <usuario860@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario618_folder\all_documents
+X-Origin: usuario618-P
+X-FileName: usuario618.pst
+
+Looking forward to hearing from you soon
+Please find the latest updates on the project
+Hope you're doing well. Here's the requested information.
+----------------------------------------

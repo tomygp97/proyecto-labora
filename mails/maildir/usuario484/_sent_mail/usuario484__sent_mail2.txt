@@ -1,0 +1,20 @@
+Message-ID: <caca33124838428287a3ce56ddbdcfbd@thyme>
+Date: Wed, 16 Feb 2011 00:00:00 -0700
+From: usuario484@example.com
+To: usuario986@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario484 <usuario484@example.com>
+X-To: Usuario986 <usuario986@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario484_folder\_sent_mail
+X-Origin: usuario484-P
+X-FileName: usuario484.pst
+
+Please let me know if there are any changes to the schedule.
+Thank you for your attention
+Just checking in to see if you've received my previous email.
+----------------------------------------

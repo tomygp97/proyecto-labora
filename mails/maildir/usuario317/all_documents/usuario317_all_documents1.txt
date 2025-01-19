@@ -1,0 +1,20 @@
+Message-ID: <8946cd1e23454907b67ab546c204ee6b@thyme>
+Date: Wed, 29 Oct 2003 00:00:00 -0700
+From: usuario317@example.com
+To: usuario549@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario317 <usuario317@example.com>
+X-To: Usuario549 <usuario549@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario317_folder\all_documents
+X-Origin: usuario317-P
+X-FileName: usuario317.pst
+
+Please let me know if there are any changes to the schedule.
+Let me know if you need any additional details.
+I look forward to your response.
+----------------------------------------

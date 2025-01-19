@@ -1,0 +1,20 @@
+Message-ID: <daacd2e47d80491db8e76a2f72aeb13a@thyme>
+Date: Fri, 29 Nov 2002 00:00:00 -0700
+From: usuario992@example.com
+To: usuario941@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario992 <usuario992@example.com>
+X-To: Usuario941 <usuario941@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario992_folder\inbox
+X-Origin: usuario992-P
+X-FileName: usuario992.pst
+
+I hope you're having a productive week.
+Let me know if there's anything I can assist you with.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

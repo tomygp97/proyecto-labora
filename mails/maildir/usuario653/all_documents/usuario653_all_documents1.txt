@@ -1,0 +1,20 @@
+Message-ID: <d6de85cdc9664a30a3a45247a5ca8f77@thyme>
+Date: Mon, 15 May 2006 00:00:00 -0700
+From: usuario653@example.com
+To: usuario670@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario653 <usuario653@example.com>
+X-To: Usuario670 <usuario670@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario653_folder\all_documents
+X-Origin: usuario653-P
+X-FileName: usuario653.pst
+
+Here is a summary of the last meeting for your reference.
+Please let me know if there are any changes to the schedule.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

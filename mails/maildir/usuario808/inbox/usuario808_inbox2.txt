@@ -1,0 +1,20 @@
+Message-ID: <693bab0f4a844f5685d5c2bb1f979ad9@thyme>
+Date: Fri, 07 Aug 2020 00:00:00 -0700
+From: usuario808@example.com
+To: usuario996@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario808 <usuario808@example.com>
+X-To: Usuario996 <usuario996@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario808_folder\inbox
+X-Origin: usuario808-P
+X-FileName: usuario808.pst
+
+I have included all the necessary details in the attached report.
+I wanted to thank you for your prompt response.
+I wanted to follow up on our last meeting
+----------------------------------------

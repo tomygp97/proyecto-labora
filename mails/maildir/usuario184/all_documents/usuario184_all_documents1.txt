@@ -1,0 +1,20 @@
+Message-ID: <bb4c863e06604309bfc9233a11e925a1@thyme>
+Date: Fri, 15 Sep 2000 00:00:00 -0700
+From: usuario184@example.com
+To: usuario384@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario184 <usuario184@example.com>
+X-To: Usuario384 <usuario384@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario184_folder\all_documents
+X-Origin: usuario184-P
+X-FileName: usuario184.pst
+
+Please let me know if there are any issues with the attached files.
+Please find the attached report for the last quarter
+I hope you're enjoying a nice week so far.
+----------------------------------------

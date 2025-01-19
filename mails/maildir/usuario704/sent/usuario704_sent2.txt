@@ -1,0 +1,20 @@
+Message-ID: <28b94fdce84b43ba8fde187f9fc64630@thyme>
+Date: Fri, 23 Nov 2001 00:00:00 -0700
+From: usuario704@example.com
+To: usuario587@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario704 <usuario704@example.com>
+X-To: Usuario587 <usuario587@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario704_folder\sent
+X-Origin: usuario704-P
+X-FileName: usuario704.pst
+
+Looking forward to hearing from you soon
+Looking forward to discussing the project in more detail soon.
+I look forward to collaborating further on this initiative.
+----------------------------------------

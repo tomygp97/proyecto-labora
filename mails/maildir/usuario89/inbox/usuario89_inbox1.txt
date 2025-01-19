@@ -1,0 +1,20 @@
+Message-ID: <5ff6a4727bdf4b0c901319a28dfc4e63@thyme>
+Date: Fri, 18 Jul 2008 00:00:00 -0700
+From: usuario89@example.com
+To: usuario559@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario89 <usuario89@example.com>
+X-To: Usuario559 <usuario559@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario89_folder\inbox
+X-Origin: usuario89-P
+X-FileName: usuario89.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I hope you're having a productive week.
+Here are the next steps we need to take.
+----------------------------------------

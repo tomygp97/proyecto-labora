@@ -1,0 +1,20 @@
+Message-ID: <a144b92458c649c99857b4fd845ddeb1@thyme>
+Date: Wed, 22 Dec 2010 00:00:00 -0700
+From: usuario389@example.com
+To: usuario741@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario389 <usuario389@example.com>
+X-To: Usuario741 <usuario741@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario389_folder\spam
+X-Origin: usuario389-P
+X-FileName: usuario389.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to check in regarding the status of the project.
+I hope you're enjoying a nice week so far.
+----------------------------------------

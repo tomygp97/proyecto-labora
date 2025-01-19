@@ -1,0 +1,20 @@
+Message-ID: <5ceaa6d5820a408b81ef41c63a44dc06@thyme>
+Date: Fri, 02 Jan 2004 00:00:00 -0700
+From: usuario22@example.com
+To: usuario64@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario22 <usuario22@example.com>
+X-To: Usuario64 <usuario64@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario22_folder\_sent_mail
+X-Origin: usuario22-P
+X-FileName: usuario22.pst
+
+Please find the attached report for the last quarter
+Please let me know if there are any changes to the schedule.
+Here is our forecast
+----------------------------------------

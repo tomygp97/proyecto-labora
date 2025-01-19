@@ -1,0 +1,20 @@
+Message-ID: <a2fa96a952cb463c9375536153d3a57a@thyme>
+Date: Tue, 05 Sep 2023 00:00:00 -0700
+From: usuario356@example.com
+To: usuario511@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario356 <usuario356@example.com>
+X-To: Usuario511 <usuario511@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario356_folder\_sent_mail
+X-Origin: usuario356-P
+X-FileName: usuario356.pst
+
+Thank you for your attention
+I hope you're enjoying a nice week so far.
+I wanted to thank you for your prompt response.
+----------------------------------------

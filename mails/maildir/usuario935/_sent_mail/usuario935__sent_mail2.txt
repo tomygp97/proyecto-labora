@@ -1,0 +1,20 @@
+Message-ID: <3aa281f53f11483fb61ba3727898ad60@thyme>
+Date: Mon, 12 May 2025 00:00:00 -0700
+From: usuario935@example.com
+To: usuario84@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario935 <usuario935@example.com>
+X-To: Usuario84 <usuario84@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario935_folder\_sent_mail
+X-Origin: usuario935-P
+X-FileName: usuario935.pst
+
+Hope you're doing well. Here's the requested information.
+I trust the documents will be helpful for our upcoming discussion.
+Can you please confirm receipt of the files?
+----------------------------------------

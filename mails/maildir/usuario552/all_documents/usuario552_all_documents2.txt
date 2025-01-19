@@ -1,0 +1,20 @@
+Message-ID: <9547a9d80aa448498b5d9a548562a0e5@thyme>
+Date: Thu, 22 Jan 2004 00:00:00 -0700
+From: usuario552@example.com
+To: usuario208@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario552 <usuario552@example.com>
+X-To: Usuario208 <usuario208@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario552_folder\all_documents
+X-Origin: usuario552-P
+X-FileName: usuario552.pst
+
+Here are the next steps we need to take.
+I wanted to thank you for your prompt response.
+I wanted to give you an update on the status of the project.
+----------------------------------------

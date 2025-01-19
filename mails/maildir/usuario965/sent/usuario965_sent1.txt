@@ -1,0 +1,20 @@
+Message-ID: <ec924cd29219408d8f14320d18ce2e25@thyme>
+Date: Mon, 12 Jun 2023 00:00:00 -0700
+From: usuario965@example.com
+To: usuario195@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario965 <usuario965@example.com>
+X-To: Usuario195 <usuario195@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario965_folder\sent
+X-Origin: usuario965-P
+X-FileName: usuario965.pst
+
+Here are the documents I mentioned during our call.
+Let me know if you need any additional details.
+I have included all the necessary details in the attached report.
+----------------------------------------

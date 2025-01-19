@@ -1,0 +1,20 @@
+Message-ID: <9de77682ba4f4424ab9a2d3aeacd0a7b@thyme>
+Date: Wed, 09 Mar 2022 00:00:00 -0700
+From: usuario757@example.com
+To: usuario621@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario757 <usuario757@example.com>
+X-To: Usuario621 <usuario621@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario757_folder\sent
+X-Origin: usuario757-P
+X-FileName: usuario757.pst
+
+I hope this email finds you well.
+Please review the materials at your earliest convenience.
+Here are the results from the analysis we discussed.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <86658b76e11a46439cf2472bf8e06f39@thyme>
+Date: Sat, 04 Nov 2017 00:00:00 -0700
+From: usuario277@example.com
+To: usuario512@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario277 <usuario277@example.com>
+X-To: Usuario512 <usuario512@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario277_folder\spam
+X-Origin: usuario277-P
+X-FileName: usuario277.pst
+
+Please let me know if there's anything else you need from my end.
+Hope you're doing well. Here's the requested information.
+Hope everything is going well on your end.
+----------------------------------------

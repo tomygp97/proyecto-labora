@@ -1,0 +1,20 @@
+Message-ID: <e6003b5b909e4e5a9be2477e78a72a00@thyme>
+Date: Thu, 30 May 2019 00:00:00 -0700
+From: usuario3@example.com
+To: usuario802@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario3 <usuario3@example.com>
+X-To: Usuario802 <usuario802@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario3_folder\inbox
+X-Origin: usuario3-P
+X-FileName: usuario3.pst
+
+I wanted to thank you for your prompt response.
+I wanted to give you an update on the status of the project.
+Here are the results from the analysis we discussed.
+----------------------------------------

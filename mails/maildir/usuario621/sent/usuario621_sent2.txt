@@ -1,0 +1,20 @@
+Message-ID: <2f05c375eb9941c184c52aa3ca1fa761@thyme>
+Date: Thu, 20 Oct 2011 00:00:00 -0700
+From: usuario621@example.com
+To: usuario120@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario621 <usuario621@example.com>
+X-To: Usuario120 <usuario120@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario621_folder\sent
+X-Origin: usuario621-P
+X-FileName: usuario621.pst
+
+I appreciate your attention to this matter.
+I wanted to check in regarding the status of the project.
+Please review the attached files and provide feedback.
+----------------------------------------

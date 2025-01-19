@@ -1,0 +1,20 @@
+Message-ID: <c67b241067ab40d197c402296d0e424f@thyme>
+Date: Sun, 03 Jun 2007 00:00:00 -0700
+From: usuario924@example.com
+To: usuario545@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario924 <usuario924@example.com>
+X-To: Usuario545 <usuario545@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario924_folder\spam
+X-Origin: usuario924-P
+X-FileName: usuario924.pst
+
+I hope you're having a productive week.
+Just wanted to touch base on the upcoming project milestone.
+Just checking in to see if you've received my previous email.
+----------------------------------------

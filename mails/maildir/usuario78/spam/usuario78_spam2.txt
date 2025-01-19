@@ -1,0 +1,20 @@
+Message-ID: <935b098edd0843e9b554e633432cb5db@thyme>
+Date: Thu, 07 Aug 2008 00:00:00 -0700
+From: usuario78@example.com
+To: usuario570@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario78 <usuario78@example.com>
+X-To: Usuario570 <usuario570@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario78_folder\spam
+X-Origin: usuario78-P
+X-FileName: usuario78.pst
+
+I wanted to give you an update on the status of the project.
+Can you please confirm receipt of the files?
+Here is our forecast
+----------------------------------------

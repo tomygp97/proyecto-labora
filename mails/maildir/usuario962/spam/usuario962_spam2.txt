@@ -1,0 +1,20 @@
+Message-ID: <ea921c91652d43f5bc6ef96227e1f967@thyme>
+Date: Mon, 03 Oct 2005 00:00:00 -0700
+From: usuario962@example.com
+To: usuario520@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario962 <usuario962@example.com>
+X-To: Usuario520 <usuario520@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario962_folder\spam
+X-Origin: usuario962-P
+X-FileName: usuario962.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to check in regarding the status of the project.
+Here are the next steps we need to take.
+----------------------------------------

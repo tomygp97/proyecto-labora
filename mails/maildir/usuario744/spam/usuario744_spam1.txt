@@ -1,0 +1,20 @@
+Message-ID: <370961f3f37849f8a30020a01b7b1917@thyme>
+Date: Mon, 16 Sep 2024 00:00:00 -0700
+From: usuario744@example.com
+To: usuario816@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario744 <usuario744@example.com>
+X-To: Usuario816 <usuario816@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario744_folder\spam
+X-Origin: usuario744-P
+X-FileName: usuario744.pst
+
+Please don't hesitate to reach out if you need any help.
+Let me know if there's anything I can assist you with.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

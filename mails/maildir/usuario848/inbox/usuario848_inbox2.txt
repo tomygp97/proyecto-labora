@@ -1,0 +1,20 @@
+Message-ID: <709d3a2ad2e5478ab27e6fdd792a8c68@thyme>
+Date: Wed, 15 Jan 2025 00:00:00 -0700
+From: usuario848@example.com
+To: usuario152@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario848 <usuario848@example.com>
+X-To: Usuario152 <usuario152@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario848_folder\inbox
+X-Origin: usuario848-P
+X-FileName: usuario848.pst
+
+Please let me know if there's anything else you need from my end.
+Looking forward to hearing from you soon
+Here are the next steps we need to take.
+----------------------------------------

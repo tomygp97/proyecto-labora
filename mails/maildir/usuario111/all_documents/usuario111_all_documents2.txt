@@ -1,0 +1,20 @@
+Message-ID: <29547dd892e34db2a5b25c60f714532d@thyme>
+Date: Mon, 13 Mar 2023 00:00:00 -0700
+From: usuario111@example.com
+To: usuario3@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario111 <usuario111@example.com>
+X-To: Usuario3 <usuario3@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario111_folder\all_documents
+X-Origin: usuario111-P
+X-FileName: usuario111.pst
+
+Hope you're doing well. Here's the requested information.
+I wanted to confirm our meeting for tomorrow.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

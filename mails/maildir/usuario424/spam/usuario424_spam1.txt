@@ -1,0 +1,20 @@
+Message-ID: <e19447eab0c6473aa44f111b5e57614a@thyme>
+Date: Wed, 09 Jan 2013 00:00:00 -0700
+From: usuario424@example.com
+To: usuario359@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario424 <usuario424@example.com>
+X-To: Usuario359 <usuario359@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario424_folder\spam
+X-Origin: usuario424-P
+X-FileName: usuario424.pst
+
+Please don't hesitate to reach out if you need any help.
+Let me know if you'd like to schedule a follow-up discussion.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

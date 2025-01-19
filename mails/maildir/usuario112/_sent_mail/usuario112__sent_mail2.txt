@@ -1,0 +1,20 @@
+Message-ID: <114baa2648a04767877ca710c1e4f28a@thyme>
+Date: Mon, 08 Mar 2004 00:00:00 -0700
+From: usuario112@example.com
+To: usuario735@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario112 <usuario112@example.com>
+X-To: Usuario735 <usuario735@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario112_folder\_sent_mail
+X-Origin: usuario112-P
+X-FileName: usuario112.pst
+
+Here are the results from the analysis we discussed.
+Please let me know if there are any issues with the attached files.
+Here is our forecast
+----------------------------------------

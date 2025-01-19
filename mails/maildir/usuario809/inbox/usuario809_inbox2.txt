@@ -1,0 +1,20 @@
+Message-ID: <7270dad3c8ab424f9768cab06ba2a0ca@thyme>
+Date: Fri, 26 Jun 2015 00:00:00 -0700
+From: usuario809@example.com
+To: usuario363@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario809 <usuario809@example.com>
+X-To: Usuario363 <usuario363@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario809_folder\inbox
+X-Origin: usuario809-P
+X-FileName: usuario809.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+I would love to hear your feedback on the proposal.
+Let me know if there's anything I can assist you with.
+----------------------------------------

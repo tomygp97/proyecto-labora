@@ -1,0 +1,20 @@
+Message-ID: <01dc48bd736d4884b1884455a3d90e74@thyme>
+Date: Tue, 24 Jan 2006 00:00:00 -0700
+From: usuario372@example.com
+To: usuario855@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario372 <usuario372@example.com>
+X-To: Usuario855 <usuario855@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario372_folder\spam
+X-Origin: usuario372-P
+X-FileName: usuario372.pst
+
+Hope you're doing well. Here's the requested information.
+I have included all the necessary details in the attached report.
+Please find the attached report for the last quarter
+----------------------------------------

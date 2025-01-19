@@ -1,0 +1,20 @@
+Message-ID: <81e165f931fc45b58c45575eb11ecb6b@thyme>
+Date: Wed, 27 May 2015 00:00:00 -0700
+From: usuario535@example.com
+To: usuario594@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario535 <usuario535@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario535_folder\spam
+X-Origin: usuario535-P
+X-FileName: usuario535.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here are the documents I mentioned during our call.
+I wanted to follow up on our last meeting
+----------------------------------------

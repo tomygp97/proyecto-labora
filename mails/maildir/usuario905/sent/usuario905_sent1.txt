@@ -1,0 +1,20 @@
+Message-ID: <f71efd3c4a6847ac98426eeaf6ba76e1@thyme>
+Date: Sun, 02 Jun 2024 00:00:00 -0700
+From: usuario905@example.com
+To: usuario153@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario905 <usuario905@example.com>
+X-To: Usuario153 <usuario153@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario905_folder\sent
+X-Origin: usuario905-P
+X-FileName: usuario905.pst
+
+I would love to hear your feedback on the proposal.
+Just wanted to touch base on the upcoming project milestone.
+Please review the materials at your earliest convenience.
+----------------------------------------

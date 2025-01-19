@@ -1,0 +1,20 @@
+Message-ID: <8bdbd6bb171d493c8978bce8fb74a6a3@thyme>
+Date: Wed, 17 Jan 2007 00:00:00 -0700
+From: usuario911@example.com
+To: usuario468@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario911 <usuario911@example.com>
+X-To: Usuario468 <usuario468@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario911_folder\sent
+X-Origin: usuario911-P
+X-FileName: usuario911.pst
+
+Please find the attached report for the last quarter
+Just checking in to see if you've received my previous email.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

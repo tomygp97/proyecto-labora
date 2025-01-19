@@ -1,0 +1,20 @@
+Message-ID: <3c631ac802424b5d8d5948488c59980b@thyme>
+Date: Thu, 20 Apr 2000 00:00:00 -0700
+From: usuario747@example.com
+To: usuario100@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario747 <usuario747@example.com>
+X-To: Usuario100 <usuario100@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario747_folder\spam
+X-Origin: usuario747-P
+X-FileName: usuario747.pst
+
+I hope this email finds you well.
+As discussed, I have attached the report you requested.
+Hope everything is going well on your end.
+----------------------------------------

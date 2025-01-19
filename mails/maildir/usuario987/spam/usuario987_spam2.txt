@@ -1,0 +1,20 @@
+Message-ID: <4ffea1442a8a49d2bfd73f69abe584fd@thyme>
+Date: Wed, 25 Dec 2024 00:00:00 -0700
+From: usuario987@example.com
+To: usuario104@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario987 <usuario987@example.com>
+X-To: Usuario104 <usuario104@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario987_folder\spam
+X-Origin: usuario987-P
+X-FileName: usuario987.pst
+
+Please find the attached report for the last quarter
+I look forward to collaborating further on this initiative.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

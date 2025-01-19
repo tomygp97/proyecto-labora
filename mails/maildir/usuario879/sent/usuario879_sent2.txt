@@ -1,0 +1,20 @@
+Message-ID: <3fa10f6e7d1e42e1b8b83945ad1aec13@thyme>
+Date: Wed, 13 Feb 2019 00:00:00 -0700
+From: usuario879@example.com
+To: usuario71@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario879 <usuario879@example.com>
+X-To: Usuario71 <usuario71@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario879_folder\sent
+X-Origin: usuario879-P
+X-FileName: usuario879.pst
+
+Please make sure to go through the attached documents before our meeting.
+Here are the results from the analysis we discussed.
+I wanted to check in regarding the status of the project.
+----------------------------------------

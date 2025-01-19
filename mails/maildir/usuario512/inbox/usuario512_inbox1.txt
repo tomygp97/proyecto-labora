@@ -1,0 +1,20 @@
+Message-ID: <a5232f1caadc4b6d839076aa9f8995b5@thyme>
+Date: Sun, 14 Feb 2021 00:00:00 -0700
+From: usuario512@example.com
+To: usuario655@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario512 <usuario512@example.com>
+X-To: Usuario655 <usuario655@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario512_folder\inbox
+X-Origin: usuario512-P
+X-FileName: usuario512.pst
+
+Let me know if there's anything I can assist you with.
+I hope this email finds you well.
+I hope you're having a productive week.
+----------------------------------------

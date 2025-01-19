@@ -1,0 +1,20 @@
+Message-ID: <66de897d04e1411fb40c9202547af4fc@thyme>
+Date: Sun, 18 Mar 2018 00:00:00 -0700
+From: usuario646@example.com
+To: usuario29@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario646 <usuario646@example.com>
+X-To: Usuario29 <usuario29@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario646_folder\spam
+X-Origin: usuario646-P
+X-FileName: usuario646.pst
+
+As discussed, I have attached the report you requested.
+Please make sure to go through the attached documents before our meeting.
+I have included all the necessary details in the attached report.
+----------------------------------------

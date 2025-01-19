@@ -1,0 +1,20 @@
+Message-ID: <2da0e14646ab4f45b29e94c3d7e77542@thyme>
+Date: Thu, 29 Aug 2019 00:00:00 -0700
+From: usuario9@example.com
+To: usuario812@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario9 <usuario9@example.com>
+X-To: Usuario812 <usuario812@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario9_folder\spam
+X-Origin: usuario9-P
+X-FileName: usuario9.pst
+
+I appreciate your attention to this matter.
+I wanted to remind you about the upcoming deadline.
+Thank you for your attention
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <11e6c904b1dc4cf0b364064147183bbc@thyme>
+Date: Tue, 01 Sep 2020 00:00:00 -0700
+From: usuario779@example.com
+To: usuario165@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario779 <usuario779@example.com>
+X-To: Usuario165 <usuario165@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario779_folder\spam
+X-Origin: usuario779-P
+X-FileName: usuario779.pst
+
+As discussed, I have attached the report you requested.
+I have included all the necessary details in the attached report.
+Here are the results from the analysis we discussed.
+----------------------------------------

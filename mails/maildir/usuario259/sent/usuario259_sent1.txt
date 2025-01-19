@@ -1,0 +1,20 @@
+Message-ID: <262b704c60424494b21ba5d745fad957@thyme>
+Date: Fri, 22 Jul 2005 00:00:00 -0700
+From: usuario259@example.com
+To: usuario929@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario259 <usuario259@example.com>
+X-To: Usuario929 <usuario929@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario259_folder\sent
+X-Origin: usuario259-P
+X-FileName: usuario259.pst
+
+I hope this email finds you well.
+Can you please confirm receipt of the files?
+Just checking in to see if you've received my previous email.
+----------------------------------------

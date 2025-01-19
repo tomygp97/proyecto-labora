@@ -1,0 +1,20 @@
+Message-ID: <1fcc9a81f1344480bf8dc2b2e16abd7c@thyme>
+Date: Mon, 14 Aug 2000 00:00:00 -0700
+From: usuario277@example.com
+To: usuario954@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario277 <usuario277@example.com>
+X-To: Usuario954 <usuario954@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario277_folder\all_documents
+X-Origin: usuario277-P
+X-FileName: usuario277.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please don't hesitate to reach out if you need any help.
+I hope you're having a productive week.
+----------------------------------------

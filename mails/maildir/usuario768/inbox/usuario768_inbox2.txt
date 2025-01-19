@@ -1,0 +1,20 @@
+Message-ID: <e8eee1ceaa394d1cafc0b0fffaefbaef@thyme>
+Date: Sat, 09 Dec 2000 00:00:00 -0700
+From: usuario768@example.com
+To: usuario650@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario768 <usuario768@example.com>
+X-To: Usuario650 <usuario650@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario768_folder\inbox
+X-Origin: usuario768-P
+X-FileName: usuario768.pst
+
+Please find the latest updates on the project
+I wanted to follow up on our last meeting
+I hope you're enjoying a nice week so far.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <b0dc16891730450ba48532e003238f64@thyme>
+Date: Mon, 24 Jun 2024 00:00:00 -0700
+From: usuario192@example.com
+To: usuario980@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario192 <usuario192@example.com>
+X-To: Usuario980 <usuario980@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario192_folder\spam
+X-Origin: usuario192-P
+X-FileName: usuario192.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Can you please confirm receipt of the files?
+I look forward to collaborating further on this initiative.
+----------------------------------------

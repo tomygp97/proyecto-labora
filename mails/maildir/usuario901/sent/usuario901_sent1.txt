@@ -1,0 +1,20 @@
+Message-ID: <f570177cafbf41809fe34abbaec8bdcf@thyme>
+Date: Thu, 30 Nov 2017 00:00:00 -0700
+From: usuario901@example.com
+To: usuario60@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario901 <usuario901@example.com>
+X-To: Usuario60 <usuario60@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario901_folder\sent
+X-Origin: usuario901-P
+X-FileName: usuario901.pst
+
+Please let me know if there are any changes to the schedule.
+Thank you for your attention
+Here are the documents I mentioned during our call.
+----------------------------------------

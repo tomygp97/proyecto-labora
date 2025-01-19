@@ -1,0 +1,20 @@
+Message-ID: <b987cdac1442452386d735e991b637c7@thyme>
+Date: Sat, 30 Jun 2007 00:00:00 -0700
+From: usuario970@example.com
+To: usuario500@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario970 <usuario970@example.com>
+X-To: Usuario500 <usuario500@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario970_folder\inbox
+X-Origin: usuario970-P
+X-FileName: usuario970.pst
+
+Please make sure to go through the attached documents before our meeting.
+Just wanted to touch base on the upcoming project milestone.
+I would love to hear your feedback on the proposal.
+----------------------------------------

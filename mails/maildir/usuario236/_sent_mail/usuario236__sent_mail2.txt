@@ -1,0 +1,20 @@
+Message-ID: <68fdafcf530c4fc7a5dd5319e0a04dee@thyme>
+Date: Sun, 12 Feb 2023 00:00:00 -0700
+From: usuario236@example.com
+To: usuario969@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario236 <usuario236@example.com>
+X-To: Usuario969 <usuario969@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario236_folder\_sent_mail
+X-Origin: usuario236-P
+X-FileName: usuario236.pst
+
+I look forward to your response.
+I would love to hear your feedback on the proposal.
+I hope you're enjoying a nice week so far.
+----------------------------------------

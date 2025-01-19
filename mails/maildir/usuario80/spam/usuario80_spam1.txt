@@ -1,0 +1,20 @@
+Message-ID: <2a0be78b90374ee38cceda2a31a63dfb@thyme>
+Date: Mon, 08 Oct 2018 00:00:00 -0700
+From: usuario80@example.com
+To: usuario310@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario80 <usuario80@example.com>
+X-To: Usuario310 <usuario310@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario80_folder\spam
+X-Origin: usuario80-P
+X-FileName: usuario80.pst
+
+Hope everything is going well on your end.
+I wanted to remind you about the upcoming deadline.
+I have included all the necessary details in the attached report.
+----------------------------------------

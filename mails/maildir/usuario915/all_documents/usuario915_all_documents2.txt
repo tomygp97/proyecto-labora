@@ -1,0 +1,20 @@
+Message-ID: <411ea9de80d44369a72ef37f47c9c0fb@thyme>
+Date: Sat, 27 Apr 2024 00:00:00 -0700
+From: usuario915@example.com
+To: usuario530@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario915 <usuario915@example.com>
+X-To: Usuario530 <usuario530@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario915_folder\all_documents
+X-Origin: usuario915-P
+X-FileName: usuario915.pst
+
+I wanted to remind you about the upcoming deadline.
+Here is a summary of the last meeting for your reference.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <a605718f46ab48c2bb9c02f4934dbaeb@thyme>
+Date: Sat, 26 Jul 2003 00:00:00 -0700
+From: usuario878@example.com
+To: usuario969@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario878 <usuario878@example.com>
+X-To: Usuario969 <usuario969@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario878_folder\spam
+X-Origin: usuario878-P
+X-FileName: usuario878.pst
+
+I wanted to give you an update on the status of the project.
+I hope this email finds you well.
+I wanted to thank you for your prompt response.
+----------------------------------------

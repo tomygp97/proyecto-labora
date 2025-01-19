@@ -1,0 +1,20 @@
+Message-ID: <ad5a3eed40aa433c841319a74f9391f6@thyme>
+Date: Fri, 30 Jun 2000 00:00:00 -0700
+From: usuario664@example.com
+To: usuario594@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario664 <usuario664@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario664_folder\spam
+X-Origin: usuario664-P
+X-FileName: usuario664.pst
+
+Please let me know if there are any issues with the attached files.
+I trust the documents will be helpful for our upcoming discussion.
+Hope everything is going well on your end.
+----------------------------------------

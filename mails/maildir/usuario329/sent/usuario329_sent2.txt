@@ -1,0 +1,20 @@
+Message-ID: <844d662a7d3147a78804e73e71bcde91@thyme>
+Date: Fri, 18 Aug 2023 00:00:00 -0700
+From: usuario329@example.com
+To: usuario510@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario329 <usuario329@example.com>
+X-To: Usuario510 <usuario510@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario329_folder\sent
+X-Origin: usuario329-P
+X-FileName: usuario329.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Please let me know if there's anything else you need from my end.
+Here are the documents I mentioned during our call.
+----------------------------------------

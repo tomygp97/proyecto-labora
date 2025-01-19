@@ -1,0 +1,20 @@
+Message-ID: <88e583b292e349b18f252fc3c9c4beed@thyme>
+Date: Tue, 23 Nov 2021 00:00:00 -0700
+From: usuario508@example.com
+To: usuario874@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario508 <usuario508@example.com>
+X-To: Usuario874 <usuario874@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario508_folder\all_documents
+X-Origin: usuario508-P
+X-FileName: usuario508.pst
+
+Can you please confirm receipt of the files?
+Please make sure to go through the attached documents before our meeting.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

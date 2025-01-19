@@ -1,0 +1,20 @@
+Message-ID: <8cc77468baf24e7a872e7c6844350291@thyme>
+Date: Tue, 22 Dec 2009 00:00:00 -0700
+From: usuario541@example.com
+To: usuario956@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario541 <usuario541@example.com>
+X-To: Usuario956 <usuario956@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario541_folder\spam
+X-Origin: usuario541-P
+X-FileName: usuario541.pst
+
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+I wanted to give you an update on the status of the project.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <f78726e9f8a74067abc9ff20ca763b17@thyme>
+Date: Fri, 13 Nov 2020 00:00:00 -0700
+From: usuario198@example.com
+To: usuario494@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario198 <usuario198@example.com>
+X-To: Usuario494 <usuario494@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario198_folder\_sent_mail
+X-Origin: usuario198-P
+X-FileName: usuario198.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to give you an update on the status of the project.
+I look forward to your response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4051382516e34813a4759737e5f72f5e@thyme>
+Date: Sat, 22 Dec 2007 00:00:00 -0700
+From: usuario256@example.com
+To: usuario511@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario256 <usuario256@example.com>
+X-To: Usuario511 <usuario511@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario256_folder\inbox
+X-Origin: usuario256-P
+X-FileName: usuario256.pst
+
+I wanted to follow up on our last meeting
+Let me know if there's anything I can assist you with.
+As discussed, I have attached the report you requested.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <0c09f76e65de4c9b92d26eec1250cd9e@thyme>
+Date: Sun, 17 Dec 2023 00:00:00 -0700
+From: usuario383@example.com
+To: usuario784@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario383 <usuario383@example.com>
+X-To: Usuario784 <usuario784@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario383_folder\spam
+X-Origin: usuario383-P
+X-FileName: usuario383.pst
+
+Looking forward to hearing from you soon
+Looking forward to discussing the project in more detail soon.
+Just checking in to see if you've received my previous email.
+----------------------------------------

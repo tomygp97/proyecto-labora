@@ -1,0 +1,20 @@
+Message-ID: <0c237fe048ae4128bb703e198a985579@thyme>
+Date: Mon, 24 Jan 2022 00:00:00 -0700
+From: usuario766@example.com
+To: usuario189@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario766 <usuario766@example.com>
+X-To: Usuario189 <usuario189@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario766_folder\sent
+X-Origin: usuario766-P
+X-FileName: usuario766.pst
+
+I hope this email finds you well.
+Here are the documents I mentioned during our call.
+I hope you're having a productive week.
+----------------------------------------

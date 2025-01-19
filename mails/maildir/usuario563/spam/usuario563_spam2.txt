@@ -1,0 +1,20 @@
+Message-ID: <c3ae21f1802249bdb06a524b5491fa75@thyme>
+Date: Tue, 18 Mar 2003 00:00:00 -0700
+From: usuario563@example.com
+To: usuario34@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario563 <usuario563@example.com>
+X-To: Usuario34 <usuario34@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario563_folder\spam
+X-Origin: usuario563-P
+X-FileName: usuario563.pst
+
+I wanted to thank you for your prompt response.
+Here is our forecast
+Looking forward to hearing from you soon
+----------------------------------------

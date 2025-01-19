@@ -1,0 +1,20 @@
+Message-ID: <ef82b82174194b7cadfa5d06f86831de@thyme>
+Date: Mon, 19 Jul 2010 00:00:00 -0700
+From: usuario900@example.com
+To: usuario56@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario900 <usuario900@example.com>
+X-To: Usuario56 <usuario56@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario900_folder\spam
+X-Origin: usuario900-P
+X-FileName: usuario900.pst
+
+Let me know if there's anything I can assist you with.
+I wanted to remind you about the upcoming deadline.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

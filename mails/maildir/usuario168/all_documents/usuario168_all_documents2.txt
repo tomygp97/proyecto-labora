@@ -1,0 +1,20 @@
+Message-ID: <2e6511ebcf424b1289b1a65d21909b6d@thyme>
+Date: Sun, 09 Jun 2002 00:00:00 -0700
+From: usuario168@example.com
+To: usuario730@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario168 <usuario168@example.com>
+X-To: Usuario730 <usuario730@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario168_folder\all_documents
+X-Origin: usuario168-P
+X-FileName: usuario168.pst
+
+Please find the latest updates on the project
+Please don't hesitate to reach out if you need any help.
+I wanted to follow up on our last meeting
+----------------------------------------

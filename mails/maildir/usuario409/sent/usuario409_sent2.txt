@@ -1,0 +1,20 @@
+Message-ID: <dd9ada939bec4e1ea2852cf8f4e19f69@thyme>
+Date: Sat, 24 Oct 2020 00:00:00 -0700
+From: usuario409@example.com
+To: usuario311@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario409 <usuario409@example.com>
+X-To: Usuario311 <usuario311@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario409_folder\sent
+X-Origin: usuario409-P
+X-FileName: usuario409.pst
+
+Here is our forecast
+Can you please confirm receipt of the files?
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

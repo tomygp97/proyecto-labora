@@ -1,0 +1,20 @@
+Message-ID: <64d7241880a74f2eac78ee6348677636@thyme>
+Date: Wed, 12 Jan 2022 00:00:00 -0700
+From: usuario927@example.com
+To: usuario747@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario927 <usuario927@example.com>
+X-To: Usuario747 <usuario747@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario927_folder\all_documents
+X-Origin: usuario927-P
+X-FileName: usuario927.pst
+
+I wanted to check in regarding the status of the project.
+Here is a summary of the last meeting for your reference.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

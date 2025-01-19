@@ -1,0 +1,20 @@
+Message-ID: <0fdf0dcdc7f9494186b88824017cc39a@thyme>
+Date: Fri, 11 Dec 2015 00:00:00 -0700
+From: usuario965@example.com
+To: usuario55@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario965 <usuario965@example.com>
+X-To: Usuario55 <usuario55@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario965_folder\sent
+X-Origin: usuario965-P
+X-FileName: usuario965.pst
+
+I have included all the necessary details in the attached report.
+I hope this email finds you well.
+I hope you're having a productive week.
+----------------------------------------

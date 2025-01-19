@@ -1,0 +1,20 @@
+Message-ID: <8bf19984e2d14fd883d3b4ac749676c8@thyme>
+Date: Sat, 01 Oct 2011 00:00:00 -0700
+From: usuario939@example.com
+To: usuario77@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario939 <usuario939@example.com>
+X-To: Usuario77 <usuario77@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario939_folder\sent
+X-Origin: usuario939-P
+X-FileName: usuario939.pst
+
+I would love to hear your feedback on the proposal.
+Here is a summary of the last meeting for your reference.
+I wanted to follow up on our last meeting
+----------------------------------------

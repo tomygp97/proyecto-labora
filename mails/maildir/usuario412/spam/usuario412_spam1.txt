@@ -1,0 +1,20 @@
+Message-ID: <705639c1ec824c00b0dda853521fd2e6@thyme>
+Date: Wed, 08 Jan 2025 00:00:00 -0700
+From: usuario412@example.com
+To: usuario692@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario412 <usuario412@example.com>
+X-To: Usuario692 <usuario692@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario412_folder\spam
+X-Origin: usuario412-P
+X-FileName: usuario412.pst
+
+I wanted to check in regarding the status of the project.
+I wanted to confirm our meeting for tomorrow.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

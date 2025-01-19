@@ -1,0 +1,20 @@
+Message-ID: <4178195696074440a7fb6c70be27adb0@thyme>
+Date: Sun, 24 Feb 2008 00:00:00 -0700
+From: usuario166@example.com
+To: usuario310@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario166 <usuario166@example.com>
+X-To: Usuario310 <usuario310@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario166_folder\inbox
+X-Origin: usuario166-P
+X-FileName: usuario166.pst
+
+Here are the results from the analysis we discussed.
+I hope you're enjoying a nice week so far.
+Thank you for your attention
+----------------------------------------

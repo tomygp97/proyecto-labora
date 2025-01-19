@@ -1,0 +1,20 @@
+Message-ID: <2c4f65d58113486eb6fe81db44ee407d@thyme>
+Date: Thu, 21 Jan 2021 00:00:00 -0700
+From: usuario869@example.com
+To: usuario46@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario869 <usuario869@example.com>
+X-To: Usuario46 <usuario46@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario869_folder\_sent_mail
+X-Origin: usuario869-P
+X-FileName: usuario869.pst
+
+Please find the attached report for the last quarter
+Hope everything is going well on your end.
+I wanted to check in regarding the status of the project.
+----------------------------------------

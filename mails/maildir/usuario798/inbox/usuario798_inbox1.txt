@@ -1,0 +1,20 @@
+Message-ID: <e217674751e242b0a72b23cd6ba0e5ec@thyme>
+Date: Mon, 17 Nov 2003 00:00:00 -0700
+From: usuario798@example.com
+To: usuario440@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario798 <usuario798@example.com>
+X-To: Usuario440 <usuario440@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario798_folder\inbox
+X-Origin: usuario798-P
+X-FileName: usuario798.pst
+
+Here are the results from the analysis we discussed.
+Please find the latest updates on the project
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <e5e7cf90313946db87b7abe4f64bbfec@thyme>
+Date: Wed, 23 Apr 2003 00:00:00 -0700
+From: usuario237@example.com
+To: usuario881@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario237 <usuario237@example.com>
+X-To: Usuario881 <usuario881@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario237_folder\_sent_mail
+X-Origin: usuario237-P
+X-FileName: usuario237.pst
+
+I would love to hear your feedback on the proposal.
+I have included all the necessary details in the attached report.
+I look forward to your response.
+----------------------------------------

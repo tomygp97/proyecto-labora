@@ -1,0 +1,20 @@
+Message-ID: <e1726894af5d4e2092380bfbe5f6e3bf@thyme>
+Date: Sun, 20 Mar 2011 00:00:00 -0700
+From: usuario176@example.com
+To: usuario488@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario176 <usuario176@example.com>
+X-To: Usuario488 <usuario488@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario176_folder\inbox
+X-Origin: usuario176-P
+X-FileName: usuario176.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Here are the next steps we need to take.
+Please find the attached report for the last quarter
+----------------------------------------

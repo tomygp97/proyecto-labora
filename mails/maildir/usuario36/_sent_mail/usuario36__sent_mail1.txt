@@ -1,0 +1,20 @@
+Message-ID: <164656ee9d634581a837643b003f4500@thyme>
+Date: Fri, 11 Jan 2002 00:00:00 -0700
+From: usuario36@example.com
+To: usuario451@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario36 <usuario36@example.com>
+X-To: Usuario451 <usuario451@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario36_folder\_sent_mail
+X-Origin: usuario36-P
+X-FileName: usuario36.pst
+
+Just checking in to see if you've received my previous email.
+I hope this email finds you well.
+Can you please confirm receipt of the files?
+----------------------------------------

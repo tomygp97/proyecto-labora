@@ -1,0 +1,20 @@
+Message-ID: <f1de048641464aeaa82f2f5cc7f09f49@thyme>
+Date: Mon, 19 May 2003 00:00:00 -0700
+From: usuario400@example.com
+To: usuario941@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario400 <usuario400@example.com>
+X-To: Usuario941 <usuario941@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario400_folder\spam
+X-Origin: usuario400-P
+X-FileName: usuario400.pst
+
+Here are the results from the analysis we discussed.
+Let me know if you need any additional details.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

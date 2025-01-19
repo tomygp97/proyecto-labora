@@ -1,0 +1,20 @@
+Message-ID: <d69824f90eb644af816c4349f52fea20@thyme>
+Date: Sat, 25 Jul 2009 00:00:00 -0700
+From: usuario892@example.com
+To: usuario512@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario892 <usuario892@example.com>
+X-To: Usuario512 <usuario512@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario892_folder\spam
+X-Origin: usuario892-P
+X-FileName: usuario892.pst
+
+Here is our forecast
+Please make sure to go through the attached documents before our meeting.
+Let me know if you need any additional details.
+----------------------------------------

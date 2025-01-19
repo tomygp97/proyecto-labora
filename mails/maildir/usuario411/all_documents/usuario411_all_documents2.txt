@@ -1,0 +1,20 @@
+Message-ID: <d40592a6a2ed47519b8b764dbe15c769@thyme>
+Date: Sun, 28 Apr 2019 00:00:00 -0700
+From: usuario411@example.com
+To: usuario551@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario411 <usuario411@example.com>
+X-To: Usuario551 <usuario551@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario411_folder\all_documents
+X-Origin: usuario411-P
+X-FileName: usuario411.pst
+
+Let me know if there's anything I can assist you with.
+As discussed, I have attached the report you requested.
+Hope everything is going well on your end.
+----------------------------------------

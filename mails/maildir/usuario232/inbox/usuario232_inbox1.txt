@@ -1,0 +1,20 @@
+Message-ID: <8e8298fb1f414e4d9198a57f1f49a39c@thyme>
+Date: Wed, 05 Jan 2022 00:00:00 -0700
+From: usuario232@example.com
+To: usuario567@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario232 <usuario232@example.com>
+X-To: Usuario567 <usuario567@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario232_folder\inbox
+X-Origin: usuario232-P
+X-FileName: usuario232.pst
+
+Please let me know if there are any issues with the attached files.
+I hope you're enjoying a nice week so far.
+I appreciate your attention to this matter.
+----------------------------------------

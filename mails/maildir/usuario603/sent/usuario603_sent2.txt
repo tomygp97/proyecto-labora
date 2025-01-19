@@ -1,0 +1,20 @@
+Message-ID: <d72140af528240398bc0d428a2a6937a@thyme>
+Date: Tue, 24 Apr 2007 00:00:00 -0700
+From: usuario603@example.com
+To: usuario594@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario603 <usuario603@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario603_folder\sent
+X-Origin: usuario603-P
+X-FileName: usuario603.pst
+
+I wanted to check in regarding the status of the project.
+I wanted to confirm our meeting for tomorrow.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

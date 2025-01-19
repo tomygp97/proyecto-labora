@@ -1,0 +1,20 @@
+Message-ID: <10ed619ba01a49f9b8186a32130a9440@thyme>
+Date: Sat, 26 Oct 2019 00:00:00 -0700
+From: usuario975@example.com
+To: usuario684@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario975 <usuario975@example.com>
+X-To: Usuario684 <usuario684@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario975_folder\spam
+X-Origin: usuario975-P
+X-FileName: usuario975.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here is our forecast
+Thank you for your attention
+----------------------------------------

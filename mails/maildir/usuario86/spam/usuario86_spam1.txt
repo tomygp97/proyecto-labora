@@ -1,0 +1,20 @@
+Message-ID: <343ba01106394033aa61b2cebc47fd2e@thyme>
+Date: Tue, 17 Dec 2024 00:00:00 -0700
+From: usuario86@example.com
+To: usuario459@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario86 <usuario86@example.com>
+X-To: Usuario459 <usuario459@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario86_folder\spam
+X-Origin: usuario86-P
+X-FileName: usuario86.pst
+
+Here are the documents I mentioned during our call.
+Let me know if there's anything I can assist you with.
+Please review the materials at your earliest convenience.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <7a264920c3404e869b269f1dc6ff3dc8@thyme>
+Date: Thu, 16 Dec 2021 00:00:00 -0700
+From: usuario656@example.com
+To: usuario654@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario656 <usuario656@example.com>
+X-To: Usuario654 <usuario654@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario656_folder\all_documents
+X-Origin: usuario656-P
+X-FileName: usuario656.pst
+
+I wanted to check in regarding the status of the project.
+Looking forward to hearing from you soon
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

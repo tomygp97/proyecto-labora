@@ -1,0 +1,20 @@
+Message-ID: <b5c03505209745559f895565a316d30c@thyme>
+Date: Sat, 05 May 2001 00:00:00 -0700
+From: usuario72@example.com
+To: usuario884@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario72 <usuario72@example.com>
+X-To: Usuario884 <usuario884@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario72_folder\spam
+X-Origin: usuario72-P
+X-FileName: usuario72.pst
+
+I wanted to remind you about the upcoming deadline.
+Thank you for your attention
+Hope everything is going well on your end.
+----------------------------------------

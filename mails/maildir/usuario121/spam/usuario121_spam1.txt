@@ -1,0 +1,20 @@
+Message-ID: <1b341e4511ad4d999faa53c04d1f3f3d@thyme>
+Date: Sat, 12 Mar 2022 00:00:00 -0700
+From: usuario121@example.com
+To: usuario653@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario121 <usuario121@example.com>
+X-To: Usuario653 <usuario653@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario121_folder\spam
+X-Origin: usuario121-P
+X-FileName: usuario121.pst
+
+I wanted to thank you for your prompt response.
+Please review the materials at your earliest convenience.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

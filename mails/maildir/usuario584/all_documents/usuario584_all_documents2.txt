@@ -1,0 +1,20 @@
+Message-ID: <a45a4c06a5ab4c1aa2152d8afebb1057@thyme>
+Date: Thu, 14 Dec 2023 00:00:00 -0700
+From: usuario584@example.com
+To: usuario459@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario584 <usuario584@example.com>
+X-To: Usuario459 <usuario459@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario584_folder\all_documents
+X-Origin: usuario584-P
+X-FileName: usuario584.pst
+
+I hope you're having a productive week.
+Here are the next steps we need to take.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

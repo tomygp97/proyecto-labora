@@ -1,0 +1,20 @@
+Message-ID: <71c485ec1d704884a6f70c2416a09be8@thyme>
+Date: Thu, 30 Sep 2021 00:00:00 -0700
+From: usuario892@example.com
+To: usuario450@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario892 <usuario892@example.com>
+X-To: Usuario450 <usuario450@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario892_folder\inbox
+X-Origin: usuario892-P
+X-FileName: usuario892.pst
+
+I wanted to give you an update on the status of the project.
+I appreciate your attention to this matter.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

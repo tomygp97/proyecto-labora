@@ -1,0 +1,20 @@
+Message-ID: <50a0161810214745ad21f5e2e775987c@thyme>
+Date: Thu, 29 Aug 2013 00:00:00 -0700
+From: usuario75@example.com
+To: usuario793@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario75 <usuario75@example.com>
+X-To: Usuario793 <usuario793@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario75_folder\spam
+X-Origin: usuario75-P
+X-FileName: usuario75.pst
+
+Here are the next steps we need to take.
+Just checking in to see if you've received my previous email.
+As discussed, I have attached the report you requested.
+----------------------------------------

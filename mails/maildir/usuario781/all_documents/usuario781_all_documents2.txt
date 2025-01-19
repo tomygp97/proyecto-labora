@@ -1,0 +1,20 @@
+Message-ID: <c54d1cbb0e174f1b9bda03a9810486be@thyme>
+Date: Sat, 29 Sep 2012 00:00:00 -0700
+From: usuario781@example.com
+To: usuario886@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario781 <usuario781@example.com>
+X-To: Usuario886 <usuario886@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario781_folder\all_documents
+X-Origin: usuario781-P
+X-FileName: usuario781.pst
+
+Let me know if there's anything I can assist you with.
+Please let me know if there are any changes to the schedule.
+Can you please confirm receipt of the files?
+----------------------------------------

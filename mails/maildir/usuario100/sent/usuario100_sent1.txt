@@ -1,0 +1,20 @@
+Message-ID: <5b83aa21b98047a1a6f0eae14a89ee5a@thyme>
+Date: Thu, 05 Oct 2000 00:00:00 -0700
+From: usuario100@example.com
+To: usuario117@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario100 <usuario100@example.com>
+X-To: Usuario117 <usuario117@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario100_folder\sent
+X-Origin: usuario100-P
+X-FileName: usuario100.pst
+
+Hope everything is going well on your end.
+Please review the materials at your earliest convenience.
+I hope you're enjoying a nice week so far.
+----------------------------------------

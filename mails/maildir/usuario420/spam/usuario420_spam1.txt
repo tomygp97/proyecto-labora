@@ -1,0 +1,20 @@
+Message-ID: <c44c726201e84fd290f86d6d47370898@thyme>
+Date: Tue, 10 Nov 2020 00:00:00 -0700
+From: usuario420@example.com
+To: usuario810@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario420 <usuario420@example.com>
+X-To: Usuario810 <usuario810@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario420_folder\spam
+X-Origin: usuario420-P
+X-FileName: usuario420.pst
+
+I wanted to give you an update on the status of the project.
+Please let me know if there's anything else you need from my end.
+Looking forward to hearing from you soon
+----------------------------------------

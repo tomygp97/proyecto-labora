@@ -1,0 +1,20 @@
+Message-ID: <3ce083cb56544b959ec2d8d6b222091e@thyme>
+Date: Mon, 25 Jan 2010 00:00:00 -0700
+From: usuario239@example.com
+To: usuario141@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario239 <usuario239@example.com>
+X-To: Usuario141 <usuario141@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario239_folder\spam
+X-Origin: usuario239-P
+X-FileName: usuario239.pst
+
+I have included all the necessary details in the attached report.
+Please find the attached report for the last quarter
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <427ec24d75bd4486842dced92930cb37@thyme>
+Date: Sat, 17 Jan 2004 00:00:00 -0700
+From: usuario32@example.com
+To: usuario874@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario874 <usuario874@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\sent
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please let me know if there's anything else you need from my end.
+Looking forward to hearing from you soon
+----------------------------------------

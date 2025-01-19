@@ -1,0 +1,20 @@
+Message-ID: <088db1aa844148b598508ee2f9692606@thyme>
+Date: Wed, 13 Jun 2012 00:00:00 -0700
+From: usuario510@example.com
+To: usuario233@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario510 <usuario510@example.com>
+X-To: Usuario233 <usuario233@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario510_folder\spam
+X-Origin: usuario510-P
+X-FileName: usuario510.pst
+
+I hope you're enjoying a nice week so far.
+I look forward to your response.
+Here is our forecast
+----------------------------------------

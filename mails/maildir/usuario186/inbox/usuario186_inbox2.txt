@@ -1,0 +1,20 @@
+Message-ID: <c4d5c1d38f284ac6901dd0335a8df769@thyme>
+Date: Sat, 22 Apr 2023 00:00:00 -0700
+From: usuario186@example.com
+To: usuario648@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario186 <usuario186@example.com>
+X-To: Usuario648 <usuario648@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario186_folder\inbox
+X-Origin: usuario186-P
+X-FileName: usuario186.pst
+
+I wanted to check in regarding the status of the project.
+Can you please confirm receipt of the files?
+Please find the latest updates on the project
+----------------------------------------

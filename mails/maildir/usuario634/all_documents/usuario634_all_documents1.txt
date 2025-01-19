@@ -1,0 +1,20 @@
+Message-ID: <9b08ef79b7464973838332d67f352870@thyme>
+Date: Thu, 17 Jun 2021 00:00:00 -0700
+From: usuario634@example.com
+To: usuario991@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario634 <usuario634@example.com>
+X-To: Usuario991 <usuario991@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario634_folder\all_documents
+X-Origin: usuario634-P
+X-FileName: usuario634.pst
+
+I hope you're enjoying a nice week so far.
+I wanted to give you an update on the status of the project.
+I appreciate your attention to this matter.
+----------------------------------------

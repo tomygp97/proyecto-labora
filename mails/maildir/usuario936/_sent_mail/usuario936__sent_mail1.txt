@@ -1,0 +1,20 @@
+Message-ID: <7680c991f2c8454faff4bc2fe2d17bcd@thyme>
+Date: Fri, 14 Jan 2022 00:00:00 -0700
+From: usuario936@example.com
+To: usuario746@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario936 <usuario936@example.com>
+X-To: Usuario746 <usuario746@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario936_folder\_sent_mail
+X-Origin: usuario936-P
+X-FileName: usuario936.pst
+
+I look forward to your response.
+Let me know if you'd like to schedule a follow-up discussion.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

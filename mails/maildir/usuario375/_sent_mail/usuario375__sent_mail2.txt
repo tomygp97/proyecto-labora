@@ -1,0 +1,20 @@
+Message-ID: <4a7c97b62f55406095c766be67e3115f@thyme>
+Date: Thu, 02 Nov 2006 00:00:00 -0700
+From: usuario375@example.com
+To: usuario115@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario375 <usuario375@example.com>
+X-To: Usuario115 <usuario115@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario375_folder\_sent_mail
+X-Origin: usuario375-P
+X-FileName: usuario375.pst
+
+I wanted to thank you for your prompt response.
+I wanted to give you an update on the status of the project.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <85886e73d01441ce8059960440a24d95@thyme>
+Date: Mon, 25 Mar 2024 00:00:00 -0700
+From: usuario3@example.com
+To: usuario606@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario3 <usuario3@example.com>
+X-To: Usuario606 <usuario606@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario3_folder\inbox
+X-Origin: usuario3-P
+X-FileName: usuario3.pst
+
+I look forward to collaborating further on this initiative.
+Thank you for your attention
+I wanted to check in regarding the status of the project.
+----------------------------------------

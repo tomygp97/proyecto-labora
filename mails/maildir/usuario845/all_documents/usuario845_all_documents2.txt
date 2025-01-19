@@ -1,0 +1,20 @@
+Message-ID: <2e9cb5dd4fc449628b8350da8754c765@thyme>
+Date: Fri, 09 Sep 2005 00:00:00 -0700
+From: usuario845@example.com
+To: usuario721@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario845 <usuario845@example.com>
+X-To: Usuario721 <usuario721@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario845_folder\all_documents
+X-Origin: usuario845-P
+X-FileName: usuario845.pst
+
+Please find the latest updates on the project
+Let me know if you need any additional details.
+Here are the next steps we need to take.
+----------------------------------------

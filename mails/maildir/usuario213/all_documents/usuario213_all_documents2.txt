@@ -1,0 +1,20 @@
+Message-ID: <ef245c6eb8e448c6ab7319b5343d905d@thyme>
+Date: Tue, 26 Apr 2005 00:00:00 -0700
+From: usuario213@example.com
+To: usuario773@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario213 <usuario213@example.com>
+X-To: Usuario773 <usuario773@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario213_folder\all_documents
+X-Origin: usuario213-P
+X-FileName: usuario213.pst
+
+I appreciate your attention to this matter.
+Here is a summary of the last meeting for your reference.
+I hope you're having a productive week.
+----------------------------------------

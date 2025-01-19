@@ -1,0 +1,20 @@
+Message-ID: <375fcf97fc9d4fb7b2c5ebdaec9adebc@thyme>
+Date: Sun, 12 Feb 2023 00:00:00 -0700
+From: usuario337@example.com
+To: usuario184@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario337 <usuario337@example.com>
+X-To: Usuario184 <usuario184@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario337_folder\_sent_mail
+X-Origin: usuario337-P
+X-FileName: usuario337.pst
+
+Please review the materials at your earliest convenience.
+Here are the results from the analysis we discussed.
+I hope you're enjoying a nice week so far.
+----------------------------------------

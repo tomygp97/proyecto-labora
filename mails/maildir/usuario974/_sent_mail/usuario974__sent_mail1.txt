@@ -1,0 +1,20 @@
+Message-ID: <189f6d53e6664810b6b60c621f17f858@thyme>
+Date: Sun, 27 Aug 2023 00:00:00 -0700
+From: usuario974@example.com
+To: usuario752@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario974 <usuario974@example.com>
+X-To: Usuario752 <usuario752@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario974_folder\_sent_mail
+X-Origin: usuario974-P
+X-FileName: usuario974.pst
+
+Let me know if there's anything I can assist you with.
+Thank you for your attention
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

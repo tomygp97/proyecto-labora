@@ -1,0 +1,20 @@
+Message-ID: <0a03abe6f73f4a17bdc37e3e6441de89@thyme>
+Date: Thu, 03 Nov 2011 00:00:00 -0700
+From: usuario169@example.com
+To: usuario508@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario169 <usuario169@example.com>
+X-To: Usuario508 <usuario508@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario169_folder\all_documents
+X-Origin: usuario169-P
+X-FileName: usuario169.pst
+
+Hope you're doing well. Here's the requested information.
+I appreciate your attention to this matter.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

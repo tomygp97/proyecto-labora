@@ -1,0 +1,20 @@
+Message-ID: <5132e3a7ea864338b7458655ef2055ae@thyme>
+Date: Sun, 28 Feb 2021 00:00:00 -0700
+From: usuario712@example.com
+To: usuario645@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario712 <usuario712@example.com>
+X-To: Usuario645 <usuario645@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario712_folder\spam
+X-Origin: usuario712-P
+X-FileName: usuario712.pst
+
+Please let me know if there are any issues with the attached files.
+Thank you for your attention
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

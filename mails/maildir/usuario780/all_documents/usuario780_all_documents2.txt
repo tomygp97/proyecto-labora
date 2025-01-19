@@ -1,0 +1,20 @@
+Message-ID: <75a347b07cc74a87b29a4eae4c086f01@thyme>
+Date: Fri, 20 Jan 2012 00:00:00 -0700
+From: usuario780@example.com
+To: usuario312@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario780 <usuario780@example.com>
+X-To: Usuario312 <usuario312@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario780_folder\all_documents
+X-Origin: usuario780-P
+X-FileName: usuario780.pst
+
+Just checking in to see if you've received my previous email.
+Here are the results from the analysis we discussed.
+I wanted to follow up on our last meeting
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <aebc43497fe04f8f952c885d97815b1d@thyme>
+Date: Mon, 09 Jan 2017 00:00:00 -0700
+From: usuario301@example.com
+To: usuario621@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario301 <usuario301@example.com>
+X-To: Usuario621 <usuario621@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario301_folder\all_documents
+X-Origin: usuario301-P
+X-FileName: usuario301.pst
+
+Here are the documents I mentioned during our call.
+I wanted to give you an update on the status of the project.
+Hope everything is going well on your end.
+----------------------------------------

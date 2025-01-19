@@ -1,0 +1,20 @@
+Message-ID: <f82fda45f4b243748a33abf313b4ff5d@thyme>
+Date: Sat, 26 Feb 2000 00:00:00 -0700
+From: usuario606@example.com
+To: usuario911@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario606 <usuario606@example.com>
+X-To: Usuario911 <usuario911@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario606_folder\_sent_mail
+X-Origin: usuario606-P
+X-FileName: usuario606.pst
+
+Please make sure to go through the attached documents before our meeting.
+I look forward to your response.
+I hope you're having a productive week.
+----------------------------------------

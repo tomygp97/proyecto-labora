@@ -1,0 +1,20 @@
+Message-ID: <873bdabe466a47c18892e25601cd5748@thyme>
+Date: Mon, 11 Apr 2005 00:00:00 -0700
+From: usuario768@example.com
+To: usuario817@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario768 <usuario768@example.com>
+X-To: Usuario817 <usuario817@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario768_folder\spam
+X-Origin: usuario768-P
+X-FileName: usuario768.pst
+
+I wanted to give you an update on the status of the project.
+Can you please confirm receipt of the files?
+I hope you're having a productive week.
+----------------------------------------

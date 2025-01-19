@@ -1,0 +1,20 @@
+Message-ID: <43c312d3a9de42adbaad1a1c38decce2@thyme>
+Date: Wed, 08 Nov 2023 00:00:00 -0700
+From: usuario425@example.com
+To: usuario100@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario425 <usuario425@example.com>
+X-To: Usuario100 <usuario100@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario425_folder\sent
+X-Origin: usuario425-P
+X-FileName: usuario425.pst
+
+Here is our forecast
+Please make sure to go through the attached documents before our meeting.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

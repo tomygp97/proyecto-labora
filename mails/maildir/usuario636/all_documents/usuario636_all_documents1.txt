@@ -1,0 +1,20 @@
+Message-ID: <78e52d4e7aac44a1a6727e9afe30cf6c@thyme>
+Date: Fri, 06 Apr 2007 00:00:00 -0700
+From: usuario636@example.com
+To: usuario28@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario636 <usuario636@example.com>
+X-To: Usuario28 <usuario28@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario636_folder\all_documents
+X-Origin: usuario636-P
+X-FileName: usuario636.pst
+
+As discussed, I have attached the report you requested.
+Here are the results from the analysis we discussed.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

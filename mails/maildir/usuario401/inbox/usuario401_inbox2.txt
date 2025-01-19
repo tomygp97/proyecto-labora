@@ -1,0 +1,20 @@
+Message-ID: <3a4f8f1ddb294069a7fa83851dbbcb2f@thyme>
+Date: Sun, 21 Mar 2004 00:00:00 -0700
+From: usuario401@example.com
+To: usuario681@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario401 <usuario401@example.com>
+X-To: Usuario681 <usuario681@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario401_folder\inbox
+X-Origin: usuario401-P
+X-FileName: usuario401.pst
+
+Looking forward to hearing from you soon
+Just wanted to touch base on the upcoming project milestone.
+I hope this email finds you well.
+----------------------------------------

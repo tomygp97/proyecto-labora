@@ -1,0 +1,20 @@
+Message-ID: <10ad56b6a25d4d7c831fb2a0e0f8c158@thyme>
+Date: Mon, 02 Jan 2017 00:00:00 -0700
+From: usuario522@example.com
+To: usuario714@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario522 <usuario522@example.com>
+X-To: Usuario714 <usuario714@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario522_folder\sent
+X-Origin: usuario522-P
+X-FileName: usuario522.pst
+
+Looking forward to hearing from you soon
+Here are the documents I mentioned during our call.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <1eeed88019784717964021c6a6b5740b@thyme>
+Date: Tue, 14 Jun 2005 00:00:00 -0700
+From: usuario860@example.com
+To: usuario992@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario860 <usuario860@example.com>
+X-To: Usuario992 <usuario992@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario860_folder\all_documents
+X-Origin: usuario860-P
+X-FileName: usuario860.pst
+
+Here is a summary of the last meeting for your reference.
+Here are the next steps we need to take.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

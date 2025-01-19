@@ -1,0 +1,20 @@
+Message-ID: <8a9c04153ca64b73b537a7fe3fcaab18@thyme>
+Date: Wed, 04 Sep 2024 00:00:00 -0700
+From: usuario855@example.com
+To: usuario813@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario855 <usuario855@example.com>
+X-To: Usuario813 <usuario813@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario855_folder\spam
+X-Origin: usuario855-P
+X-FileName: usuario855.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please let me know if there's anything else you need from my end.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

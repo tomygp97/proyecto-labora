@@ -1,0 +1,20 @@
+Message-ID: <97b29958f18242638b603b334768a0ee@thyme>
+Date: Fri, 13 Sep 2002 00:00:00 -0700
+From: usuario991@example.com
+To: usuario836@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario991 <usuario991@example.com>
+X-To: Usuario836 <usuario836@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario991_folder\_sent_mail
+X-Origin: usuario991-P
+X-FileName: usuario991.pst
+
+As discussed, I have attached the report you requested.
+Here are the documents I mentioned during our call.
+I wanted to give you an update on the status of the project.
+----------------------------------------

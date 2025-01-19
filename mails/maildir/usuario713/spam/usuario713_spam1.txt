@@ -1,0 +1,20 @@
+Message-ID: <58fe41b302cf4cb9826c22c21faba728@thyme>
+Date: Mon, 05 Nov 2007 00:00:00 -0700
+From: usuario713@example.com
+To: usuario752@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario713 <usuario713@example.com>
+X-To: Usuario752 <usuario752@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario713_folder\spam
+X-Origin: usuario713-P
+X-FileName: usuario713.pst
+
+Here are the next steps we need to take.
+As discussed, I have attached the report you requested.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

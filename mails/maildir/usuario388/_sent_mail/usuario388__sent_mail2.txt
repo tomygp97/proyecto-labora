@@ -1,0 +1,20 @@
+Message-ID: <acb9a3092e9b400e809e24bd43a3f084@thyme>
+Date: Tue, 13 May 2003 00:00:00 -0700
+From: usuario388@example.com
+To: usuario690@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario388 <usuario388@example.com>
+X-To: Usuario690 <usuario690@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario388_folder\_sent_mail
+X-Origin: usuario388-P
+X-FileName: usuario388.pst
+
+Here are the results from the analysis we discussed.
+Just checking in to see if you've received my previous email.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

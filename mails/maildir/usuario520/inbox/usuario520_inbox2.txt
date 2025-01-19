@@ -1,0 +1,20 @@
+Message-ID: <1265eba42df8456dbef8912ce0ff107e@thyme>
+Date: Sat, 23 Sep 2006 00:00:00 -0700
+From: usuario520@example.com
+To: usuario629@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario520 <usuario520@example.com>
+X-To: Usuario629 <usuario629@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario520_folder\inbox
+X-Origin: usuario520-P
+X-FileName: usuario520.pst
+
+Here is a summary of the last meeting for your reference.
+Hope everything is going well on your end.
+I hope this email finds you well.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <bb4e81681b014c339aca14d893414b09@thyme>
+Date: Tue, 06 Mar 2018 00:00:00 -0700
+From: usuario506@example.com
+To: usuario597@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario506 <usuario506@example.com>
+X-To: Usuario597 <usuario597@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario506_folder\sent
+X-Origin: usuario506-P
+X-FileName: usuario506.pst
+
+I hope you're enjoying a nice week so far.
+Can you please confirm receipt of the files?
+I hope you're having a productive week.
+----------------------------------------

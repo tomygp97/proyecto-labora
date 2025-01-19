@@ -1,0 +1,20 @@
+Message-ID: <dc3fb9f3f6c44cdd9db3688e10239e5d@thyme>
+Date: Mon, 31 Oct 2022 00:00:00 -0700
+From: usuario777@example.com
+To: usuario811@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario777 <usuario777@example.com>
+X-To: Usuario811 <usuario811@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario777_folder\_sent_mail
+X-Origin: usuario777-P
+X-FileName: usuario777.pst
+
+Let me know if you need any additional details.
+I wanted to remind you about the upcoming deadline.
+I appreciate your attention to this matter.
+----------------------------------------

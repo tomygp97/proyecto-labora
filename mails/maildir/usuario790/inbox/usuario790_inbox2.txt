@@ -1,0 +1,20 @@
+Message-ID: <dba77a4db3f74b3daf639f462053020e@thyme>
+Date: Thu, 25 May 2023 00:00:00 -0700
+From: usuario790@example.com
+To: usuario237@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario790 <usuario790@example.com>
+X-To: Usuario237 <usuario237@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario790_folder\inbox
+X-Origin: usuario790-P
+X-FileName: usuario790.pst
+
+Please let me know if there are any changes to the schedule.
+Let me know if you need any additional details.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

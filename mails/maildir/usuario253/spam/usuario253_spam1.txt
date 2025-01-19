@@ -1,0 +1,20 @@
+Message-ID: <885df1ae90144335939d6c66966eaa2a@thyme>
+Date: Tue, 28 Jan 2003 00:00:00 -0700
+From: usuario253@example.com
+To: usuario932@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario253 <usuario253@example.com>
+X-To: Usuario932 <usuario932@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario253_folder\spam
+X-Origin: usuario253-P
+X-FileName: usuario253.pst
+
+Can you please confirm receipt of the files?
+Hope everything is going well on your end.
+Please review the attached files and provide feedback.
+----------------------------------------

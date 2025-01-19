@@ -1,0 +1,20 @@
+Message-ID: <c42cfcd1834d477b979f0bfa0d4976ee@thyme>
+Date: Mon, 23 Nov 2020 00:00:00 -0700
+From: usuario238@example.com
+To: usuario306@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario238 <usuario238@example.com>
+X-To: Usuario306 <usuario306@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario238_folder\_sent_mail
+X-Origin: usuario238-P
+X-FileName: usuario238.pst
+
+Let me know if you need any additional details.
+I hope you're having a productive week.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

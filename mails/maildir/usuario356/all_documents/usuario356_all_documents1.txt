@@ -1,0 +1,20 @@
+Message-ID: <be4ad2ab3f494f909dfdf51cf6e41e41@thyme>
+Date: Fri, 02 Dec 2005 00:00:00 -0700
+From: usuario356@example.com
+To: usuario907@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario356 <usuario356@example.com>
+X-To: Usuario907 <usuario907@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario356_folder\all_documents
+X-Origin: usuario356-P
+X-FileName: usuario356.pst
+
+Please review the materials at your earliest convenience.
+Here is our forecast
+Here are the documents I mentioned during our call.
+----------------------------------------

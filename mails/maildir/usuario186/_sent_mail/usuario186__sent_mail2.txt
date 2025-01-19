@@ -1,0 +1,20 @@
+Message-ID: <f292ced25d55480b8892f76ad231c0e1@thyme>
+Date: Fri, 11 May 2012 00:00:00 -0700
+From: usuario186@example.com
+To: usuario620@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario186 <usuario186@example.com>
+X-To: Usuario620 <usuario620@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario186_folder\_sent_mail
+X-Origin: usuario186-P
+X-FileName: usuario186.pst
+
+Please review the attached files and provide feedback.
+Looking forward to hearing from you soon
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <d20376fe4835493caf561e95f0094f0f@thyme>
+Date: Mon, 17 Apr 2023 00:00:00 -0700
+From: usuario688@example.com
+To: usuario112@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario688 <usuario688@example.com>
+X-To: Usuario112 <usuario112@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario688_folder\all_documents
+X-Origin: usuario688-P
+X-FileName: usuario688.pst
+
+I hope you're having a productive week.
+Please don't hesitate to reach out if you need any help.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

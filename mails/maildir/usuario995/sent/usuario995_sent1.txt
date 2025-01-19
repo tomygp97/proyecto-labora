@@ -1,0 +1,20 @@
+Message-ID: <8bb1aa3f95c94a1b99a2b24085a3bcd4@thyme>
+Date: Sat, 20 Jun 2009 00:00:00 -0700
+From: usuario995@example.com
+To: usuario44@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario995 <usuario995@example.com>
+X-To: Usuario44 <usuario44@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario995_folder\sent
+X-Origin: usuario995-P
+X-FileName: usuario995.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please review the materials at your earliest convenience.
+Hope everything is going well on your end.
+----------------------------------------

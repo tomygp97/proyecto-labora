@@ -1,0 +1,20 @@
+Message-ID: <a9581fcec78a44548b1687e0ad0c9dc7@thyme>
+Date: Thu, 24 Apr 2003 00:00:00 -0700
+From: usuario299@example.com
+To: usuario500@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario299 <usuario299@example.com>
+X-To: Usuario500 <usuario500@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario299_folder\_sent_mail
+X-Origin: usuario299-P
+X-FileName: usuario299.pst
+
+Just checking in to see if you've received my previous email.
+As discussed, I have attached the report you requested.
+I wanted to thank you for your prompt response.
+----------------------------------------

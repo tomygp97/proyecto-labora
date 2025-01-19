@@ -1,0 +1,20 @@
+Message-ID: <16cf0fcf73d144da95e73806b0d956d6@thyme>
+Date: Sun, 15 Oct 2017 00:00:00 -0700
+From: usuario341@example.com
+To: usuario345@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario341 <usuario341@example.com>
+X-To: Usuario345 <usuario345@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario341_folder\all_documents
+X-Origin: usuario341-P
+X-FileName: usuario341.pst
+
+I wanted to thank you for your prompt response.
+I appreciate your attention to this matter.
+Let me know if there's anything I can assist you with.
+----------------------------------------

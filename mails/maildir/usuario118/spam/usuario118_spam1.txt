@@ -1,0 +1,20 @@
+Message-ID: <162a0e2c22294ddcbcdc3ea7a5d5e517@thyme>
+Date: Thu, 28 Oct 2004 00:00:00 -0700
+From: usuario118@example.com
+To: usuario379@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario118 <usuario118@example.com>
+X-To: Usuario379 <usuario379@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario118_folder\spam
+X-Origin: usuario118-P
+X-FileName: usuario118.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to give you an update on the status of the project.
+Please review the materials at your earliest convenience.
+----------------------------------------

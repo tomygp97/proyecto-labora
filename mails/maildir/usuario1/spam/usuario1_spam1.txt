@@ -1,0 +1,20 @@
+Message-ID: <ccfb60b137b04e39b7a27993c54604bf@thyme>
+Date: Thu, 06 Jan 2022 00:00:00 -0700
+From: usuario1@example.com
+To: usuario797@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario1 <usuario1@example.com>
+X-To: Usuario797 <usuario797@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario1_folder\spam
+X-Origin: usuario1-P
+X-FileName: usuario1.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Let me know if you'd like to schedule a follow-up discussion.
+Thank you for your attention
+----------------------------------------

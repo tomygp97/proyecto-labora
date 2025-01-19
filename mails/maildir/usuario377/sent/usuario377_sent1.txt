@@ -1,0 +1,20 @@
+Message-ID: <15bf20bd4b49484d918dbe9fc202220f@thyme>
+Date: Sun, 25 Apr 2021 00:00:00 -0700
+From: usuario377@example.com
+To: usuario336@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario377 <usuario377@example.com>
+X-To: Usuario336 <usuario336@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario377_folder\sent
+X-Origin: usuario377-P
+X-FileName: usuario377.pst
+
+Please don't hesitate to reach out if you need any help.
+I hope you're enjoying a nice week so far.
+Thank you for your attention
+----------------------------------------

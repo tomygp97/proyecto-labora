@@ -1,0 +1,20 @@
+Message-ID: <433a7ba356154174ae9274401e4f12bc@thyme>
+Date: Mon, 17 Aug 2015 00:00:00 -0700
+From: usuario844@example.com
+To: usuario352@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario844 <usuario844@example.com>
+X-To: Usuario352 <usuario352@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario844_folder\all_documents
+X-Origin: usuario844-P
+X-FileName: usuario844.pst
+
+Can you please confirm receipt of the files?
+Hope everything is going well on your end.
+Please find the attached report for the last quarter
+----------------------------------------

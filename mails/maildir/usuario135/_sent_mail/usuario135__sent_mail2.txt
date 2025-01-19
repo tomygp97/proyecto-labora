@@ -1,0 +1,20 @@
+Message-ID: <0a9ecaed08984465bdee6bb56e7f585c@thyme>
+Date: Thu, 07 Apr 2005 00:00:00 -0700
+From: usuario135@example.com
+To: usuario724@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario135 <usuario135@example.com>
+X-To: Usuario724 <usuario724@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario135_folder\_sent_mail
+X-Origin: usuario135-P
+X-FileName: usuario135.pst
+
+Here are the next steps we need to take.
+Please review the materials at your earliest convenience.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

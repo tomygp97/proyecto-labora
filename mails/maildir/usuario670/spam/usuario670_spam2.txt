@@ -1,0 +1,20 @@
+Message-ID: <f14d3fa514fe47fcae4600307cbbe305@thyme>
+Date: Tue, 03 May 2022 00:00:00 -0700
+From: usuario670@example.com
+To: usuario707@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario670 <usuario670@example.com>
+X-To: Usuario707 <usuario707@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario670_folder\spam
+X-Origin: usuario670-P
+X-FileName: usuario670.pst
+
+Please review the materials at your earliest convenience.
+Looking forward to discussing the project in more detail soon.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

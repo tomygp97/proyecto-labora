@@ -1,0 +1,20 @@
+Message-ID: <aaf67d4690e14cf7b85765ac6098e8aa@thyme>
+Date: Sat, 24 Nov 2007 00:00:00 -0700
+From: usuario886@example.com
+To: usuario532@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario886 <usuario886@example.com>
+X-To: Usuario532 <usuario532@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario886_folder\sent
+X-Origin: usuario886-P
+X-FileName: usuario886.pst
+
+Looking forward to discussing the project in more detail soon.
+Can you please confirm receipt of the files?
+I wanted to check in regarding the status of the project.
+----------------------------------------

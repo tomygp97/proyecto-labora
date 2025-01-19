@@ -1,0 +1,20 @@
+Message-ID: <fe0c61755c704132bee04e65883dca0c@thyme>
+Date: Sat, 28 Jan 2023 00:00:00 -0700
+From: usuario290@example.com
+To: usuario447@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario290 <usuario290@example.com>
+X-To: Usuario447 <usuario447@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario290_folder\inbox
+X-Origin: usuario290-P
+X-FileName: usuario290.pst
+
+Please let me know if there are any changes to the schedule.
+Can you please confirm receipt of the files?
+Let me know if there's anything I can assist you with.
+----------------------------------------

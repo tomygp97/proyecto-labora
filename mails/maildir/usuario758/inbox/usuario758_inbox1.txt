@@ -1,0 +1,20 @@
+Message-ID: <ce0d44e82d7d42b6925d03297463fc99@thyme>
+Date: Sat, 29 Apr 2000 00:00:00 -0700
+From: usuario758@example.com
+To: usuario96@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario758 <usuario758@example.com>
+X-To: Usuario96 <usuario96@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario758_folder\inbox
+X-Origin: usuario758-P
+X-FileName: usuario758.pst
+
+I wanted to confirm our meeting for tomorrow.
+Here are the next steps we need to take.
+Here are the documents I mentioned during our call.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <8f7f1ae165844f8c8ed3d6d8a39a087b@thyme>
+Date: Tue, 06 Oct 2015 00:00:00 -0700
+From: usuario821@example.com
+To: usuario55@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario821 <usuario821@example.com>
+X-To: Usuario55 <usuario55@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario821_folder\spam
+X-Origin: usuario821-P
+X-FileName: usuario821.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here are the documents I mentioned during our call.
+Can you please confirm receipt of the files?
+----------------------------------------

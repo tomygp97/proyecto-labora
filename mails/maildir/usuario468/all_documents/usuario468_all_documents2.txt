@@ -1,0 +1,20 @@
+Message-ID: <97f710b668854b4e9a6669f4a5c4be94@thyme>
+Date: Fri, 29 Mar 2019 00:00:00 -0700
+From: usuario468@example.com
+To: usuario665@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario468 <usuario468@example.com>
+X-To: Usuario665 <usuario665@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario468_folder\all_documents
+X-Origin: usuario468-P
+X-FileName: usuario468.pst
+
+Please let me know if there are any issues with the attached files.
+I look forward to your response.
+I wanted to thank you for your prompt response.
+----------------------------------------

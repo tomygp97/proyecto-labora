@@ -1,0 +1,20 @@
+Message-ID: <31759864355341d08d8524d4f62f62af@thyme>
+Date: Thu, 12 Dec 2024 00:00:00 -0700
+From: usuario849@example.com
+To: usuario363@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario849 <usuario849@example.com>
+X-To: Usuario363 <usuario363@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario849_folder\all_documents
+X-Origin: usuario849-P
+X-FileName: usuario849.pst
+
+Here is our forecast
+Hope you're doing well. Here's the requested information.
+Please find the attached report for the last quarter
+----------------------------------------

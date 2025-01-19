@@ -1,0 +1,20 @@
+Message-ID: <4d0bfb46a6f1434ba6ea526bf2a7a83e@thyme>
+Date: Sun, 18 Feb 2018 00:00:00 -0700
+From: usuario354@example.com
+To: usuario377@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario354 <usuario354@example.com>
+X-To: Usuario377 <usuario377@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario354_folder\inbox
+X-Origin: usuario354-P
+X-FileName: usuario354.pst
+
+Please don't hesitate to reach out if you need any help.
+Here is a summary of the last meeting for your reference.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <6b30dae59068459bb88232ffbe525145@thyme>
+Date: Sat, 21 Aug 2004 00:00:00 -0700
+From: usuario444@example.com
+To: usuario955@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario444 <usuario444@example.com>
+X-To: Usuario955 <usuario955@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario444_folder\_sent_mail
+X-Origin: usuario444-P
+X-FileName: usuario444.pst
+
+Please don't hesitate to reach out if you need any help.
+I hope this email finds you well.
+I hope you're having a productive week.
+----------------------------------------

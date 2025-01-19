@@ -1,0 +1,20 @@
+Message-ID: <6d5399b7efde4a4680261d2fe347cd30@thyme>
+Date: Fri, 07 Jul 2023 00:00:00 -0700
+From: usuario232@example.com
+To: usuario209@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario232 <usuario232@example.com>
+X-To: Usuario209 <usuario209@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario232_folder\all_documents
+X-Origin: usuario232-P
+X-FileName: usuario232.pst
+
+Here is a summary of the last meeting for your reference.
+Let me know if you'd like to schedule a follow-up discussion.
+Looking forward to hearing from you soon
+----------------------------------------

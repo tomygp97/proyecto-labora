@@ -1,0 +1,20 @@
+Message-ID: <c4044a8b90764fbbaa943ac686c13328@thyme>
+Date: Mon, 13 Feb 2023 00:00:00 -0700
+From: usuario498@example.com
+To: usuario827@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario498 <usuario498@example.com>
+X-To: Usuario827 <usuario827@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario498_folder\_sent_mail
+X-Origin: usuario498-P
+X-FileName: usuario498.pst
+
+Please find the latest updates on the project
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

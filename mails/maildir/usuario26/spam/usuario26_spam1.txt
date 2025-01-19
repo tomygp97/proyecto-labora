@@ -1,0 +1,20 @@
+Message-ID: <35ae461ff41243dc85bd1170cd622c01@thyme>
+Date: Sat, 03 Nov 2018 00:00:00 -0700
+From: usuario26@example.com
+To: usuario955@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario26 <usuario26@example.com>
+X-To: Usuario955 <usuario955@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario26_folder\spam
+X-Origin: usuario26-P
+X-FileName: usuario26.pst
+
+I look forward to collaborating further on this initiative.
+I look forward to your response.
+I hope you're enjoying a nice week so far.
+----------------------------------------

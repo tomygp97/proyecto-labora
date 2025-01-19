@@ -1,0 +1,20 @@
+Message-ID: <65fe00157afa4fc89c70d42ad550890e@thyme>
+Date: Thu, 20 Nov 2008 00:00:00 -0700
+From: usuario283@example.com
+To: usuario285@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario283 <usuario283@example.com>
+X-To: Usuario285 <usuario285@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario283_folder\spam
+X-Origin: usuario283-P
+X-FileName: usuario283.pst
+
+Please find the attached report for the last quarter
+Hope you're doing well. Here's the requested information.
+Here are the results from the analysis we discussed.
+----------------------------------------

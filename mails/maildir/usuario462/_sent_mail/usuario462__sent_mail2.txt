@@ -1,0 +1,20 @@
+Message-ID: <9da746c1a7d84279a9071f5f302c7d5f@thyme>
+Date: Sat, 08 Nov 2014 00:00:00 -0700
+From: usuario462@example.com
+To: usuario582@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario462 <usuario462@example.com>
+X-To: Usuario582 <usuario582@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario462_folder\_sent_mail
+X-Origin: usuario462-P
+X-FileName: usuario462.pst
+
+I wanted to give you an update on the status of the project.
+I wanted to remind you about the upcoming deadline.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

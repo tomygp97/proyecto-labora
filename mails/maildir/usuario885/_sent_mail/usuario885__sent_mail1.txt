@@ -1,0 +1,20 @@
+Message-ID: <6ef93bcf87754a22bd499770b7d081fa@thyme>
+Date: Thu, 03 Nov 2011 00:00:00 -0700
+From: usuario885@example.com
+To: usuario859@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario885 <usuario885@example.com>
+X-To: Usuario859 <usuario859@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario885_folder\_sent_mail
+X-Origin: usuario885-P
+X-FileName: usuario885.pst
+
+I hope you're having a productive week.
+I wanted to thank you for your prompt response.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

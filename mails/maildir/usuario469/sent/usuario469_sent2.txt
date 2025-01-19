@@ -1,0 +1,20 @@
+Message-ID: <dd072de6b75c4e3b8adf95f75f230ddf@thyme>
+Date: Fri, 11 Jan 2019 00:00:00 -0700
+From: usuario469@example.com
+To: usuario862@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario469 <usuario469@example.com>
+X-To: Usuario862 <usuario862@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario469_folder\sent
+X-Origin: usuario469-P
+X-FileName: usuario469.pst
+
+Let me know if you need any additional details.
+Please find the latest updates on the project
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <396b6cdc64324526bf9690577198a722@thyme>
+Date: Tue, 03 Jan 2023 00:00:00 -0700
+From: usuario161@example.com
+To: usuario385@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario161 <usuario161@example.com>
+X-To: Usuario385 <usuario385@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario161_folder\_sent_mail
+X-Origin: usuario161-P
+X-FileName: usuario161.pst
+
+Here is a summary of the last meeting for your reference.
+Just wanted to touch base on the upcoming project milestone.
+I look forward to collaborating further on this initiative.
+----------------------------------------

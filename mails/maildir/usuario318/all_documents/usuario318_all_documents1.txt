@@ -1,0 +1,20 @@
+Message-ID: <ca81f60f269248cdba451a8b0bdc73ed@thyme>
+Date: Mon, 02 Mar 2009 00:00:00 -0700
+From: usuario318@example.com
+To: usuario509@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario318 <usuario318@example.com>
+X-To: Usuario509 <usuario509@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario318_folder\all_documents
+X-Origin: usuario318-P
+X-FileName: usuario318.pst
+
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+I wanted to check in regarding the status of the project.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <5e9adee78c06498687a27e3a4cb27538@thyme>
+Date: Thu, 06 Dec 2007 00:00:00 -0700
+From: usuario325@example.com
+To: usuario369@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario325 <usuario325@example.com>
+X-To: Usuario369 <usuario369@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario325_folder\sent
+X-Origin: usuario325-P
+X-FileName: usuario325.pst
+
+I appreciate your attention to this matter.
+Please find the attached report for the last quarter
+I wanted to give you an update on the status of the project.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <a2b8e1a7534843aab4ab294ef94f4b2b@thyme>
+Date: Thu, 03 Jul 2014 00:00:00 -0700
+From: usuario740@example.com
+To: usuario90@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario740 <usuario740@example.com>
+X-To: Usuario90 <usuario90@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario740_folder\spam
+X-Origin: usuario740-P
+X-FileName: usuario740.pst
+
+I hope you're having a productive week.
+I wanted to give you an update on the status of the project.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

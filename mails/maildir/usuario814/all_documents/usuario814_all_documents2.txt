@@ -1,0 +1,20 @@
+Message-ID: <2538969994dd4bb6937daf58a31bddc7@thyme>
+Date: Mon, 08 Feb 2016 00:00:00 -0700
+From: usuario814@example.com
+To: usuario411@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario814 <usuario814@example.com>
+X-To: Usuario411 <usuario411@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario814_folder\all_documents
+X-Origin: usuario814-P
+X-FileName: usuario814.pst
+
+Can you please confirm receipt of the files?
+I wanted to remind you about the upcoming deadline.
+Please review the attached files and provide feedback.
+----------------------------------------

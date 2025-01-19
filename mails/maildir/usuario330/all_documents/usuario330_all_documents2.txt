@@ -1,0 +1,20 @@
+Message-ID: <c2e2834782404a6eb2b2114364365cb5@thyme>
+Date: Fri, 27 Jul 2018 00:00:00 -0700
+From: usuario330@example.com
+To: usuario849@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario330 <usuario330@example.com>
+X-To: Usuario849 <usuario849@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario330_folder\all_documents
+X-Origin: usuario330-P
+X-FileName: usuario330.pst
+
+Please let me know if there are any issues with the attached files.
+Just checking in to see if you've received my previous email.
+I hope this email finds you well.
+----------------------------------------

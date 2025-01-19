@@ -1,0 +1,20 @@
+Message-ID: <48f1dbf4a4d543b89c3c8531f37de373@thyme>
+Date: Mon, 15 Dec 2003 00:00:00 -0700
+From: usuario76@example.com
+To: usuario968@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario76 <usuario76@example.com>
+X-To: Usuario968 <usuario968@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario76_folder\spam
+X-Origin: usuario76-P
+X-FileName: usuario76.pst
+
+Hope you're doing well. Here's the requested information.
+Just checking in to see if you've received my previous email.
+I look forward to your response.
+----------------------------------------

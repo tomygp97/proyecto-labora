@@ -1,0 +1,20 @@
+Message-ID: <379d343f7c554fe9a2262c9e5be44495@thyme>
+Date: Fri, 18 Jul 2003 00:00:00 -0700
+From: usuario884@example.com
+To: usuario270@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario884 <usuario884@example.com>
+X-To: Usuario270 <usuario270@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario884_folder\inbox
+X-Origin: usuario884-P
+X-FileName: usuario884.pst
+
+Please don't hesitate to reach out if you need any help.
+Here is a summary of the last meeting for your reference.
+Please find the latest updates on the project
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <16613f3e3ce74847b29fd63af800bf54@thyme>
+Date: Wed, 01 Nov 2017 00:00:00 -0700
+From: usuario272@example.com
+To: usuario477@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario272 <usuario272@example.com>
+X-To: Usuario477 <usuario477@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario272_folder\spam
+X-Origin: usuario272-P
+X-FileName: usuario272.pst
+
+Hope everything is going well on your end.
+I trust the documents will be helpful for our upcoming discussion.
+I look forward to collaborating further on this initiative.
+----------------------------------------

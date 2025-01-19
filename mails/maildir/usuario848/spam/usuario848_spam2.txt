@@ -1,0 +1,20 @@
+Message-ID: <16344de867ba4c4e88286eb0b2e7947d@thyme>
+Date: Mon, 23 Oct 2006 00:00:00 -0700
+From: usuario848@example.com
+To: usuario75@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario848 <usuario848@example.com>
+X-To: Usuario75 <usuario75@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario848_folder\spam
+X-Origin: usuario848-P
+X-FileName: usuario848.pst
+
+I wanted to follow up on our last meeting
+I wanted to give you an update on the status of the project.
+Just checking in to see if you've received my previous email.
+----------------------------------------

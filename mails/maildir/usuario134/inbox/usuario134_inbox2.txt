@@ -1,0 +1,20 @@
+Message-ID: <e918fead66934b3394a1809bf245a755@thyme>
+Date: Sat, 16 Jun 2012 00:00:00 -0700
+From: usuario134@example.com
+To: usuario271@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario134 <usuario134@example.com>
+X-To: Usuario271 <usuario271@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario134_folder\inbox
+X-Origin: usuario134-P
+X-FileName: usuario134.pst
+
+Just checking in to see if you've received my previous email.
+Please make sure to go through the attached documents before our meeting.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

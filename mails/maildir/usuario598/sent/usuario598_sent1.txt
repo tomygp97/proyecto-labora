@@ -1,0 +1,20 @@
+Message-ID: <5ac3c7eb51e7427480bc275c7c612fbe@thyme>
+Date: Tue, 17 Oct 2023 00:00:00 -0700
+From: usuario598@example.com
+To: usuario98@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario598 <usuario598@example.com>
+X-To: Usuario98 <usuario98@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario598_folder\sent
+X-Origin: usuario598-P
+X-FileName: usuario598.pst
+
+I wanted to thank you for your prompt response.
+I hope you're having a productive week.
+Can you please confirm receipt of the files?
+----------------------------------------

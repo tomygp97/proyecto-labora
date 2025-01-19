@@ -1,0 +1,20 @@
+Message-ID: <0fbf3cf60ec642bf99bfa22e411276b8@thyme>
+Date: Tue, 08 Dec 2020 00:00:00 -0700
+From: usuario324@example.com
+To: usuario966@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario324 <usuario324@example.com>
+X-To: Usuario966 <usuario966@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario324_folder\_sent_mail
+X-Origin: usuario324-P
+X-FileName: usuario324.pst
+
+Here is a summary of the last meeting for your reference.
+I look forward to collaborating further on this initiative.
+Let me know if you need any additional details.
+----------------------------------------

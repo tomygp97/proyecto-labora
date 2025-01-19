@@ -1,0 +1,20 @@
+Message-ID: <cb48a3223c3d4648ad2a976dcc40ae5f@thyme>
+Date: Thu, 09 May 2024 00:00:00 -0700
+From: usuario25@example.com
+To: usuario274@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario25 <usuario25@example.com>
+X-To: Usuario274 <usuario274@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario25_folder\spam
+X-Origin: usuario25-P
+X-FileName: usuario25.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please review the attached files and provide feedback.
+I hope you're having a productive week.
+----------------------------------------

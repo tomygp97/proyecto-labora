@@ -1,0 +1,20 @@
+Message-ID: <b2e81116f3064b0cbbb03c60cbb4ec70@thyme>
+Date: Tue, 18 Mar 2014 00:00:00 -0700
+From: usuario567@example.com
+To: usuario750@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario567 <usuario567@example.com>
+X-To: Usuario750 <usuario750@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario567_folder\inbox
+X-Origin: usuario567-P
+X-FileName: usuario567.pst
+
+I wanted to thank you for your prompt response.
+I hope you're enjoying a nice week so far.
+Here is our forecast
+----------------------------------------

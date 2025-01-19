@@ -1,0 +1,20 @@
+Message-ID: <a7679d216d4f4e04b532afba2248fcb6@thyme>
+Date: Wed, 08 Feb 2023 00:00:00 -0700
+From: usuario695@example.com
+To: usuario357@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario695 <usuario695@example.com>
+X-To: Usuario357 <usuario357@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario695_folder\all_documents
+X-Origin: usuario695-P
+X-FileName: usuario695.pst
+
+I hope you're enjoying a nice week so far.
+I wanted to confirm our meeting for tomorrow.
+I would love to hear your feedback on the proposal.
+----------------------------------------

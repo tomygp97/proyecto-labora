@@ -1,0 +1,20 @@
+Message-ID: <70dc68281f1e496fabd775ac236f2750@thyme>
+Date: Thu, 05 Aug 2010 00:00:00 -0700
+From: usuario184@example.com
+To: usuario539@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario184 <usuario184@example.com>
+X-To: Usuario539 <usuario539@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario184_folder\inbox
+X-Origin: usuario184-P
+X-FileName: usuario184.pst
+
+Please let me know if there are any issues with the attached files.
+Just checking in to see if you've received my previous email.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

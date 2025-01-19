@@ -1,0 +1,20 @@
+Message-ID: <1cf6920980cc4232b5d8b908965b517b@thyme>
+Date: Fri, 28 Dec 2018 00:00:00 -0700
+From: usuario659@example.com
+To: usuario988@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario659 <usuario659@example.com>
+X-To: Usuario988 <usuario988@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario659_folder\all_documents
+X-Origin: usuario659-P
+X-FileName: usuario659.pst
+
+Please let me know if there are any changes to the schedule.
+Here is our forecast
+Here are the results from the analysis we discussed.
+----------------------------------------

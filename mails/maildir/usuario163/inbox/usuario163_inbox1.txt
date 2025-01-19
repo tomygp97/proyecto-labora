@@ -1,0 +1,20 @@
+Message-ID: <800269ec324740a382574171fa1d201b@thyme>
+Date: Thu, 26 Apr 2012 00:00:00 -0700
+From: usuario163@example.com
+To: usuario841@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario163 <usuario163@example.com>
+X-To: Usuario841 <usuario841@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario163_folder\inbox
+X-Origin: usuario163-P
+X-FileName: usuario163.pst
+
+Can you please confirm receipt of the files?
+I hope you're having a productive week.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <daf0c4ea01d443409ee1b0adf2db4230@thyme>
+Date: Thu, 04 Mar 2021 00:00:00 -0700
+From: usuario218@example.com
+To: usuario806@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario218 <usuario218@example.com>
+X-To: Usuario806 <usuario806@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario218_folder\all_documents
+X-Origin: usuario218-P
+X-FileName: usuario218.pst
+
+Let me know if you need any additional details.
+Here is our forecast
+Please review the attached files and provide feedback.
+----------------------------------------

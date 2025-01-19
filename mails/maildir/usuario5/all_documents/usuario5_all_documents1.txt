@@ -1,0 +1,20 @@
+Message-ID: <0d421fe671224170b6dd575a2d622cac@thyme>
+Date: Thu, 12 Apr 2012 00:00:00 -0700
+From: usuario5@example.com
+To: usuario700@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario5 <usuario5@example.com>
+X-To: Usuario700 <usuario700@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario5_folder\all_documents
+X-Origin: usuario5-P
+X-FileName: usuario5.pst
+
+I wanted to remind you about the upcoming deadline.
+Hope everything is going well on your end.
+I appreciate your attention to this matter.
+----------------------------------------

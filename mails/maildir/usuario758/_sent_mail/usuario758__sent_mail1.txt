@@ -1,0 +1,20 @@
+Message-ID: <b60ec1c8d89f4ed7a85aba1d99d36103@thyme>
+Date: Wed, 29 Oct 2025 00:00:00 -0700
+From: usuario758@example.com
+To: usuario209@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario758 <usuario758@example.com>
+X-To: Usuario209 <usuario209@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario758_folder\_sent_mail
+X-Origin: usuario758-P
+X-FileName: usuario758.pst
+
+Just checking in to see if you've received my previous email.
+Please find the attached report for the last quarter
+I wanted to check in regarding the status of the project.
+----------------------------------------

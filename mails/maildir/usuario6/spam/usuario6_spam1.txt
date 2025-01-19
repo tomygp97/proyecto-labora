@@ -1,0 +1,20 @@
+Message-ID: <ef378457b1ef498197750ca5f34d34ec@thyme>
+Date: Fri, 14 Jan 2005 00:00:00 -0700
+From: usuario6@example.com
+To: usuario712@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario6 <usuario6@example.com>
+X-To: Usuario712 <usuario712@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario6_folder\spam
+X-Origin: usuario6-P
+X-FileName: usuario6.pst
+
+I wanted to check in regarding the status of the project.
+I wanted to follow up on our last meeting
+Please find the latest updates on the project
+----------------------------------------

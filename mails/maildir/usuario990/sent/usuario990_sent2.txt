@@ -1,0 +1,20 @@
+Message-ID: <9e3a3318d636486da2d6b05abeb8fd21@thyme>
+Date: Wed, 01 Nov 2023 00:00:00 -0700
+From: usuario990@example.com
+To: usuario910@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario990 <usuario990@example.com>
+X-To: Usuario910 <usuario910@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario990_folder\sent
+X-Origin: usuario990-P
+X-FileName: usuario990.pst
+
+As discussed, I have attached the report you requested.
+I wanted to remind you about the upcoming deadline.
+Thank you for your attention
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <a25a2d69cc924b559c52c81d8c52591b@thyme>
+Date: Tue, 21 Jan 2003 00:00:00 -0700
+From: usuario577@example.com
+To: usuario504@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario577 <usuario577@example.com>
+X-To: Usuario504 <usuario504@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario577_folder\spam
+X-Origin: usuario577-P
+X-FileName: usuario577.pst
+
+Please find the attached report for the last quarter
+I wanted to follow up on our last meeting
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

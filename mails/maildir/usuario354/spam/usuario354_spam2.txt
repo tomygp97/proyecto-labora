@@ -1,0 +1,20 @@
+Message-ID: <763b025e3e954232b217b6871a1f18af@thyme>
+Date: Mon, 05 Jul 2010 00:00:00 -0700
+From: usuario354@example.com
+To: usuario264@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario354 <usuario354@example.com>
+X-To: Usuario264 <usuario264@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario354_folder\spam
+X-Origin: usuario354-P
+X-FileName: usuario354.pst
+
+Just checking in to see if you've received my previous email.
+Please find the attached report for the last quarter
+I wanted to check in regarding the status of the project.
+----------------------------------------

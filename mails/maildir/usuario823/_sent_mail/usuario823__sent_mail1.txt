@@ -1,0 +1,20 @@
+Message-ID: <ea29f846c2df44249b50518206cff605@thyme>
+Date: Sat, 22 Jan 2000 00:00:00 -0700
+From: usuario823@example.com
+To: usuario924@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario823 <usuario823@example.com>
+X-To: Usuario924 <usuario924@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario823_folder\_sent_mail
+X-Origin: usuario823-P
+X-FileName: usuario823.pst
+
+I have included all the necessary details in the attached report.
+I look forward to your response.
+Please review the attached files and provide feedback.
+----------------------------------------

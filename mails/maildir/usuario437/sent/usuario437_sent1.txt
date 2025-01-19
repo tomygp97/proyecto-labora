@@ -1,0 +1,20 @@
+Message-ID: <7cfcf6bd22e44bf085367a80fc11faaf@thyme>
+Date: Sat, 07 Oct 2023 00:00:00 -0700
+From: usuario437@example.com
+To: usuario212@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario437 <usuario437@example.com>
+X-To: Usuario212 <usuario212@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario437_folder\sent
+X-Origin: usuario437-P
+X-FileName: usuario437.pst
+
+I would love to hear your feedback on the proposal.
+Here are the documents I mentioned during our call.
+I wanted to follow up on our last meeting
+----------------------------------------

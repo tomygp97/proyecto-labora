@@ -1,0 +1,20 @@
+Message-ID: <3614e43a222c4709998a3c96798eddb8@thyme>
+Date: Thu, 04 Feb 2021 00:00:00 -0700
+From: usuario104@example.com
+To: usuario723@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario104 <usuario104@example.com>
+X-To: Usuario723 <usuario723@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario104_folder\all_documents
+X-Origin: usuario104-P
+X-FileName: usuario104.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I hope this email finds you well.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

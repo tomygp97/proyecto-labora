@@ -1,0 +1,20 @@
+Message-ID: <4d2c55c850ed4a64b197c432a7284e7c@thyme>
+Date: Fri, 28 Apr 2000 00:00:00 -0700
+From: usuario32@example.com
+To: usuario908@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario908 <usuario908@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\inbox
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+Please review the attached files and provide feedback.
+Here are the next steps we need to take.
+I hope you're enjoying a nice week so far.
+----------------------------------------

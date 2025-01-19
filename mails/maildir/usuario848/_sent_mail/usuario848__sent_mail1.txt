@@ -1,0 +1,20 @@
+Message-ID: <3621eec502574f8680313e82625c0814@thyme>
+Date: Sat, 29 Jan 2022 00:00:00 -0700
+From: usuario848@example.com
+To: usuario604@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario848 <usuario848@example.com>
+X-To: Usuario604 <usuario604@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario848_folder\_sent_mail
+X-Origin: usuario848-P
+X-FileName: usuario848.pst
+
+Please review the attached files and provide feedback.
+Please don't hesitate to reach out if you need any help.
+Please review the materials at your earliest convenience.
+----------------------------------------

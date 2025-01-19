@@ -1,0 +1,20 @@
+Message-ID: <9e670e4f1ad84bfcaa8bffa73fbe1722@thyme>
+Date: Sat, 29 Jun 2019 00:00:00 -0700
+From: usuario485@example.com
+To: usuario105@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario485 <usuario485@example.com>
+X-To: Usuario105 <usuario105@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario485_folder\_sent_mail
+X-Origin: usuario485-P
+X-FileName: usuario485.pst
+
+Please don't hesitate to reach out if you need any help.
+Please let me know if there's anything else you need from my end.
+I have included all the necessary details in the attached report.
+----------------------------------------

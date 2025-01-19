@@ -1,0 +1,20 @@
+Message-ID: <71ea0d1b96c04c2fb27f77ce88279c26@thyme>
+Date: Fri, 26 Dec 2025 00:00:00 -0700
+From: usuario990@example.com
+To: usuario18@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario990 <usuario990@example.com>
+X-To: Usuario18 <usuario18@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario990_folder\_sent_mail
+X-Origin: usuario990-P
+X-FileName: usuario990.pst
+
+Hope everything is going well on your end.
+Looking forward to discussing the project in more detail soon.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

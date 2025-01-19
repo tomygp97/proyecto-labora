@@ -1,0 +1,20 @@
+Message-ID: <8985b037dd81415d844430652f2be685@thyme>
+Date: Sun, 30 Jul 2023 00:00:00 -0700
+From: usuario485@example.com
+To: usuario409@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario485 <usuario485@example.com>
+X-To: Usuario409 <usuario409@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario485_folder\spam
+X-Origin: usuario485-P
+X-FileName: usuario485.pst
+
+Please make sure to go through the attached documents before our meeting.
+Here are the documents I mentioned during our call.
+Please find the attached report for the last quarter
+----------------------------------------

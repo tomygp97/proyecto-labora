@@ -1,0 +1,20 @@
+Message-ID: <52b55c9541c7463d88d6fafb5c8f2ad8@thyme>
+Date: Sat, 17 Jul 2010 00:00:00 -0700
+From: usuario175@example.com
+To: usuario489@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario175 <usuario175@example.com>
+X-To: Usuario489 <usuario489@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario175_folder\all_documents
+X-Origin: usuario175-P
+X-FileName: usuario175.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Let me know if you'd like to schedule a follow-up discussion.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

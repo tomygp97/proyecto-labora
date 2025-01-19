@@ -1,0 +1,20 @@
+Message-ID: <960299e2510f443691e6da7d4c9f25bc@thyme>
+Date: Fri, 07 Jan 2011 00:00:00 -0700
+From: usuario221@example.com
+To: usuario62@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario221 <usuario221@example.com>
+X-To: Usuario62 <usuario62@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario221_folder\inbox
+X-Origin: usuario221-P
+X-FileName: usuario221.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to give you an update on the status of the project.
+Please review the attached files and provide feedback.
+----------------------------------------

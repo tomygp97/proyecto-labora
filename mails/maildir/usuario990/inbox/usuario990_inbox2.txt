@@ -1,0 +1,20 @@
+Message-ID: <1a8e233649314bafb5b3f9b3cac1c3d2@thyme>
+Date: Fri, 06 Mar 2009 00:00:00 -0700
+From: usuario990@example.com
+To: usuario357@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario990 <usuario990@example.com>
+X-To: Usuario357 <usuario357@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario990_folder\inbox
+X-Origin: usuario990-P
+X-FileName: usuario990.pst
+
+Please let me know if there's anything else you need from my end.
+Can you please confirm receipt of the files?
+Here are the next steps we need to take.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <cb51f8d1302141088e49e5096b62bedd@thyme>
+Date: Sat, 05 Feb 2022 00:00:00 -0700
+From: usuario202@example.com
+To: usuario797@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario202 <usuario202@example.com>
+X-To: Usuario797 <usuario797@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario202_folder\spam
+X-Origin: usuario202-P
+X-FileName: usuario202.pst
+
+I wanted to confirm our meeting for tomorrow.
+Can you please confirm receipt of the files?
+I wanted to check in regarding the status of the project.
+----------------------------------------

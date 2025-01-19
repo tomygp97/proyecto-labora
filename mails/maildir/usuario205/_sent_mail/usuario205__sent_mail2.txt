@@ -1,0 +1,20 @@
+Message-ID: <6db6f921a31e4748b96d94939844b5df@thyme>
+Date: Sat, 16 Oct 2021 00:00:00 -0700
+From: usuario205@example.com
+To: usuario594@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario205 <usuario205@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario205_folder\_sent_mail
+X-Origin: usuario205-P
+X-FileName: usuario205.pst
+
+As discussed, I have attached the report you requested.
+Here are the results from the analysis we discussed.
+I wanted to check in regarding the status of the project.
+----------------------------------------

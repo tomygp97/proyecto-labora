@@ -1,0 +1,20 @@
+Message-ID: <17d7ffdce86a4777a6dca30fc4d426c3@thyme>
+Date: Wed, 13 Sep 2023 00:00:00 -0700
+From: usuario757@example.com
+To: usuario599@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario757 <usuario757@example.com>
+X-To: Usuario599 <usuario599@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario757_folder\all_documents
+X-Origin: usuario757-P
+X-FileName: usuario757.pst
+
+Please let me know if there are any changes to the schedule.
+As discussed, I have attached the report you requested.
+Here is our forecast
+----------------------------------------

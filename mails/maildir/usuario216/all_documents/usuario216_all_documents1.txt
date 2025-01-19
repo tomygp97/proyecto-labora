@@ -1,0 +1,20 @@
+Message-ID: <8469bb88d21c49b19e6863d43aaedc47@thyme>
+Date: Sun, 27 Oct 2019 00:00:00 -0700
+From: usuario216@example.com
+To: usuario936@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario216 <usuario216@example.com>
+X-To: Usuario936 <usuario936@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario216_folder\all_documents
+X-Origin: usuario216-P
+X-FileName: usuario216.pst
+
+Here are the next steps we need to take.
+I wanted to thank you for your prompt response.
+Let me know if you need any additional details.
+----------------------------------------

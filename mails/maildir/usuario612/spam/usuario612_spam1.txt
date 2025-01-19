@@ -1,0 +1,20 @@
+Message-ID: <df2ef53fe01e421e9fb425e895e7debd@thyme>
+Date: Wed, 20 Jun 2007 00:00:00 -0700
+From: usuario612@example.com
+To: usuario693@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario612 <usuario612@example.com>
+X-To: Usuario693 <usuario693@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario612_folder\spam
+X-Origin: usuario612-P
+X-FileName: usuario612.pst
+
+Here are the documents I mentioned during our call.
+Let me know if you'd like to schedule a follow-up discussion.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <f969151743764996813f9e8e2af1fe70@thyme>
+Date: Tue, 21 Aug 2018 00:00:00 -0700
+From: usuario892@example.com
+To: usuario451@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario892 <usuario892@example.com>
+X-To: Usuario451 <usuario451@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario892_folder\inbox
+X-Origin: usuario892-P
+X-FileName: usuario892.pst
+
+Please let me know if there are any changes to the schedule.
+Let me know if you'd like to schedule a follow-up discussion.
+Can you please confirm receipt of the files?
+----------------------------------------

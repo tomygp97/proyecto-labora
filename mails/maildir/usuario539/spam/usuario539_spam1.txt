@@ -1,0 +1,20 @@
+Message-ID: <9ca28204f3fc45b19c2ab596a40cb880@thyme>
+Date: Fri, 12 Feb 2010 00:00:00 -0700
+From: usuario539@example.com
+To: usuario55@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario539 <usuario539@example.com>
+X-To: Usuario55 <usuario55@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario539_folder\spam
+X-Origin: usuario539-P
+X-FileName: usuario539.pst
+
+Looking forward to discussing the project in more detail soon.
+Please let me know if there are any issues with the attached files.
+Looking forward to hearing from you soon
+----------------------------------------

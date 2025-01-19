@@ -1,0 +1,20 @@
+Message-ID: <e323cf434b7a4c45930fd4c633bd5c4b@thyme>
+Date: Wed, 11 Nov 2020 00:00:00 -0700
+From: usuario395@example.com
+To: usuario568@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario395 <usuario395@example.com>
+X-To: Usuario568 <usuario568@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario395_folder\inbox
+X-Origin: usuario395-P
+X-FileName: usuario395.pst
+
+Let me know if there's anything I can assist you with.
+Hope you're doing well. Here's the requested information.
+Here is our forecast
+----------------------------------------

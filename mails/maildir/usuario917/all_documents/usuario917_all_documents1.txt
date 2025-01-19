@@ -1,0 +1,20 @@
+Message-ID: <c6471aea8c3d46f58191f53a8e561023@thyme>
+Date: Thu, 20 Aug 2009 00:00:00 -0700
+From: usuario917@example.com
+To: usuario32@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario917 <usuario917@example.com>
+X-To: Usuario32 <usuario32@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario917_folder\all_documents
+X-Origin: usuario917-P
+X-FileName: usuario917.pst
+
+I wanted to confirm our meeting for tomorrow.
+I hope this email finds you well.
+Please find the attached report for the last quarter
+----------------------------------------

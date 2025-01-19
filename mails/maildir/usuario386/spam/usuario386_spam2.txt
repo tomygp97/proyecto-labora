@@ -1,0 +1,20 @@
+Message-ID: <b1081661fe52433db97c3058e07f7255@thyme>
+Date: Sat, 21 Dec 2002 00:00:00 -0700
+From: usuario386@example.com
+To: usuario110@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario386 <usuario386@example.com>
+X-To: Usuario110 <usuario110@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario386_folder\spam
+X-Origin: usuario386-P
+X-FileName: usuario386.pst
+
+Please make sure to go through the attached documents before our meeting.
+Looking forward to discussing the project in more detail soon.
+Here are the documents I mentioned during our call.
+----------------------------------------

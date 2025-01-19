@@ -1,0 +1,20 @@
+Message-ID: <ebf3c1ab292241d5a9489742ce6575d3@thyme>
+Date: Sun, 01 Aug 2021 00:00:00 -0700
+From: usuario421@example.com
+To: usuario361@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario421 <usuario421@example.com>
+X-To: Usuario361 <usuario361@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario421_folder\all_documents
+X-Origin: usuario421-P
+X-FileName: usuario421.pst
+
+Hope everything is going well on your end.
+I wanted to thank you for your prompt response.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <6d8ddc8303ef4306bfb8cfdd4c308fac@thyme>
+Date: Wed, 25 Oct 2023 00:00:00 -0700
+From: usuario33@example.com
+To: usuario761@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario33 <usuario33@example.com>
+X-To: Usuario761 <usuario761@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario33_folder\all_documents
+X-Origin: usuario33-P
+X-FileName: usuario33.pst
+
+Looking forward to discussing the project in more detail soon.
+I wanted to thank you for your prompt response.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4ce9361ec5b14efda95533b386a7e497@thyme>
+Date: Fri, 21 Aug 2020 00:00:00 -0700
+From: usuario936@example.com
+To: usuario716@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario936 <usuario936@example.com>
+X-To: Usuario716 <usuario716@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario936_folder\inbox
+X-Origin: usuario936-P
+X-FileName: usuario936.pst
+
+Here is our forecast
+I hope you're enjoying a nice week so far.
+Here are the next steps we need to take.
+----------------------------------------

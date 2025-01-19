@@ -1,0 +1,20 @@
+Message-ID: <d85038ede4d342e5b4921993b27f140b@thyme>
+Date: Mon, 07 Nov 2005 00:00:00 -0700
+From: usuario962@example.com
+To: usuario518@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario962 <usuario962@example.com>
+X-To: Usuario518 <usuario518@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario962_folder\_sent_mail
+X-Origin: usuario962-P
+X-FileName: usuario962.pst
+
+I wanted to give you an update on the status of the project.
+Thank you for your attention
+Hope everything is going well on your end.
+----------------------------------------

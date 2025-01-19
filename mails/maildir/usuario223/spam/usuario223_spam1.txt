@@ -1,0 +1,20 @@
+Message-ID: <87947ebf85264e88a205eac9d52de809@thyme>
+Date: Thu, 25 Aug 2005 00:00:00 -0700
+From: usuario223@example.com
+To: usuario275@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario223 <usuario223@example.com>
+X-To: Usuario275 <usuario275@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario223_folder\spam
+X-Origin: usuario223-P
+X-FileName: usuario223.pst
+
+Please let me know if there's anything else you need from my end.
+Please let me know if there are any changes to the schedule.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

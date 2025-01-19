@@ -1,0 +1,20 @@
+Message-ID: <5d3f47ed238948fcb9533651b65d416d@thyme>
+Date: Wed, 12 Feb 2020 00:00:00 -0700
+From: usuario627@example.com
+To: usuario988@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario627 <usuario627@example.com>
+X-To: Usuario988 <usuario988@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario627_folder\_sent_mail
+X-Origin: usuario627-P
+X-FileName: usuario627.pst
+
+I wanted to confirm our meeting for tomorrow.
+I appreciate your attention to this matter.
+Here is our forecast
+----------------------------------------

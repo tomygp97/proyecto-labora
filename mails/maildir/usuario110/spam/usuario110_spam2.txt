@@ -1,0 +1,20 @@
+Message-ID: <e510ff4ca075420d9fad4c3a9ad096de@thyme>
+Date: Sat, 16 Apr 2011 00:00:00 -0700
+From: usuario110@example.com
+To: usuario181@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario110 <usuario110@example.com>
+X-To: Usuario181 <usuario181@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario110_folder\spam
+X-Origin: usuario110-P
+X-FileName: usuario110.pst
+
+I have included all the necessary details in the attached report.
+Please let me know if there are any changes to the schedule.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

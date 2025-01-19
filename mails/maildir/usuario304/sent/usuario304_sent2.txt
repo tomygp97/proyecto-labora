@@ -1,0 +1,20 @@
+Message-ID: <05a37505995445609e8dd972c26abda4@thyme>
+Date: Mon, 06 Aug 2001 00:00:00 -0700
+From: usuario304@example.com
+To: usuario322@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario304 <usuario304@example.com>
+X-To: Usuario322 <usuario322@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario304_folder\sent
+X-Origin: usuario304-P
+X-FileName: usuario304.pst
+
+Here is our forecast
+I wanted to remind you about the upcoming deadline.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <e8b2f96066e24ef1901600d09a0f2d03@thyme>
+Date: Mon, 02 Dec 2024 00:00:00 -0700
+From: usuario48@example.com
+To: usuario754@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario48 <usuario48@example.com>
+X-To: Usuario754 <usuario754@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario48_folder\all_documents
+X-Origin: usuario48-P
+X-FileName: usuario48.pst
+
+Here are the documents I mentioned during our call.
+Please let me know if there's anything else you need from my end.
+I would love to hear your feedback on the proposal.
+----------------------------------------

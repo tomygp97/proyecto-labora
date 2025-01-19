@@ -1,0 +1,20 @@
+Message-ID: <9d81895a78cc43f8bc2a103e22671d39@thyme>
+Date: Tue, 21 Apr 2020 00:00:00 -0700
+From: usuario79@example.com
+To: usuario586@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario79 <usuario79@example.com>
+X-To: Usuario586 <usuario586@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario79_folder\all_documents
+X-Origin: usuario79-P
+X-FileName: usuario79.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to follow up on our last meeting
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

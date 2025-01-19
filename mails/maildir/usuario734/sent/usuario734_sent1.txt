@@ -1,0 +1,20 @@
+Message-ID: <95548e00a7dc44d2b08689bff9135de8@thyme>
+Date: Tue, 08 Mar 2022 00:00:00 -0700
+From: usuario734@example.com
+To: usuario398@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario734 <usuario734@example.com>
+X-To: Usuario398 <usuario398@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario734_folder\sent
+X-Origin: usuario734-P
+X-FileName: usuario734.pst
+
+I wanted to give you an update on the status of the project.
+Looking forward to hearing from you soon
+Here are the next steps we need to take.
+----------------------------------------

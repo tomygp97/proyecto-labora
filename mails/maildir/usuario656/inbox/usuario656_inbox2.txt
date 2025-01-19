@@ -1,0 +1,20 @@
+Message-ID: <727ec0d531a24d40a424952cc059e872@thyme>
+Date: Sat, 28 Dec 2013 00:00:00 -0700
+From: usuario656@example.com
+To: usuario497@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario656 <usuario656@example.com>
+X-To: Usuario497 <usuario497@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario656_folder\inbox
+X-Origin: usuario656-P
+X-FileName: usuario656.pst
+
+I wanted to confirm our meeting for tomorrow.
+Please review the materials at your earliest convenience.
+I wanted to thank you for your prompt response.
+----------------------------------------

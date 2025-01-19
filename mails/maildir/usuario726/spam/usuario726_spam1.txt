@@ -1,0 +1,20 @@
+Message-ID: <9561c927f2d74ad5bf3457b3368ff520@thyme>
+Date: Sat, 27 Mar 2021 00:00:00 -0700
+From: usuario726@example.com
+To: usuario970@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario726 <usuario726@example.com>
+X-To: Usuario970 <usuario970@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario726_folder\spam
+X-Origin: usuario726-P
+X-FileName: usuario726.pst
+
+Here is a summary of the last meeting for your reference.
+I hope you're enjoying a nice week so far.
+I look forward to collaborating further on this initiative.
+----------------------------------------

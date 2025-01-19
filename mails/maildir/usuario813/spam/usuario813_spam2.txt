@@ -1,0 +1,20 @@
+Message-ID: <6af84242432c45d38d97ab6a06b79c71@thyme>
+Date: Mon, 12 Sep 2011 00:00:00 -0700
+From: usuario813@example.com
+To: usuario922@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario813 <usuario813@example.com>
+X-To: Usuario922 <usuario922@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario813_folder\spam
+X-Origin: usuario813-P
+X-FileName: usuario813.pst
+
+As discussed, I have attached the report you requested.
+Let me know if there's anything I can assist you with.
+Thank you for your attention
+----------------------------------------

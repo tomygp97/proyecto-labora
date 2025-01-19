@@ -1,0 +1,20 @@
+Message-ID: <80c8c8d7f3e34f5f809ed634b7ca3cef@thyme>
+Date: Tue, 09 Jul 2019 00:00:00 -0700
+From: usuario520@example.com
+To: usuario727@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario520 <usuario520@example.com>
+X-To: Usuario727 <usuario727@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario520_folder\sent
+X-Origin: usuario520-P
+X-FileName: usuario520.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Here are the next steps we need to take.
+I appreciate your attention to this matter.
+----------------------------------------

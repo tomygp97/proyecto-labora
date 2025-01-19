@@ -1,0 +1,20 @@
+Message-ID: <27b5d3e6ded348479dc835be15952564@thyme>
+Date: Thu, 30 Mar 2023 00:00:00 -0700
+From: usuario662@example.com
+To: usuario218@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario662 <usuario662@example.com>
+X-To: Usuario218 <usuario218@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario662_folder\_sent_mail
+X-Origin: usuario662-P
+X-FileName: usuario662.pst
+
+Here is our forecast
+Here are the documents I mentioned during our call.
+I wanted to give you an update on the status of the project.
+----------------------------------------

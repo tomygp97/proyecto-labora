@@ -1,0 +1,20 @@
+Message-ID: <d977023e6aab4f8f9ba43cef3b5fdb6d@thyme>
+Date: Mon, 07 Sep 2020 00:00:00 -0700
+From: usuario65@example.com
+To: usuario411@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario65 <usuario65@example.com>
+X-To: Usuario411 <usuario411@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario65_folder\spam
+X-Origin: usuario65-P
+X-FileName: usuario65.pst
+
+I wanted to follow up on our last meeting
+Thank you for your attention
+Can you please confirm receipt of the files?
+----------------------------------------

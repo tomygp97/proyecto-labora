@@ -1,0 +1,20 @@
+Message-ID: <87cb34ec00f44fa39fd0428f8fd261f7@thyme>
+Date: Wed, 25 May 2022 00:00:00 -0700
+From: usuario501@example.com
+To: usuario474@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario501 <usuario501@example.com>
+X-To: Usuario474 <usuario474@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario501_folder\_sent_mail
+X-Origin: usuario501-P
+X-FileName: usuario501.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please let me know if there are any changes to the schedule.
+I hope you're enjoying a nice week so far.
+----------------------------------------

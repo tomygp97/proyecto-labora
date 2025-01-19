@@ -1,0 +1,20 @@
+Message-ID: <78074f93eb9c43468e1b494b806e38fd@thyme>
+Date: Fri, 17 Dec 2004 00:00:00 -0700
+From: usuario315@example.com
+To: usuario684@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario315 <usuario315@example.com>
+X-To: Usuario684 <usuario684@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario315_folder\all_documents
+X-Origin: usuario315-P
+X-FileName: usuario315.pst
+
+I would love to hear your feedback on the proposal.
+Let me know if there's anything I can assist you with.
+I look forward to collaborating further on this initiative.
+----------------------------------------

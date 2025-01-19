@@ -1,0 +1,20 @@
+Message-ID: <1bf2a26d1db6474aa959f057836a637a@thyme>
+Date: Mon, 15 May 2006 00:00:00 -0700
+From: usuario16@example.com
+To: usuario128@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario16 <usuario16@example.com>
+X-To: Usuario128 <usuario128@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario16_folder\_sent_mail
+X-Origin: usuario16-P
+X-FileName: usuario16.pst
+
+Thank you for your attention
+Please find the attached report for the last quarter
+Please review the materials at your earliest convenience.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <8686ca6d529b4d2483c54794b463facb@thyme>
+Date: Tue, 31 Oct 2023 00:00:00 -0700
+From: usuario933@example.com
+To: usuario617@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario933 <usuario933@example.com>
+X-To: Usuario617 <usuario617@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario933_folder\spam
+X-Origin: usuario933-P
+X-FileName: usuario933.pst
+
+Please let me know if there are any changes to the schedule.
+Let me know if you need any additional details.
+Please find the attached report for the last quarter
+----------------------------------------

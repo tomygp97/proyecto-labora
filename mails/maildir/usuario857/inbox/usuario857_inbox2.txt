@@ -1,0 +1,20 @@
+Message-ID: <128dcb44f3464d52a6f53dddd01edb4b@thyme>
+Date: Wed, 17 Sep 2008 00:00:00 -0700
+From: usuario857@example.com
+To: usuario320@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario857 <usuario857@example.com>
+X-To: Usuario320 <usuario320@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario857_folder\inbox
+X-Origin: usuario857-P
+X-FileName: usuario857.pst
+
+Thank you for your attention
+I wanted to confirm our meeting for tomorrow.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

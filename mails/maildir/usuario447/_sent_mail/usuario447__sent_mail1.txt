@@ -1,0 +1,20 @@
+Message-ID: <a7541803e68c4c8bb6f409aefa9c30e4@thyme>
+Date: Mon, 24 Sep 2018 00:00:00 -0700
+From: usuario447@example.com
+To: usuario917@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario447 <usuario447@example.com>
+X-To: Usuario917 <usuario917@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario447_folder\_sent_mail
+X-Origin: usuario447-P
+X-FileName: usuario447.pst
+
+Please let me know if there's anything else you need from my end.
+I wanted to give you an update on the status of the project.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

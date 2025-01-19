@@ -1,0 +1,20 @@
+Message-ID: <044016efe6c344198be05036ec56d80e@thyme>
+Date: Tue, 05 Nov 2002 00:00:00 -0700
+From: usuario351@example.com
+To: usuario382@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario351 <usuario351@example.com>
+X-To: Usuario382 <usuario382@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario351_folder\inbox
+X-Origin: usuario351-P
+X-FileName: usuario351.pst
+
+I look forward to collaborating further on this initiative.
+I hope you're having a productive week.
+Hope everything is going well on your end.
+----------------------------------------

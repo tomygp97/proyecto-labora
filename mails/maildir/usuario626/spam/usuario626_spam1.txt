@@ -1,0 +1,20 @@
+Message-ID: <bdea66bdd22c4ac99a158532c0e78234@thyme>
+Date: Wed, 20 Apr 2005 00:00:00 -0700
+From: usuario626@example.com
+To: usuario928@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario626 <usuario626@example.com>
+X-To: Usuario928 <usuario928@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario626_folder\spam
+X-Origin: usuario626-P
+X-FileName: usuario626.pst
+
+I wanted to confirm our meeting for tomorrow.
+Just wanted to touch base on the upcoming project milestone.
+Here is our forecast
+----------------------------------------

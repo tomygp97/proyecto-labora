@@ -1,0 +1,20 @@
+Message-ID: <65b651371df74f18b29f12207d9b8468@thyme>
+Date: Sun, 06 Nov 2011 00:00:00 -0700
+From: usuario92@example.com
+To: usuario389@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario92 <usuario92@example.com>
+X-To: Usuario389 <usuario389@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario92_folder\_sent_mail
+X-Origin: usuario92-P
+X-FileName: usuario92.pst
+
+I hope this email finds you well.
+I wanted to thank you for your prompt response.
+Thank you for your attention
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <fd421b3d72604e45a41d8e02e4d44318@thyme>
+Date: Tue, 18 Aug 2015 00:00:00 -0700
+From: usuario589@example.com
+To: usuario87@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario589 <usuario589@example.com>
+X-To: Usuario87 <usuario87@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario589_folder\all_documents
+X-Origin: usuario589-P
+X-FileName: usuario589.pst
+
+Please review the attached files and provide feedback.
+Let me know if you need any additional details.
+Just checking in to see if you've received my previous email.
+----------------------------------------

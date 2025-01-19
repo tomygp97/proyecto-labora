@@ -1,0 +1,20 @@
+Message-ID: <5404055e5cc24981aa6daeaa1f3231a3@thyme>
+Date: Thu, 03 Nov 2011 00:00:00 -0700
+From: usuario416@example.com
+To: usuario168@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario416 <usuario416@example.com>
+X-To: Usuario168 <usuario168@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario416_folder\spam
+X-Origin: usuario416-P
+X-FileName: usuario416.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here are the results from the analysis we discussed.
+Please find the latest updates on the project
+----------------------------------------

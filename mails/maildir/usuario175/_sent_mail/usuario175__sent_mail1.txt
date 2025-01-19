@@ -1,0 +1,20 @@
+Message-ID: <3a0a7c6bf7a94306bdf528e9bbaf0ce1@thyme>
+Date: Sun, 23 May 2021 00:00:00 -0700
+From: usuario175@example.com
+To: usuario333@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario175 <usuario175@example.com>
+X-To: Usuario333 <usuario333@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario175_folder\_sent_mail
+X-Origin: usuario175-P
+X-FileName: usuario175.pst
+
+I wanted to thank you for your prompt response.
+Here are the documents I mentioned during our call.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

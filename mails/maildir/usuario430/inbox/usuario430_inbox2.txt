@@ -1,0 +1,20 @@
+Message-ID: <16b8246d76424f99af8a25f6ab587be5@thyme>
+Date: Wed, 29 Dec 2004 00:00:00 -0700
+From: usuario430@example.com
+To: usuario735@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario430 <usuario430@example.com>
+X-To: Usuario735 <usuario735@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario430_folder\inbox
+X-Origin: usuario430-P
+X-FileName: usuario430.pst
+
+I look forward to your response.
+Looking forward to discussing the project in more detail soon.
+I hope you're enjoying a nice week so far.
+----------------------------------------

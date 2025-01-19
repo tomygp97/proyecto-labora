@@ -1,0 +1,20 @@
+Message-ID: <fa8c811d046b48b1865782f700d1979c@thyme>
+Date: Tue, 16 Jul 2024 00:00:00 -0700
+From: usuario431@example.com
+To: usuario87@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario431 <usuario431@example.com>
+X-To: Usuario87 <usuario87@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario431_folder\spam
+X-Origin: usuario431-P
+X-FileName: usuario431.pst
+
+I have included all the necessary details in the attached report.
+Please find the attached report for the last quarter
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <3c133a60cfce430f9d958f0ac597197a@thyme>
+Date: Thu, 02 Sep 2021 00:00:00 -0700
+From: usuario303@example.com
+To: usuario535@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario303 <usuario303@example.com>
+X-To: Usuario535 <usuario535@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario303_folder\spam
+X-Origin: usuario303-P
+X-FileName: usuario303.pst
+
+Please find the attached report for the last quarter
+I wanted to give you an update on the status of the project.
+As discussed, I have attached the report you requested.
+----------------------------------------

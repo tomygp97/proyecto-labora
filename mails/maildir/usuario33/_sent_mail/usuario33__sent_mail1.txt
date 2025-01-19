@@ -1,0 +1,20 @@
+Message-ID: <938999e18dc9427eb7fb996cfdfa20f7@thyme>
+Date: Sun, 19 Dec 2021 00:00:00 -0700
+From: usuario33@example.com
+To: usuario255@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario33 <usuario33@example.com>
+X-To: Usuario255 <usuario255@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario33_folder\_sent_mail
+X-Origin: usuario33-P
+X-FileName: usuario33.pst
+
+I hope you're enjoying a nice week so far.
+Can you please confirm receipt of the files?
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

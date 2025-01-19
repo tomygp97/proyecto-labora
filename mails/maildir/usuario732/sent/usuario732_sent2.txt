@@ -1,0 +1,20 @@
+Message-ID: <82d6f1f53c3f4ead8a9fa5520e80e6e8@thyme>
+Date: Sun, 14 Mar 2004 00:00:00 -0700
+From: usuario732@example.com
+To: usuario754@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario732 <usuario732@example.com>
+X-To: Usuario754 <usuario754@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario732_folder\sent
+X-Origin: usuario732-P
+X-FileName: usuario732.pst
+
+Here is a summary of the last meeting for your reference.
+Hope everything is going well on your end.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

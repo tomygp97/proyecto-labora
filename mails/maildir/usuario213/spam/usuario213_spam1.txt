@@ -1,0 +1,20 @@
+Message-ID: <d4c42488e10143bf8cc5e7e9cf7fcce6@thyme>
+Date: Wed, 04 Dec 2024 00:00:00 -0700
+From: usuario213@example.com
+To: usuario760@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario213 <usuario213@example.com>
+X-To: Usuario760 <usuario760@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario213_folder\spam
+X-Origin: usuario213-P
+X-FileName: usuario213.pst
+
+I wanted to give you an update on the status of the project.
+Let me know if you need any additional details.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

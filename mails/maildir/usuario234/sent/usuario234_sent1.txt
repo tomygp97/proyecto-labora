@@ -1,0 +1,20 @@
+Message-ID: <8866471e8dbc4158b8a4839a79dfd39a@thyme>
+Date: Sun, 04 Jan 2004 00:00:00 -0700
+From: usuario234@example.com
+To: usuario501@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario234 <usuario234@example.com>
+X-To: Usuario501 <usuario501@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario234_folder\sent
+X-Origin: usuario234-P
+X-FileName: usuario234.pst
+
+I hope you're having a productive week.
+Can you please confirm receipt of the files?
+I hope you're enjoying a nice week so far.
+----------------------------------------

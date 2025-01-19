@@ -1,0 +1,20 @@
+Message-ID: <2714c948aa534ab09a8b620292951059@thyme>
+Date: Sun, 16 May 2010 00:00:00 -0700
+From: usuario889@example.com
+To: usuario286@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario889 <usuario889@example.com>
+X-To: Usuario286 <usuario286@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario889_folder\sent
+X-Origin: usuario889-P
+X-FileName: usuario889.pst
+
+Please find the latest updates on the project
+I wanted to remind you about the upcoming deadline.
+Hope everything is going well on your end.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4aade929343142e1a543785185afbbaa@thyme>
+Date: Sun, 29 Jun 2014 00:00:00 -0700
+From: usuario383@example.com
+To: usuario490@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario383 <usuario383@example.com>
+X-To: Usuario490 <usuario490@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario383_folder\inbox
+X-Origin: usuario383-P
+X-FileName: usuario383.pst
+
+Please don't hesitate to reach out if you need any help.
+Please find the attached report for the last quarter
+Here are the next steps we need to take.
+----------------------------------------

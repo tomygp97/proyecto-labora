@@ -1,0 +1,20 @@
+Message-ID: <6aa464c49cb04b66b7b0422cdc1f0ee3@thyme>
+Date: Thu, 04 Jul 2019 00:00:00 -0700
+From: usuario41@example.com
+To: usuario19@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario41 <usuario41@example.com>
+X-To: Usuario19 <usuario19@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario41_folder\all_documents
+X-Origin: usuario41-P
+X-FileName: usuario41.pst
+
+Can you please confirm receipt of the files?
+I wanted to thank you for your prompt response.
+Here are the results from the analysis we discussed.
+----------------------------------------

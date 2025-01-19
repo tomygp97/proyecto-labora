@@ -1,0 +1,20 @@
+Message-ID: <cbe67954c7584d94acce90377159b8a0@thyme>
+Date: Sat, 30 Sep 2006 00:00:00 -0700
+From: usuario834@example.com
+To: usuario154@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario834 <usuario834@example.com>
+X-To: Usuario154 <usuario154@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario834_folder\sent
+X-Origin: usuario834-P
+X-FileName: usuario834.pst
+
+I wanted to check in regarding the status of the project.
+I look forward to collaborating further on this initiative.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

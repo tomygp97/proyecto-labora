@@ -1,0 +1,20 @@
+Message-ID: <c039e07a583f49968828a4d171d6baa0@thyme>
+Date: Fri, 18 Jan 2019 00:00:00 -0700
+From: usuario473@example.com
+To: usuario75@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario473 <usuario473@example.com>
+X-To: Usuario75 <usuario75@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario473_folder\sent
+X-Origin: usuario473-P
+X-FileName: usuario473.pst
+
+I would love to hear your feedback on the proposal.
+I hope you're enjoying a nice week so far.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

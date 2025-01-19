@@ -1,0 +1,20 @@
+Message-ID: <9a2a28b5e4644e6c849825de65ac0631@thyme>
+Date: Fri, 08 Feb 2008 00:00:00 -0700
+From: usuario709@example.com
+To: usuario944@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario709 <usuario709@example.com>
+X-To: Usuario944 <usuario944@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario709_folder\spam
+X-Origin: usuario709-P
+X-FileName: usuario709.pst
+
+Just checking in to see if you've received my previous email.
+Please let me know if there are any issues with the attached files.
+I look forward to collaborating further on this initiative.
+----------------------------------------

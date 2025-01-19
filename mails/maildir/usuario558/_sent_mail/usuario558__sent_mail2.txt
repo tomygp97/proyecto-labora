@@ -1,0 +1,20 @@
+Message-ID: <155a15d3fd674f1e8eadff60d2079867@thyme>
+Date: Wed, 28 May 2014 00:00:00 -0700
+From: usuario558@example.com
+To: usuario499@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario558 <usuario558@example.com>
+X-To: Usuario499 <usuario499@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario558_folder\_sent_mail
+X-Origin: usuario558-P
+X-FileName: usuario558.pst
+
+Looking forward to discussing the project in more detail soon.
+Here are the documents I mentioned during our call.
+Hope everything is going well on your end.
+----------------------------------------

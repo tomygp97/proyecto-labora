@@ -1,0 +1,20 @@
+Message-ID: <2a04d3fcbf244504a42a09c80525c3a9@thyme>
+Date: Mon, 14 Aug 2017 00:00:00 -0700
+From: usuario347@example.com
+To: usuario68@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario347 <usuario347@example.com>
+X-To: Usuario68 <usuario68@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario347_folder\_sent_mail
+X-Origin: usuario347-P
+X-FileName: usuario347.pst
+
+I wanted to follow up on our last meeting
+Please find the latest updates on the project
+I wanted to give you an update on the status of the project.
+----------------------------------------

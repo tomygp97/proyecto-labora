@@ -1,0 +1,20 @@
+Message-ID: <bc30f78c0c484a38aa0b29b6f5a71c1b@thyme>
+Date: Sat, 23 Jul 2005 00:00:00 -0700
+From: usuario36@example.com
+To: usuario455@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario36 <usuario36@example.com>
+X-To: Usuario455 <usuario455@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario36_folder\_sent_mail
+X-Origin: usuario36-P
+X-FileName: usuario36.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to confirm our meeting for tomorrow.
+I wanted to check in regarding the status of the project.
+----------------------------------------

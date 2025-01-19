@@ -1,0 +1,20 @@
+Message-ID: <1e24cf771b1a467e9be331413f64a7f2@thyme>
+Date: Sun, 28 Jun 2020 00:00:00 -0700
+From: usuario870@example.com
+To: usuario489@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario870 <usuario870@example.com>
+X-To: Usuario489 <usuario489@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario870_folder\_sent_mail
+X-Origin: usuario870-P
+X-FileName: usuario870.pst
+
+Here are the results from the analysis we discussed.
+I look forward to your response.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

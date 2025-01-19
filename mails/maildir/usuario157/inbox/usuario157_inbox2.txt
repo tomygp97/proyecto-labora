@@ -1,0 +1,20 @@
+Message-ID: <0cb53a5c8beb4682b8a4909df7dc02c4@thyme>
+Date: Thu, 17 Nov 2022 00:00:00 -0700
+From: usuario157@example.com
+To: usuario234@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario157 <usuario157@example.com>
+X-To: Usuario234 <usuario234@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario157_folder\inbox
+X-Origin: usuario157-P
+X-FileName: usuario157.pst
+
+Can you please confirm receipt of the files?
+I hope you're having a productive week.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

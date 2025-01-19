@@ -1,0 +1,20 @@
+Message-ID: <dd9c94696ee043ccae25b91e17bb8cc8@thyme>
+Date: Wed, 29 Aug 2018 00:00:00 -0700
+From: usuario357@example.com
+To: usuario930@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario357 <usuario357@example.com>
+X-To: Usuario930 <usuario930@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario357_folder\inbox
+X-Origin: usuario357-P
+X-FileName: usuario357.pst
+
+Thank you for your attention
+Here are the documents I mentioned during our call.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

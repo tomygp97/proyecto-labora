@@ -1,0 +1,20 @@
+Message-ID: <3d5718053ba644569b1a294c23f57a99@thyme>
+Date: Wed, 17 Oct 2012 00:00:00 -0700
+From: usuario328@example.com
+To: usuario366@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario328 <usuario328@example.com>
+X-To: Usuario366 <usuario366@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario328_folder\spam
+X-Origin: usuario328-P
+X-FileName: usuario328.pst
+
+Looking forward to hearing from you soon
+I hope you're enjoying a nice week so far.
+Here are the documents I mentioned during our call.
+----------------------------------------

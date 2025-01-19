@@ -1,0 +1,20 @@
+Message-ID: <04a86f9f36c8421fb5d58cc0d341a255@thyme>
+Date: Wed, 25 Jun 2008 00:00:00 -0700
+From: usuario797@example.com
+To: usuario178@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario797 <usuario797@example.com>
+X-To: Usuario178 <usuario178@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario797_folder\all_documents
+X-Origin: usuario797-P
+X-FileName: usuario797.pst
+
+I hope you're enjoying a nice week so far.
+Hope you're doing well. Here's the requested information.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

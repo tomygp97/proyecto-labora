@@ -1,0 +1,20 @@
+Message-ID: <f0b711e1800f4e2f9131dfcb24a515fa@thyme>
+Date: Wed, 28 Aug 2019 00:00:00 -0700
+From: usuario143@example.com
+To: usuario565@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario143 <usuario143@example.com>
+X-To: Usuario565 <usuario565@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario143_folder\spam
+X-Origin: usuario143-P
+X-FileName: usuario143.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I would love to hear your feedback on the proposal.
+I look forward to your response.
+----------------------------------------

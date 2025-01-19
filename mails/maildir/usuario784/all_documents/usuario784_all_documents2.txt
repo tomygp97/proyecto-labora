@@ -1,0 +1,20 @@
+Message-ID: <7faf07d3cca24469ae3d28b84afcda87@thyme>
+Date: Thu, 23 Feb 2006 00:00:00 -0700
+From: usuario784@example.com
+To: usuario851@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario784 <usuario784@example.com>
+X-To: Usuario851 <usuario851@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario784_folder\all_documents
+X-Origin: usuario784-P
+X-FileName: usuario784.pst
+
+I would love to hear your feedback on the proposal.
+Please let me know if there are any changes to the schedule.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

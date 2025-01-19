@@ -1,0 +1,20 @@
+Message-ID: <5d6f5b7fd5d4437ea5cb491e3e59255f@thyme>
+Date: Thu, 07 Mar 2019 00:00:00 -0700
+From: usuario489@example.com
+To: usuario51@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario489 <usuario489@example.com>
+X-To: Usuario51 <usuario51@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario489_folder\spam
+X-Origin: usuario489-P
+X-FileName: usuario489.pst
+
+Please let me know if there are any changes to the schedule.
+I look forward to collaborating further on this initiative.
+I have included all the necessary details in the attached report.
+----------------------------------------

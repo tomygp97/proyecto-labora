@@ -1,0 +1,20 @@
+Message-ID: <cd9500f3641947dba3a877cd9b084228@thyme>
+Date: Fri, 18 Dec 2020 00:00:00 -0700
+From: usuario8@example.com
+To: usuario767@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario8 <usuario8@example.com>
+X-To: Usuario767 <usuario767@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario8_folder\sent
+X-Origin: usuario8-P
+X-FileName: usuario8.pst
+
+Let me know if there's anything I can assist you with.
+Here are the results from the analysis we discussed.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

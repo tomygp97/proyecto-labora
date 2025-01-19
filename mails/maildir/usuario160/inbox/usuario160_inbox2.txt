@@ -1,0 +1,20 @@
+Message-ID: <822e126b55d64ee4a7a0e2eb5162866c@thyme>
+Date: Wed, 21 Nov 2012 00:00:00 -0700
+From: usuario160@example.com
+To: usuario110@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario160 <usuario160@example.com>
+X-To: Usuario110 <usuario110@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario160_folder\inbox
+X-Origin: usuario160-P
+X-FileName: usuario160.pst
+
+Just checking in to see if you've received my previous email.
+I hope this email finds you well.
+Here is our forecast
+----------------------------------------

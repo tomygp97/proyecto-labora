@@ -1,0 +1,20 @@
+Message-ID: <7e79f6a8027545579caa59e49811029e@thyme>
+Date: Sat, 06 Jan 2018 00:00:00 -0700
+From: usuario207@example.com
+To: usuario273@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario207 <usuario207@example.com>
+X-To: Usuario273 <usuario273@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario207_folder\_sent_mail
+X-Origin: usuario207-P
+X-FileName: usuario207.pst
+
+Let me know if there's anything I can assist you with.
+I trust the documents will be helpful for our upcoming discussion.
+I hope this email finds you well.
+----------------------------------------

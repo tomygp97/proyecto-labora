@@ -1,0 +1,20 @@
+Message-ID: <9cc4da5aa6f846eaae30396d5c54a522@thyme>
+Date: Fri, 18 Aug 2023 00:00:00 -0700
+From: usuario11@example.com
+To: usuario760@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario11 <usuario11@example.com>
+X-To: Usuario760 <usuario760@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario11_folder\_sent_mail
+X-Origin: usuario11-P
+X-FileName: usuario11.pst
+
+As discussed, I have attached the report you requested.
+I hope this email finds you well.
+I have included all the necessary details in the attached report.
+----------------------------------------

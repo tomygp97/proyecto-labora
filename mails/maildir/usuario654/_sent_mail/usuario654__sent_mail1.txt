@@ -1,0 +1,20 @@
+Message-ID: <d6e4dcb4a9aa47f1a8ecc85c433b2162@thyme>
+Date: Sun, 20 Jan 2008 00:00:00 -0700
+From: usuario654@example.com
+To: usuario73@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario654 <usuario654@example.com>
+X-To: Usuario73 <usuario73@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario654_folder\_sent_mail
+X-Origin: usuario654-P
+X-FileName: usuario654.pst
+
+Please find the attached report for the last quarter
+I hope you're having a productive week.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

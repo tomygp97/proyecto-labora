@@ -1,0 +1,20 @@
+Message-ID: <29ff0a58a81144fdb4298ece138850f9@thyme>
+Date: Thu, 13 Apr 2000 00:00:00 -0700
+From: usuario477@example.com
+To: usuario404@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario477 <usuario477@example.com>
+X-To: Usuario404 <usuario404@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario477_folder\_sent_mail
+X-Origin: usuario477-P
+X-FileName: usuario477.pst
+
+Please review the materials at your earliest convenience.
+Please find the attached report for the last quarter
+I wanted to thank you for your prompt response.
+----------------------------------------

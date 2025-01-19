@@ -1,0 +1,20 @@
+Message-ID: <1e1d4cf642434ba0b0bd1f3d2ed738af@thyme>
+Date: Sun, 16 May 2010 00:00:00 -0700
+From: usuario404@example.com
+To: usuario622@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario404 <usuario404@example.com>
+X-To: Usuario622 <usuario622@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario404_folder\spam
+X-Origin: usuario404-P
+X-FileName: usuario404.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I have included all the necessary details in the attached report.
+Just checking in to see if you've received my previous email.
+----------------------------------------

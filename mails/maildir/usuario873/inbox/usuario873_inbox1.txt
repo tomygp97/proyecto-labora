@@ -1,0 +1,20 @@
+Message-ID: <fba1cb5410604e43995757dd06301fee@thyme>
+Date: Wed, 17 Sep 2003 00:00:00 -0700
+From: usuario873@example.com
+To: usuario342@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario873 <usuario873@example.com>
+X-To: Usuario342 <usuario342@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario873_folder\inbox
+X-Origin: usuario873-P
+X-FileName: usuario873.pst
+
+Please find the attached report for the last quarter
+I hope this email finds you well.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

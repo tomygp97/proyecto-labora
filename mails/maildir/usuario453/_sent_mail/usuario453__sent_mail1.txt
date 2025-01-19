@@ -1,0 +1,20 @@
+Message-ID: <b4f5592e42274b1ca6b8114da444dc58@thyme>
+Date: Thu, 21 Jul 2005 00:00:00 -0700
+From: usuario453@example.com
+To: usuario662@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario453 <usuario453@example.com>
+X-To: Usuario662 <usuario662@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario453_folder\_sent_mail
+X-Origin: usuario453-P
+X-FileName: usuario453.pst
+
+Here is a summary of the last meeting for your reference.
+Please don't hesitate to reach out if you need any help.
+Please review the materials at your earliest convenience.
+----------------------------------------

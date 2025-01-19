@@ -1,0 +1,20 @@
+Message-ID: <ca22b8e5a5e14f31a5bec1d28803c9e9@thyme>
+Date: Wed, 04 Sep 2024 00:00:00 -0700
+From: usuario636@example.com
+To: usuario49@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario636 <usuario636@example.com>
+X-To: Usuario49 <usuario49@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario636_folder\_sent_mail
+X-Origin: usuario636-P
+X-FileName: usuario636.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please let me know if there's anything else you need from my end.
+I hope this email finds you well.
+----------------------------------------

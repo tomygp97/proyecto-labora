@@ -1,0 +1,20 @@
+Message-ID: <7cb47479ec904db28d18a313221df668@thyme>
+Date: Fri, 07 Jun 2019 00:00:00 -0700
+From: usuario948@example.com
+To: usuario220@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario948 <usuario948@example.com>
+X-To: Usuario220 <usuario220@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario948_folder\sent
+X-Origin: usuario948-P
+X-FileName: usuario948.pst
+
+I wanted to thank you for your prompt response.
+Can you please confirm receipt of the files?
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

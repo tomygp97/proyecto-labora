@@ -1,0 +1,20 @@
+Message-ID: <0b6b3740cb9b421a9639acd61b9d2276@thyme>
+Date: Mon, 13 Jan 2014 00:00:00 -0700
+From: usuario460@example.com
+To: usuario305@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario460 <usuario460@example.com>
+X-To: Usuario305 <usuario305@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario460_folder\all_documents
+X-Origin: usuario460-P
+X-FileName: usuario460.pst
+
+Here is a summary of the last meeting for your reference.
+Just wanted to touch base on the upcoming project milestone.
+I wanted to check in regarding the status of the project.
+----------------------------------------

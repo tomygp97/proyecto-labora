@@ -1,0 +1,20 @@
+Message-ID: <6345e212b1044ef383260b17d43f9d14@thyme>
+Date: Sat, 31 Jul 2021 00:00:00 -0700
+From: usuario460@example.com
+To: usuario1000@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario460 <usuario460@example.com>
+X-To: Usuario1000 <usuario1000@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario460_folder\_sent_mail
+X-Origin: usuario460-P
+X-FileName: usuario460.pst
+
+Here is a summary of the last meeting for your reference.
+I wanted to thank you for your prompt response.
+I look forward to your response.
+----------------------------------------

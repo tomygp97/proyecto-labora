@@ -1,0 +1,20 @@
+Message-ID: <d2ab839c5d5e4b7c8abe1ff4eaf82460@thyme>
+Date: Thu, 26 Jan 2012 00:00:00 -0700
+From: usuario466@example.com
+To: usuario101@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario466 <usuario466@example.com>
+X-To: Usuario101 <usuario101@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario466_folder\all_documents
+X-Origin: usuario466-P
+X-FileName: usuario466.pst
+
+Please let me know if there are any issues with the attached files.
+I wanted to remind you about the upcoming deadline.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

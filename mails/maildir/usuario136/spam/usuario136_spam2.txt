@@ -1,0 +1,20 @@
+Message-ID: <f389b68bf3db49ce86a4a389134747d3@thyme>
+Date: Fri, 11 Aug 2023 00:00:00 -0700
+From: usuario136@example.com
+To: usuario424@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario136 <usuario136@example.com>
+X-To: Usuario424 <usuario424@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario136_folder\spam
+X-Origin: usuario136-P
+X-FileName: usuario136.pst
+
+Please review the attached files and provide feedback.
+I wanted to confirm our meeting for tomorrow.
+Please find the latest updates on the project
+----------------------------------------

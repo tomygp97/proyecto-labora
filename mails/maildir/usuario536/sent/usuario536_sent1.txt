@@ -1,0 +1,20 @@
+Message-ID: <fd2297686e9f46fbb279a165e8e44e65@thyme>
+Date: Tue, 20 May 2003 00:00:00 -0700
+From: usuario536@example.com
+To: usuario335@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario536 <usuario536@example.com>
+X-To: Usuario335 <usuario335@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario536_folder\sent
+X-Origin: usuario536-P
+X-FileName: usuario536.pst
+
+I wanted to check in regarding the status of the project.
+I wanted to confirm our meeting for tomorrow.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

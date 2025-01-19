@@ -1,0 +1,20 @@
+Message-ID: <8f31b02e81f84ad8a526fd6a0ad66f18@thyme>
+Date: Fri, 31 May 2013 00:00:00 -0700
+From: usuario136@example.com
+To: usuario243@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario136 <usuario136@example.com>
+X-To: Usuario243 <usuario243@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario136_folder\sent
+X-Origin: usuario136-P
+X-FileName: usuario136.pst
+
+I wanted to follow up on our last meeting
+I look forward to your response.
+I hope you're enjoying a nice week so far.
+----------------------------------------

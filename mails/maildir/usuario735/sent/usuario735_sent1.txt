@@ -1,0 +1,20 @@
+Message-ID: <630f098b03454d60916fe68e49432c18@thyme>
+Date: Thu, 06 May 2004 00:00:00 -0700
+From: usuario735@example.com
+To: usuario426@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario735 <usuario735@example.com>
+X-To: Usuario426 <usuario426@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario735_folder\sent
+X-Origin: usuario735-P
+X-FileName: usuario735.pst
+
+Please let me know if there are any changes to the schedule.
+Just wanted to touch base on the upcoming project milestone.
+Please review the materials at your earliest convenience.
+----------------------------------------

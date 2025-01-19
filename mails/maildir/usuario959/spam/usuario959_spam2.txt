@@ -1,0 +1,20 @@
+Message-ID: <6043f1b67d314c48890328602d4a0a9a@thyme>
+Date: Thu, 08 Jun 2000 00:00:00 -0700
+From: usuario959@example.com
+To: usuario505@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario959 <usuario959@example.com>
+X-To: Usuario505 <usuario505@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario959_folder\spam
+X-Origin: usuario959-P
+X-FileName: usuario959.pst
+
+I hope this email finds you well.
+I wanted to thank you for your prompt response.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

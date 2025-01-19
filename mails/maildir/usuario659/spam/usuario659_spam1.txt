@@ -1,0 +1,20 @@
+Message-ID: <9b8ea6b8519d49c2a6ccd41930fee001@thyme>
+Date: Wed, 23 Jul 2003 00:00:00 -0700
+From: usuario659@example.com
+To: usuario874@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario659 <usuario659@example.com>
+X-To: Usuario874 <usuario874@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario659_folder\spam
+X-Origin: usuario659-P
+X-FileName: usuario659.pst
+
+Looking forward to discussing the project in more detail soon.
+Looking forward to hearing from you soon
+Please let me know if there's anything else you need from my end.
+----------------------------------------

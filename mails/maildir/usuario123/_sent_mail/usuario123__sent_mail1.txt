@@ -1,0 +1,20 @@
+Message-ID: <f7bc00fe5ef14882ac80fd9bf6cd204c@thyme>
+Date: Sat, 28 Dec 2013 00:00:00 -0700
+From: usuario123@example.com
+To: usuario484@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario123 <usuario123@example.com>
+X-To: Usuario484 <usuario484@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario123_folder\_sent_mail
+X-Origin: usuario123-P
+X-FileName: usuario123.pst
+
+Let me know if there's anything I can assist you with.
+Please review the materials at your earliest convenience.
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4bf29dda34784c69b9a0101bec075c55@thyme>
+Date: Fri, 20 Jul 2007 00:00:00 -0700
+From: usuario209@example.com
+To: usuario451@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario209 <usuario209@example.com>
+X-To: Usuario451 <usuario451@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario209_folder\all_documents
+X-Origin: usuario209-P
+X-FileName: usuario209.pst
+
+Here are the results from the analysis we discussed.
+Let me know if you need any additional details.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

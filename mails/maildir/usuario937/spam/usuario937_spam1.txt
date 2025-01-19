@@ -1,0 +1,20 @@
+Message-ID: <8471a5d40da44ffc9e9500ec872fe3e7@thyme>
+Date: Sat, 28 May 2016 00:00:00 -0700
+From: usuario937@example.com
+To: usuario426@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario937 <usuario937@example.com>
+X-To: Usuario426 <usuario426@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario937_folder\spam
+X-Origin: usuario937-P
+X-FileName: usuario937.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to thank you for your prompt response.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

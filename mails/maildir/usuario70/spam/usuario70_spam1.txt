@@ -1,0 +1,20 @@
+Message-ID: <772ceb05965140faa59b0df6ffdc0eb2@thyme>
+Date: Thu, 03 Jan 2002 00:00:00 -0700
+From: usuario70@example.com
+To: usuario434@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario70 <usuario70@example.com>
+X-To: Usuario434 <usuario434@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario70_folder\spam
+X-Origin: usuario70-P
+X-FileName: usuario70.pst
+
+Just checking in to see if you've received my previous email.
+I look forward to your response.
+Let me know if you need any additional details.
+----------------------------------------

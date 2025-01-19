@@ -1,0 +1,20 @@
+Message-ID: <dc5f4ea9b31148629e956e669a4e5421@thyme>
+Date: Wed, 20 Oct 2010 00:00:00 -0700
+From: usuario429@example.com
+To: usuario786@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario429 <usuario429@example.com>
+X-To: Usuario786 <usuario786@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario429_folder\inbox
+X-Origin: usuario429-P
+X-FileName: usuario429.pst
+
+Please don't hesitate to reach out if you need any help.
+Thank you for your attention
+I look forward to your response.
+----------------------------------------

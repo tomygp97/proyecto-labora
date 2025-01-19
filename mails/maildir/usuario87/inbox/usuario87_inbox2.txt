@@ -1,0 +1,20 @@
+Message-ID: <93c3b79d659b430cb5ec917f706807aa@thyme>
+Date: Wed, 16 Jan 2013 00:00:00 -0700
+From: usuario87@example.com
+To: usuario136@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario87 <usuario87@example.com>
+X-To: Usuario136 <usuario136@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario87_folder\inbox
+X-Origin: usuario87-P
+X-FileName: usuario87.pst
+
+Please don't hesitate to reach out if you need any help.
+I look forward to collaborating further on this initiative.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

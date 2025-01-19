@@ -1,0 +1,20 @@
+Message-ID: <e555174986164132a279334225526407@thyme>
+Date: Wed, 31 May 2023 00:00:00 -0700
+From: usuario129@example.com
+To: usuario476@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario129 <usuario129@example.com>
+X-To: Usuario476 <usuario476@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario129_folder\inbox
+X-Origin: usuario129-P
+X-FileName: usuario129.pst
+
+Let me know if there's anything I can assist you with.
+I hope you're having a productive week.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

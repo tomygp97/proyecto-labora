@@ -1,0 +1,20 @@
+Message-ID: <8989fdf8fe0e41e5961c05b0c76da710@thyme>
+Date: Fri, 17 Feb 2023 00:00:00 -0700
+From: usuario656@example.com
+To: usuario977@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario656 <usuario656@example.com>
+X-To: Usuario977 <usuario977@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario656_folder\inbox
+X-Origin: usuario656-P
+X-FileName: usuario656.pst
+
+Just checking in to see if you've received my previous email.
+Looking forward to discussing the project in more detail soon.
+Thank you for your attention
+----------------------------------------

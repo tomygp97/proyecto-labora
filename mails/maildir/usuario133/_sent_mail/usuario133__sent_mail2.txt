@@ -1,0 +1,20 @@
+Message-ID: <47315be0ef6f4832b8a7b96903de8a81@thyme>
+Date: Wed, 03 Oct 2018 00:00:00 -0700
+From: usuario133@example.com
+To: usuario79@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario133 <usuario133@example.com>
+X-To: Usuario79 <usuario79@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario133_folder\_sent_mail
+X-Origin: usuario133-P
+X-FileName: usuario133.pst
+
+I would love to hear your feedback on the proposal.
+Hope everything is going well on your end.
+Please review the attached files and provide feedback.
+----------------------------------------

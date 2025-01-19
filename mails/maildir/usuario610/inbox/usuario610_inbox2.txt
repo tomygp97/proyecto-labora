@@ -1,0 +1,20 @@
+Message-ID: <0e33722a8ef44f9eae169bd8661bd72f@thyme>
+Date: Sat, 12 Mar 2022 00:00:00 -0700
+From: usuario610@example.com
+To: usuario751@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario610 <usuario610@example.com>
+X-To: Usuario751 <usuario751@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario610_folder\inbox
+X-Origin: usuario610-P
+X-FileName: usuario610.pst
+
+I look forward to your response.
+Let me know if you need any additional details.
+I have included all the necessary details in the attached report.
+----------------------------------------

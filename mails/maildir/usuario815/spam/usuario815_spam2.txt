@@ -1,0 +1,20 @@
+Message-ID: <7eb7be2a5a9147338acf625e8e2b9feb@thyme>
+Date: Mon, 28 Apr 2025 00:00:00 -0700
+From: usuario815@example.com
+To: usuario973@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario815 <usuario815@example.com>
+X-To: Usuario973 <usuario973@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario815_folder\spam
+X-Origin: usuario815-P
+X-FileName: usuario815.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Please review the attached files and provide feedback.
+I hope this email finds you well.
+----------------------------------------

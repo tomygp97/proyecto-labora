@@ -1,0 +1,20 @@
+Message-ID: <ce610c6813c34b2b8195cc1be562e6dc@thyme>
+Date: Mon, 13 May 2024 00:00:00 -0700
+From: usuario514@example.com
+To: usuario732@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario514 <usuario514@example.com>
+X-To: Usuario732 <usuario732@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario514_folder\sent
+X-Origin: usuario514-P
+X-FileName: usuario514.pst
+
+Let me know if you need any additional details.
+Please make sure to go through the attached documents before our meeting.
+Please review the materials at your earliest convenience.
+----------------------------------------

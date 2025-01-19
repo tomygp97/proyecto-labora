@@ -1,0 +1,20 @@
+Message-ID: <4f69acc5d60d44f493678bbf6812dc7a@thyme>
+Date: Wed, 25 Jul 2012 00:00:00 -0700
+From: usuario769@example.com
+To: usuario117@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario769 <usuario769@example.com>
+X-To: Usuario117 <usuario117@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario769_folder\sent
+X-Origin: usuario769-P
+X-FileName: usuario769.pst
+
+Please don't hesitate to reach out if you need any help.
+Looking forward to discussing the project in more detail soon.
+Just checking in to see if you've received my previous email.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <16b39209fa874adf8fc0664a08d9c472@thyme>
+Date: Wed, 20 Feb 2008 00:00:00 -0700
+From: usuario994@example.com
+To: usuario859@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario994 <usuario994@example.com>
+X-To: Usuario859 <usuario859@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario994_folder\sent
+X-Origin: usuario994-P
+X-FileName: usuario994.pst
+
+Please let me know if there are any changes to the schedule.
+I look forward to your response.
+Just checking in to see if you've received my previous email.
+----------------------------------------

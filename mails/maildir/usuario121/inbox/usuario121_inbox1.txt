@@ -1,0 +1,20 @@
+Message-ID: <af5c24afce354fb2ba5bb5caa06257ff@thyme>
+Date: Fri, 04 Sep 2020 00:00:00 -0700
+From: usuario121@example.com
+To: usuario713@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario121 <usuario121@example.com>
+X-To: Usuario713 <usuario713@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario121_folder\inbox
+X-Origin: usuario121-P
+X-FileName: usuario121.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I look forward to your response.
+Please find the latest updates on the project
+----------------------------------------

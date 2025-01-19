@@ -1,0 +1,20 @@
+Message-ID: <8cc8c021742b40f1a81705b9c87de4ca@thyme>
+Date: Wed, 13 Jan 2021 00:00:00 -0700
+From: usuario25@example.com
+To: usuario603@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario25 <usuario25@example.com>
+X-To: Usuario603 <usuario603@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario25_folder\_sent_mail
+X-Origin: usuario25-P
+X-FileName: usuario25.pst
+
+Please find the attached report for the last quarter
+Just wanted to touch base on the upcoming project milestone.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

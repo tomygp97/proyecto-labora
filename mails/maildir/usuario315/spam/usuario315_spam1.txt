@@ -1,0 +1,20 @@
+Message-ID: <2226a23d5fe34bd98006d9d1f36dd338@thyme>
+Date: Thu, 25 Sep 2025 00:00:00 -0700
+From: usuario315@example.com
+To: usuario493@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario315 <usuario315@example.com>
+X-To: Usuario493 <usuario493@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario315_folder\spam
+X-Origin: usuario315-P
+X-FileName: usuario315.pst
+
+I hope you're enjoying a nice week so far.
+I hope this email finds you well.
+Here are the documents I mentioned during our call.
+----------------------------------------

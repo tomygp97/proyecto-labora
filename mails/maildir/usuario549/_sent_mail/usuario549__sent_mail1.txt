@@ -1,0 +1,20 @@
+Message-ID: <a323298efeac43beb36851843bec92af@thyme>
+Date: Fri, 23 Feb 2007 00:00:00 -0700
+From: usuario549@example.com
+To: usuario914@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario549 <usuario549@example.com>
+X-To: Usuario914 <usuario914@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario549_folder\_sent_mail
+X-Origin: usuario549-P
+X-FileName: usuario549.pst
+
+I wanted to follow up on our last meeting
+Here are the next steps we need to take.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

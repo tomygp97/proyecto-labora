@@ -1,0 +1,20 @@
+Message-ID: <521d5d2e9d844c8ba328b7133147818c@thyme>
+Date: Mon, 21 Feb 2022 00:00:00 -0700
+From: usuario267@example.com
+To: usuario40@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario267 <usuario267@example.com>
+X-To: Usuario40 <usuario40@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario267_folder\sent
+X-Origin: usuario267-P
+X-FileName: usuario267.pst
+
+Let me know if there's anything I can assist you with.
+I wanted to follow up on our last meeting
+I hope this email finds you well.
+----------------------------------------

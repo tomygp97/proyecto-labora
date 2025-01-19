@@ -1,0 +1,20 @@
+Message-ID: <02de715da194442fbd7c88d92d99fb15@thyme>
+Date: Sat, 24 Jan 2015 00:00:00 -0700
+From: usuario630@example.com
+To: usuario107@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario630 <usuario630@example.com>
+X-To: Usuario107 <usuario107@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario630_folder\inbox
+X-Origin: usuario630-P
+X-FileName: usuario630.pst
+
+I wanted to thank you for your prompt response.
+I wanted to give you an update on the status of the project.
+Please find the attached report for the last quarter
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <c604370adf4545f396fc4283839f1e5a@thyme>
+Date: Mon, 22 Sep 2008 00:00:00 -0700
+From: usuario238@example.com
+To: usuario716@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario238 <usuario238@example.com>
+X-To: Usuario716 <usuario716@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario238_folder\spam
+X-Origin: usuario238-P
+X-FileName: usuario238.pst
+
+Here are the results from the analysis we discussed.
+Please let me know if there are any changes to the schedule.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

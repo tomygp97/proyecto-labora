@@ -1,0 +1,20 @@
+Message-ID: <07fe36f3ea0e472aa97ed49b066f1f3c@thyme>
+Date: Sun, 15 Jul 2001 00:00:00 -0700
+From: usuario485@example.com
+To: usuario181@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario485 <usuario485@example.com>
+X-To: Usuario181 <usuario181@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario485_folder\sent
+X-Origin: usuario485-P
+X-FileName: usuario485.pst
+
+Please let me know if there are any changes to the schedule.
+Here is our forecast
+Please let me know if there are any issues with the attached files.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <da79e01c5a464b8abe713a73f79684d3@thyme>
+Date: Sun, 15 Oct 2006 00:00:00 -0700
+From: usuario210@example.com
+To: usuario130@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario210 <usuario210@example.com>
+X-To: Usuario130 <usuario130@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario210_folder\_sent_mail
+X-Origin: usuario210-P
+X-FileName: usuario210.pst
+
+Here is a summary of the last meeting for your reference.
+Hope you're doing well. Here's the requested information.
+I would love to hear your feedback on the proposal.
+----------------------------------------

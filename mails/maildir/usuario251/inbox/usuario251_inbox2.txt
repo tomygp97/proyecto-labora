@@ -1,0 +1,20 @@
+Message-ID: <9533877f1749428badfa8a32b09bab01@thyme>
+Date: Mon, 15 Apr 2024 00:00:00 -0700
+From: usuario251@example.com
+To: usuario916@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario251 <usuario251@example.com>
+X-To: Usuario916 <usuario916@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario251_folder\inbox
+X-Origin: usuario251-P
+X-FileName: usuario251.pst
+
+I wanted to give you an update on the status of the project.
+Please let me know if there are any changes to the schedule.
+Here are the results from the analysis we discussed.
+----------------------------------------

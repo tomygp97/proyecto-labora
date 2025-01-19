@@ -1,0 +1,20 @@
+Message-ID: <1890cb58f8f6443094119d30b0b13098@thyme>
+Date: Tue, 12 Nov 2013 00:00:00 -0700
+From: usuario950@example.com
+To: usuario248@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario950 <usuario950@example.com>
+X-To: Usuario248 <usuario248@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario950_folder\_sent_mail
+X-Origin: usuario950-P
+X-FileName: usuario950.pst
+
+Looking forward to hearing from you soon
+Please find the latest updates on the project
+I look forward to collaborating further on this initiative.
+----------------------------------------

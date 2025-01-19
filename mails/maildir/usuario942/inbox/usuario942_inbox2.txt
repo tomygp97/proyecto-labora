@@ -1,0 +1,20 @@
+Message-ID: <3d369f6f239a498b88f165178b3a5fe4@thyme>
+Date: Tue, 20 Apr 2021 00:00:00 -0700
+From: usuario942@example.com
+To: usuario709@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario942 <usuario942@example.com>
+X-To: Usuario709 <usuario709@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario942_folder\inbox
+X-Origin: usuario942-P
+X-FileName: usuario942.pst
+
+Please make sure to go through the attached documents before our meeting.
+Just checking in to see if you've received my previous email.
+Thank you for your attention
+----------------------------------------

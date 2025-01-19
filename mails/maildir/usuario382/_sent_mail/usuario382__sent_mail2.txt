@@ -1,0 +1,20 @@
+Message-ID: <1fc18a4d562a4f7181e07efbcb334aea@thyme>
+Date: Fri, 24 Feb 2023 00:00:00 -0700
+From: usuario382@example.com
+To: usuario594@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario382 <usuario382@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario382_folder\_sent_mail
+X-Origin: usuario382-P
+X-FileName: usuario382.pst
+
+I have included all the necessary details in the attached report.
+I hope you're enjoying a nice week so far.
+Here are the results from the analysis we discussed.
+----------------------------------------

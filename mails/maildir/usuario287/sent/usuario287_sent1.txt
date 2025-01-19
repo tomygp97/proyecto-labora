@@ -1,0 +1,20 @@
+Message-ID: <3e5a5b10f79946f191334d5a6fc9b90d@thyme>
+Date: Sat, 25 Jul 2020 00:00:00 -0700
+From: usuario287@example.com
+To: usuario588@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario287 <usuario287@example.com>
+X-To: Usuario588 <usuario588@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario287_folder\sent
+X-Origin: usuario287-P
+X-FileName: usuario287.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please find the attached report for the last quarter
+Here are the results from the analysis we discussed.
+----------------------------------------

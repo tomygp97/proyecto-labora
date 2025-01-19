@@ -1,0 +1,20 @@
+Message-ID: <e0a360a8b67a4eb08fd3a991151641fb@thyme>
+Date: Wed, 16 Apr 2025 00:00:00 -0700
+From: usuario777@example.com
+To: usuario566@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario777 <usuario777@example.com>
+X-To: Usuario566 <usuario566@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario777_folder\sent
+X-Origin: usuario777-P
+X-FileName: usuario777.pst
+
+I hope you're having a productive week.
+Let me know if you need any additional details.
+Here is our forecast
+----------------------------------------

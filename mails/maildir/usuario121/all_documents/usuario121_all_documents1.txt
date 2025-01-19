@@ -1,0 +1,20 @@
+Message-ID: <1a75694ffc9d4274b6a425b5a85f7576@thyme>
+Date: Tue, 25 Feb 2003 00:00:00 -0700
+From: usuario121@example.com
+To: usuario259@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario121 <usuario121@example.com>
+X-To: Usuario259 <usuario259@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario121_folder\all_documents
+X-Origin: usuario121-P
+X-FileName: usuario121.pst
+
+I wanted to check in regarding the status of the project.
+I hope this email finds you well.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

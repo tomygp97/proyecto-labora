@@ -1,0 +1,20 @@
+Message-ID: <724d7a830a7d42d4ad2dfe404a142b95@thyme>
+Date: Sat, 10 Oct 2020 00:00:00 -0700
+From: usuario897@example.com
+To: usuario300@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario897 <usuario897@example.com>
+X-To: Usuario300 <usuario300@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario897_folder\_sent_mail
+X-Origin: usuario897-P
+X-FileName: usuario897.pst
+
+I wanted to thank you for your prompt response.
+I look forward to collaborating further on this initiative.
+I hope this email finds you well.
+----------------------------------------

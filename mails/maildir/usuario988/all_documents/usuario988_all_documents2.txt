@@ -1,0 +1,20 @@
+Message-ID: <111decd4b18a42088d31faa7c84a7615@thyme>
+Date: Thu, 17 Apr 2025 00:00:00 -0700
+From: usuario988@example.com
+To: usuario651@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario988 <usuario988@example.com>
+X-To: Usuario651 <usuario651@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario988_folder\all_documents
+X-Origin: usuario988-P
+X-FileName: usuario988.pst
+
+Looking forward to discussing the project in more detail soon.
+I look forward to collaborating further on this initiative.
+Just checking in to see if you've received my previous email.
+----------------------------------------

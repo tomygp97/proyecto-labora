@@ -1,0 +1,20 @@
+Message-ID: <eed7362b15574c32810c6cc69f1e8fc0@thyme>
+Date: Fri, 02 Oct 2009 00:00:00 -0700
+From: usuario685@example.com
+To: usuario683@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario685 <usuario685@example.com>
+X-To: Usuario683 <usuario683@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario685_folder\_sent_mail
+X-Origin: usuario685-P
+X-FileName: usuario685.pst
+
+Here are the documents I mentioned during our call.
+Just checking in to see if you've received my previous email.
+Can you please confirm receipt of the files?
+----------------------------------------

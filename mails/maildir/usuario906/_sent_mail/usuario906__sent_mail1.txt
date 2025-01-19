@@ -1,0 +1,20 @@
+Message-ID: <09f83b842c6e4c81a0ebb40d61b5efed@thyme>
+Date: Thu, 05 Mar 2015 00:00:00 -0700
+From: usuario906@example.com
+To: usuario151@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario906 <usuario906@example.com>
+X-To: Usuario151 <usuario151@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario906_folder\_sent_mail
+X-Origin: usuario906-P
+X-FileName: usuario906.pst
+
+Hope you're doing well. Here's the requested information.
+Thank you for your attention
+Just checking in to see if you've received my previous email.
+----------------------------------------

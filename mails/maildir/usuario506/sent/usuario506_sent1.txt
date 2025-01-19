@@ -1,0 +1,20 @@
+Message-ID: <15fe561c50a74782b2f4ddf7475701df@thyme>
+Date: Tue, 22 Feb 2022 00:00:00 -0700
+From: usuario506@example.com
+To: usuario616@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario506 <usuario506@example.com>
+X-To: Usuario616 <usuario616@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario506_folder\sent
+X-Origin: usuario506-P
+X-FileName: usuario506.pst
+
+I look forward to your response.
+Please review the materials at your earliest convenience.
+I look forward to collaborating further on this initiative.
+----------------------------------------

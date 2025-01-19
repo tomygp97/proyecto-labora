@@ -1,0 +1,20 @@
+Message-ID: <960b4795975b4c089aaf432549a77705@thyme>
+Date: Fri, 08 Jun 2018 00:00:00 -0700
+From: usuario797@example.com
+To: usuario595@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario797 <usuario797@example.com>
+X-To: Usuario595 <usuario595@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario797_folder\all_documents
+X-Origin: usuario797-P
+X-FileName: usuario797.pst
+
+Please review the materials at your earliest convenience.
+Please find the attached report for the last quarter
+Let me know if there's anything I can assist you with.
+----------------------------------------

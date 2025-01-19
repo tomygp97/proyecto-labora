@@ -1,0 +1,20 @@
+Message-ID: <af7dfd03513c490bacf42f109ba3183e@thyme>
+Date: Tue, 14 Feb 2012 00:00:00 -0700
+From: usuario661@example.com
+To: usuario885@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario661 <usuario661@example.com>
+X-To: Usuario885 <usuario885@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario661_folder\inbox
+X-Origin: usuario661-P
+X-FileName: usuario661.pst
+
+Hope you're doing well. Here's the requested information.
+Please review the materials at your earliest convenience.
+I look forward to your response.
+----------------------------------------

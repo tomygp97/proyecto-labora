@@ -1,0 +1,20 @@
+Message-ID: <0f610a7a425446e0a19b9b684f9cd163@thyme>
+Date: Fri, 28 Jun 2013 00:00:00 -0700
+From: usuario242@example.com
+To: usuario595@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario242 <usuario242@example.com>
+X-To: Usuario595 <usuario595@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario242_folder\_sent_mail
+X-Origin: usuario242-P
+X-FileName: usuario242.pst
+
+As discussed, I have attached the report you requested.
+I appreciate your attention to this matter.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

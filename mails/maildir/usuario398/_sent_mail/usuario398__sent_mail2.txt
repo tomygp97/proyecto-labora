@@ -1,0 +1,20 @@
+Message-ID: <11b3009ec0564458b2db49b51c3e4155@thyme>
+Date: Mon, 04 Apr 2005 00:00:00 -0700
+From: usuario398@example.com
+To: usuario428@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario398 <usuario398@example.com>
+X-To: Usuario428 <usuario428@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario398_folder\_sent_mail
+X-Origin: usuario398-P
+X-FileName: usuario398.pst
+
+Please let me know if there's anything else you need from my end.
+I wanted to confirm our meeting for tomorrow.
+Just checking in to see if you've received my previous email.
+----------------------------------------

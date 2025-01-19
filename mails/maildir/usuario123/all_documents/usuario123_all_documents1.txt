@@ -1,0 +1,20 @@
+Message-ID: <c722d50890a44ada91ad00afb12eb245@thyme>
+Date: Sat, 15 Aug 2020 00:00:00 -0700
+From: usuario123@example.com
+To: usuario27@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario123 <usuario123@example.com>
+X-To: Usuario27 <usuario27@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario123_folder\all_documents
+X-Origin: usuario123-P
+X-FileName: usuario123.pst
+
+Please find the latest updates on the project
+I have included all the necessary details in the attached report.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

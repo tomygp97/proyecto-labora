@@ -1,0 +1,20 @@
+Message-ID: <f02188b8b1184a53884b924236a74fdf@thyme>
+Date: Wed, 07 Sep 2005 00:00:00 -0700
+From: usuario622@example.com
+To: usuario498@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario622 <usuario622@example.com>
+X-To: Usuario498 <usuario498@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario622_folder\spam
+X-Origin: usuario622-P
+X-FileName: usuario622.pst
+
+I hope you're having a productive week.
+I appreciate your attention to this matter.
+Let me know if there's anything I can assist you with.
+----------------------------------------

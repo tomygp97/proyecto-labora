@@ -1,0 +1,20 @@
+Message-ID: <e23d757fd48a40fda3cec62e3063c4a4@thyme>
+Date: Tue, 25 Dec 2007 00:00:00 -0700
+From: usuario674@example.com
+To: usuario868@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario674 <usuario674@example.com>
+X-To: Usuario868 <usuario868@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario674_folder\spam
+X-Origin: usuario674-P
+X-FileName: usuario674.pst
+
+Let me know if you need any additional details.
+I appreciate your attention to this matter.
+Can you please confirm receipt of the files?
+----------------------------------------

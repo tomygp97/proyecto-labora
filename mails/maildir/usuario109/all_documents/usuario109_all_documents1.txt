@@ -1,0 +1,20 @@
+Message-ID: <dc7c2fd485b348629d466488c825b9b3@thyme>
+Date: Mon, 14 Nov 2022 00:00:00 -0700
+From: usuario109@example.com
+To: usuario981@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario109 <usuario109@example.com>
+X-To: Usuario981 <usuario981@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario109_folder\all_documents
+X-Origin: usuario109-P
+X-FileName: usuario109.pst
+
+Please find the latest updates on the project
+Here is our forecast
+Can you please confirm receipt of the files?
+----------------------------------------

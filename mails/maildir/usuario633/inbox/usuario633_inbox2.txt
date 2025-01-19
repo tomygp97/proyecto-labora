@@ -1,0 +1,20 @@
+Message-ID: <221b2c3a5bcd4f598e58177a50c86677@thyme>
+Date: Thu, 14 Jul 2016 00:00:00 -0700
+From: usuario633@example.com
+To: usuario351@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario633 <usuario633@example.com>
+X-To: Usuario351 <usuario351@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario633_folder\inbox
+X-Origin: usuario633-P
+X-FileName: usuario633.pst
+
+Please find the latest updates on the project
+I wanted to follow up on our last meeting
+Please let me know if there are any issues with the attached files.
+----------------------------------------

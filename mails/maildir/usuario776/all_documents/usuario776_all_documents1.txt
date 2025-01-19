@@ -1,0 +1,20 @@
+Message-ID: <e16580d06efe4da99120ab7160e61a63@thyme>
+Date: Sun, 15 May 2016 00:00:00 -0700
+From: usuario776@example.com
+To: usuario689@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario776 <usuario776@example.com>
+X-To: Usuario689 <usuario689@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario776_folder\all_documents
+X-Origin: usuario776-P
+X-FileName: usuario776.pst
+
+Please let me know if there are any changes to the schedule.
+Here is our forecast
+Please let me know if there's anything else you need from my end.
+----------------------------------------

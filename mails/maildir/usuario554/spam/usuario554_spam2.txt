@@ -1,0 +1,20 @@
+Message-ID: <8fd3ea78604f4184988c7dbaf5aaf85b@thyme>
+Date: Thu, 23 Aug 2012 00:00:00 -0700
+From: usuario554@example.com
+To: usuario462@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario554 <usuario554@example.com>
+X-To: Usuario462 <usuario462@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario554_folder\spam
+X-Origin: usuario554-P
+X-FileName: usuario554.pst
+
+Please find the latest updates on the project
+Please let me know if there are any issues with the attached files.
+I hope you're enjoying a nice week so far.
+----------------------------------------

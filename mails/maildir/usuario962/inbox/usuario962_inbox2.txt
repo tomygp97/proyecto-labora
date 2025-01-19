@@ -1,0 +1,20 @@
+Message-ID: <85372c82dfc84ad4b32c61a4aa452abc@thyme>
+Date: Wed, 09 Aug 2006 00:00:00 -0700
+From: usuario962@example.com
+To: usuario846@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario962 <usuario962@example.com>
+X-To: Usuario846 <usuario846@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario962_folder\inbox
+X-Origin: usuario962-P
+X-FileName: usuario962.pst
+
+Let me know if you need any additional details.
+Just wanted to touch base on the upcoming project milestone.
+Can you please confirm receipt of the files?
+----------------------------------------

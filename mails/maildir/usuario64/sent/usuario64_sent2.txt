@@ -1,0 +1,20 @@
+Message-ID: <cc0933a2c9044cc483330c2bcd617d9b@thyme>
+Date: Fri, 24 Oct 2025 00:00:00 -0700
+From: usuario64@example.com
+To: usuario460@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario64 <usuario64@example.com>
+X-To: Usuario460 <usuario460@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario64_folder\sent
+X-Origin: usuario64-P
+X-FileName: usuario64.pst
+
+Please review the materials at your earliest convenience.
+Please review the attached files and provide feedback.
+Here are the next steps we need to take.
+----------------------------------------

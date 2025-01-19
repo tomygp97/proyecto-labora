@@ -1,0 +1,20 @@
+Message-ID: <56da1160f4dd41d59730de0d3e7d0d52@thyme>
+Date: Tue, 19 Apr 2005 00:00:00 -0700
+From: usuario158@example.com
+To: usuario999@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario158 <usuario158@example.com>
+X-To: Usuario999 <usuario999@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario158_folder\inbox
+X-Origin: usuario158-P
+X-FileName: usuario158.pst
+
+I wanted to give you an update on the status of the project.
+I hope you're having a productive week.
+Please review the materials at your earliest convenience.
+----------------------------------------

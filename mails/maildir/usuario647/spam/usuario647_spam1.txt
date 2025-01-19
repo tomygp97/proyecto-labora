@@ -1,0 +1,20 @@
+Message-ID: <85a92a42a9d04bba8793b489ca31392b@thyme>
+Date: Wed, 05 Nov 2008 00:00:00 -0700
+From: usuario647@example.com
+To: usuario412@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario647 <usuario647@example.com>
+X-To: Usuario412 <usuario412@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario647_folder\spam
+X-Origin: usuario647-P
+X-FileName: usuario647.pst
+
+Please find the latest updates on the project
+I have included all the necessary details in the attached report.
+I hope this email finds you well.
+----------------------------------------

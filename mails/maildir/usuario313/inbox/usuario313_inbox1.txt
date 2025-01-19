@@ -1,0 +1,20 @@
+Message-ID: <05f7ba5c4f284442971666d575abbd12@thyme>
+Date: Tue, 09 Apr 2019 00:00:00 -0700
+From: usuario313@example.com
+To: usuario743@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario313 <usuario313@example.com>
+X-To: Usuario743 <usuario743@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario313_folder\inbox
+X-Origin: usuario313-P
+X-FileName: usuario313.pst
+
+Please review the materials at your earliest convenience.
+Hope everything is going well on your end.
+As discussed, I have attached the report you requested.
+----------------------------------------

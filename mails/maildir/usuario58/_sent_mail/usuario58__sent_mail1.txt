@@ -1,0 +1,20 @@
+Message-ID: <0338810d8c0f48778ec1174345e10fa5@thyme>
+Date: Sat, 30 Mar 2019 00:00:00 -0700
+From: usuario58@example.com
+To: usuario329@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario58 <usuario58@example.com>
+X-To: Usuario329 <usuario329@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario58_folder\_sent_mail
+X-Origin: usuario58-P
+X-FileName: usuario58.pst
+
+I would love to hear your feedback on the proposal.
+I wanted to confirm our meeting for tomorrow.
+I appreciate your attention to this matter.
+----------------------------------------

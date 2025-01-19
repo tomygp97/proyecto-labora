@@ -1,0 +1,20 @@
+Message-ID: <ed500edb64ba491bb5bd655652219e38@thyme>
+Date: Tue, 19 Nov 2024 00:00:00 -0700
+From: usuario837@example.com
+To: usuario76@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario837 <usuario837@example.com>
+X-To: Usuario76 <usuario76@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario837_folder\all_documents
+X-Origin: usuario837-P
+X-FileName: usuario837.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+I wanted to thank you for your prompt response.
+Can you please confirm receipt of the files?
+----------------------------------------

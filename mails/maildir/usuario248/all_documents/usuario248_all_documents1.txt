@@ -1,0 +1,20 @@
+Message-ID: <e10d7313b12b416e81633acc0a1f2530@thyme>
+Date: Sat, 08 Jul 2023 00:00:00 -0700
+From: usuario248@example.com
+To: usuario168@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario248 <usuario248@example.com>
+X-To: Usuario168 <usuario168@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario248_folder\all_documents
+X-Origin: usuario248-P
+X-FileName: usuario248.pst
+
+I look forward to collaborating further on this initiative.
+Here is a summary of the last meeting for your reference.
+Thank you for your attention
+----------------------------------------

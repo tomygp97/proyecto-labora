@@ -1,0 +1,20 @@
+Message-ID: <ac91885d028c4ec48f254ba87d851616@thyme>
+Date: Tue, 03 Jul 2012 00:00:00 -0700
+From: usuario748@example.com
+To: usuario65@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario748 <usuario748@example.com>
+X-To: Usuario65 <usuario65@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario748_folder\spam
+X-Origin: usuario748-P
+X-FileName: usuario748.pst
+
+I wanted to confirm our meeting for tomorrow.
+Looking forward to discussing the project in more detail soon.
+Here are the results from the analysis we discussed.
+----------------------------------------

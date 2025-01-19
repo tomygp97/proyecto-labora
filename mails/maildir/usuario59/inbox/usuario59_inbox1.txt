@@ -1,0 +1,20 @@
+Message-ID: <3de3619b3aae41e8ae4e7547bacf9251@thyme>
+Date: Fri, 20 Apr 2018 00:00:00 -0700
+From: usuario59@example.com
+To: usuario870@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario59 <usuario59@example.com>
+X-To: Usuario870 <usuario870@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario59_folder\inbox
+X-Origin: usuario59-P
+X-FileName: usuario59.pst
+
+Looking forward to discussing the project in more detail soon.
+Please review the materials at your earliest convenience.
+I hope this email finds you well.
+----------------------------------------

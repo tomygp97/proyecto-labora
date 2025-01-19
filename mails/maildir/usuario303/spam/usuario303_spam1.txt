@@ -1,0 +1,20 @@
+Message-ID: <15e362b8ef4848cb852ff6c7e408b1d6@thyme>
+Date: Tue, 14 Oct 2025 00:00:00 -0700
+From: usuario303@example.com
+To: usuario652@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario303 <usuario303@example.com>
+X-To: Usuario652 <usuario652@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario303_folder\spam
+X-Origin: usuario303-P
+X-FileName: usuario303.pst
+
+Here are the results from the analysis we discussed.
+Please find the latest updates on the project
+Can you please confirm receipt of the files?
+----------------------------------------

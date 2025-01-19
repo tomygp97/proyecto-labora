@@ -1,0 +1,20 @@
+Message-ID: <b8118e599848428abbcc2d0b91937ec2@thyme>
+Date: Tue, 02 Feb 2016 00:00:00 -0700
+From: usuario285@example.com
+To: usuario49@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario285 <usuario285@example.com>
+X-To: Usuario49 <usuario49@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario285_folder\_sent_mail
+X-Origin: usuario285-P
+X-FileName: usuario285.pst
+
+Here are the next steps we need to take.
+Please review the attached files and provide feedback.
+As discussed, I have attached the report you requested.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <6cb26f91c37e4828ba8106b7f09aa9a9@thyme>
+Date: Sat, 02 Apr 2011 00:00:00 -0700
+From: usuario947@example.com
+To: usuario56@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario947 <usuario947@example.com>
+X-To: Usuario56 <usuario56@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario947_folder\spam
+X-Origin: usuario947-P
+X-FileName: usuario947.pst
+
+Here are the next steps we need to take.
+Looking forward to hearing from you soon
+Hope you're doing well. Here's the requested information.
+----------------------------------------

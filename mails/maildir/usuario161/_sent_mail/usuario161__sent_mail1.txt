@@ -1,0 +1,20 @@
+Message-ID: <b07664648dd3427ab3f85353dadf093c@thyme>
+Date: Mon, 20 Nov 2023 00:00:00 -0700
+From: usuario161@example.com
+To: usuario451@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario161 <usuario161@example.com>
+X-To: Usuario451 <usuario451@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario161_folder\_sent_mail
+X-Origin: usuario161-P
+X-FileName: usuario161.pst
+
+Please find the latest updates on the project
+I trust the documents will be helpful for our upcoming discussion.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

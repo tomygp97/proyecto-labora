@@ -1,0 +1,20 @@
+Message-ID: <d4ad2ad0043944619fcf6e7c36ade82b@thyme>
+Date: Tue, 17 Oct 2023 00:00:00 -0700
+From: usuario886@example.com
+To: usuario300@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario886 <usuario886@example.com>
+X-To: Usuario300 <usuario300@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario886_folder\_sent_mail
+X-Origin: usuario886-P
+X-FileName: usuario886.pst
+
+Here is our forecast
+I wanted to give you an update on the status of the project.
+I appreciate your attention to this matter.
+----------------------------------------

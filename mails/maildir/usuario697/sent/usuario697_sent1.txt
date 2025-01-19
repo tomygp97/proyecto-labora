@@ -1,0 +1,20 @@
+Message-ID: <99337d7664e04d18887b2d1a800d3980@thyme>
+Date: Sat, 12 Mar 2016 00:00:00 -0700
+From: usuario697@example.com
+To: usuario772@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario697 <usuario697@example.com>
+X-To: Usuario772 <usuario772@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario697_folder\sent
+X-Origin: usuario697-P
+X-FileName: usuario697.pst
+
+Please let me know if there are any changes to the schedule.
+I wanted to thank you for your prompt response.
+I hope you're enjoying a nice week so far.
+----------------------------------------

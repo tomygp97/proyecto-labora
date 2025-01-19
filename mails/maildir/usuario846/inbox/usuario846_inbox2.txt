@@ -1,0 +1,20 @@
+Message-ID: <fc0a0d8b3bdd4dc99e1d1553bf1d83d0@thyme>
+Date: Wed, 25 Jan 2023 00:00:00 -0700
+From: usuario846@example.com
+To: usuario305@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario846 <usuario846@example.com>
+X-To: Usuario305 <usuario305@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario846_folder\inbox
+X-Origin: usuario846-P
+X-FileName: usuario846.pst
+
+Looking forward to hearing from you soon
+Just checking in to see if you've received my previous email.
+I look forward to your response.
+----------------------------------------

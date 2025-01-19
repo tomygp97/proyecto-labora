@@ -1,0 +1,20 @@
+Message-ID: <02be8aa5c61449b4b8ad991a33d9c8fa@thyme>
+Date: Fri, 27 Jan 2017 00:00:00 -0700
+From: usuario272@example.com
+To: usuario328@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario272 <usuario272@example.com>
+X-To: Usuario328 <usuario328@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario272_folder\sent
+X-Origin: usuario272-P
+X-FileName: usuario272.pst
+
+Please find the attached report for the last quarter
+Here is our forecast
+Here are the results from the analysis we discussed.
+----------------------------------------

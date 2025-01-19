@@ -1,0 +1,20 @@
+Message-ID: <f29094e3cc7f43b7b69d9aeff00b863f@thyme>
+Date: Thu, 02 Jun 2022 00:00:00 -0700
+From: usuario42@example.com
+To: usuario934@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario42 <usuario42@example.com>
+X-To: Usuario934 <usuario934@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario42_folder\inbox
+X-Origin: usuario42-P
+X-FileName: usuario42.pst
+
+Here are the next steps we need to take.
+I wanted to give you an update on the status of the project.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

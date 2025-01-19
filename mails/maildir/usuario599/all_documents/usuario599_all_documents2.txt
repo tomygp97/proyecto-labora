@@ -1,0 +1,20 @@
+Message-ID: <a1efc74a3af24410acbe233ab27b1f02@thyme>
+Date: Tue, 30 Apr 2019 00:00:00 -0700
+From: usuario599@example.com
+To: usuario840@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario599 <usuario599@example.com>
+X-To: Usuario840 <usuario840@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario599_folder\all_documents
+X-Origin: usuario599-P
+X-FileName: usuario599.pst
+
+I look forward to your response.
+I wanted to confirm our meeting for tomorrow.
+I wanted to thank you for your prompt response.
+----------------------------------------

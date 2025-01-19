@@ -1,0 +1,20 @@
+Message-ID: <b4bd95789f114c55879c06d9b2bd9c91@thyme>
+Date: Fri, 28 Apr 2023 00:00:00 -0700
+From: usuario470@example.com
+To: usuario705@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario470 <usuario470@example.com>
+X-To: Usuario705 <usuario705@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario470_folder\_sent_mail
+X-Origin: usuario470-P
+X-FileName: usuario470.pst
+
+Looking forward to discussing the project in more detail soon.
+Can you please confirm receipt of the files?
+Please let me know if there are any changes to the schedule.
+----------------------------------------

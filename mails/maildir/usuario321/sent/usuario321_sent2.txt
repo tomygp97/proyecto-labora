@@ -1,0 +1,20 @@
+Message-ID: <8df974c1c704449789bac8b8b6e963cf@thyme>
+Date: Sat, 18 Feb 2017 00:00:00 -0700
+From: usuario321@example.com
+To: usuario783@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario321 <usuario321@example.com>
+X-To: Usuario783 <usuario783@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario321_folder\sent
+X-Origin: usuario321-P
+X-FileName: usuario321.pst
+
+Here are the next steps we need to take.
+I look forward to your response.
+Please review the materials at your earliest convenience.
+----------------------------------------

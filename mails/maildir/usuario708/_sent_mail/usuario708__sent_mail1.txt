@@ -1,0 +1,20 @@
+Message-ID: <e8c29c429f2d4c89ab86e254e53c4792@thyme>
+Date: Tue, 03 Jan 2023 00:00:00 -0700
+From: usuario708@example.com
+To: usuario968@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario708 <usuario708@example.com>
+X-To: Usuario968 <usuario968@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario708_folder\_sent_mail
+X-Origin: usuario708-P
+X-FileName: usuario708.pst
+
+I have included all the necessary details in the attached report.
+Here is our forecast
+Please let me know if there's anything else you need from my end.
+----------------------------------------

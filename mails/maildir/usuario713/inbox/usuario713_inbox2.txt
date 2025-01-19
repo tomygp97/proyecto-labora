@@ -1,0 +1,20 @@
+Message-ID: <70456280c39947e791422df706035d89@thyme>
+Date: Sat, 07 May 2016 00:00:00 -0700
+From: usuario713@example.com
+To: usuario683@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario713 <usuario713@example.com>
+X-To: Usuario683 <usuario683@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario713_folder\inbox
+X-Origin: usuario713-P
+X-FileName: usuario713.pst
+
+I hope this email finds you well.
+Please review the attached files and provide feedback.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <39ad0e2099384b03b6f9b283e8638d38@thyme>
+Date: Mon, 13 Oct 2025 00:00:00 -0700
+From: usuario904@example.com
+To: usuario597@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario904 <usuario904@example.com>
+X-To: Usuario597 <usuario597@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario904_folder\_sent_mail
+X-Origin: usuario904-P
+X-FileName: usuario904.pst
+
+Please find the attached report for the last quarter
+I would love to hear your feedback on the proposal.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

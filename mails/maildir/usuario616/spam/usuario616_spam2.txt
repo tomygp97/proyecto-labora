@@ -1,0 +1,20 @@
+Message-ID: <659e778e4b664ac8841a2823ff8d4535@thyme>
+Date: Mon, 19 Feb 2007 00:00:00 -0700
+From: usuario616@example.com
+To: usuario366@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario616 <usuario616@example.com>
+X-To: Usuario366 <usuario366@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario616_folder\spam
+X-Origin: usuario616-P
+X-FileName: usuario616.pst
+
+As discussed, I have attached the report you requested.
+Just checking in to see if you've received my previous email.
+I wanted to follow up on our last meeting
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <ec88510f09c6481aab79168f5321cd47@thyme>
+Date: Fri, 30 Dec 2016 00:00:00 -0700
+From: usuario309@example.com
+To: usuario109@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario309 <usuario309@example.com>
+X-To: Usuario109 <usuario109@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario309_folder\_sent_mail
+X-Origin: usuario309-P
+X-FileName: usuario309.pst
+
+I wanted to follow up on our last meeting
+Just checking in to see if you've received my previous email.
+Please review the materials at your earliest convenience.
+----------------------------------------

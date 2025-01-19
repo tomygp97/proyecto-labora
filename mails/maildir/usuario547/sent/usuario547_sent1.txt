@@ -1,0 +1,20 @@
+Message-ID: <9bdcef5a4ff144f2aa4428b32ef15954@thyme>
+Date: Mon, 02 Apr 2007 00:00:00 -0700
+From: usuario547@example.com
+To: usuario127@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario547 <usuario547@example.com>
+X-To: Usuario127 <usuario127@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario547_folder\sent
+X-Origin: usuario547-P
+X-FileName: usuario547.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here is a summary of the last meeting for your reference.
+Please review the materials at your earliest convenience.
+----------------------------------------

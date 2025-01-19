@@ -1,0 +1,20 @@
+Message-ID: <5f6dd289c3254631bf49e8c9bf10503d@thyme>
+Date: Mon, 01 Feb 2010 00:00:00 -0700
+From: usuario360@example.com
+To: usuario89@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario360 <usuario360@example.com>
+X-To: Usuario89 <usuario89@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario360_folder\inbox
+X-Origin: usuario360-P
+X-FileName: usuario360.pst
+
+I hope you're having a productive week.
+As discussed, I have attached the report you requested.
+Here are the results from the analysis we discussed.
+----------------------------------------

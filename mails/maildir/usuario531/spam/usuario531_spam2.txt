@@ -1,0 +1,20 @@
+Message-ID: <51d8a7fff3b84a199b5a4edae6dfe0a4@thyme>
+Date: Mon, 20 Sep 2004 00:00:00 -0700
+From: usuario531@example.com
+To: usuario182@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario531 <usuario531@example.com>
+X-To: Usuario182 <usuario182@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario531_folder\spam
+X-Origin: usuario531-P
+X-FileName: usuario531.pst
+
+Please find the attached report for the last quarter
+I wanted to remind you about the upcoming deadline.
+Let me know if you need any additional details.
+----------------------------------------

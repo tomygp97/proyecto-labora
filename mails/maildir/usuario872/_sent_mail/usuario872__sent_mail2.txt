@@ -1,0 +1,20 @@
+Message-ID: <7152d370e71c40e89580db674360c7ae@thyme>
+Date: Sun, 30 Oct 2022 00:00:00 -0700
+From: usuario872@example.com
+To: usuario423@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario872 <usuario872@example.com>
+X-To: Usuario423 <usuario423@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario872_folder\_sent_mail
+X-Origin: usuario872-P
+X-FileName: usuario872.pst
+
+Can you please confirm receipt of the files?
+Please find the attached report for the last quarter
+Please let me know if there are any changes to the schedule.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <cba0dbdf1cf44a898fc38d50c10b96a9@thyme>
+Date: Sat, 13 Apr 2002 00:00:00 -0700
+From: usuario392@example.com
+To: usuario311@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario392 <usuario392@example.com>
+X-To: Usuario311 <usuario311@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario392_folder\all_documents
+X-Origin: usuario392-P
+X-FileName: usuario392.pst
+
+I wanted to thank you for your prompt response.
+Here is a summary of the last meeting for your reference.
+I wanted to follow up on our last meeting
+----------------------------------------

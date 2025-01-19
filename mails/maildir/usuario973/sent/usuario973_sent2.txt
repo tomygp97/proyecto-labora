@@ -1,0 +1,20 @@
+Message-ID: <73b5291ee94a4f76a621f33c6a2a4021@thyme>
+Date: Mon, 10 Apr 2006 00:00:00 -0700
+From: usuario973@example.com
+To: usuario955@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario973 <usuario973@example.com>
+X-To: Usuario955 <usuario955@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario973_folder\sent
+X-Origin: usuario973-P
+X-FileName: usuario973.pst
+
+Looking forward to discussing the project in more detail soon.
+Here is our forecast
+Can you please confirm receipt of the files?
+----------------------------------------

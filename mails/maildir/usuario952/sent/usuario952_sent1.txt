@@ -1,0 +1,20 @@
+Message-ID: <808b11385f364454b4b5f9c6093709e9@thyme>
+Date: Tue, 24 Apr 2001 00:00:00 -0700
+From: usuario952@example.com
+To: usuario553@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario952 <usuario952@example.com>
+X-To: Usuario553 <usuario553@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario952_folder\sent
+X-Origin: usuario952-P
+X-FileName: usuario952.pst
+
+I hope you're having a productive week.
+Here are the results from the analysis we discussed.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <2720915099ac42388f2a8bfce45b0da7@thyme>
+Date: Wed, 24 Jan 2001 00:00:00 -0700
+From: usuario792@example.com
+To: usuario116@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario792 <usuario792@example.com>
+X-To: Usuario116 <usuario116@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario792_folder\spam
+X-Origin: usuario792-P
+X-FileName: usuario792.pst
+
+Please don't hesitate to reach out if you need any help.
+I wanted to remind you about the upcoming deadline.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

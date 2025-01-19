@@ -1,0 +1,20 @@
+Message-ID: <a461c5742ae049ba8b59070fc85387fe@thyme>
+Date: Mon, 19 Mar 2007 00:00:00 -0700
+From: usuario27@example.com
+To: usuario918@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario27 <usuario27@example.com>
+X-To: Usuario918 <usuario918@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario27_folder\all_documents
+X-Origin: usuario27-P
+X-FileName: usuario27.pst
+
+Just checking in to see if you've received my previous email.
+I have included all the necessary details in the attached report.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

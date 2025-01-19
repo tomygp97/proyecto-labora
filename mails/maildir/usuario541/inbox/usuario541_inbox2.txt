@@ -1,0 +1,20 @@
+Message-ID: <084f9663c6274c3a84ff77b4107eb7ee@thyme>
+Date: Wed, 01 Jul 2020 00:00:00 -0700
+From: usuario541@example.com
+To: usuario868@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario541 <usuario541@example.com>
+X-To: Usuario868 <usuario868@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario541_folder\inbox
+X-Origin: usuario541-P
+X-FileName: usuario541.pst
+
+I appreciate your attention to this matter.
+I hope you're enjoying a nice week so far.
+Please find the latest updates on the project
+----------------------------------------

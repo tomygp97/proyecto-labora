@@ -1,0 +1,20 @@
+Message-ID: <d16e17344a4c45a19c2a72ca07726755@thyme>
+Date: Mon, 23 Jul 2007 00:00:00 -0700
+From: usuario874@example.com
+To: usuario202@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario874 <usuario874@example.com>
+X-To: Usuario202 <usuario202@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario874_folder\sent
+X-Origin: usuario874-P
+X-FileName: usuario874.pst
+
+Thank you for your attention
+Please review the attached files and provide feedback.
+I have included all the necessary details in the attached report.
+----------------------------------------

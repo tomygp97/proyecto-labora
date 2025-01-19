@@ -1,0 +1,20 @@
+Message-ID: <18cef846ef634d51b6410cf911808f67@thyme>
+Date: Sat, 02 Nov 2024 00:00:00 -0700
+From: usuario183@example.com
+To: usuario513@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario183 <usuario183@example.com>
+X-To: Usuario513 <usuario513@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario183_folder\spam
+X-Origin: usuario183-P
+X-FileName: usuario183.pst
+
+Just checking in to see if you've received my previous email.
+Here are the results from the analysis we discussed.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

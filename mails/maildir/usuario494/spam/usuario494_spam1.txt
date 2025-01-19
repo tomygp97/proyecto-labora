@@ -1,0 +1,20 @@
+Message-ID: <c9754fc5490f449e964316940cc9119c@thyme>
+Date: Mon, 27 Aug 2018 00:00:00 -0700
+From: usuario494@example.com
+To: usuario269@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario494 <usuario494@example.com>
+X-To: Usuario269 <usuario269@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario494_folder\spam
+X-Origin: usuario494-P
+X-FileName: usuario494.pst
+
+I would love to hear your feedback on the proposal.
+Please review the materials at your earliest convenience.
+Hope everything is going well on your end.
+----------------------------------------

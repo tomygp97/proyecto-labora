@@ -1,0 +1,20 @@
+Message-ID: <634ffdc5de9d47aa8bd22a40b571fed7@thyme>
+Date: Sun, 30 Mar 2025 00:00:00 -0700
+From: usuario593@example.com
+To: usuario977@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario593 <usuario593@example.com>
+X-To: Usuario977 <usuario977@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario593_folder\spam
+X-Origin: usuario593-P
+X-FileName: usuario593.pst
+
+Here is a summary of the last meeting for your reference.
+I look forward to your response.
+Please find the latest updates on the project
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4b9f3655d11a49e9aab4f2fe15a72066@thyme>
+Date: Sun, 23 Jul 2017 00:00:00 -0700
+From: usuario347@example.com
+To: usuario270@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario347 <usuario347@example.com>
+X-To: Usuario270 <usuario270@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario347_folder\_sent_mail
+X-Origin: usuario347-P
+X-FileName: usuario347.pst
+
+Let me know if there's anything I can assist you with.
+I hope this email finds you well.
+I wanted to check in regarding the status of the project.
+----------------------------------------

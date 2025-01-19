@@ -1,0 +1,20 @@
+Message-ID: <e8c3657b9965431ea7cda3d596997565@thyme>
+Date: Thu, 25 Jan 2018 00:00:00 -0700
+From: usuario742@example.com
+To: usuario402@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario742 <usuario742@example.com>
+X-To: Usuario402 <usuario402@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario742_folder\spam
+X-Origin: usuario742-P
+X-FileName: usuario742.pst
+
+Here are the documents I mentioned during our call.
+I look forward to your response.
+Looking forward to hearing from you soon
+----------------------------------------

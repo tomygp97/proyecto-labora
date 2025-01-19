@@ -1,0 +1,20 @@
+Message-ID: <fc308ff28868402c84667853c302e87d@thyme>
+Date: Wed, 18 Dec 2002 00:00:00 -0700
+From: usuario672@example.com
+To: usuario822@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario672 <usuario672@example.com>
+X-To: Usuario822 <usuario822@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario672_folder\inbox
+X-Origin: usuario672-P
+X-FileName: usuario672.pst
+
+Thank you for your attention
+Here is our forecast
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

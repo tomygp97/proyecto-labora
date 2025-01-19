@@ -1,0 +1,20 @@
+Message-ID: <4cc0726c69754a278355cc3162990012@thyme>
+Date: Sun, 25 Jun 2000 00:00:00 -0700
+From: usuario148@example.com
+To: usuario947@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario148 <usuario148@example.com>
+X-To: Usuario947 <usuario947@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario148_folder\_sent_mail
+X-Origin: usuario148-P
+X-FileName: usuario148.pst
+
+Please let me know if there are any issues with the attached files.
+Can you please confirm receipt of the files?
+Please review the materials at your earliest convenience.
+----------------------------------------

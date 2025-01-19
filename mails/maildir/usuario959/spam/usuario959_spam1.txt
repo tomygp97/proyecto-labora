@@ -1,0 +1,20 @@
+Message-ID: <8cca804a9a554641a691e33ddd94f5ba@thyme>
+Date: Mon, 06 Feb 2017 00:00:00 -0700
+From: usuario959@example.com
+To: usuario895@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario959 <usuario959@example.com>
+X-To: Usuario895 <usuario895@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario959_folder\spam
+X-Origin: usuario959-P
+X-FileName: usuario959.pst
+
+I hope this email finds you well.
+Looking forward to hearing from you soon
+Hope you're doing well. Here's the requested information.
+----------------------------------------

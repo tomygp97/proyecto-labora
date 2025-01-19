@@ -1,0 +1,20 @@
+Message-ID: <c0bbfe3380c24ebb9434353ede9120bb@thyme>
+Date: Wed, 30 May 2001 00:00:00 -0700
+From: usuario887@example.com
+To: usuario458@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario887 <usuario887@example.com>
+X-To: Usuario458 <usuario458@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario887_folder\sent
+X-Origin: usuario887-P
+X-FileName: usuario887.pst
+
+I look forward to collaborating further on this initiative.
+I have included all the necessary details in the attached report.
+Let me know if you need any additional details.
+----------------------------------------

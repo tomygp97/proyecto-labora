@@ -1,0 +1,20 @@
+Message-ID: <46fe097ade34476ea8826a04a2896462@thyme>
+Date: Thu, 08 Dec 2005 00:00:00 -0700
+From: usuario294@example.com
+To: usuario118@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario294 <usuario294@example.com>
+X-To: Usuario118 <usuario118@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario294_folder\spam
+X-Origin: usuario294-P
+X-FileName: usuario294.pst
+
+Looking forward to discussing the project in more detail soon.
+Let me know if you need any additional details.
+I hope you're enjoying a nice week so far.
+----------------------------------------

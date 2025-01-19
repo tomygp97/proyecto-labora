@@ -1,0 +1,20 @@
+Message-ID: <ffa673d70bae4e00b65350f8d62da9a0@thyme>
+Date: Thu, 15 Sep 2022 00:00:00 -0700
+From: usuario672@example.com
+To: usuario628@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario672 <usuario672@example.com>
+X-To: Usuario628 <usuario628@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario672_folder\sent
+X-Origin: usuario672-P
+X-FileName: usuario672.pst
+
+I wanted to remind you about the upcoming deadline.
+Looking forward to discussing the project in more detail soon.
+Looking forward to hearing from you soon
+----------------------------------------

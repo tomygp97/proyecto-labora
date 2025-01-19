@@ -1,0 +1,20 @@
+Message-ID: <ba546973623a49a7b0f3522e73c56fe2@thyme>
+Date: Mon, 19 Apr 2021 00:00:00 -0700
+From: usuario322@example.com
+To: usuario847@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario322 <usuario322@example.com>
+X-To: Usuario847 <usuario847@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario322_folder\all_documents
+X-Origin: usuario322-P
+X-FileName: usuario322.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Hope you're doing well. Here's the requested information.
+Please find the attached report for the last quarter
+----------------------------------------

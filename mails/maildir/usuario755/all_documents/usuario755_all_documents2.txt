@@ -1,0 +1,20 @@
+Message-ID: <20e9d93c33db4774975decbf3ad2d998@thyme>
+Date: Wed, 03 May 2017 00:00:00 -0700
+From: usuario755@example.com
+To: usuario884@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario755 <usuario755@example.com>
+X-To: Usuario884 <usuario884@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario755_folder\all_documents
+X-Origin: usuario755-P
+X-FileName: usuario755.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Please let me know if there are any changes to the schedule.
+As discussed, I have attached the report you requested.
+----------------------------------------

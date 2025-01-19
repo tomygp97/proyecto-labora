@@ -1,0 +1,20 @@
+Message-ID: <93a2b9fbf21548df8697b83d43716428@thyme>
+Date: Tue, 13 Nov 2012 00:00:00 -0700
+From: usuario746@example.com
+To: usuario905@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario746 <usuario746@example.com>
+X-To: Usuario905 <usuario905@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario746_folder\sent
+X-Origin: usuario746-P
+X-FileName: usuario746.pst
+
+As discussed, I have attached the report you requested.
+Let me know if you need any additional details.
+I hope you're enjoying a nice week so far.
+----------------------------------------

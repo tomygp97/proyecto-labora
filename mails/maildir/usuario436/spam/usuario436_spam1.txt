@@ -1,0 +1,20 @@
+Message-ID: <09e60db6e42743978b688f557496b5b7@thyme>
+Date: Fri, 11 Mar 2005 00:00:00 -0700
+From: usuario436@example.com
+To: usuario420@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario436 <usuario436@example.com>
+X-To: Usuario420 <usuario420@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario436_folder\spam
+X-Origin: usuario436-P
+X-FileName: usuario436.pst
+
+Here are the documents I mentioned during our call.
+I wanted to thank you for your prompt response.
+As discussed, I have attached the report you requested.
+----------------------------------------

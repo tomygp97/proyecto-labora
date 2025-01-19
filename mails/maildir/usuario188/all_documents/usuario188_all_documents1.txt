@@ -1,0 +1,20 @@
+Message-ID: <7b888dbaaac346e7b9d340a1b1f9def9@thyme>
+Date: Fri, 18 May 2018 00:00:00 -0700
+From: usuario188@example.com
+To: usuario666@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario188 <usuario188@example.com>
+X-To: Usuario666 <usuario666@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario188_folder\all_documents
+X-Origin: usuario188-P
+X-FileName: usuario188.pst
+
+Let me know if there's anything I can assist you with.
+Here are the documents I mentioned during our call.
+Here is our forecast
+----------------------------------------

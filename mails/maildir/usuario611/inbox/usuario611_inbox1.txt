@@ -1,0 +1,20 @@
+Message-ID: <0443157962f34a54825ec28532e4421f@thyme>
+Date: Tue, 10 Jun 2014 00:00:00 -0700
+From: usuario611@example.com
+To: usuario838@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario611 <usuario611@example.com>
+X-To: Usuario838 <usuario838@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario611_folder\inbox
+X-Origin: usuario611-P
+X-FileName: usuario611.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I wanted to give you an update on the status of the project.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

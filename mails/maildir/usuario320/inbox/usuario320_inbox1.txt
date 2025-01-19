@@ -1,0 +1,20 @@
+Message-ID: <5e714047a94340a4b71bbe31664ad561@thyme>
+Date: Sat, 13 Apr 2002 00:00:00 -0700
+From: usuario320@example.com
+To: usuario870@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario320 <usuario320@example.com>
+X-To: Usuario870 <usuario870@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario320_folder\inbox
+X-Origin: usuario320-P
+X-FileName: usuario320.pst
+
+I look forward to collaborating further on this initiative.
+Thank you for your attention
+Here is our forecast
+----------------------------------------

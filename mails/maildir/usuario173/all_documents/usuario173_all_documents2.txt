@@ -1,0 +1,20 @@
+Message-ID: <12894e9d2f774de7bcda1a2cee48d72d@thyme>
+Date: Thu, 16 Jun 2005 00:00:00 -0700
+From: usuario173@example.com
+To: usuario679@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario173 <usuario173@example.com>
+X-To: Usuario679 <usuario679@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario173_folder\all_documents
+X-Origin: usuario173-P
+X-FileName: usuario173.pst
+
+I hope you're enjoying a nice week so far.
+Please let me know if there are any issues with the attached files.
+I hope you're having a productive week.
+----------------------------------------

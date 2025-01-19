@@ -1,0 +1,20 @@
+Message-ID: <c7303f1d62ee4449b2893eb2d4f4e3a8@thyme>
+Date: Wed, 11 Nov 2020 00:00:00 -0700
+From: usuario404@example.com
+To: usuario200@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario404 <usuario404@example.com>
+X-To: Usuario200 <usuario200@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario404_folder\inbox
+X-Origin: usuario404-P
+X-FileName: usuario404.pst
+
+Please review the materials at your earliest convenience.
+As discussed, I have attached the report you requested.
+I wanted to follow up on our last meeting
+----------------------------------------

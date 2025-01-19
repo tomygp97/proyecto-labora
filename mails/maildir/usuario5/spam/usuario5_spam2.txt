@@ -1,0 +1,20 @@
+Message-ID: <d0ebbdaa964a429a8b3fefac892f67c8@thyme>
+Date: Tue, 14 Nov 2000 00:00:00 -0700
+From: usuario5@example.com
+To: usuario404@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario5 <usuario5@example.com>
+X-To: Usuario404 <usuario404@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario5_folder\spam
+X-Origin: usuario5-P
+X-FileName: usuario5.pst
+
+I hope this email finds you well.
+Please let me know if there's anything else you need from my end.
+As discussed, I have attached the report you requested.
+----------------------------------------

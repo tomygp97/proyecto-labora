@@ -1,0 +1,20 @@
+Message-ID: <1ed1ec3d7b5441259e403a54fba9654a@thyme>
+Date: Mon, 04 Mar 2024 00:00:00 -0700
+From: usuario431@example.com
+To: usuario7@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario431 <usuario431@example.com>
+X-To: Usuario7 <usuario7@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario431_folder\inbox
+X-Origin: usuario431-P
+X-FileName: usuario431.pst
+
+Here are the results from the analysis we discussed.
+I wanted to thank you for your prompt response.
+I hope you're enjoying a nice week so far.
+----------------------------------------

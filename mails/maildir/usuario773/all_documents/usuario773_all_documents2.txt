@@ -1,0 +1,20 @@
+Message-ID: <95945038fbb04b939c6136d76b292fc5@thyme>
+Date: Mon, 26 Jul 2010 00:00:00 -0700
+From: usuario773@example.com
+To: usuario217@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario773 <usuario773@example.com>
+X-To: Usuario217 <usuario217@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario773_folder\all_documents
+X-Origin: usuario773-P
+X-FileName: usuario773.pst
+
+Here is our forecast
+Please review the materials at your earliest convenience.
+Hope everything is going well on your end.
+----------------------------------------

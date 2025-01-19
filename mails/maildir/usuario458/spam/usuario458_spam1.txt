@@ -1,0 +1,20 @@
+Message-ID: <c595f8fe71634de18adac2555709bf4d@thyme>
+Date: Thu, 08 Jan 2015 00:00:00 -0700
+From: usuario458@example.com
+To: usuario816@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario458 <usuario458@example.com>
+X-To: Usuario816 <usuario816@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario458_folder\spam
+X-Origin: usuario458-P
+X-FileName: usuario458.pst
+
+I wanted to confirm our meeting for tomorrow.
+I wanted to check in regarding the status of the project.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <8e8315b66caf4fc3ac5bd6d0ffd55b7b@thyme>
+Date: Mon, 19 Feb 2024 00:00:00 -0700
+From: usuario300@example.com
+To: usuario998@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario300 <usuario300@example.com>
+X-To: Usuario998 <usuario998@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario300_folder\all_documents
+X-Origin: usuario300-P
+X-FileName: usuario300.pst
+
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+I wanted to give you an update on the status of the project.
+----------------------------------------

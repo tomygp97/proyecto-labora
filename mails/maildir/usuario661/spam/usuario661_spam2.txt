@@ -1,0 +1,20 @@
+Message-ID: <a1705a28f62e4b75ab6680a6d4f98c4f@thyme>
+Date: Fri, 26 Aug 2016 00:00:00 -0700
+From: usuario661@example.com
+To: usuario953@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario661 <usuario661@example.com>
+X-To: Usuario953 <usuario953@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario661_folder\spam
+X-Origin: usuario661-P
+X-FileName: usuario661.pst
+
+I wanted to check in regarding the status of the project.
+As discussed, I have attached the report you requested.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

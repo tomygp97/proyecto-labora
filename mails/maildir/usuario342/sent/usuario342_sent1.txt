@@ -1,0 +1,20 @@
+Message-ID: <3ede62ab27a94a4c9a42f288b07fc113@thyme>
+Date: Sun, 23 Apr 2023 00:00:00 -0700
+From: usuario342@example.com
+To: usuario535@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario342 <usuario342@example.com>
+X-To: Usuario535 <usuario535@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario342_folder\sent
+X-Origin: usuario342-P
+X-FileName: usuario342.pst
+
+I wanted to give you an update on the status of the project.
+Just checking in to see if you've received my previous email.
+Please review the attached files and provide feedback.
+----------------------------------------

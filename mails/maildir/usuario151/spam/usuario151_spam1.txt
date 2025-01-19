@@ -1,0 +1,20 @@
+Message-ID: <543f57dc351c44fdb0d9d5c6d33db08e@thyme>
+Date: Sun, 04 Dec 2005 00:00:00 -0700
+From: usuario151@example.com
+To: usuario139@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario151 <usuario151@example.com>
+X-To: Usuario139 <usuario139@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario151_folder\spam
+X-Origin: usuario151-P
+X-FileName: usuario151.pst
+
+I wanted to thank you for your prompt response.
+Just wanted to touch base on the upcoming project milestone.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

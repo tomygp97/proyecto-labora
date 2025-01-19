@@ -1,0 +1,20 @@
+Message-ID: <a148bdb87de947f6ac39f06b92e1a6c1@thyme>
+Date: Mon, 23 Apr 2007 00:00:00 -0700
+From: usuario622@example.com
+To: usuario694@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario622 <usuario622@example.com>
+X-To: Usuario694 <usuario694@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario622_folder\inbox
+X-Origin: usuario622-P
+X-FileName: usuario622.pst
+
+Can you please confirm receipt of the files?
+Just wanted to touch base on the upcoming project milestone.
+Here are the documents I mentioned during our call.
+----------------------------------------

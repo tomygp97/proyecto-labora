@@ -1,0 +1,20 @@
+Message-ID: <920b1b4527e74e7f80f960bdac2e9d2c@thyme>
+Date: Tue, 29 Mar 2022 00:00:00 -0700
+From: usuario4@example.com
+To: usuario829@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario4 <usuario4@example.com>
+X-To: Usuario829 <usuario829@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario4_folder\all_documents
+X-Origin: usuario4-P
+X-FileName: usuario4.pst
+
+Here is a summary of the last meeting for your reference.
+Let me know if you need any additional details.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

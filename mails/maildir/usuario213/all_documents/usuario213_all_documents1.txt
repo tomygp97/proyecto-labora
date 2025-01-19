@@ -1,0 +1,20 @@
+Message-ID: <e1d779d3289f42b796bb1b78bc3f9c5c@thyme>
+Date: Tue, 27 Sep 2022 00:00:00 -0700
+From: usuario213@example.com
+To: usuario406@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario213 <usuario213@example.com>
+X-To: Usuario406 <usuario406@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario213_folder\all_documents
+X-Origin: usuario213-P
+X-FileName: usuario213.pst
+
+Please let me know if there are any changes to the schedule.
+I wanted to remind you about the upcoming deadline.
+Hope everything is going well on your end.
+----------------------------------------

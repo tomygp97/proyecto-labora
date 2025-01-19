@@ -1,0 +1,20 @@
+Message-ID: <6b0d45324ee349d7808dfbf3aae3e0f3@thyme>
+Date: Fri, 03 Jul 2020 00:00:00 -0700
+From: usuario739@example.com
+To: usuario239@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario739 <usuario739@example.com>
+X-To: Usuario239 <usuario239@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario739_folder\_sent_mail
+X-Origin: usuario739-P
+X-FileName: usuario739.pst
+
+Please review the materials at your earliest convenience.
+I wanted to check in regarding the status of the project.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

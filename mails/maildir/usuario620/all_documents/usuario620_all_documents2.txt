@@ -1,0 +1,20 @@
+Message-ID: <17d5636f7a334840afed2a36e1eae4b6@thyme>
+Date: Wed, 15 Jun 2005 00:00:00 -0700
+From: usuario620@example.com
+To: usuario373@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario620 <usuario620@example.com>
+X-To: Usuario373 <usuario373@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario620_folder\all_documents
+X-Origin: usuario620-P
+X-FileName: usuario620.pst
+
+Please don't hesitate to reach out if you need any help.
+I wanted to confirm our meeting for tomorrow.
+I hope you're enjoying a nice week so far.
+----------------------------------------

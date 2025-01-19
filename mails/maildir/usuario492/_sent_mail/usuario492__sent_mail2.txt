@@ -1,0 +1,20 @@
+Message-ID: <7e89158cfc5f4090b105a21a78eb0e1a@thyme>
+Date: Wed, 08 Apr 2015 00:00:00 -0700
+From: usuario492@example.com
+To: usuario775@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario492 <usuario492@example.com>
+X-To: Usuario775 <usuario775@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario492_folder\_sent_mail
+X-Origin: usuario492-P
+X-FileName: usuario492.pst
+
+Here is a summary of the last meeting for your reference.
+I look forward to collaborating further on this initiative.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

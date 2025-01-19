@@ -1,0 +1,20 @@
+Message-ID: <d29c93aa89e441f097e848057bac916d@thyme>
+Date: Sat, 30 Jan 2021 00:00:00 -0700
+From: usuario703@example.com
+To: usuario262@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario703 <usuario703@example.com>
+X-To: Usuario262 <usuario262@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario703_folder\spam
+X-Origin: usuario703-P
+X-FileName: usuario703.pst
+
+Here are the documents I mentioned during our call.
+I would love to hear your feedback on the proposal.
+I look forward to your response.
+----------------------------------------

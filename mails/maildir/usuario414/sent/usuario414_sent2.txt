@@ -1,0 +1,20 @@
+Message-ID: <8f014e0f8d4d417581e2d77e2bf5a3c0@thyme>
+Date: Fri, 09 Jul 2004 00:00:00 -0700
+From: usuario414@example.com
+To: usuario773@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario414 <usuario414@example.com>
+X-To: Usuario773 <usuario773@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario414_folder\sent
+X-Origin: usuario414-P
+X-FileName: usuario414.pst
+
+Here are the next steps we need to take.
+Looking forward to hearing from you soon
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <2947d7a513234d95b76e9615e8e86cbf@thyme>
+Date: Thu, 14 Nov 2002 00:00:00 -0700
+From: usuario806@example.com
+To: usuario964@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario806 <usuario806@example.com>
+X-To: Usuario964 <usuario964@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario806_folder\inbox
+X-Origin: usuario806-P
+X-FileName: usuario806.pst
+
+Hope you're doing well. Here's the requested information.
+As discussed, I have attached the report you requested.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

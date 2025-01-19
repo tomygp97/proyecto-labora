@@ -1,0 +1,20 @@
+Message-ID: <f47dbba6b42247de9b81c1286380efd8@thyme>
+Date: Tue, 11 Jan 2022 00:00:00 -0700
+From: usuario810@example.com
+To: usuario683@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario810 <usuario810@example.com>
+X-To: Usuario683 <usuario683@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario810_folder\all_documents
+X-Origin: usuario810-P
+X-FileName: usuario810.pst
+
+I would love to hear your feedback on the proposal.
+As discussed, I have attached the report you requested.
+Here are the next steps we need to take.
+----------------------------------------

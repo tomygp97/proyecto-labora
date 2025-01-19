@@ -1,0 +1,20 @@
+Message-ID: <3cb656ed50bd456992a9f48e6fab4772@thyme>
+Date: Sun, 22 Jun 2014 00:00:00 -0700
+From: usuario254@example.com
+To: usuario569@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario254 <usuario254@example.com>
+X-To: Usuario569 <usuario569@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario254_folder\sent
+X-Origin: usuario254-P
+X-FileName: usuario254.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to check in regarding the status of the project.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

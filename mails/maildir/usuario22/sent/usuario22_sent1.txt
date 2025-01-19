@@ -1,0 +1,20 @@
+Message-ID: <b66c3fa739c94cea94cfd21489cbafec@thyme>
+Date: Sun, 14 Feb 2021 00:00:00 -0700
+From: usuario22@example.com
+To: usuario175@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario22 <usuario22@example.com>
+X-To: Usuario175 <usuario175@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario22_folder\sent
+X-Origin: usuario22-P
+X-FileName: usuario22.pst
+
+Here is our forecast
+I would love to hear your feedback on the proposal.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <b0285d738de44c229d58601e6e361bbb@thyme>
+Date: Wed, 19 Apr 2023 00:00:00 -0700
+From: usuario845@example.com
+To: usuario568@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario845 <usuario845@example.com>
+X-To: Usuario568 <usuario568@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario845_folder\_sent_mail
+X-Origin: usuario845-P
+X-FileName: usuario845.pst
+
+I hope you're enjoying a nice week so far.
+I wanted to follow up on our last meeting
+Just checking in to see if you've received my previous email.
+----------------------------------------

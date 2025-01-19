@@ -1,0 +1,20 @@
+Message-ID: <4166143ddc714e4b84ef44643eab300a@thyme>
+Date: Fri, 16 Jan 2004 00:00:00 -0700
+From: usuario767@example.com
+To: usuario659@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario767 <usuario767@example.com>
+X-To: Usuario659 <usuario659@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario767_folder\_sent_mail
+X-Origin: usuario767-P
+X-FileName: usuario767.pst
+
+Let me know if there's anything I can assist you with.
+Here is a summary of the last meeting for your reference.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

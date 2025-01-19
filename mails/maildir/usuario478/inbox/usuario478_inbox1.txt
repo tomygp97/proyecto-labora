@@ -1,0 +1,20 @@
+Message-ID: <7f057c855e224448b9f9bd3bc49cf83a@thyme>
+Date: Mon, 24 Apr 2023 00:00:00 -0700
+From: usuario478@example.com
+To: usuario577@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario478 <usuario478@example.com>
+X-To: Usuario577 <usuario577@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario478_folder\inbox
+X-Origin: usuario478-P
+X-FileName: usuario478.pst
+
+Thank you for your attention
+Please find the attached report for the last quarter
+Please let me know if there's anything else you need from my end.
+----------------------------------------

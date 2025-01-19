@@ -1,0 +1,20 @@
+Message-ID: <932d853c5c124c1ca02db910a165e83f@thyme>
+Date: Fri, 10 Dec 2010 00:00:00 -0700
+From: usuario553@example.com
+To: usuario634@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario553 <usuario553@example.com>
+X-To: Usuario634 <usuario634@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario553_folder\spam
+X-Origin: usuario553-P
+X-FileName: usuario553.pst
+
+Thank you for your attention
+Please let me know if there are any issues with the attached files.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

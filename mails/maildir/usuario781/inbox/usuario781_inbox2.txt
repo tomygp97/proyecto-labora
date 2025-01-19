@@ -1,0 +1,20 @@
+Message-ID: <62c77000b1854bd0a306c155f55f9192@thyme>
+Date: Tue, 19 Oct 2021 00:00:00 -0700
+From: usuario781@example.com
+To: usuario895@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario781 <usuario781@example.com>
+X-To: Usuario895 <usuario895@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario781_folder\inbox
+X-Origin: usuario781-P
+X-FileName: usuario781.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I wanted to thank you for your prompt response.
+Please find the attached report for the last quarter
+----------------------------------------

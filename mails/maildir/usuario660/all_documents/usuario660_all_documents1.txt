@@ -1,0 +1,20 @@
+Message-ID: <bcdb582e8584435f84331fdec4900db3@thyme>
+Date: Wed, 02 Nov 2016 00:00:00 -0700
+From: usuario660@example.com
+To: usuario331@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario660 <usuario660@example.com>
+X-To: Usuario331 <usuario331@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario660_folder\all_documents
+X-Origin: usuario660-P
+X-FileName: usuario660.pst
+
+Please find the latest updates on the project
+I wanted to remind you about the upcoming deadline.
+Just checking in to see if you've received my previous email.
+----------------------------------------

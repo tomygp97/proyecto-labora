@@ -1,0 +1,20 @@
+Message-ID: <e27a994f4d144805818fda22474dccbb@thyme>
+Date: Sun, 18 Aug 2024 00:00:00 -0700
+From: usuario37@example.com
+To: usuario695@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario37 <usuario37@example.com>
+X-To: Usuario695 <usuario695@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario37_folder\inbox
+X-Origin: usuario37-P
+X-FileName: usuario37.pst
+
+Hope you're doing well. Here's the requested information.
+Can you please confirm receipt of the files?
+Please find the latest updates on the project
+----------------------------------------

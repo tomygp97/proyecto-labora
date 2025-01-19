@@ -1,0 +1,20 @@
+Message-ID: <e114cf3314fa4404a3067f20699a6e1f@thyme>
+Date: Sat, 01 Feb 2014 00:00:00 -0700
+From: usuario39@example.com
+To: usuario777@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario39 <usuario39@example.com>
+X-To: Usuario777 <usuario777@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario39_folder\_sent_mail
+X-Origin: usuario39-P
+X-FileName: usuario39.pst
+
+Hope you're doing well. Here's the requested information.
+Let me know if you'd like to schedule a follow-up discussion.
+Please review the materials at your earliest convenience.
+----------------------------------------

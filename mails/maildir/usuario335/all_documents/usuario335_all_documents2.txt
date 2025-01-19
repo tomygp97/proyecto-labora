@@ -1,0 +1,20 @@
+Message-ID: <7c3bd96b77a848feb131bd9cfe7fb569@thyme>
+Date: Mon, 16 Nov 2020 00:00:00 -0700
+From: usuario335@example.com
+To: usuario304@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario335 <usuario335@example.com>
+X-To: Usuario304 <usuario304@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario335_folder\all_documents
+X-Origin: usuario335-P
+X-FileName: usuario335.pst
+
+I look forward to your response.
+Please find the attached report for the last quarter
+Please find the latest updates on the project
+----------------------------------------

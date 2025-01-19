@@ -1,0 +1,20 @@
+Message-ID: <b163db653db84389bc460cdc2d6c7c47@thyme>
+Date: Sun, 02 Jan 2000 00:00:00 -0700
+From: usuario27@example.com
+To: usuario102@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario27 <usuario27@example.com>
+X-To: Usuario102 <usuario102@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario27_folder\spam
+X-Origin: usuario27-P
+X-FileName: usuario27.pst
+
+I have included all the necessary details in the attached report.
+I wanted to give you an update on the status of the project.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

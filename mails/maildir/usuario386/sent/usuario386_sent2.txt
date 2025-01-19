@@ -1,0 +1,20 @@
+Message-ID: <869f1fb4c7f04f1b83b6b9a14201bcef@thyme>
+Date: Mon, 04 Jul 2022 00:00:00 -0700
+From: usuario386@example.com
+To: usuario39@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario386 <usuario386@example.com>
+X-To: Usuario39 <usuario39@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario386_folder\sent
+X-Origin: usuario386-P
+X-FileName: usuario386.pst
+
+Please find the attached report for the last quarter
+Please let me know if there are any changes to the schedule.
+Let me know if there's anything I can assist you with.
+----------------------------------------

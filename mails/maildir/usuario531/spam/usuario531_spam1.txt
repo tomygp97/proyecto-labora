@@ -1,0 +1,20 @@
+Message-ID: <42916cf9d112416b8cee377b1ea18e70@thyme>
+Date: Fri, 28 Oct 2005 00:00:00 -0700
+From: usuario531@example.com
+To: usuario695@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario531 <usuario531@example.com>
+X-To: Usuario695 <usuario695@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario531_folder\spam
+X-Origin: usuario531-P
+X-FileName: usuario531.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here is a summary of the last meeting for your reference.
+I hope this email finds you well.
+----------------------------------------

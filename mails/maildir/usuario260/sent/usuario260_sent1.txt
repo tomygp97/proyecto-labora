@@ -1,0 +1,20 @@
+Message-ID: <471ffb94004b4d4ebfab6433fe71a706@thyme>
+Date: Sun, 24 Feb 2008 00:00:00 -0700
+From: usuario260@example.com
+To: usuario605@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario260 <usuario260@example.com>
+X-To: Usuario605 <usuario605@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario260_folder\sent
+X-Origin: usuario260-P
+X-FileName: usuario260.pst
+
+Please let me know if there are any changes to the schedule.
+As discussed, I have attached the report you requested.
+Let me know if there's anything I can assist you with.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <b8f4d9d52f984b9f9f8b4c5e7f5a0734@thyme>
+Date: Thu, 20 Oct 2005 00:00:00 -0700
+From: usuario53@example.com
+To: usuario140@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario53 <usuario53@example.com>
+X-To: Usuario140 <usuario140@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario53_folder\_sent_mail
+X-Origin: usuario53-P
+X-FileName: usuario53.pst
+
+Thank you for your attention
+Please let me know if there are any issues with the attached files.
+As discussed, I have attached the report you requested.
+----------------------------------------

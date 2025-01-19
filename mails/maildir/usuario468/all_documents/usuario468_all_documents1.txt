@@ -1,0 +1,20 @@
+Message-ID: <aecb201797804053ac00fca70d28acc3@thyme>
+Date: Mon, 19 Jul 2021 00:00:00 -0700
+From: usuario468@example.com
+To: usuario813@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario468 <usuario468@example.com>
+X-To: Usuario813 <usuario813@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario468_folder\all_documents
+X-Origin: usuario468-P
+X-FileName: usuario468.pst
+
+Here are the results from the analysis we discussed.
+Here are the next steps we need to take.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

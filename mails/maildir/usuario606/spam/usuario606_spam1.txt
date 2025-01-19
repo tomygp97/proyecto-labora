@@ -1,0 +1,20 @@
+Message-ID: <65c363a6efb74344bc200a3fc7396479@thyme>
+Date: Thu, 03 Nov 2022 00:00:00 -0700
+From: usuario606@example.com
+To: usuario594@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario606 <usuario606@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario606_folder\spam
+X-Origin: usuario606-P
+X-FileName: usuario606.pst
+
+I hope you're having a productive week.
+I wanted to give you an update on the status of the project.
+Please find the latest updates on the project
+----------------------------------------

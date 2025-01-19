@@ -1,0 +1,20 @@
+Message-ID: <e46d793de6f04e4e8827cf0c3a69fa0f@thyme>
+Date: Tue, 19 May 2020 00:00:00 -0700
+From: usuario787@example.com
+To: usuario360@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario787 <usuario787@example.com>
+X-To: Usuario360 <usuario360@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario787_folder\sent
+X-Origin: usuario787-P
+X-FileName: usuario787.pst
+
+I look forward to collaborating further on this initiative.
+I would love to hear your feedback on the proposal.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

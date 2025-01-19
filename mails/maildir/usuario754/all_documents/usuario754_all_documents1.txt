@@ -1,0 +1,20 @@
+Message-ID: <c068bd71f1e54ef2a4a82683351c213b@thyme>
+Date: Thu, 12 Jan 2006 00:00:00 -0700
+From: usuario754@example.com
+To: usuario890@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario754 <usuario754@example.com>
+X-To: Usuario890 <usuario890@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario754_folder\all_documents
+X-Origin: usuario754-P
+X-FileName: usuario754.pst
+
+Hope you're doing well. Here's the requested information.
+Can you please confirm receipt of the files?
+Here are the documents I mentioned during our call.
+----------------------------------------

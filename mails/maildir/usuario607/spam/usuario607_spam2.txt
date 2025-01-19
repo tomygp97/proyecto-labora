@@ -1,0 +1,20 @@
+Message-ID: <dcba458f801a45808897a980bcc50dab@thyme>
+Date: Sun, 10 Mar 2024 00:00:00 -0700
+From: usuario607@example.com
+To: usuario886@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario607 <usuario607@example.com>
+X-To: Usuario886 <usuario886@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario607_folder\spam
+X-Origin: usuario607-P
+X-FileName: usuario607.pst
+
+I wanted to confirm our meeting for tomorrow.
+Please find the attached report for the last quarter
+I hope this email finds you well.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <7ad65871c0d544cdb822bd21731ba3a0@thyme>
+Date: Thu, 28 Jul 2011 00:00:00 -0700
+From: usuario434@example.com
+To: usuario75@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario434 <usuario434@example.com>
+X-To: Usuario75 <usuario75@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario434_folder\_sent_mail
+X-Origin: usuario434-P
+X-FileName: usuario434.pst
+
+Please find the attached report for the last quarter
+Please make sure to go through the attached documents before our meeting.
+Thank you for your attention
+----------------------------------------

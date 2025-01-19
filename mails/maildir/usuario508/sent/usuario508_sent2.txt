@@ -1,0 +1,20 @@
+Message-ID: <8c9345c11c62499ba000c002470f619c@thyme>
+Date: Tue, 21 Feb 2023 00:00:00 -0700
+From: usuario508@example.com
+To: usuario367@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario508 <usuario508@example.com>
+X-To: Usuario367 <usuario367@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario508_folder\sent
+X-Origin: usuario508-P
+X-FileName: usuario508.pst
+
+Please let me know if there are any changes to the schedule.
+Let me know if there's anything I can assist you with.
+Just checking in to see if you've received my previous email.
+----------------------------------------

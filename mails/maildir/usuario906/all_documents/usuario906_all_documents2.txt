@@ -1,0 +1,20 @@
+Message-ID: <8ba4d599fc634559acc9031ddb17986f@thyme>
+Date: Fri, 10 May 2019 00:00:00 -0700
+From: usuario906@example.com
+To: usuario370@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario906 <usuario906@example.com>
+X-To: Usuario370 <usuario370@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario906_folder\all_documents
+X-Origin: usuario906-P
+X-FileName: usuario906.pst
+
+I hope you're having a productive week.
+Looking forward to discussing the project in more detail soon.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

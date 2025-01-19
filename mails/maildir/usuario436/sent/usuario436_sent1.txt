@@ -1,0 +1,20 @@
+Message-ID: <30a0ce525043427a9b6aee18a1a047b5@thyme>
+Date: Mon, 20 Nov 2000 00:00:00 -0700
+From: usuario436@example.com
+To: usuario99@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario436 <usuario436@example.com>
+X-To: Usuario99 <usuario99@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario436_folder\sent
+X-Origin: usuario436-P
+X-FileName: usuario436.pst
+
+I hope you're having a productive week.
+I appreciate your attention to this matter.
+Please review the materials at your earliest convenience.
+----------------------------------------

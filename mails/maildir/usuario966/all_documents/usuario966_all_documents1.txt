@@ -1,0 +1,20 @@
+Message-ID: <3b2a8bc6cafd4e2cb8bca7e05d3c83e6@thyme>
+Date: Mon, 31 Dec 2012 00:00:00 -0700
+From: usuario966@example.com
+To: usuario822@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario966 <usuario966@example.com>
+X-To: Usuario822 <usuario822@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario966_folder\all_documents
+X-Origin: usuario966-P
+X-FileName: usuario966.pst
+
+I look forward to collaborating further on this initiative.
+Can you please confirm receipt of the files?
+Looking forward to hearing from you soon
+----------------------------------------

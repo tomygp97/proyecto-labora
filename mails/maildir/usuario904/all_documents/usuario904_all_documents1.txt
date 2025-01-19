@@ -1,0 +1,20 @@
+Message-ID: <84c63ad4badf400e802ac729e9e2e9f1@thyme>
+Date: Sun, 08 Mar 2015 00:00:00 -0700
+From: usuario904@example.com
+To: usuario608@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario904 <usuario904@example.com>
+X-To: Usuario608 <usuario608@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario904_folder\all_documents
+X-Origin: usuario904-P
+X-FileName: usuario904.pst
+
+Thank you for your attention
+Hope everything is going well on your end.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

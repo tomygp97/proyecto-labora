@@ -1,0 +1,20 @@
+Message-ID: <4e6eebfebf254b2aab9d3a4c47d83a15@thyme>
+Date: Fri, 18 May 2001 00:00:00 -0700
+From: usuario269@example.com
+To: usuario119@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario269 <usuario269@example.com>
+X-To: Usuario119 <usuario119@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario269_folder\all_documents
+X-Origin: usuario269-P
+X-FileName: usuario269.pst
+
+Please find the latest updates on the project
+Here are the results from the analysis we discussed.
+I look forward to collaborating further on this initiative.
+----------------------------------------

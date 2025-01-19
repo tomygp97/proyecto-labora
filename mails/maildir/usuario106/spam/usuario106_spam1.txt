@@ -1,0 +1,20 @@
+Message-ID: <2b7c3bf861434eadac50224855259783@thyme>
+Date: Sat, 18 Oct 2014 00:00:00 -0700
+From: usuario106@example.com
+To: usuario457@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario106 <usuario106@example.com>
+X-To: Usuario457 <usuario457@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario106_folder\spam
+X-Origin: usuario106-P
+X-FileName: usuario106.pst
+
+Please find the attached report for the last quarter
+Here is a summary of the last meeting for your reference.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

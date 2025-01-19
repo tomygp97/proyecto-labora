@@ -1,0 +1,20 @@
+Message-ID: <ed701379c4f949b0bfb4f1040e116ad5@thyme>
+Date: Mon, 26 Jan 2009 00:00:00 -0700
+From: usuario789@example.com
+To: usuario159@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario789 <usuario789@example.com>
+X-To: Usuario159 <usuario159@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario789_folder\spam
+X-Origin: usuario789-P
+X-FileName: usuario789.pst
+
+I look forward to collaborating further on this initiative.
+As discussed, I have attached the report you requested.
+Let me know if there's anything I can assist you with.
+----------------------------------------

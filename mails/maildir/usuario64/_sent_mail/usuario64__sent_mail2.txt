@@ -1,0 +1,20 @@
+Message-ID: <af83fdb95d464eb3b39a7777b57408a9@thyme>
+Date: Sun, 08 Dec 2013 00:00:00 -0700
+From: usuario64@example.com
+To: usuario70@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario64 <usuario64@example.com>
+X-To: Usuario70 <usuario70@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario64_folder\_sent_mail
+X-Origin: usuario64-P
+X-FileName: usuario64.pst
+
+I wanted to remind you about the upcoming deadline.
+Can you please confirm receipt of the files?
+Please find the latest updates on the project
+----------------------------------------

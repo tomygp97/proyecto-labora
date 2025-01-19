@@ -1,0 +1,20 @@
+Message-ID: <ac870828115642049376857395e85810@thyme>
+Date: Thu, 01 Oct 2020 00:00:00 -0700
+From: usuario933@example.com
+To: usuario435@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario933 <usuario933@example.com>
+X-To: Usuario435 <usuario435@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario933_folder\all_documents
+X-Origin: usuario933-P
+X-FileName: usuario933.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I wanted to thank you for your prompt response.
+I appreciate your attention to this matter.
+----------------------------------------

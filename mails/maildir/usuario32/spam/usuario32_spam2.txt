@@ -1,0 +1,20 @@
+Message-ID: <09ae4ac345bb4843b801e96aa91c9f14@thyme>
+Date: Sun, 19 Feb 2017 00:00:00 -0700
+From: usuario32@example.com
+To: usuario753@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario753 <usuario753@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\spam
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+I would love to hear your feedback on the proposal.
+Here is a summary of the last meeting for your reference.
+Please review the attached files and provide feedback.
+----------------------------------------

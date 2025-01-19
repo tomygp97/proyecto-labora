@@ -1,0 +1,20 @@
+Message-ID: <81b3deb4a4674b54994b8fe2388fb986@thyme>
+Date: Sun, 15 Apr 2007 00:00:00 -0700
+From: usuario84@example.com
+To: usuario935@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario84 <usuario84@example.com>
+X-To: Usuario935 <usuario935@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario84_folder\spam
+X-Origin: usuario84-P
+X-FileName: usuario84.pst
+
+Please let me know if there are any issues with the attached files.
+I wanted to give you an update on the status of the project.
+Looking forward to hearing from you soon
+----------------------------------------

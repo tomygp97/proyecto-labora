@@ -1,0 +1,20 @@
+Message-ID: <888b43c80fea4e2bbac0d44ec9a42cb4@thyme>
+Date: Mon, 25 Mar 2019 00:00:00 -0700
+From: usuario319@example.com
+To: usuario742@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario319 <usuario319@example.com>
+X-To: Usuario742 <usuario742@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario319_folder\sent
+X-Origin: usuario319-P
+X-FileName: usuario319.pst
+
+I have included all the necessary details in the attached report.
+I appreciate your attention to this matter.
+Just checking in to see if you've received my previous email.
+----------------------------------------

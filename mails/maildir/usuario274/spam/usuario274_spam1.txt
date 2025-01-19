@@ -1,0 +1,20 @@
+Message-ID: <ab46f874090944b2987f5fde1c6476a9@thyme>
+Date: Sun, 26 Aug 2001 00:00:00 -0700
+From: usuario274@example.com
+To: usuario709@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario274 <usuario274@example.com>
+X-To: Usuario709 <usuario709@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario274_folder\spam
+X-Origin: usuario274-P
+X-FileName: usuario274.pst
+
+I wanted to remind you about the upcoming deadline.
+I trust the documents will be helpful for our upcoming discussion.
+I look forward to collaborating further on this initiative.
+----------------------------------------

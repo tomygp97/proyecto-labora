@@ -1,0 +1,20 @@
+Message-ID: <f8beca0ae0a846e2854161eac4e5a5ab@thyme>
+Date: Sat, 29 Aug 2020 00:00:00 -0700
+From: usuario559@example.com
+To: usuario877@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario559 <usuario559@example.com>
+X-To: Usuario877 <usuario877@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario559_folder\_sent_mail
+X-Origin: usuario559-P
+X-FileName: usuario559.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here are the results from the analysis we discussed.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

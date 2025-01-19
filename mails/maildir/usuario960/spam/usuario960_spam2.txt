@@ -1,0 +1,20 @@
+Message-ID: <6f7a81368d954d8994a555d0d23016f8@thyme>
+Date: Sat, 21 Jan 2012 00:00:00 -0700
+From: usuario960@example.com
+To: usuario476@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario960 <usuario960@example.com>
+X-To: Usuario476 <usuario476@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario960_folder\spam
+X-Origin: usuario960-P
+X-FileName: usuario960.pst
+
+Here are the next steps we need to take.
+Just checking in to see if you've received my previous email.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

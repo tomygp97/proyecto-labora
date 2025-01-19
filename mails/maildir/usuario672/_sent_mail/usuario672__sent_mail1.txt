@@ -1,0 +1,20 @@
+Message-ID: <a2a0035c7ac3437aab88e2ac4eb33edd@thyme>
+Date: Sat, 08 Aug 2020 00:00:00 -0700
+From: usuario672@example.com
+To: usuario19@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario672 <usuario672@example.com>
+X-To: Usuario19 <usuario19@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario672_folder\_sent_mail
+X-Origin: usuario672-P
+X-FileName: usuario672.pst
+
+Please find the attached report for the last quarter
+I wanted to remind you about the upcoming deadline.
+Here is our forecast
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <2fe3217b600141f2ac8f482b2bead7a0@thyme>
+Date: Mon, 20 Jan 2020 00:00:00 -0700
+From: usuario982@example.com
+To: usuario648@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario982 <usuario982@example.com>
+X-To: Usuario648 <usuario648@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario982_folder\spam
+X-Origin: usuario982-P
+X-FileName: usuario982.pst
+
+Here is a summary of the last meeting for your reference.
+Can you please confirm receipt of the files?
+Please let me know if there are any changes to the schedule.
+----------------------------------------

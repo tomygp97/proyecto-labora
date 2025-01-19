@@ -1,0 +1,20 @@
+Message-ID: <6085059ac36843d6a7b30c4e16f8bf1e@thyme>
+Date: Thu, 02 Jun 2022 00:00:00 -0700
+From: usuario36@example.com
+To: usuario831@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario36 <usuario36@example.com>
+X-To: Usuario831 <usuario831@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario36_folder\all_documents
+X-Origin: usuario36-P
+X-FileName: usuario36.pst
+
+Here are the next steps we need to take.
+Please find the latest updates on the project
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

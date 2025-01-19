@@ -1,0 +1,20 @@
+Message-ID: <7d7b531f19e944c3875541e984721e60@thyme>
+Date: Fri, 21 Jan 2000 00:00:00 -0700
+From: usuario481@example.com
+To: usuario125@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario481 <usuario481@example.com>
+X-To: Usuario125 <usuario125@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario481_folder\inbox
+X-Origin: usuario481-P
+X-FileName: usuario481.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to confirm our meeting for tomorrow.
+I wanted to thank you for your prompt response.
+----------------------------------------

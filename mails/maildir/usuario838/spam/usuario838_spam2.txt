@@ -1,0 +1,20 @@
+Message-ID: <c22e250c440c41e2b9099a1afbc6ac83@thyme>
+Date: Sun, 23 Oct 2022 00:00:00 -0700
+From: usuario838@example.com
+To: usuario957@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario838 <usuario838@example.com>
+X-To: Usuario957 <usuario957@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario838_folder\spam
+X-Origin: usuario838-P
+X-FileName: usuario838.pst
+
+Let me know if there's anything I can assist you with.
+I wanted to confirm our meeting for tomorrow.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

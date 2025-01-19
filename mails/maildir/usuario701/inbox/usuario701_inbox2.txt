@@ -1,0 +1,20 @@
+Message-ID: <cadd9e5489f44563bf1955a0bb795c65@thyme>
+Date: Sun, 09 Jan 2011 00:00:00 -0700
+From: usuario701@example.com
+To: usuario342@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario701 <usuario701@example.com>
+X-To: Usuario342 <usuario342@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario701_folder\inbox
+X-Origin: usuario701-P
+X-FileName: usuario701.pst
+
+Here is a summary of the last meeting for your reference.
+Just checking in to see if you've received my previous email.
+Please review the materials at your earliest convenience.
+----------------------------------------

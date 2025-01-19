@@ -1,0 +1,20 @@
+Message-ID: <7a43c57a5fb747eeb1eb7aa2405f415b@thyme>
+Date: Mon, 14 Sep 2020 00:00:00 -0700
+From: usuario904@example.com
+To: usuario66@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario904 <usuario904@example.com>
+X-To: Usuario66 <usuario66@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario904_folder\sent
+X-Origin: usuario904-P
+X-FileName: usuario904.pst
+
+I wanted to check in regarding the status of the project.
+Please review the attached files and provide feedback.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

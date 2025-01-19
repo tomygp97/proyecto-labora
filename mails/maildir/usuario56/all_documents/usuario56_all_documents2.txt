@@ -1,0 +1,20 @@
+Message-ID: <9199e746d7d4438b8bf8a4b7b0393193@thyme>
+Date: Wed, 03 Nov 2021 00:00:00 -0700
+From: usuario56@example.com
+To: usuario573@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario56 <usuario56@example.com>
+X-To: Usuario573 <usuario573@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario56_folder\all_documents
+X-Origin: usuario56-P
+X-FileName: usuario56.pst
+
+Here is our forecast
+I wanted to check in regarding the status of the project.
+Please find the latest updates on the project
+----------------------------------------

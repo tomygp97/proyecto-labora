@@ -1,0 +1,20 @@
+Message-ID: <96e7c5b3f31a41ebb6f0d5c1c333e012@thyme>
+Date: Sat, 29 Nov 2025 00:00:00 -0700
+From: usuario861@example.com
+To: usuario950@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario861 <usuario861@example.com>
+X-To: Usuario950 <usuario950@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario861_folder\all_documents
+X-Origin: usuario861-P
+X-FileName: usuario861.pst
+
+Please make sure to go through the attached documents before our meeting.
+Looking forward to hearing from you soon
+I wanted to check in regarding the status of the project.
+----------------------------------------

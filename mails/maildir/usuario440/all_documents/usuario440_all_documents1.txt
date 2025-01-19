@@ -1,0 +1,20 @@
+Message-ID: <3060edec11d441c49cc7b070163b1223@thyme>
+Date: Mon, 14 Apr 2003 00:00:00 -0700
+From: usuario440@example.com
+To: usuario914@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario440 <usuario440@example.com>
+X-To: Usuario914 <usuario914@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario440_folder\all_documents
+X-Origin: usuario440-P
+X-FileName: usuario440.pst
+
+Just checking in to see if you've received my previous email.
+I have included all the necessary details in the attached report.
+As discussed, I have attached the report you requested.
+----------------------------------------

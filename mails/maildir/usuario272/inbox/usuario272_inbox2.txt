@@ -1,0 +1,20 @@
+Message-ID: <f0b86efb51cf4d41a98aff31c11f4b96@thyme>
+Date: Thu, 07 Mar 2019 00:00:00 -0700
+From: usuario272@example.com
+To: usuario764@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario272 <usuario272@example.com>
+X-To: Usuario764 <usuario764@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario272_folder\inbox
+X-Origin: usuario272-P
+X-FileName: usuario272.pst
+
+Looking forward to discussing the project in more detail soon.
+Let me know if you'd like to schedule a follow-up discussion.
+Just checking in to see if you've received my previous email.
+----------------------------------------

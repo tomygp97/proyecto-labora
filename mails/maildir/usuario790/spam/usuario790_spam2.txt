@@ -1,0 +1,20 @@
+Message-ID: <1161f7d18f4947078cfac887ff1efca6@thyme>
+Date: Mon, 26 Dec 2022 00:00:00 -0700
+From: usuario790@example.com
+To: usuario450@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario790 <usuario790@example.com>
+X-To: Usuario450 <usuario450@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario790_folder\spam
+X-Origin: usuario790-P
+X-FileName: usuario790.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Can you please confirm receipt of the files?
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

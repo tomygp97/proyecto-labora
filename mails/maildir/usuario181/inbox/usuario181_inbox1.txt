@@ -1,0 +1,20 @@
+Message-ID: <c345989270fe489db41f45bf4194f575@thyme>
+Date: Tue, 04 Aug 2020 00:00:00 -0700
+From: usuario181@example.com
+To: usuario44@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario181 <usuario181@example.com>
+X-To: Usuario44 <usuario44@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario181_folder\inbox
+X-Origin: usuario181-P
+X-FileName: usuario181.pst
+
+I hope you're enjoying a nice week so far.
+Please let me know if there's anything else you need from my end.
+I hope you're having a productive week.
+----------------------------------------

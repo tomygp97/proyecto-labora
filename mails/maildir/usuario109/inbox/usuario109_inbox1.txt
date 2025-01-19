@@ -1,0 +1,20 @@
+Message-ID: <5551d717c9f34e0ebad6cf5808779e15@thyme>
+Date: Mon, 01 Jul 2013 00:00:00 -0700
+From: usuario109@example.com
+To: usuario95@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario109 <usuario109@example.com>
+X-To: Usuario95 <usuario95@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario109_folder\inbox
+X-Origin: usuario109-P
+X-FileName: usuario109.pst
+
+Please find the latest updates on the project
+I wanted to check in regarding the status of the project.
+Hope everything is going well on your end.
+----------------------------------------

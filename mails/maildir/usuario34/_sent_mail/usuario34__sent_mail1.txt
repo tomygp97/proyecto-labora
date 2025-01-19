@@ -1,0 +1,20 @@
+Message-ID: <3112bfb7c56943b0a488c3cacff38542@thyme>
+Date: Wed, 06 Mar 2002 00:00:00 -0700
+From: usuario34@example.com
+To: usuario444@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario34 <usuario34@example.com>
+X-To: Usuario444 <usuario444@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario34_folder\_sent_mail
+X-Origin: usuario34-P
+X-FileName: usuario34.pst
+
+I wanted to follow up on our last meeting
+I hope this email finds you well.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

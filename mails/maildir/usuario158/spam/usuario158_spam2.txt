@@ -1,0 +1,20 @@
+Message-ID: <d7626949e82240aa8ee0cff41aaaea35@thyme>
+Date: Wed, 04 Aug 2010 00:00:00 -0700
+From: usuario158@example.com
+To: usuario323@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario158 <usuario158@example.com>
+X-To: Usuario323 <usuario323@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario158_folder\spam
+X-Origin: usuario158-P
+X-FileName: usuario158.pst
+
+Please review the materials at your earliest convenience.
+I hope this email finds you well.
+Thank you for your attention
+----------------------------------------

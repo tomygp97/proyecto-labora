@@ -1,0 +1,20 @@
+Message-ID: <4124035d4c3b4820834695d07dd81d8f@thyme>
+Date: Sun, 17 Feb 2013 00:00:00 -0700
+From: usuario974@example.com
+To: usuario970@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario974 <usuario974@example.com>
+X-To: Usuario970 <usuario970@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario974_folder\all_documents
+X-Origin: usuario974-P
+X-FileName: usuario974.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please find the attached report for the last quarter
+Please find the latest updates on the project
+----------------------------------------

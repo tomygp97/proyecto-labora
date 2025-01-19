@@ -1,0 +1,20 @@
+Message-ID: <aac10cabc8c64c2f8f236b6731a6314f@thyme>
+Date: Wed, 18 Aug 2021 00:00:00 -0700
+From: usuario417@example.com
+To: usuario7@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario417 <usuario417@example.com>
+X-To: Usuario7 <usuario7@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario417_folder\_sent_mail
+X-Origin: usuario417-P
+X-FileName: usuario417.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I have included all the necessary details in the attached report.
+I would love to hear your feedback on the proposal.
+----------------------------------------

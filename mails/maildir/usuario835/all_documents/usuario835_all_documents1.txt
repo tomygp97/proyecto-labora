@@ -1,0 +1,20 @@
+Message-ID: <2ba310dbb9cf481ca094be8ebc1b6c3f@thyme>
+Date: Thu, 16 Aug 2007 00:00:00 -0700
+From: usuario835@example.com
+To: usuario887@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario835 <usuario835@example.com>
+X-To: Usuario887 <usuario887@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario835_folder\all_documents
+X-Origin: usuario835-P
+X-FileName: usuario835.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to check in regarding the status of the project.
+Here are the next steps we need to take.
+----------------------------------------

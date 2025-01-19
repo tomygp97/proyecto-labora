@@ -1,0 +1,20 @@
+Message-ID: <b112f44f5df14c99b7bc129511de7019@thyme>
+Date: Tue, 16 Aug 2016 00:00:00 -0700
+From: usuario805@example.com
+To: usuario87@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario805 <usuario805@example.com>
+X-To: Usuario87 <usuario87@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario805_folder\all_documents
+X-Origin: usuario805-P
+X-FileName: usuario805.pst
+
+I look forward to your response.
+Please find the attached report for the last quarter
+I wanted to follow up on our last meeting
+----------------------------------------

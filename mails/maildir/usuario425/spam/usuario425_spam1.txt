@@ -1,0 +1,20 @@
+Message-ID: <393b1911f65f451ebf52db1c8cb14351@thyme>
+Date: Tue, 28 Oct 2025 00:00:00 -0700
+From: usuario425@example.com
+To: usuario455@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario425 <usuario425@example.com>
+X-To: Usuario455 <usuario455@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario425_folder\spam
+X-Origin: usuario425-P
+X-FileName: usuario425.pst
+
+Hope you're doing well. Here's the requested information.
+Just checking in to see if you've received my previous email.
+Here is our forecast
+----------------------------------------

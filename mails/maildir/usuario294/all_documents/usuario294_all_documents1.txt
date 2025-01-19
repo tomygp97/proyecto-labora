@@ -1,0 +1,20 @@
+Message-ID: <4bac7f225567471f8cdf97c196baa66e@thyme>
+Date: Mon, 27 Feb 2012 00:00:00 -0700
+From: usuario294@example.com
+To: usuario462@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario294 <usuario294@example.com>
+X-To: Usuario462 <usuario462@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario294_folder\all_documents
+X-Origin: usuario294-P
+X-FileName: usuario294.pst
+
+Please let me know if there are any changes to the schedule.
+Please find the attached report for the last quarter
+Please review the materials at your earliest convenience.
+----------------------------------------

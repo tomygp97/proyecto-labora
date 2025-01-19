@@ -1,0 +1,20 @@
+Message-ID: <85cbb552de4b4471822dd707a8aede18@thyme>
+Date: Fri, 04 Aug 2000 00:00:00 -0700
+From: usuario448@example.com
+To: usuario735@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario448 <usuario448@example.com>
+X-To: Usuario735 <usuario735@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario448_folder\inbox
+X-Origin: usuario448-P
+X-FileName: usuario448.pst
+
+I would love to hear your feedback on the proposal.
+I wanted to remind you about the upcoming deadline.
+I hope you're enjoying a nice week so far.
+----------------------------------------

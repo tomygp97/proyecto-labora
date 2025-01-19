@@ -1,0 +1,20 @@
+Message-ID: <31c351335fa246d9907d0e39d5d2af04@thyme>
+Date: Thu, 24 Mar 2005 00:00:00 -0700
+From: usuario467@example.com
+To: usuario532@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario467 <usuario467@example.com>
+X-To: Usuario532 <usuario532@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario467_folder\_sent_mail
+X-Origin: usuario467-P
+X-FileName: usuario467.pst
+
+Please make sure to go through the attached documents before our meeting.
+Here are the next steps we need to take.
+Here are the documents I mentioned during our call.
+----------------------------------------

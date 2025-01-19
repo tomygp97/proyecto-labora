@@ -1,0 +1,20 @@
+Message-ID: <6e6560161e074a67bb22896261dba5cf@thyme>
+Date: Mon, 07 Mar 2016 00:00:00 -0700
+From: usuario794@example.com
+To: usuario622@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario794 <usuario794@example.com>
+X-To: Usuario622 <usuario622@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario794_folder\_sent_mail
+X-Origin: usuario794-P
+X-FileName: usuario794.pst
+
+Thank you for your attention
+I hope you're enjoying a nice week so far.
+Please review the materials at your earliest convenience.
+----------------------------------------

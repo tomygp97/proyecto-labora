@@ -1,0 +1,20 @@
+Message-ID: <13679be9b62542b1b4ad70515286e8d3@thyme>
+Date: Sun, 08 Aug 2004 00:00:00 -0700
+From: usuario225@example.com
+To: usuario311@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario225 <usuario225@example.com>
+X-To: Usuario311 <usuario311@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario225_folder\_sent_mail
+X-Origin: usuario225-P
+X-FileName: usuario225.pst
+
+Please let me know if there are any issues with the attached files.
+I wanted to follow up on our last meeting
+I would love to hear your feedback on the proposal.
+----------------------------------------

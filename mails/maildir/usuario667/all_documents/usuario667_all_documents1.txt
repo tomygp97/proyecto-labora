@@ -1,0 +1,20 @@
+Message-ID: <eb23cc36d1a74cfe83946f737a3e2f68@thyme>
+Date: Mon, 20 Jan 2020 00:00:00 -0700
+From: usuario667@example.com
+To: usuario599@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario667 <usuario667@example.com>
+X-To: Usuario599 <usuario599@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario667_folder\all_documents
+X-Origin: usuario667-P
+X-FileName: usuario667.pst
+
+I wanted to give you an update on the status of the project.
+I wanted to confirm our meeting for tomorrow.
+I appreciate your attention to this matter.
+----------------------------------------

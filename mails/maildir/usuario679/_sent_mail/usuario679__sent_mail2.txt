@@ -1,0 +1,20 @@
+Message-ID: <81aa0519c3d14f099a69c90c3e0d3269@thyme>
+Date: Thu, 06 Apr 2023 00:00:00 -0700
+From: usuario679@example.com
+To: usuario3@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario679 <usuario679@example.com>
+X-To: Usuario3 <usuario3@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario679_folder\_sent_mail
+X-Origin: usuario679-P
+X-FileName: usuario679.pst
+
+Here is a summary of the last meeting for your reference.
+As discussed, I have attached the report you requested.
+Thank you for your attention
+----------------------------------------

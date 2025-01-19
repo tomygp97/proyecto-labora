@@ -1,0 +1,20 @@
+Message-ID: <0b98a55b92584600883082e3cf8cc312@thyme>
+Date: Tue, 15 May 2012 00:00:00 -0700
+From: usuario647@example.com
+To: usuario422@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario647 <usuario647@example.com>
+X-To: Usuario422 <usuario422@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario647_folder\sent
+X-Origin: usuario647-P
+X-FileName: usuario647.pst
+
+Here are the results from the analysis we discussed.
+Please let me know if there are any issues with the attached files.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <a77b179993d642f399075e09fc525770@thyme>
+Date: Tue, 29 Jan 2019 00:00:00 -0700
+From: usuario989@example.com
+To: usuario335@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario989 <usuario989@example.com>
+X-To: Usuario335 <usuario335@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario989_folder\sent
+X-Origin: usuario989-P
+X-FileName: usuario989.pst
+
+Let me know if you need any additional details.
+I hope you're having a productive week.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

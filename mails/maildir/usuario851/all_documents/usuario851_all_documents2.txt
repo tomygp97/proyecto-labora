@@ -1,0 +1,20 @@
+Message-ID: <2def65ab1eb24c439e26dd4e0f4b2fa9@thyme>
+Date: Wed, 27 Apr 2022 00:00:00 -0700
+From: usuario851@example.com
+To: usuario212@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario851 <usuario851@example.com>
+X-To: Usuario212 <usuario212@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario851_folder\all_documents
+X-Origin: usuario851-P
+X-FileName: usuario851.pst
+
+Please review the attached files and provide feedback.
+I appreciate your attention to this matter.
+Let me know if there's anything I can assist you with.
+----------------------------------------

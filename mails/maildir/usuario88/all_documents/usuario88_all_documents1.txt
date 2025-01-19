@@ -1,0 +1,20 @@
+Message-ID: <8a07badadcb242c2b43a23d6abc611c8@thyme>
+Date: Fri, 14 Aug 2015 00:00:00 -0700
+From: usuario88@example.com
+To: usuario435@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario88 <usuario88@example.com>
+X-To: Usuario435 <usuario435@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario88_folder\all_documents
+X-Origin: usuario88-P
+X-FileName: usuario88.pst
+
+I hope you're having a productive week.
+Hope everything is going well on your end.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

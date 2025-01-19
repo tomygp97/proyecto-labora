@@ -1,0 +1,20 @@
+Message-ID: <960e4ba0a23d4f85b2508eb3881e808a@thyme>
+Date: Thu, 04 Oct 2007 00:00:00 -0700
+From: usuario87@example.com
+To: usuario688@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario87 <usuario87@example.com>
+X-To: Usuario688 <usuario688@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario87_folder\_sent_mail
+X-Origin: usuario87-P
+X-FileName: usuario87.pst
+
+Please find the latest updates on the project
+I wanted to confirm our meeting for tomorrow.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

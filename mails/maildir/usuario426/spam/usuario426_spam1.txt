@@ -1,0 +1,20 @@
+Message-ID: <022423ae3b644ae3b9d94f4097d4617c@thyme>
+Date: Fri, 02 Sep 2022 00:00:00 -0700
+From: usuario426@example.com
+To: usuario241@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario426 <usuario426@example.com>
+X-To: Usuario241 <usuario241@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario426_folder\spam
+X-Origin: usuario426-P
+X-FileName: usuario426.pst
+
+I hope this email finds you well.
+Please let me know if there are any changes to the schedule.
+Let me know if you need any additional details.
+----------------------------------------

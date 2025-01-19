@@ -1,0 +1,20 @@
+Message-ID: <989fff542e664057930de9ddb7d4daf5@thyme>
+Date: Sun, 05 Feb 2006 00:00:00 -0700
+From: usuario100@example.com
+To: usuario5@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario100 <usuario100@example.com>
+X-To: Usuario5 <usuario5@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario100_folder\_sent_mail
+X-Origin: usuario100-P
+X-FileName: usuario100.pst
+
+Please find the attached report for the last quarter
+Looking forward to discussing the project in more detail soon.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

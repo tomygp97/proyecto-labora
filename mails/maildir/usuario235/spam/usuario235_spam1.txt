@@ -1,0 +1,20 @@
+Message-ID: <39516cc9acf2458a9adc50de980c324b@thyme>
+Date: Mon, 26 May 2014 00:00:00 -0700
+From: usuario235@example.com
+To: usuario7@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario235 <usuario235@example.com>
+X-To: Usuario7 <usuario7@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario235_folder\spam
+X-Origin: usuario235-P
+X-FileName: usuario235.pst
+
+I wanted to give you an update on the status of the project.
+I wanted to remind you about the upcoming deadline.
+Here are the results from the analysis we discussed.
+----------------------------------------

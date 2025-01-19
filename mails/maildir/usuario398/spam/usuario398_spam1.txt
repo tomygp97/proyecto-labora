@@ -1,0 +1,20 @@
+Message-ID: <aa5aadddd709422c8eabb0252e02490e@thyme>
+Date: Thu, 18 Feb 2010 00:00:00 -0700
+From: usuario398@example.com
+To: usuario21@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario398 <usuario398@example.com>
+X-To: Usuario21 <usuario21@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario398_folder\spam
+X-Origin: usuario398-P
+X-FileName: usuario398.pst
+
+I wanted to thank you for your prompt response.
+Here are the documents I mentioned during our call.
+I have included all the necessary details in the attached report.
+----------------------------------------

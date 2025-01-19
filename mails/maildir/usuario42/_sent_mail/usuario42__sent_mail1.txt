@@ -1,0 +1,20 @@
+Message-ID: <e297432f3ba040e6933ee91f8a852dac@thyme>
+Date: Fri, 09 Mar 2007 00:00:00 -0700
+From: usuario42@example.com
+To: usuario145@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario42 <usuario42@example.com>
+X-To: Usuario145 <usuario145@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario42_folder\_sent_mail
+X-Origin: usuario42-P
+X-FileName: usuario42.pst
+
+Please review the attached files and provide feedback.
+Here is our forecast
+Please review the materials at your earliest convenience.
+----------------------------------------

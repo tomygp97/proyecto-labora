@@ -1,0 +1,20 @@
+Message-ID: <48a3f4f5e88e4ab6a9c599c1db8a1d87@thyme>
+Date: Sat, 29 Sep 2007 00:00:00 -0700
+From: usuario178@example.com
+To: usuario947@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario178 <usuario178@example.com>
+X-To: Usuario947 <usuario947@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario178_folder\inbox
+X-Origin: usuario178-P
+X-FileName: usuario178.pst
+
+I wanted to thank you for your prompt response.
+I wanted to remind you about the upcoming deadline.
+I wanted to give you an update on the status of the project.
+----------------------------------------

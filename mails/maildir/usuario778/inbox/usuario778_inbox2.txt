@@ -1,0 +1,20 @@
+Message-ID: <9643d5bca47e40978dfe734f6f46e5a3@thyme>
+Date: Sat, 17 Jun 2006 00:00:00 -0700
+From: usuario778@example.com
+To: usuario924@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario778 <usuario778@example.com>
+X-To: Usuario924 <usuario924@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario778_folder\inbox
+X-Origin: usuario778-P
+X-FileName: usuario778.pst
+
+I would love to hear your feedback on the proposal.
+Let me know if there's anything I can assist you with.
+I hope you're having a productive week.
+----------------------------------------

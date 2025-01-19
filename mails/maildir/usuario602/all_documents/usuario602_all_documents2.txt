@@ -1,0 +1,20 @@
+Message-ID: <a98e108c4f4f4fc6a1dd4dd1f3e1837f@thyme>
+Date: Tue, 30 Aug 2022 00:00:00 -0700
+From: usuario602@example.com
+To: usuario476@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario602 <usuario602@example.com>
+X-To: Usuario476 <usuario476@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario602_folder\all_documents
+X-Origin: usuario602-P
+X-FileName: usuario602.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Please review the attached files and provide feedback.
+Just checking in to see if you've received my previous email.
+----------------------------------------

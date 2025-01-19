@@ -1,0 +1,20 @@
+Message-ID: <3c579f08772f4b8893aad48830a9c005@thyme>
+Date: Mon, 16 Mar 2020 00:00:00 -0700
+From: usuario660@example.com
+To: usuario256@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario660 <usuario660@example.com>
+X-To: Usuario256 <usuario256@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario660_folder\spam
+X-Origin: usuario660-P
+X-FileName: usuario660.pst
+
+I look forward to your response.
+Here are the documents I mentioned during our call.
+Just checking in to see if you've received my previous email.
+----------------------------------------

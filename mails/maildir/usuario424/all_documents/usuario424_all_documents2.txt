@@ -1,0 +1,20 @@
+Message-ID: <f0f1e0d2b51841c2a7fa8b10d12008c0@thyme>
+Date: Sun, 23 Dec 2012 00:00:00 -0700
+From: usuario424@example.com
+To: usuario322@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario424 <usuario424@example.com>
+X-To: Usuario322 <usuario322@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario424_folder\all_documents
+X-Origin: usuario424-P
+X-FileName: usuario424.pst
+
+Here are the documents I mentioned during our call.
+Let me know if there's anything I can assist you with.
+Hope everything is going well on your end.
+----------------------------------------

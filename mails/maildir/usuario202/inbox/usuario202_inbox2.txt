@@ -1,0 +1,20 @@
+Message-ID: <f9889579eaf84e93871424351ce97fbd@thyme>
+Date: Sat, 17 Mar 2018 00:00:00 -0700
+From: usuario202@example.com
+To: usuario81@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario202 <usuario202@example.com>
+X-To: Usuario81 <usuario81@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario202_folder\inbox
+X-Origin: usuario202-P
+X-FileName: usuario202.pst
+
+Please find the attached report for the last quarter
+I hope this email finds you well.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

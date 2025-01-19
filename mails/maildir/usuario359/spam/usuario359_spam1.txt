@@ -1,0 +1,20 @@
+Message-ID: <f09fbfd506594c408b0786e5e07ffedd@thyme>
+Date: Fri, 24 Feb 2023 00:00:00 -0700
+From: usuario359@example.com
+To: usuario875@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario359 <usuario359@example.com>
+X-To: Usuario875 <usuario875@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario359_folder\spam
+X-Origin: usuario359-P
+X-FileName: usuario359.pst
+
+I wanted to remind you about the upcoming deadline.
+Hope you're doing well. Here's the requested information.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

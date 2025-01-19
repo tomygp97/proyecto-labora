@@ -1,0 +1,20 @@
+Message-ID: <aff319e3aa85483b8910664698e0ecea@thyme>
+Date: Tue, 22 Feb 2000 00:00:00 -0700
+From: usuario243@example.com
+To: usuario747@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario243 <usuario243@example.com>
+X-To: Usuario747 <usuario747@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario243_folder\sent
+X-Origin: usuario243-P
+X-FileName: usuario243.pst
+
+I appreciate your attention to this matter.
+I would love to hear your feedback on the proposal.
+Can you please confirm receipt of the files?
+----------------------------------------

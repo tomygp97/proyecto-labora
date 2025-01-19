@@ -1,0 +1,20 @@
+Message-ID: <884d715544764dd5a1117c94aec710fd@thyme>
+Date: Sat, 17 Aug 2013 00:00:00 -0700
+From: usuario85@example.com
+To: usuario715@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario85 <usuario85@example.com>
+X-To: Usuario715 <usuario715@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario85_folder\inbox
+X-Origin: usuario85-P
+X-FileName: usuario85.pst
+
+I wanted to give you an update on the status of the project.
+Please review the attached files and provide feedback.
+Just checking in to see if you've received my previous email.
+----------------------------------------

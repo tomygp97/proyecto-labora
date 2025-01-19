@@ -1,0 +1,20 @@
+Message-ID: <59473cbe8c544468a949f912962bcb73@thyme>
+Date: Fri, 02 Nov 2007 00:00:00 -0700
+From: usuario27@example.com
+To: usuario15@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario27 <usuario27@example.com>
+X-To: Usuario15 <usuario15@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario27_folder\inbox
+X-Origin: usuario27-P
+X-FileName: usuario27.pst
+
+Here is our forecast
+Here are the next steps we need to take.
+I wanted to thank you for your prompt response.
+----------------------------------------

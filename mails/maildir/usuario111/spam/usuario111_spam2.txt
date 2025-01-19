@@ -1,0 +1,20 @@
+Message-ID: <9933833bd5f34b06af6f55ee893985b3@thyme>
+Date: Sun, 11 Jun 2023 00:00:00 -0700
+From: usuario111@example.com
+To: usuario168@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario111 <usuario111@example.com>
+X-To: Usuario168 <usuario168@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario111_folder\spam
+X-Origin: usuario111-P
+X-FileName: usuario111.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Hope everything is going well on your end.
+I would love to hear your feedback on the proposal.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <889f6ec31a4143a9ad3d344450afd600@thyme>
+Date: Thu, 21 Apr 2005 00:00:00 -0700
+From: usuario273@example.com
+To: usuario120@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario273 <usuario273@example.com>
+X-To: Usuario120 <usuario120@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario273_folder\inbox
+X-Origin: usuario273-P
+X-FileName: usuario273.pst
+
+I look forward to collaborating further on this initiative.
+I wanted to give you an update on the status of the project.
+I hope you're having a productive week.
+----------------------------------------

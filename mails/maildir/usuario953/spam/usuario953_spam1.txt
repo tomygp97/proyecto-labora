@@ -1,0 +1,20 @@
+Message-ID: <b0d23badb2fd4f1aaed817091cad7aad@thyme>
+Date: Fri, 23 Apr 2010 00:00:00 -0700
+From: usuario953@example.com
+To: usuario938@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario953 <usuario953@example.com>
+X-To: Usuario938 <usuario938@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario953_folder\spam
+X-Origin: usuario953-P
+X-FileName: usuario953.pst
+
+I look forward to your response.
+Just wanted to touch base on the upcoming project milestone.
+I wanted to follow up on our last meeting
+----------------------------------------

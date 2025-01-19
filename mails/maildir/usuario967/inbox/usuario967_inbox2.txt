@@ -1,0 +1,20 @@
+Message-ID: <62e7eec987d2480aa8b095b4c1c30123@thyme>
+Date: Mon, 06 Oct 2014 00:00:00 -0700
+From: usuario967@example.com
+To: usuario656@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario967 <usuario967@example.com>
+X-To: Usuario656 <usuario656@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario967_folder\inbox
+X-Origin: usuario967-P
+X-FileName: usuario967.pst
+
+I wanted to remind you about the upcoming deadline.
+As discussed, I have attached the report you requested.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

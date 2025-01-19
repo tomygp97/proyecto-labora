@@ -1,0 +1,20 @@
+Message-ID: <13df2361ba044970b6eb3253cf009b50@thyme>
+Date: Thu, 02 Nov 2000 00:00:00 -0700
+From: usuario876@example.com
+To: usuario208@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario876 <usuario876@example.com>
+X-To: Usuario208 <usuario208@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario876_folder\all_documents
+X-Origin: usuario876-P
+X-FileName: usuario876.pst
+
+Here are the documents I mentioned during our call.
+Please don't hesitate to reach out if you need any help.
+Just checking in to see if you've received my previous email.
+----------------------------------------

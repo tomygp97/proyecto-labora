@@ -1,0 +1,20 @@
+Message-ID: <cc1816cd4dfd4617b8d450cd8412c736@thyme>
+Date: Sat, 21 Apr 2012 00:00:00 -0700
+From: usuario104@example.com
+To: usuario698@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario104 <usuario104@example.com>
+X-To: Usuario698 <usuario698@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario104_folder\inbox
+X-Origin: usuario104-P
+X-FileName: usuario104.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I look forward to your response.
+I hope you're having a productive week.
+----------------------------------------

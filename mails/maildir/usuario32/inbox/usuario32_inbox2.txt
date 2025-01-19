@@ -1,0 +1,20 @@
+Message-ID: <18ab14e0aab3497e9ab7a715063b6732@thyme>
+Date: Thu, 17 Nov 2022 00:00:00 -0700
+From: usuario32@example.com
+To: usuario735@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario735 <usuario735@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\inbox
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+Here is a summary of the last meeting for your reference.
+Looking forward to hearing from you soon
+I have included all the necessary details in the attached report.
+----------------------------------------

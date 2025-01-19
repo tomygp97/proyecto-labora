@@ -1,0 +1,20 @@
+Message-ID: <eacd6266ee9448d08bdda2eb8f8c6f99@thyme>
+Date: Tue, 23 Apr 2019 00:00:00 -0700
+From: usuario93@example.com
+To: usuario641@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario93 <usuario93@example.com>
+X-To: Usuario641 <usuario641@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario93_folder\_sent_mail
+X-Origin: usuario93-P
+X-FileName: usuario93.pst
+
+Please let me know if there are any changes to the schedule.
+Please find the latest updates on the project
+I look forward to collaborating further on this initiative.
+----------------------------------------

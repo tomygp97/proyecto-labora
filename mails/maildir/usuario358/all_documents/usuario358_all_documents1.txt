@@ -1,0 +1,20 @@
+Message-ID: <134f27308246436da87d702604c97342@thyme>
+Date: Fri, 20 Dec 2002 00:00:00 -0700
+From: usuario358@example.com
+To: usuario988@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario358 <usuario358@example.com>
+X-To: Usuario988 <usuario988@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario358_folder\all_documents
+X-Origin: usuario358-P
+X-FileName: usuario358.pst
+
+Please review the attached files and provide feedback.
+Please find the attached report for the last quarter
+I appreciate your attention to this matter.
+----------------------------------------

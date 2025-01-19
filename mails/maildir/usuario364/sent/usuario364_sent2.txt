@@ -1,0 +1,20 @@
+Message-ID: <afd33c002cba47c58b21c46f030d64b5@thyme>
+Date: Fri, 29 Jun 2018 00:00:00 -0700
+From: usuario364@example.com
+To: usuario469@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario364 <usuario364@example.com>
+X-To: Usuario469 <usuario469@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario364_folder\sent
+X-Origin: usuario364-P
+X-FileName: usuario364.pst
+
+I hope this email finds you well.
+I wanted to thank you for your prompt response.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

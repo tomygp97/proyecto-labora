@@ -1,0 +1,20 @@
+Message-ID: <4b09234114d546f4a60386d253a82bb2@thyme>
+Date: Thu, 10 Jul 2014 00:00:00 -0700
+From: usuario884@example.com
+To: usuario906@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario884 <usuario884@example.com>
+X-To: Usuario906 <usuario906@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario884_folder\_sent_mail
+X-Origin: usuario884-P
+X-FileName: usuario884.pst
+
+Just checking in to see if you've received my previous email.
+I hope you're enjoying a nice week so far.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

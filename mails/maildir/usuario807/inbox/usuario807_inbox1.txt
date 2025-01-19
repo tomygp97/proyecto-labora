@@ -1,0 +1,20 @@
+Message-ID: <44fda6718d3348ef83f66e4d11510b3f@thyme>
+Date: Sat, 28 Nov 2015 00:00:00 -0700
+From: usuario807@example.com
+To: usuario932@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario807 <usuario807@example.com>
+X-To: Usuario932 <usuario932@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario807_folder\inbox
+X-Origin: usuario807-P
+X-FileName: usuario807.pst
+
+I look forward to your response.
+Here is our forecast
+I hope you're having a productive week.
+----------------------------------------

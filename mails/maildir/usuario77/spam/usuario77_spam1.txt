@@ -1,0 +1,20 @@
+Message-ID: <cb94fcf6260545609257a035d23317b5@thyme>
+Date: Tue, 27 Jul 2021 00:00:00 -0700
+From: usuario77@example.com
+To: usuario277@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario77 <usuario77@example.com>
+X-To: Usuario277 <usuario277@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario77_folder\spam
+X-Origin: usuario77-P
+X-FileName: usuario77.pst
+
+Can you please confirm receipt of the files?
+I look forward to your response.
+I appreciate your attention to this matter.
+----------------------------------------

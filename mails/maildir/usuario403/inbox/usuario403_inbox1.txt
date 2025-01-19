@@ -1,0 +1,20 @@
+Message-ID: <80f53d271b544c2eb864e4780967d820@thyme>
+Date: Tue, 31 Mar 2015 00:00:00 -0700
+From: usuario403@example.com
+To: usuario296@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario403 <usuario403@example.com>
+X-To: Usuario296 <usuario296@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario403_folder\inbox
+X-Origin: usuario403-P
+X-FileName: usuario403.pst
+
+Here are the documents I mentioned during our call.
+Just wanted to touch base on the upcoming project milestone.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

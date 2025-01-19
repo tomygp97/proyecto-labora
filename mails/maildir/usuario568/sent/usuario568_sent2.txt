@@ -1,0 +1,20 @@
+Message-ID: <08fb8dc2c35c4257af8f7da41d4a8425@thyme>
+Date: Wed, 09 Nov 2011 00:00:00 -0700
+From: usuario568@example.com
+To: usuario88@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario568 <usuario568@example.com>
+X-To: Usuario88 <usuario88@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario568_folder\sent
+X-Origin: usuario568-P
+X-FileName: usuario568.pst
+
+Please don't hesitate to reach out if you need any help.
+Please find the attached report for the last quarter
+Hope you're doing well. Here's the requested information.
+----------------------------------------

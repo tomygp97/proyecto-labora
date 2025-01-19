@@ -1,0 +1,20 @@
+Message-ID: <28b2aca6a6434e419b086d76fef72d2a@thyme>
+Date: Sat, 05 Dec 2015 00:00:00 -0700
+From: usuario564@example.com
+To: usuario626@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario564 <usuario564@example.com>
+X-To: Usuario626 <usuario626@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario564_folder\all_documents
+X-Origin: usuario564-P
+X-FileName: usuario564.pst
+
+Just checking in to see if you've received my previous email.
+Please let me know if there's anything else you need from my end.
+Please review the materials at your earliest convenience.
+----------------------------------------

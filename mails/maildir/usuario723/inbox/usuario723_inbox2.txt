@@ -1,0 +1,20 @@
+Message-ID: <05ca399792ad4711b33c9aa35bd6015d@thyme>
+Date: Sat, 23 Dec 2023 00:00:00 -0700
+From: usuario723@example.com
+To: usuario465@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario723 <usuario723@example.com>
+X-To: Usuario465 <usuario465@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario723_folder\inbox
+X-Origin: usuario723-P
+X-FileName: usuario723.pst
+
+Please find the latest updates on the project
+I wanted to confirm our meeting for tomorrow.
+Here are the documents I mentioned during our call.
+----------------------------------------

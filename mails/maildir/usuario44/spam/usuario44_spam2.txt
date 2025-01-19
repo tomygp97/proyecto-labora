@@ -1,0 +1,20 @@
+Message-ID: <b309002bb1ba4738894a482be5702ea4@thyme>
+Date: Mon, 28 Aug 2017 00:00:00 -0700
+From: usuario44@example.com
+To: usuario180@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario44 <usuario44@example.com>
+X-To: Usuario180 <usuario180@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario44_folder\spam
+X-Origin: usuario44-P
+X-FileName: usuario44.pst
+
+Just checking in to see if you've received my previous email.
+I trust the documents will be helpful for our upcoming discussion.
+Here is our forecast
+----------------------------------------

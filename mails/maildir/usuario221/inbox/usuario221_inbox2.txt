@@ -1,0 +1,20 @@
+Message-ID: <605e0339b93e47eb96a502b1f51a254b@thyme>
+Date: Tue, 24 Oct 2023 00:00:00 -0700
+From: usuario221@example.com
+To: usuario491@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario221 <usuario221@example.com>
+X-To: Usuario491 <usuario491@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario221_folder\inbox
+X-Origin: usuario221-P
+X-FileName: usuario221.pst
+
+I hope this email finds you well.
+Please make sure to go through the attached documents before our meeting.
+I hope you're having a productive week.
+----------------------------------------

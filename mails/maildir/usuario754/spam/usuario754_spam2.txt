@@ -1,0 +1,20 @@
+Message-ID: <d07c3eef86a940d7a3c4131f9609bdf9@thyme>
+Date: Sun, 28 Oct 2018 00:00:00 -0700
+From: usuario754@example.com
+To: usuario442@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario754 <usuario754@example.com>
+X-To: Usuario442 <usuario442@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario754_folder\spam
+X-Origin: usuario754-P
+X-FileName: usuario754.pst
+
+I look forward to your response.
+Please let me know if there are any changes to the schedule.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

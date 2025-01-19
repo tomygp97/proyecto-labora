@@ -1,0 +1,20 @@
+Message-ID: <c20a92b6dfab40fe906a9a6b50e99e14@thyme>
+Date: Fri, 10 Mar 2017 00:00:00 -0700
+From: usuario828@example.com
+To: usuario832@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario828 <usuario828@example.com>
+X-To: Usuario832 <usuario832@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario828_folder\inbox
+X-Origin: usuario828-P
+X-FileName: usuario828.pst
+
+Looking forward to discussing the project in more detail soon.
+Hope everything is going well on your end.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

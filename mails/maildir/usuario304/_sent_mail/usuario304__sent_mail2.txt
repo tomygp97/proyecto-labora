@@ -1,0 +1,20 @@
+Message-ID: <d87f7616c8e74a5c999e4919f4719e44@thyme>
+Date: Sat, 25 Aug 2007 00:00:00 -0700
+From: usuario304@example.com
+To: usuario220@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario304 <usuario304@example.com>
+X-To: Usuario220 <usuario220@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario304_folder\_sent_mail
+X-Origin: usuario304-P
+X-FileName: usuario304.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please review the materials at your earliest convenience.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

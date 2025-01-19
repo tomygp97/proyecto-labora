@@ -1,0 +1,20 @@
+Message-ID: <4edd0e8c9c0f4eb58cf350284d769270@thyme>
+Date: Wed, 19 Jan 2022 00:00:00 -0700
+From: usuario227@example.com
+To: usuario821@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario227 <usuario227@example.com>
+X-To: Usuario821 <usuario821@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario227_folder\spam
+X-Origin: usuario227-P
+X-FileName: usuario227.pst
+
+Let me know if there's anything I can assist you with.
+I wanted to confirm our meeting for tomorrow.
+I hope this email finds you well.
+----------------------------------------

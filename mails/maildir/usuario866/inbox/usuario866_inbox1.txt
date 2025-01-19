@@ -1,0 +1,20 @@
+Message-ID: <c1af33fcf18d4139bce99b88cc9f482f@thyme>
+Date: Wed, 03 Mar 2021 00:00:00 -0700
+From: usuario866@example.com
+To: usuario72@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario866 <usuario866@example.com>
+X-To: Usuario72 <usuario72@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario866_folder\inbox
+X-Origin: usuario866-P
+X-FileName: usuario866.pst
+
+Please review the attached files and provide feedback.
+Please find the attached report for the last quarter
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

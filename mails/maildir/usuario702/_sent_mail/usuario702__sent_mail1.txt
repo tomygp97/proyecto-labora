@@ -1,0 +1,20 @@
+Message-ID: <f2279080ea6146d09105d8a6f679a2bc@thyme>
+Date: Mon, 10 Oct 2011 00:00:00 -0700
+From: usuario702@example.com
+To: usuario555@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario702 <usuario702@example.com>
+X-To: Usuario555 <usuario555@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario702_folder\_sent_mail
+X-Origin: usuario702-P
+X-FileName: usuario702.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Just checking in to see if you've received my previous email.
+Here are the documents I mentioned during our call.
+----------------------------------------

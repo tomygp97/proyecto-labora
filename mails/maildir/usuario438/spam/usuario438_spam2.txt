@@ -1,0 +1,20 @@
+Message-ID: <b650779c9e3a44b79e78c7d80b8b4349@thyme>
+Date: Fri, 30 Jun 2006 00:00:00 -0700
+From: usuario438@example.com
+To: usuario582@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario438 <usuario438@example.com>
+X-To: Usuario582 <usuario582@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario438_folder\spam
+X-Origin: usuario438-P
+X-FileName: usuario438.pst
+
+Here are the results from the analysis we discussed.
+I appreciate your attention to this matter.
+Can you please confirm receipt of the files?
+----------------------------------------

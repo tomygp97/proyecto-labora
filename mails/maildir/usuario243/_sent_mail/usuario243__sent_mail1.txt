@@ -1,0 +1,20 @@
+Message-ID: <3a554837942a4fb585b16eca2e413681@thyme>
+Date: Wed, 31 Jan 2007 00:00:00 -0700
+From: usuario243@example.com
+To: usuario246@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario243 <usuario243@example.com>
+X-To: Usuario246 <usuario246@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario243_folder\_sent_mail
+X-Origin: usuario243-P
+X-FileName: usuario243.pst
+
+Please let me know if there are any issues with the attached files.
+Looking forward to hearing from you soon
+Here is a summary of the last meeting for your reference.
+----------------------------------------

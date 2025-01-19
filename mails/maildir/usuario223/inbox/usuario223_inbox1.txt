@@ -1,0 +1,20 @@
+Message-ID: <4fbd13a9b19541ddb28e8d24cdf0613b@thyme>
+Date: Thu, 09 Jun 2022 00:00:00 -0700
+From: usuario223@example.com
+To: usuario261@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario223 <usuario223@example.com>
+X-To: Usuario261 <usuario261@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario223_folder\inbox
+X-Origin: usuario223-P
+X-FileName: usuario223.pst
+
+I look forward to your response.
+Let me know if there's anything I can assist you with.
+I have included all the necessary details in the attached report.
+----------------------------------------

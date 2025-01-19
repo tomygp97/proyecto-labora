@@ -1,0 +1,20 @@
+Message-ID: <503dba70330941c7aec6ea6a791426ae@thyme>
+Date: Fri, 22 Jan 2016 00:00:00 -0700
+From: usuario342@example.com
+To: usuario716@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario342 <usuario342@example.com>
+X-To: Usuario716 <usuario716@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario342_folder\_sent_mail
+X-Origin: usuario342-P
+X-FileName: usuario342.pst
+
+Thank you for your attention
+Just wanted to touch base on the upcoming project milestone.
+I hope this email finds you well.
+----------------------------------------

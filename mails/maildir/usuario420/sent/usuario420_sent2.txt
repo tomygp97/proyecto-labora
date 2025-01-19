@@ -1,0 +1,20 @@
+Message-ID: <d81ada788759408598a4bbb1479a691a@thyme>
+Date: Tue, 13 Jul 2021 00:00:00 -0700
+From: usuario420@example.com
+To: usuario222@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario420 <usuario420@example.com>
+X-To: Usuario222 <usuario222@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario420_folder\sent
+X-Origin: usuario420-P
+X-FileName: usuario420.pst
+
+I appreciate your attention to this matter.
+I trust the documents will be helpful for our upcoming discussion.
+Just checking in to see if you've received my previous email.
+----------------------------------------

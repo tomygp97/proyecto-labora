@@ -1,0 +1,20 @@
+Message-ID: <78e4c136571b49b1a110acbe9414402f@thyme>
+Date: Fri, 15 Feb 2013 00:00:00 -0700
+From: usuario365@example.com
+To: usuario856@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario365 <usuario365@example.com>
+X-To: Usuario856 <usuario856@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario365_folder\all_documents
+X-Origin: usuario365-P
+X-FileName: usuario365.pst
+
+I wanted to give you an update on the status of the project.
+Please find the latest updates on the project
+I wanted to check in regarding the status of the project.
+----------------------------------------

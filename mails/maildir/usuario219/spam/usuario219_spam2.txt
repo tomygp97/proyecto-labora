@@ -1,0 +1,20 @@
+Message-ID: <3132365227824a259ce36a7b8aa6f605@thyme>
+Date: Wed, 18 Jun 2003 00:00:00 -0700
+From: usuario219@example.com
+To: usuario722@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario219 <usuario219@example.com>
+X-To: Usuario722 <usuario722@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario219_folder\spam
+X-Origin: usuario219-P
+X-FileName: usuario219.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I hope you're having a productive week.
+Please review the attached files and provide feedback.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <2a6fa85706cb45e29a1b1acdfb61d75e@thyme>
+Date: Fri, 17 Jan 2014 00:00:00 -0700
+From: usuario628@example.com
+To: usuario33@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario628 <usuario628@example.com>
+X-To: Usuario33 <usuario33@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario628_folder\sent
+X-Origin: usuario628-P
+X-FileName: usuario628.pst
+
+Looking forward to discussing the project in more detail soon.
+I hope you're having a productive week.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

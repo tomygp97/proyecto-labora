@@ -1,0 +1,20 @@
+Message-ID: <ff4331e32bb64e9ab891e77d4e235be8@thyme>
+Date: Wed, 20 Apr 2022 00:00:00 -0700
+From: usuario246@example.com
+To: usuario14@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario246 <usuario246@example.com>
+X-To: Usuario14 <usuario14@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario246_folder\all_documents
+X-Origin: usuario246-P
+X-FileName: usuario246.pst
+
+Please find the latest updates on the project
+Here is a summary of the last meeting for your reference.
+Here are the results from the analysis we discussed.
+----------------------------------------

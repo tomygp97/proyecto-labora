@@ -1,0 +1,20 @@
+Message-ID: <7ef424675eab4ae18ad0f92d8bcc0946@thyme>
+Date: Sun, 29 Aug 2021 00:00:00 -0700
+From: usuario96@example.com
+To: usuario802@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario96 <usuario96@example.com>
+X-To: Usuario802 <usuario802@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario96_folder\inbox
+X-Origin: usuario96-P
+X-FileName: usuario96.pst
+
+I hope this email finds you well.
+I hope you're enjoying a nice week so far.
+I wanted to thank you for your prompt response.
+----------------------------------------

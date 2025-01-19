@@ -1,0 +1,20 @@
+Message-ID: <774732a596e040ffaedc80b29508d140@thyme>
+Date: Wed, 19 May 2010 00:00:00 -0700
+From: usuario196@example.com
+To: usuario200@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario196 <usuario196@example.com>
+X-To: Usuario200 <usuario200@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario196_folder\spam
+X-Origin: usuario196-P
+X-FileName: usuario196.pst
+
+Hope everything is going well on your end.
+I wanted to confirm our meeting for tomorrow.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

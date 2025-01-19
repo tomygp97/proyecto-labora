@@ -1,0 +1,20 @@
+Message-ID: <f63dc6f59e6d4a2c8cfb14203a66d446@thyme>
+Date: Mon, 30 Dec 2024 00:00:00 -0700
+From: usuario312@example.com
+To: usuario307@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario312 <usuario312@example.com>
+X-To: Usuario307 <usuario307@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario312_folder\inbox
+X-Origin: usuario312-P
+X-FileName: usuario312.pst
+
+As discussed, I have attached the report you requested.
+Please make sure to go through the attached documents before our meeting.
+I hope you're enjoying a nice week so far.
+----------------------------------------

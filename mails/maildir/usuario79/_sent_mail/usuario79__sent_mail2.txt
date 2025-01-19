@@ -1,0 +1,20 @@
+Message-ID: <9bb34fdbf8864006b93124fc0805a11d@thyme>
+Date: Fri, 19 Jan 2024 00:00:00 -0700
+From: usuario79@example.com
+To: usuario830@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario79 <usuario79@example.com>
+X-To: Usuario830 <usuario830@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario79_folder\_sent_mail
+X-Origin: usuario79-P
+X-FileName: usuario79.pst
+
+I wanted to check in regarding the status of the project.
+Please let me know if there are any changes to the schedule.
+As discussed, I have attached the report you requested.
+----------------------------------------

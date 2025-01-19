@@ -1,0 +1,20 @@
+Message-ID: <ae0b9b31ff734c5c8465046faa2e6fef@thyme>
+Date: Fri, 06 Oct 2023 00:00:00 -0700
+From: usuario536@example.com
+To: usuario517@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario536 <usuario536@example.com>
+X-To: Usuario517 <usuario517@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario536_folder\all_documents
+X-Origin: usuario536-P
+X-FileName: usuario536.pst
+
+Here are the next steps we need to take.
+Please don't hesitate to reach out if you need any help.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <ecb76bcb63d847059ac1f6e6467752fa@thyme>
+Date: Wed, 24 Jul 2019 00:00:00 -0700
+From: usuario254@example.com
+To: usuario666@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario254 <usuario254@example.com>
+X-To: Usuario666 <usuario666@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario254_folder\all_documents
+X-Origin: usuario254-P
+X-FileName: usuario254.pst
+
+I hope this email finds you well.
+Let me know if you'd like to schedule a follow-up discussion.
+Please review the materials at your earliest convenience.
+----------------------------------------

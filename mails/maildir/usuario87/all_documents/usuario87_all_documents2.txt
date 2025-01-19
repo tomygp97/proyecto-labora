@@ -1,0 +1,20 @@
+Message-ID: <4c4e660b207a43d3a6aa7fc27b25455d@thyme>
+Date: Tue, 13 Aug 2013 00:00:00 -0700
+From: usuario87@example.com
+To: usuario585@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario87 <usuario87@example.com>
+X-To: Usuario585 <usuario585@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario87_folder\all_documents
+X-Origin: usuario87-P
+X-FileName: usuario87.pst
+
+Here is a summary of the last meeting for your reference.
+Looking forward to discussing the project in more detail soon.
+I would love to hear your feedback on the proposal.
+----------------------------------------

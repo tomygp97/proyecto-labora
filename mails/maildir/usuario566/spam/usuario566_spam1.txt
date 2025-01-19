@@ -1,0 +1,20 @@
+Message-ID: <1339912e516049219fdfd02fdf5b4cd5@thyme>
+Date: Sat, 02 Jun 2007 00:00:00 -0700
+From: usuario566@example.com
+To: usuario248@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario566 <usuario566@example.com>
+X-To: Usuario248 <usuario248@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario566_folder\spam
+X-Origin: usuario566-P
+X-FileName: usuario566.pst
+
+I wanted to thank you for your prompt response.
+Please find the attached report for the last quarter
+I hope you're enjoying a nice week so far.
+----------------------------------------

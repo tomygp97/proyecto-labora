@@ -1,0 +1,20 @@
+Message-ID: <bc0d3eb8af0b44aaacb5e02e720c08c3@thyme>
+Date: Wed, 26 Apr 2006 00:00:00 -0700
+From: usuario296@example.com
+To: usuario289@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario296 <usuario296@example.com>
+X-To: Usuario289 <usuario289@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario296_folder\all_documents
+X-Origin: usuario296-P
+X-FileName: usuario296.pst
+
+Please let me know if there are any changes to the schedule.
+I trust the documents will be helpful for our upcoming discussion.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <3e69472da7794129a0d0739bb37acf79@thyme>
+Date: Thu, 28 Jan 2016 00:00:00 -0700
+From: usuario388@example.com
+To: usuario90@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario388 <usuario388@example.com>
+X-To: Usuario90 <usuario90@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario388_folder\all_documents
+X-Origin: usuario388-P
+X-FileName: usuario388.pst
+
+Please find the attached report for the last quarter
+I wanted to check in regarding the status of the project.
+Let me know if there's anything I can assist you with.
+----------------------------------------

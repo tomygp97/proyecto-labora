@@ -1,0 +1,20 @@
+Message-ID: <f1c97668efef48acbcc0b0419f56f435@thyme>
+Date: Sat, 21 Nov 2009 00:00:00 -0700
+From: usuario785@example.com
+To: usuario712@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario785 <usuario785@example.com>
+X-To: Usuario712 <usuario712@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario785_folder\all_documents
+X-Origin: usuario785-P
+X-FileName: usuario785.pst
+
+I wanted to thank you for your prompt response.
+Here are the next steps we need to take.
+I would love to hear your feedback on the proposal.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <11597968df55418eb535ae5b3745cb70@thyme>
+Date: Sat, 01 Jun 2019 00:00:00 -0700
+From: usuario44@example.com
+To: usuario493@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario44 <usuario44@example.com>
+X-To: Usuario493 <usuario493@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario44_folder\spam
+X-Origin: usuario44-P
+X-FileName: usuario44.pst
+
+Let me know if there's anything I can assist you with.
+Let me know if you need any additional details.
+I hope you're having a productive week.
+----------------------------------------

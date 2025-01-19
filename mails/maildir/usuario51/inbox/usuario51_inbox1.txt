@@ -1,0 +1,20 @@
+Message-ID: <46ef7c208f0e4f3aa8e743e9bdbdf472@thyme>
+Date: Wed, 23 Mar 2022 00:00:00 -0700
+From: usuario51@example.com
+To: usuario889@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario51 <usuario51@example.com>
+X-To: Usuario889 <usuario889@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario51_folder\inbox
+X-Origin: usuario51-P
+X-FileName: usuario51.pst
+
+I hope this email finds you well.
+I wanted to give you an update on the status of the project.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

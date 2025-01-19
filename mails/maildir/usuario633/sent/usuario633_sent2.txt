@@ -1,0 +1,20 @@
+Message-ID: <8ee86c65a8dc4582895e4c2894fdfc50@thyme>
+Date: Fri, 27 Jun 2008 00:00:00 -0700
+From: usuario633@example.com
+To: usuario287@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario633 <usuario633@example.com>
+X-To: Usuario287 <usuario287@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario633_folder\sent
+X-Origin: usuario633-P
+X-FileName: usuario633.pst
+
+Hope everything is going well on your end.
+Please let me know if there's anything else you need from my end.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

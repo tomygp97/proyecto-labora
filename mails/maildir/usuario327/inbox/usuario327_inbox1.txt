@@ -1,0 +1,20 @@
+Message-ID: <742ca7aabf9048e696c91b3e1d0ee18c@thyme>
+Date: Thu, 04 Jul 2024 00:00:00 -0700
+From: usuario327@example.com
+To: usuario276@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario327 <usuario327@example.com>
+X-To: Usuario276 <usuario276@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario327_folder\inbox
+X-Origin: usuario327-P
+X-FileName: usuario327.pst
+
+I hope you're enjoying a nice week so far.
+Hope you're doing well. Here's the requested information.
+I would love to hear your feedback on the proposal.
+----------------------------------------

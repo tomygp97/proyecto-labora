@@ -1,0 +1,20 @@
+Message-ID: <ea660e638e4d4dad8015f6943553f4b1@thyme>
+Date: Thu, 22 Sep 2022 00:00:00 -0700
+From: usuario486@example.com
+To: usuario32@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario486 <usuario486@example.com>
+X-To: Usuario32 <usuario32@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario486_folder\inbox
+X-Origin: usuario486-P
+X-FileName: usuario486.pst
+
+Please find the latest updates on the project
+Please make sure to go through the attached documents before our meeting.
+I hope this email finds you well.
+----------------------------------------

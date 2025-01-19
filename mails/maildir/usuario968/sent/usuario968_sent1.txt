@@ -1,0 +1,20 @@
+Message-ID: <056013e6070a406ca1be98bb57660657@thyme>
+Date: Tue, 11 Sep 2018 00:00:00 -0700
+From: usuario968@example.com
+To: usuario130@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario968 <usuario968@example.com>
+X-To: Usuario130 <usuario130@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario968_folder\sent
+X-Origin: usuario968-P
+X-FileName: usuario968.pst
+
+Just checking in to see if you've received my previous email.
+I hope this email finds you well.
+Can you please confirm receipt of the files?
+----------------------------------------

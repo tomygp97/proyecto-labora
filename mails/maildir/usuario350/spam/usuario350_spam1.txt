@@ -1,0 +1,20 @@
+Message-ID: <e9f85e6a35584997b659aa069f4cc7fc@thyme>
+Date: Thu, 18 Nov 2004 00:00:00 -0700
+From: usuario350@example.com
+To: usuario128@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario350 <usuario350@example.com>
+X-To: Usuario128 <usuario128@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario350_folder\spam
+X-Origin: usuario350-P
+X-FileName: usuario350.pst
+
+Here are the documents I mentioned during our call.
+I look forward to your response.
+I wanted to thank you for your prompt response.
+----------------------------------------

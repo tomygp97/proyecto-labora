@@ -1,0 +1,20 @@
+Message-ID: <2eb16fc374c44522b585f7a4483963ca@thyme>
+Date: Thu, 14 Mar 2013 00:00:00 -0700
+From: usuario135@example.com
+To: usuario285@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario135 <usuario135@example.com>
+X-To: Usuario285 <usuario285@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario135_folder\sent
+X-Origin: usuario135-P
+X-FileName: usuario135.pst
+
+Please don't hesitate to reach out if you need any help.
+Here are the documents I mentioned during our call.
+I look forward to your response.
+----------------------------------------

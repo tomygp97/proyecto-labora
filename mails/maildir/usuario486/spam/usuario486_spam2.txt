@@ -1,0 +1,20 @@
+Message-ID: <34e61727f1a84f9885d39e9426fbec2c@thyme>
+Date: Fri, 19 Mar 2021 00:00:00 -0700
+From: usuario486@example.com
+To: usuario88@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario486 <usuario486@example.com>
+X-To: Usuario88 <usuario88@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario486_folder\spam
+X-Origin: usuario486-P
+X-FileName: usuario486.pst
+
+Just checking in to see if you've received my previous email.
+Please let me know if there are any changes to the schedule.
+Hope everything is going well on your end.
+----------------------------------------

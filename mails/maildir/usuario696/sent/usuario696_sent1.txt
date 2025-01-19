@@ -1,0 +1,20 @@
+Message-ID: <1af31effe38e41c3a5e8e9ec781eaf87@thyme>
+Date: Fri, 07 Oct 2022 00:00:00 -0700
+From: usuario696@example.com
+To: usuario892@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario696 <usuario696@example.com>
+X-To: Usuario892 <usuario892@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario696_folder\sent
+X-Origin: usuario696-P
+X-FileName: usuario696.pst
+
+I hope this email finds you well.
+Please review the materials at your earliest convenience.
+Here is our forecast
+----------------------------------------

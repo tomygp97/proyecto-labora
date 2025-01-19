@@ -1,0 +1,20 @@
+Message-ID: <ab4c556c2a364147a3842d255f11e905@thyme>
+Date: Tue, 31 Oct 2023 00:00:00 -0700
+From: usuario898@example.com
+To: usuario900@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario898 <usuario898@example.com>
+X-To: Usuario900 <usuario900@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario898_folder\inbox
+X-Origin: usuario898-P
+X-FileName: usuario898.pst
+
+Hope you're doing well. Here's the requested information.
+Please find the attached report for the last quarter
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

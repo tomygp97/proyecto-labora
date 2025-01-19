@@ -1,0 +1,20 @@
+Message-ID: <2c7e8ac84a024937ae008be47278f070@thyme>
+Date: Sat, 29 Sep 2001 00:00:00 -0700
+From: usuario252@example.com
+To: usuario899@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario252 <usuario252@example.com>
+X-To: Usuario899 <usuario899@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario252_folder\_sent_mail
+X-Origin: usuario252-P
+X-FileName: usuario252.pst
+
+Please let me know if there are any issues with the attached files.
+Please don't hesitate to reach out if you need any help.
+Hope everything is going well on your end.
+----------------------------------------

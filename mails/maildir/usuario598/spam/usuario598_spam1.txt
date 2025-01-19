@@ -1,0 +1,20 @@
+Message-ID: <1bbba300d8b2482b84f8f9be171a8191@thyme>
+Date: Fri, 01 Apr 2022 00:00:00 -0700
+From: usuario598@example.com
+To: usuario54@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario598 <usuario598@example.com>
+X-To: Usuario54 <usuario54@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario598_folder\spam
+X-Origin: usuario598-P
+X-FileName: usuario598.pst
+
+Let me know if there's anything I can assist you with.
+I wanted to give you an update on the status of the project.
+Please find the latest updates on the project
+----------------------------------------

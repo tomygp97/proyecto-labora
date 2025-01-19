@@ -1,0 +1,20 @@
+Message-ID: <a40dca31d9314c929d079ceb061cc509@thyme>
+Date: Thu, 06 Dec 2007 00:00:00 -0700
+From: usuario13@example.com
+To: usuario418@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario13 <usuario13@example.com>
+X-To: Usuario418 <usuario418@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario13_folder\_sent_mail
+X-Origin: usuario13-P
+X-FileName: usuario13.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I hope you're enjoying a nice week so far.
+Please review the attached files and provide feedback.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <ff09a4d8bbba41369f2ecb2c31edc61c@thyme>
+Date: Wed, 12 Aug 2020 00:00:00 -0700
+From: usuario82@example.com
+To: usuario822@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario82 <usuario82@example.com>
+X-To: Usuario822 <usuario822@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario82_folder\_sent_mail
+X-Origin: usuario82-P
+X-FileName: usuario82.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here is a summary of the last meeting for your reference.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

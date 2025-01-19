@@ -1,0 +1,20 @@
+Message-ID: <6f318ced7bc648bf8cebccc9adb77a7e@thyme>
+Date: Thu, 05 Oct 2000 00:00:00 -0700
+From: usuario521@example.com
+To: usuario574@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario521 <usuario521@example.com>
+X-To: Usuario574 <usuario574@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario521_folder\spam
+X-Origin: usuario521-P
+X-FileName: usuario521.pst
+
+Looking forward to hearing from you soon
+As discussed, I have attached the report you requested.
+I hope you're having a productive week.
+----------------------------------------

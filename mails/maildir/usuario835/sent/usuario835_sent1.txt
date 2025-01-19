@@ -1,0 +1,20 @@
+Message-ID: <ca140807dbac4a03aff46d0dc35bf4a6@thyme>
+Date: Tue, 29 May 2001 00:00:00 -0700
+From: usuario835@example.com
+To: usuario804@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario835 <usuario835@example.com>
+X-To: Usuario804 <usuario804@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario835_folder\sent
+X-Origin: usuario835-P
+X-FileName: usuario835.pst
+
+Please find the latest updates on the project
+I wanted to remind you about the upcoming deadline.
+As discussed, I have attached the report you requested.
+----------------------------------------

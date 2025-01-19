@@ -1,0 +1,20 @@
+Message-ID: <b889b93889f04116852c42ea0b5ac27e@thyme>
+Date: Sun, 13 Jul 2025 00:00:00 -0700
+From: usuario279@example.com
+To: usuario463@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario279 <usuario279@example.com>
+X-To: Usuario463 <usuario463@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario279_folder\_sent_mail
+X-Origin: usuario279-P
+X-FileName: usuario279.pst
+
+Just checking in to see if you've received my previous email.
+Please review the attached files and provide feedback.
+I wanted to follow up on our last meeting
+----------------------------------------

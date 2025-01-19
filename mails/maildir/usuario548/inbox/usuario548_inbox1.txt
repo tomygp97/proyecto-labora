@@ -1,0 +1,20 @@
+Message-ID: <905a8c4a3a89414eb9b7d5002f3ee588@thyme>
+Date: Sat, 04 May 2019 00:00:00 -0700
+From: usuario548@example.com
+To: usuario961@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario548 <usuario548@example.com>
+X-To: Usuario961 <usuario961@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario548_folder\inbox
+X-Origin: usuario548-P
+X-FileName: usuario548.pst
+
+Can you please confirm receipt of the files?
+Please find the attached report for the last quarter
+I have included all the necessary details in the attached report.
+----------------------------------------

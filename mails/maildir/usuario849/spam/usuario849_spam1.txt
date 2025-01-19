@@ -1,0 +1,20 @@
+Message-ID: <9eecddad4f624eb4baa60b531b0e3a1f@thyme>
+Date: Sat, 15 Sep 2012 00:00:00 -0700
+From: usuario849@example.com
+To: usuario477@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario849 <usuario849@example.com>
+X-To: Usuario477 <usuario477@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario849_folder\spam
+X-Origin: usuario849-P
+X-FileName: usuario849.pst
+
+I hope you're having a productive week.
+Please let me know if there are any issues with the attached files.
+Please find the latest updates on the project
+----------------------------------------

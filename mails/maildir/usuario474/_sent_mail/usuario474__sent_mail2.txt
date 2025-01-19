@@ -1,0 +1,20 @@
+Message-ID: <ce9431fbd6c74c768d726e3c6ca2c817@thyme>
+Date: Wed, 21 Nov 2001 00:00:00 -0700
+From: usuario474@example.com
+To: usuario653@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario474 <usuario474@example.com>
+X-To: Usuario653 <usuario653@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario474_folder\_sent_mail
+X-Origin: usuario474-P
+X-FileName: usuario474.pst
+
+Hope you're doing well. Here's the requested information.
+Can you please confirm receipt of the files?
+Just checking in to see if you've received my previous email.
+----------------------------------------

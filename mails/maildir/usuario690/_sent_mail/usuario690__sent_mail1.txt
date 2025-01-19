@@ -1,0 +1,20 @@
+Message-ID: <98ffed5704c8425687e403933715414a@thyme>
+Date: Thu, 03 Dec 2020 00:00:00 -0700
+From: usuario690@example.com
+To: usuario647@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario690 <usuario690@example.com>
+X-To: Usuario647 <usuario647@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario690_folder\_sent_mail
+X-Origin: usuario690-P
+X-FileName: usuario690.pst
+
+I wanted to remind you about the upcoming deadline.
+Please review the materials at your earliest convenience.
+I hope this email finds you well.
+----------------------------------------

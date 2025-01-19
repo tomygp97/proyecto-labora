@@ -1,0 +1,20 @@
+Message-ID: <c42519cf256947de9435b7e933a86f01@thyme>
+Date: Mon, 03 Dec 2007 00:00:00 -0700
+From: usuario216@example.com
+To: usuario95@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario216 <usuario216@example.com>
+X-To: Usuario95 <usuario95@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario216_folder\spam
+X-Origin: usuario216-P
+X-FileName: usuario216.pst
+
+Here is our forecast
+I hope this email finds you well.
+Please review the materials at your earliest convenience.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <da99579da9a9482e8af1b49c445da374@thyme>
+Date: Wed, 08 Oct 2008 00:00:00 -0700
+From: usuario91@example.com
+To: usuario468@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario91 <usuario91@example.com>
+X-To: Usuario468 <usuario468@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario91_folder\sent
+X-Origin: usuario91-P
+X-FileName: usuario91.pst
+
+Just checking in to see if you've received my previous email.
+Let me know if there's anything I can assist you with.
+Here is our forecast
+----------------------------------------

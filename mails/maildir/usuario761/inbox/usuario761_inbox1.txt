@@ -1,0 +1,20 @@
+Message-ID: <aaa0dc4b063d4a3aa0474647ee7b509a@thyme>
+Date: Tue, 08 Apr 2008 00:00:00 -0700
+From: usuario761@example.com
+To: usuario406@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario761 <usuario761@example.com>
+X-To: Usuario406 <usuario406@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario761_folder\inbox
+X-Origin: usuario761-P
+X-FileName: usuario761.pst
+
+Please don't hesitate to reach out if you need any help.
+I hope you're having a productive week.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

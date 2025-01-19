@@ -1,0 +1,20 @@
+Message-ID: <baf029db4b5d4e5db11e1e8a7f4d84d5@thyme>
+Date: Thu, 04 Jan 2001 00:00:00 -0700
+From: usuario22@example.com
+To: usuario525@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario22 <usuario22@example.com>
+X-To: Usuario525 <usuario525@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario22_folder\inbox
+X-Origin: usuario22-P
+X-FileName: usuario22.pst
+
+Let me know if you need any additional details.
+Just checking in to see if you've received my previous email.
+Here are the next steps we need to take.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <457910c918774d078d684c506c920ba6@thyme>
+Date: Sat, 07 Aug 2010 00:00:00 -0700
+From: usuario718@example.com
+To: usuario203@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario718 <usuario718@example.com>
+X-To: Usuario203 <usuario203@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario718_folder\inbox
+X-Origin: usuario718-P
+X-FileName: usuario718.pst
+
+I hope you're enjoying a nice week so far.
+I wanted to confirm our meeting for tomorrow.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

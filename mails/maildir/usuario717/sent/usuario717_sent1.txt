@@ -1,0 +1,20 @@
+Message-ID: <01b52f8b1ea8476498bb92165f83ad5f@thyme>
+Date: Wed, 24 Oct 2007 00:00:00 -0700
+From: usuario717@example.com
+To: usuario617@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario717 <usuario717@example.com>
+X-To: Usuario617 <usuario617@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario717_folder\sent
+X-Origin: usuario717-P
+X-FileName: usuario717.pst
+
+Here is our forecast
+Just wanted to touch base on the upcoming project milestone.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <3d978e9fe9494768b645747bfef39481@thyme>
+Date: Wed, 24 Jan 2024 00:00:00 -0700
+From: usuario110@example.com
+To: usuario947@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario110 <usuario110@example.com>
+X-To: Usuario947 <usuario947@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario110_folder\all_documents
+X-Origin: usuario110-P
+X-FileName: usuario110.pst
+
+I wanted to give you an update on the status of the project.
+I look forward to collaborating further on this initiative.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

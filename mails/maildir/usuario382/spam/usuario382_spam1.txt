@@ -1,0 +1,20 @@
+Message-ID: <1bdc42c0eb52447da32d53b3626d847d@thyme>
+Date: Fri, 15 Aug 2003 00:00:00 -0700
+From: usuario382@example.com
+To: usuario907@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario382 <usuario382@example.com>
+X-To: Usuario907 <usuario907@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario382_folder\spam
+X-Origin: usuario382-P
+X-FileName: usuario382.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to thank you for your prompt response.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

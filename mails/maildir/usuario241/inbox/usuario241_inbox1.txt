@@ -1,0 +1,20 @@
+Message-ID: <cb37f53693b1445d96cfb2c10ace512f@thyme>
+Date: Fri, 09 Jan 2015 00:00:00 -0700
+From: usuario241@example.com
+To: usuario918@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario241 <usuario241@example.com>
+X-To: Usuario918 <usuario918@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario241_folder\inbox
+X-Origin: usuario241-P
+X-FileName: usuario241.pst
+
+I appreciate your attention to this matter.
+Here are the results from the analysis we discussed.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

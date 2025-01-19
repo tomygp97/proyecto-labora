@@ -1,0 +1,20 @@
+Message-ID: <66278684f2ba401c8e6d5cc4471675f4@thyme>
+Date: Wed, 16 Apr 2025 00:00:00 -0700
+From: usuario921@example.com
+To: usuario298@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario921 <usuario921@example.com>
+X-To: Usuario298 <usuario298@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario921_folder\spam
+X-Origin: usuario921-P
+X-FileName: usuario921.pst
+
+Looking forward to hearing from you soon
+I wanted to remind you about the upcoming deadline.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <62c8b035164947978637e4b782cd6be2@thyme>
+Date: Thu, 23 Jan 2003 00:00:00 -0700
+From: usuario403@example.com
+To: usuario349@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario403 <usuario403@example.com>
+X-To: Usuario349 <usuario349@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario403_folder\spam
+X-Origin: usuario403-P
+X-FileName: usuario403.pst
+
+As discussed, I have attached the report you requested.
+Here are the results from the analysis we discussed.
+Please review the attached files and provide feedback.
+----------------------------------------

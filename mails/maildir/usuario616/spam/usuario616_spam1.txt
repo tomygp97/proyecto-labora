@@ -1,0 +1,20 @@
+Message-ID: <60a6c93b07fe4f3d825fafdf82623e9f@thyme>
+Date: Tue, 31 Jan 2012 00:00:00 -0700
+From: usuario616@example.com
+To: usuario467@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario616 <usuario616@example.com>
+X-To: Usuario467 <usuario467@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario616_folder\spam
+X-Origin: usuario616-P
+X-FileName: usuario616.pst
+
+I look forward to your response.
+I wanted to remind you about the upcoming deadline.
+I hope you're enjoying a nice week so far.
+----------------------------------------

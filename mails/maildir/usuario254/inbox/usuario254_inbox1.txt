@@ -1,0 +1,20 @@
+Message-ID: <00b941ebe1584f01a05a4627a754c7f8@thyme>
+Date: Thu, 08 Mar 2007 00:00:00 -0700
+From: usuario254@example.com
+To: usuario315@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario254 <usuario254@example.com>
+X-To: Usuario315 <usuario315@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario254_folder\inbox
+X-Origin: usuario254-P
+X-FileName: usuario254.pst
+
+Here are the next steps we need to take.
+I look forward to collaborating further on this initiative.
+I wanted to give you an update on the status of the project.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <b6f48ba1f90d4e19810f021024b8d3f8@thyme>
+Date: Mon, 29 Sep 2025 00:00:00 -0700
+From: usuario955@example.com
+To: usuario505@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario955 <usuario955@example.com>
+X-To: Usuario505 <usuario505@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario955_folder\sent
+X-Origin: usuario955-P
+X-FileName: usuario955.pst
+
+Please make sure to go through the attached documents before our meeting.
+I appreciate your attention to this matter.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

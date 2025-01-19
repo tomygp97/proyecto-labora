@@ -1,0 +1,20 @@
+Message-ID: <a1152bee140e473d883f492c17a2e8af@thyme>
+Date: Mon, 13 Mar 2017 00:00:00 -0700
+From: usuario609@example.com
+To: usuario640@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario609 <usuario609@example.com>
+X-To: Usuario640 <usuario640@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario609_folder\inbox
+X-Origin: usuario609-P
+X-FileName: usuario609.pst
+
+I have included all the necessary details in the attached report.
+Can you please confirm receipt of the files?
+I look forward to your response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <33b34a5e8cd54143a132544201b38ef2@thyme>
+Date: Tue, 14 Aug 2018 00:00:00 -0700
+From: usuario426@example.com
+To: usuario749@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario426 <usuario426@example.com>
+X-To: Usuario749 <usuario749@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario426_folder\_sent_mail
+X-Origin: usuario426-P
+X-FileName: usuario426.pst
+
+Please let me know if there are any changes to the schedule.
+Please review the materials at your earliest convenience.
+I hope this email finds you well.
+----------------------------------------

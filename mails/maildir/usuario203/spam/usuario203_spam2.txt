@@ -1,0 +1,20 @@
+Message-ID: <a48589532f65474ea209ed438356cf0b@thyme>
+Date: Wed, 06 Jun 2001 00:00:00 -0700
+From: usuario203@example.com
+To: usuario603@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario203 <usuario203@example.com>
+X-To: Usuario603 <usuario603@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario203_folder\spam
+X-Origin: usuario203-P
+X-FileName: usuario203.pst
+
+Hope you're doing well. Here's the requested information.
+I would love to hear your feedback on the proposal.
+I wanted to check in regarding the status of the project.
+----------------------------------------

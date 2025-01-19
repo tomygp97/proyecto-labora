@@ -1,0 +1,20 @@
+Message-ID: <94596e6dd95249849d8d9c9c93c1e77b@thyme>
+Date: Sun, 27 Jul 2025 00:00:00 -0700
+From: usuario901@example.com
+To: usuario735@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario901 <usuario901@example.com>
+X-To: Usuario735 <usuario735@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario901_folder\_sent_mail
+X-Origin: usuario901-P
+X-FileName: usuario901.pst
+
+Hope you're doing well. Here's the requested information.
+Please find the latest updates on the project
+I appreciate your attention to this matter.
+----------------------------------------

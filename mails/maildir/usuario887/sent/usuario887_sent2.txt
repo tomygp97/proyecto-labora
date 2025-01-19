@@ -1,0 +1,20 @@
+Message-ID: <862ee9a8bfb64a67922d2038d01408c6@thyme>
+Date: Fri, 24 Mar 2000 00:00:00 -0700
+From: usuario887@example.com
+To: usuario76@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario887 <usuario887@example.com>
+X-To: Usuario76 <usuario76@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario887_folder\sent
+X-Origin: usuario887-P
+X-FileName: usuario887.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Please let me know if there are any changes to the schedule.
+I look forward to collaborating further on this initiative.
+----------------------------------------

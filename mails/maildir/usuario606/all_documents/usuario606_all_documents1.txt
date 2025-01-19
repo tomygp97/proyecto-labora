@@ -1,0 +1,20 @@
+Message-ID: <93623b3ab18d4f6d843790c3ccbe79ae@thyme>
+Date: Sun, 26 Jan 2020 00:00:00 -0700
+From: usuario606@example.com
+To: usuario468@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario606 <usuario606@example.com>
+X-To: Usuario468 <usuario468@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario606_folder\all_documents
+X-Origin: usuario606-P
+X-FileName: usuario606.pst
+
+Here are the documents I mentioned during our call.
+Here is our forecast
+Please review the attached files and provide feedback.
+----------------------------------------

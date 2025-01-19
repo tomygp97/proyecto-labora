@@ -1,0 +1,20 @@
+Message-ID: <47c43715f36c45d2a37e3d960ab05df8@thyme>
+Date: Wed, 27 Dec 2017 00:00:00 -0700
+From: usuario414@example.com
+To: usuario290@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario414 <usuario414@example.com>
+X-To: Usuario290 <usuario290@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario414_folder\_sent_mail
+X-Origin: usuario414-P
+X-FileName: usuario414.pst
+
+I hope you're having a productive week.
+I wanted to confirm our meeting for tomorrow.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

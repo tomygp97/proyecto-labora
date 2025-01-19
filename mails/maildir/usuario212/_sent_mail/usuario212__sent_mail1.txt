@@ -1,0 +1,20 @@
+Message-ID: <c21425f394a64c648bb14feeafd99640@thyme>
+Date: Fri, 10 Jan 2003 00:00:00 -0700
+From: usuario212@example.com
+To: usuario76@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario212 <usuario212@example.com>
+X-To: Usuario76 <usuario76@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario212_folder\_sent_mail
+X-Origin: usuario212-P
+X-FileName: usuario212.pst
+
+I look forward to collaborating further on this initiative.
+Here is our forecast
+I hope this email finds you well.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <0785933fbc534dca983a2c2bf92c4273@thyme>
+Date: Tue, 10 Jun 2014 00:00:00 -0700
+From: usuario697@example.com
+To: usuario971@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario697 <usuario697@example.com>
+X-To: Usuario971 <usuario971@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario697_folder\spam
+X-Origin: usuario697-P
+X-FileName: usuario697.pst
+
+Here is our forecast
+I wanted to thank you for your prompt response.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

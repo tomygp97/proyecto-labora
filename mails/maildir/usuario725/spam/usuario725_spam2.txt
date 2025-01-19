@@ -1,0 +1,20 @@
+Message-ID: <89b28a1f64c14905a9434ed33038d6b3@thyme>
+Date: Thu, 27 Feb 2014 00:00:00 -0700
+From: usuario725@example.com
+To: usuario881@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario725 <usuario725@example.com>
+X-To: Usuario881 <usuario881@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario725_folder\spam
+X-Origin: usuario725-P
+X-FileName: usuario725.pst
+
+I appreciate your attention to this matter.
+Here are the documents I mentioned during our call.
+I look forward to collaborating further on this initiative.
+----------------------------------------

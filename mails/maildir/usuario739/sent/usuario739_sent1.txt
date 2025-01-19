@@ -1,0 +1,20 @@
+Message-ID: <ecc96c5a33604b999b2dbaf61e0e5909@thyme>
+Date: Fri, 27 Dec 2019 00:00:00 -0700
+From: usuario739@example.com
+To: usuario178@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario739 <usuario739@example.com>
+X-To: Usuario178 <usuario178@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario739_folder\sent
+X-Origin: usuario739-P
+X-FileName: usuario739.pst
+
+Please find the latest updates on the project
+Please let me know if there are any changes to the schedule.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <5c4612aeb1f4446f958edfa597d61773@thyme>
+Date: Mon, 08 Jun 2015 00:00:00 -0700
+From: usuario385@example.com
+To: usuario640@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario385 <usuario385@example.com>
+X-To: Usuario640 <usuario640@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario385_folder\sent
+X-Origin: usuario385-P
+X-FileName: usuario385.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to check in regarding the status of the project.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <3ae6a2b50990490cbf40c8ed58ea3947@thyme>
+Date: Wed, 27 May 2020 00:00:00 -0700
+From: usuario79@example.com
+To: usuario665@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario79 <usuario79@example.com>
+X-To: Usuario665 <usuario665@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario79_folder\_sent_mail
+X-Origin: usuario79-P
+X-FileName: usuario79.pst
+
+Just checking in to see if you've received my previous email.
+Thank you for your attention
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

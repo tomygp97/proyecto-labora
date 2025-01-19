@@ -1,0 +1,20 @@
+Message-ID: <6d9d5e4e93f2447795b2db5f56b5e334@thyme>
+Date: Wed, 26 Jul 2023 00:00:00 -0700
+From: usuario518@example.com
+To: usuario556@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario518 <usuario518@example.com>
+X-To: Usuario556 <usuario556@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario518_folder\_sent_mail
+X-Origin: usuario518-P
+X-FileName: usuario518.pst
+
+Let me know if there's anything I can assist you with.
+Please review the materials at your earliest convenience.
+Hope everything is going well on your end.
+----------------------------------------

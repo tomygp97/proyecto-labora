@@ -1,0 +1,20 @@
+Message-ID: <1ef5395f436f41abb362176c6e806de6@thyme>
+Date: Sun, 23 Dec 2001 00:00:00 -0700
+From: usuario77@example.com
+To: usuario324@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario77 <usuario77@example.com>
+X-To: Usuario324 <usuario324@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario77_folder\inbox
+X-Origin: usuario77-P
+X-FileName: usuario77.pst
+
+Here is our forecast
+As discussed, I have attached the report you requested.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

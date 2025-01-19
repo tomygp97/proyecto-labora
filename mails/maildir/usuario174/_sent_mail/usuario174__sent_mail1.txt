@@ -1,0 +1,20 @@
+Message-ID: <28ac4be65c5a40baa59dce190e7c228f@thyme>
+Date: Sun, 04 Mar 2007 00:00:00 -0700
+From: usuario174@example.com
+To: usuario61@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario174 <usuario174@example.com>
+X-To: Usuario61 <usuario61@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario174_folder\_sent_mail
+X-Origin: usuario174-P
+X-FileName: usuario174.pst
+
+Please let me know if there are any issues with the attached files.
+I hope this email finds you well.
+Thank you for your attention
+----------------------------------------

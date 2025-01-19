@@ -1,0 +1,20 @@
+Message-ID: <8d9341d6384c4b22b68a09098b47415a@thyme>
+Date: Sat, 12 Aug 2017 00:00:00 -0700
+From: usuario582@example.com
+To: usuario146@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario582 <usuario582@example.com>
+X-To: Usuario146 <usuario146@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario582_folder\spam
+X-Origin: usuario582-P
+X-FileName: usuario582.pst
+
+I wanted to confirm our meeting for tomorrow.
+Hope everything is going well on your end.
+I look forward to your response.
+----------------------------------------

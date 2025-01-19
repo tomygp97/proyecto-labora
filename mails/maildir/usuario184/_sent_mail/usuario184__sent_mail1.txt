@@ -1,0 +1,20 @@
+Message-ID: <6743ed963e1d4f0caeb791c6f730b7f1@thyme>
+Date: Thu, 20 Dec 2001 00:00:00 -0700
+From: usuario184@example.com
+To: usuario165@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario184 <usuario184@example.com>
+X-To: Usuario165 <usuario165@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario184_folder\_sent_mail
+X-Origin: usuario184-P
+X-FileName: usuario184.pst
+
+I appreciate your attention to this matter.
+Looking forward to hearing from you soon
+Hope everything is going well on your end.
+----------------------------------------

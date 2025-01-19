@@ -1,0 +1,20 @@
+Message-ID: <1a0a3b4460de4fa49fa326ec5dbc993f@thyme>
+Date: Sat, 02 Mar 2013 00:00:00 -0700
+From: usuario526@example.com
+To: usuario588@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario526 <usuario526@example.com>
+X-To: Usuario588 <usuario588@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario526_folder\inbox
+X-Origin: usuario526-P
+X-FileName: usuario526.pst
+
+I hope this email finds you well.
+Can you please confirm receipt of the files?
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <e5c7b02a84794d4d94a3428a114a6e4d@thyme>
+Date: Fri, 10 Aug 2007 00:00:00 -0700
+From: usuario578@example.com
+To: usuario58@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario578 <usuario578@example.com>
+X-To: Usuario58 <usuario58@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario578_folder\inbox
+X-Origin: usuario578-P
+X-FileName: usuario578.pst
+
+Here is our forecast
+Please make sure to go through the attached documents before our meeting.
+Here are the results from the analysis we discussed.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4e09caeb5c8d4d7f91bfc9d26fb42ba3@thyme>
+Date: Sat, 24 Apr 2004 00:00:00 -0700
+From: usuario111@example.com
+To: usuario296@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario111 <usuario111@example.com>
+X-To: Usuario296 <usuario296@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario111_folder\spam
+X-Origin: usuario111-P
+X-FileName: usuario111.pst
+
+I wanted to thank you for your prompt response.
+I look forward to your response.
+I wanted to follow up on our last meeting
+----------------------------------------

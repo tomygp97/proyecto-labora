@@ -1,0 +1,20 @@
+Message-ID: <0ead9a71c3bc426c9d48099b9ed0e140@thyme>
+Date: Sun, 22 Jun 2003 00:00:00 -0700
+From: usuario207@example.com
+To: usuario848@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario207 <usuario207@example.com>
+X-To: Usuario848 <usuario848@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario207_folder\_sent_mail
+X-Origin: usuario207-P
+X-FileName: usuario207.pst
+
+Please review the materials at your earliest convenience.
+I look forward to collaborating further on this initiative.
+Here are the next steps we need to take.
+----------------------------------------

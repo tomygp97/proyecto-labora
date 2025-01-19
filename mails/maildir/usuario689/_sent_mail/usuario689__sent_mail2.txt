@@ -1,0 +1,20 @@
+Message-ID: <07cd617a7e754292a9d447da4c92ea28@thyme>
+Date: Thu, 22 Mar 2001 00:00:00 -0700
+From: usuario689@example.com
+To: usuario872@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario689 <usuario689@example.com>
+X-To: Usuario872 <usuario872@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario689_folder\_sent_mail
+X-Origin: usuario689-P
+X-FileName: usuario689.pst
+
+Can you please confirm receipt of the files?
+Here is a summary of the last meeting for your reference.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

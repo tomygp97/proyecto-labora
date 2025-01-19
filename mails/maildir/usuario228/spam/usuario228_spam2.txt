@@ -1,0 +1,20 @@
+Message-ID: <85b2a33cb9854ca18e17b19bb39cd54d@thyme>
+Date: Sun, 02 Nov 2003 00:00:00 -0700
+From: usuario228@example.com
+To: usuario461@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario228 <usuario228@example.com>
+X-To: Usuario461 <usuario461@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario228_folder\spam
+X-Origin: usuario228-P
+X-FileName: usuario228.pst
+
+Let me know if there's anything I can assist you with.
+I have included all the necessary details in the attached report.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

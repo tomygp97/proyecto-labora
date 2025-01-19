@@ -1,0 +1,20 @@
+Message-ID: <13388de6896c44a3bc083cbd8ce97e30@thyme>
+Date: Sat, 29 May 2010 00:00:00 -0700
+From: usuario421@example.com
+To: usuario844@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario421 <usuario421@example.com>
+X-To: Usuario844 <usuario844@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario421_folder\inbox
+X-Origin: usuario421-P
+X-FileName: usuario421.pst
+
+Just checking in to see if you've received my previous email.
+I hope you're enjoying a nice week so far.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

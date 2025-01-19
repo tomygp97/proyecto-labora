@@ -1,0 +1,20 @@
+Message-ID: <50fb272f755f4e3f8e63b7d74f1da4d6@thyme>
+Date: Tue, 04 Dec 2012 00:00:00 -0700
+From: usuario411@example.com
+To: usuario815@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario411 <usuario411@example.com>
+X-To: Usuario815 <usuario815@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario411_folder\spam
+X-Origin: usuario411-P
+X-FileName: usuario411.pst
+
+I wanted to thank you for your prompt response.
+Please find the attached report for the last quarter
+Can you please confirm receipt of the files?
+----------------------------------------

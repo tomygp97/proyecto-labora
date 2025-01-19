@@ -1,0 +1,20 @@
+Message-ID: <55ad9b82eec145d384af798adaec3ccf@thyme>
+Date: Sat, 31 Dec 2011 00:00:00 -0700
+From: usuario619@example.com
+To: usuario573@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario619 <usuario619@example.com>
+X-To: Usuario573 <usuario573@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario619_folder\spam
+X-Origin: usuario619-P
+X-FileName: usuario619.pst
+
+Looking forward to hearing from you soon
+Please let me know if there are any changes to the schedule.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

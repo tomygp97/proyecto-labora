@@ -1,0 +1,20 @@
+Message-ID: <ef42a33d357a4b8ba5741a3234e5cbb3@thyme>
+Date: Sat, 05 Feb 2000 00:00:00 -0700
+From: usuario235@example.com
+To: usuario556@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario235 <usuario235@example.com>
+X-To: Usuario556 <usuario556@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario235_folder\inbox
+X-Origin: usuario235-P
+X-FileName: usuario235.pst
+
+I look forward to collaborating further on this initiative.
+Please find the latest updates on the project
+I wanted to thank you for your prompt response.
+----------------------------------------

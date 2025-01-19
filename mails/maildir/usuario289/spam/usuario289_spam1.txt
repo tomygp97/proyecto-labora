@@ -1,0 +1,20 @@
+Message-ID: <cfd4ecdbab554f64a4e8df43e4fc6f1d@thyme>
+Date: Thu, 20 Apr 2017 00:00:00 -0700
+From: usuario289@example.com
+To: usuario788@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario289 <usuario289@example.com>
+X-To: Usuario788 <usuario788@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario289_folder\spam
+X-Origin: usuario289-P
+X-FileName: usuario289.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I hope you're enjoying a nice week so far.
+I wanted to thank you for your prompt response.
+----------------------------------------

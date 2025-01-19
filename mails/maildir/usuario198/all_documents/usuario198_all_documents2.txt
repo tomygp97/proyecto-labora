@@ -1,0 +1,20 @@
+Message-ID: <84c7c3eecd554d75802849cfefa7c821@thyme>
+Date: Mon, 30 Sep 2002 00:00:00 -0700
+From: usuario198@example.com
+To: usuario823@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario198 <usuario198@example.com>
+X-To: Usuario823 <usuario823@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario198_folder\all_documents
+X-Origin: usuario198-P
+X-FileName: usuario198.pst
+
+Please review the materials at your earliest convenience.
+Please review the attached files and provide feedback.
+I look forward to your response.
+----------------------------------------

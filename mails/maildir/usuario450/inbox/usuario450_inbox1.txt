@@ -1,0 +1,20 @@
+Message-ID: <52b673ee2b634c25b53355bae3f310b1@thyme>
+Date: Mon, 25 Sep 2017 00:00:00 -0700
+From: usuario450@example.com
+To: usuario167@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario450 <usuario450@example.com>
+X-To: Usuario167 <usuario167@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario450_folder\inbox
+X-Origin: usuario450-P
+X-FileName: usuario450.pst
+
+I appreciate your attention to this matter.
+Let me know if you need any additional details.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

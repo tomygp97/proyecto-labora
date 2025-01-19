@@ -1,0 +1,20 @@
+Message-ID: <843b2fffc4974e94b39ab079a52808d9@thyme>
+Date: Fri, 17 Feb 2023 00:00:00 -0700
+From: usuario140@example.com
+To: usuario189@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario140 <usuario140@example.com>
+X-To: Usuario189 <usuario189@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario140_folder\spam
+X-Origin: usuario140-P
+X-FileName: usuario140.pst
+
+Please find the attached report for the last quarter
+Just checking in to see if you've received my previous email.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <37c6987daae54a779b9c227d68a8d04c@thyme>
+Date: Sat, 03 Feb 2024 00:00:00 -0700
+From: usuario187@example.com
+To: usuario761@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario187 <usuario187@example.com>
+X-To: Usuario761 <usuario761@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario187_folder\inbox
+X-Origin: usuario187-P
+X-FileName: usuario187.pst
+
+Here are the next steps we need to take.
+Please review the materials at your earliest convenience.
+Here are the results from the analysis we discussed.
+----------------------------------------

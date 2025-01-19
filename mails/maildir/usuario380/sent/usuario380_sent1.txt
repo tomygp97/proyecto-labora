@@ -1,0 +1,20 @@
+Message-ID: <48f14ae2004d49199a86076f30b9e868@thyme>
+Date: Tue, 16 Mar 2010 00:00:00 -0700
+From: usuario380@example.com
+To: usuario376@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario380 <usuario380@example.com>
+X-To: Usuario376 <usuario376@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario380_folder\sent
+X-Origin: usuario380-P
+X-FileName: usuario380.pst
+
+I have included all the necessary details in the attached report.
+I hope this email finds you well.
+Here are the documents I mentioned during our call.
+----------------------------------------

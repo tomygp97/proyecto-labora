@@ -1,0 +1,20 @@
+Message-ID: <fb9958ee0c434a099ca3d01eca3ebd63@thyme>
+Date: Fri, 05 Dec 2003 00:00:00 -0700
+From: usuario953@example.com
+To: usuario319@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario953 <usuario953@example.com>
+X-To: Usuario319 <usuario319@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario953_folder\all_documents
+X-Origin: usuario953-P
+X-FileName: usuario953.pst
+
+Please make sure to go through the attached documents before our meeting.
+I would love to hear your feedback on the proposal.
+I wanted to give you an update on the status of the project.
+----------------------------------------

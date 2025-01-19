@@ -1,0 +1,20 @@
+Message-ID: <e598abc488f945cba2f101893ccedaea@thyme>
+Date: Mon, 24 Oct 2022 00:00:00 -0700
+From: usuario403@example.com
+To: usuario431@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario403 <usuario403@example.com>
+X-To: Usuario431 <usuario431@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario403_folder\inbox
+X-Origin: usuario403-P
+X-FileName: usuario403.pst
+
+Please find the latest updates on the project
+I hope this email finds you well.
+I appreciate your attention to this matter.
+----------------------------------------

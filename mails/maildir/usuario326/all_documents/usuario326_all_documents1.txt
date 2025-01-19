@@ -1,0 +1,20 @@
+Message-ID: <e4eb5f1367904ea6a6fad1e9f69c4e7b@thyme>
+Date: Sat, 26 Oct 2013 00:00:00 -0700
+From: usuario326@example.com
+To: usuario571@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario326 <usuario326@example.com>
+X-To: Usuario571 <usuario571@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario326_folder\all_documents
+X-Origin: usuario326-P
+X-FileName: usuario326.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Please review the materials at your earliest convenience.
+Here are the next steps we need to take.
+----------------------------------------

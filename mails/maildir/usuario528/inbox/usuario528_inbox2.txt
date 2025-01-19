@@ -1,0 +1,20 @@
+Message-ID: <13e2634668184ae3a50214ef9bbc597b@thyme>
+Date: Wed, 26 Jun 2002 00:00:00 -0700
+From: usuario528@example.com
+To: usuario177@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario528 <usuario528@example.com>
+X-To: Usuario177 <usuario177@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario528_folder\inbox
+X-Origin: usuario528-P
+X-FileName: usuario528.pst
+
+Here are the documents I mentioned during our call.
+Please let me know if there are any issues with the attached files.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

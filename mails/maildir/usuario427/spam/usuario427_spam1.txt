@@ -1,0 +1,20 @@
+Message-ID: <d025f12c9bc44f77bf6f94fe44a9ff06@thyme>
+Date: Sat, 07 Jan 2023 00:00:00 -0700
+From: usuario427@example.com
+To: usuario494@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario427 <usuario427@example.com>
+X-To: Usuario494 <usuario494@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario427_folder\spam
+X-Origin: usuario427-P
+X-FileName: usuario427.pst
+
+Here is a summary of the last meeting for your reference.
+Here are the next steps we need to take.
+I hope this email finds you well.
+----------------------------------------

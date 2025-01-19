@@ -1,0 +1,20 @@
+Message-ID: <5839b8b840924817bc44712dae3eaa70@thyme>
+Date: Sun, 09 Nov 2003 00:00:00 -0700
+From: usuario390@example.com
+To: usuario465@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario390 <usuario390@example.com>
+X-To: Usuario465 <usuario465@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario390_folder\sent
+X-Origin: usuario390-P
+X-FileName: usuario390.pst
+
+Please find the latest updates on the project
+Please review the materials at your earliest convenience.
+Please review the attached files and provide feedback.
+----------------------------------------

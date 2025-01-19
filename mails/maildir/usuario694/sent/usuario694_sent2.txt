@@ -1,0 +1,20 @@
+Message-ID: <486332b8178a4817bbb7a9ef7d69ab5c@thyme>
+Date: Fri, 09 Nov 2018 00:00:00 -0700
+From: usuario694@example.com
+To: usuario389@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario694 <usuario694@example.com>
+X-To: Usuario389 <usuario389@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario694_folder\sent
+X-Origin: usuario694-P
+X-FileName: usuario694.pst
+
+I hope you're having a productive week.
+I wanted to remind you about the upcoming deadline.
+Here is our forecast
+----------------------------------------

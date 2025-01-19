@@ -1,0 +1,20 @@
+Message-ID: <4b15b3b88b4542b3a77094fc5563de09@thyme>
+Date: Mon, 22 Apr 2002 00:00:00 -0700
+From: usuario857@example.com
+To: usuario508@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario857 <usuario857@example.com>
+X-To: Usuario508 <usuario508@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario857_folder\all_documents
+X-Origin: usuario857-P
+X-FileName: usuario857.pst
+
+I wanted to confirm our meeting for tomorrow.
+Please let me know if there are any changes to the schedule.
+Here is our forecast
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <49c730970ca44eb5b15d3961da7ce62b@thyme>
+Date: Wed, 18 Apr 2001 00:00:00 -0700
+From: usuario942@example.com
+To: usuario141@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario942 <usuario942@example.com>
+X-To: Usuario141 <usuario141@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario942_folder\inbox
+X-Origin: usuario942-P
+X-FileName: usuario942.pst
+
+I hope this email finds you well.
+Please review the materials at your earliest convenience.
+Just checking in to see if you've received my previous email.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <8e09a88dc33e4c3d9f4d5a39ee599818@thyme>
+Date: Mon, 29 Feb 2016 00:00:00 -0700
+From: usuario463@example.com
+To: usuario796@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario463 <usuario463@example.com>
+X-To: Usuario796 <usuario796@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario463_folder\_sent_mail
+X-Origin: usuario463-P
+X-FileName: usuario463.pst
+
+Please let me know if there's anything else you need from my end.
+Please find the latest updates on the project
+Here is our forecast
+----------------------------------------

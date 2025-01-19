@@ -1,0 +1,20 @@
+Message-ID: <8b0cfe76d40246bbb02c67842a62cc64@thyme>
+Date: Fri, 09 Nov 2018 00:00:00 -0700
+From: usuario350@example.com
+To: usuario131@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario350 <usuario350@example.com>
+X-To: Usuario131 <usuario131@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario350_folder\all_documents
+X-Origin: usuario350-P
+X-FileName: usuario350.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here is our forecast
+Here are the next steps we need to take.
+----------------------------------------

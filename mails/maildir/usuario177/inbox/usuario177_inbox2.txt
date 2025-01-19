@@ -1,0 +1,20 @@
+Message-ID: <27b5ac2f64914993898054c9854ade51@thyme>
+Date: Sun, 26 Aug 2007 00:00:00 -0700
+From: usuario177@example.com
+To: usuario861@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario177 <usuario177@example.com>
+X-To: Usuario861 <usuario861@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario177_folder\inbox
+X-Origin: usuario177-P
+X-FileName: usuario177.pst
+
+Hope you're doing well. Here's the requested information.
+Let me know if there's anything I can assist you with.
+As discussed, I have attached the report you requested.
+----------------------------------------

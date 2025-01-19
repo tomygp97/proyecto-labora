@@ -1,0 +1,20 @@
+Message-ID: <70e90d38a8ba452ab4c7606c0dbc255e@thyme>
+Date: Sun, 28 Jan 2007 00:00:00 -0700
+From: usuario503@example.com
+To: usuario33@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario503 <usuario503@example.com>
+X-To: Usuario33 <usuario33@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario503_folder\sent
+X-Origin: usuario503-P
+X-FileName: usuario503.pst
+
+Please don't hesitate to reach out if you need any help.
+I appreciate your attention to this matter.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

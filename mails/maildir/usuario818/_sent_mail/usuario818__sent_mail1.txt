@@ -1,0 +1,20 @@
+Message-ID: <b2a323a89f4a41c58a8568e5e749d955@thyme>
+Date: Mon, 24 Jan 2022 00:00:00 -0700
+From: usuario818@example.com
+To: usuario246@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario818 <usuario818@example.com>
+X-To: Usuario246 <usuario246@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario818_folder\_sent_mail
+X-Origin: usuario818-P
+X-FileName: usuario818.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Looking forward to hearing from you soon
+Here are the documents I mentioned during our call.
+----------------------------------------

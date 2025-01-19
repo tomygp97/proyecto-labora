@@ -1,0 +1,20 @@
+Message-ID: <9c00a8a751fb4c44a6ff311b419f11b2@thyme>
+Date: Thu, 25 Dec 2014 00:00:00 -0700
+From: usuario948@example.com
+To: usuario473@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario948 <usuario948@example.com>
+X-To: Usuario473 <usuario473@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario948_folder\all_documents
+X-Origin: usuario948-P
+X-FileName: usuario948.pst
+
+Just checking in to see if you've received my previous email.
+Please review the materials at your earliest convenience.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

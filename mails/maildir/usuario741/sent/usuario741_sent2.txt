@@ -1,0 +1,20 @@
+Message-ID: <49ba4b3b9d4d4292bc4a8ed0c50a6f55@thyme>
+Date: Sat, 11 Dec 2004 00:00:00 -0700
+From: usuario741@example.com
+To: usuario804@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario741 <usuario741@example.com>
+X-To: Usuario804 <usuario804@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario741_folder\sent
+X-Origin: usuario741-P
+X-FileName: usuario741.pst
+
+Looking forward to discussing the project in more detail soon.
+I wanted to remind you about the upcoming deadline.
+Please find the attached report for the last quarter
+----------------------------------------

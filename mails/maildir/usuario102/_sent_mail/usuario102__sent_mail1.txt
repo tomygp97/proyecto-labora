@@ -1,0 +1,20 @@
+Message-ID: <a82e1418b9fc4c1b9180c17541cec1ef@thyme>
+Date: Thu, 03 Jul 2025 00:00:00 -0700
+From: usuario102@example.com
+To: usuario175@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario102 <usuario102@example.com>
+X-To: Usuario175 <usuario175@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario102_folder\_sent_mail
+X-Origin: usuario102-P
+X-FileName: usuario102.pst
+
+I wanted to check in regarding the status of the project.
+Please let me know if there are any changes to the schedule.
+Let me know if there's anything I can assist you with.
+----------------------------------------

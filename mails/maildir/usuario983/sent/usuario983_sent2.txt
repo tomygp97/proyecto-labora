@@ -1,0 +1,20 @@
+Message-ID: <dcd09a11a7764704b42e4f96db353b63@thyme>
+Date: Sat, 14 Sep 2013 00:00:00 -0700
+From: usuario983@example.com
+To: usuario19@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario983 <usuario983@example.com>
+X-To: Usuario19 <usuario19@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario983_folder\sent
+X-Origin: usuario983-P
+X-FileName: usuario983.pst
+
+Please find the latest updates on the project
+I wanted to thank you for your prompt response.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

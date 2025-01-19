@@ -1,0 +1,20 @@
+Message-ID: <cf4c09b0716d401583c52970d2225768@thyme>
+Date: Sat, 15 Mar 2003 00:00:00 -0700
+From: usuario752@example.com
+To: usuario283@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario752 <usuario752@example.com>
+X-To: Usuario283 <usuario283@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario752_folder\inbox
+X-Origin: usuario752-P
+X-FileName: usuario752.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Please find the attached report for the last quarter
+Here are the next steps we need to take.
+----------------------------------------

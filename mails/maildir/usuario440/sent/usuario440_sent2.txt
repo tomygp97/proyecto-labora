@@ -1,0 +1,20 @@
+Message-ID: <516a5bdff6b14c929a97c78c86f083a9@thyme>
+Date: Sat, 26 Aug 2000 00:00:00 -0700
+From: usuario440@example.com
+To: usuario399@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario440 <usuario440@example.com>
+X-To: Usuario399 <usuario399@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario440_folder\sent
+X-Origin: usuario440-P
+X-FileName: usuario440.pst
+
+Here is our forecast
+Here is a summary of the last meeting for your reference.
+I look forward to collaborating further on this initiative.
+----------------------------------------

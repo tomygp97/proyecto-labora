@@ -1,0 +1,20 @@
+Message-ID: <c87d537da412449fa7b414e641c7637d@thyme>
+Date: Thu, 05 Sep 2019 00:00:00 -0700
+From: usuario217@example.com
+To: usuario621@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario217 <usuario217@example.com>
+X-To: Usuario621 <usuario621@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario217_folder\sent
+X-Origin: usuario217-P
+X-FileName: usuario217.pst
+
+I wanted to thank you for your prompt response.
+Thank you for your attention
+I wanted to check in regarding the status of the project.
+----------------------------------------

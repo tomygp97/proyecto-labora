@@ -1,0 +1,20 @@
+Message-ID: <f2c0d6b531684188a025dfe1b8aef857@thyme>
+Date: Thu, 03 Oct 2024 00:00:00 -0700
+From: usuario501@example.com
+To: usuario93@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario501 <usuario501@example.com>
+X-To: Usuario93 <usuario93@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario501_folder\sent
+X-Origin: usuario501-P
+X-FileName: usuario501.pst
+
+I hope you're having a productive week.
+Here are the results from the analysis we discussed.
+Please find the latest updates on the project
+----------------------------------------

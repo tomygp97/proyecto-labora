@@ -1,0 +1,20 @@
+Message-ID: <82363b7d5ccd40ac815205ecc2111940@thyme>
+Date: Tue, 18 Aug 2009 00:00:00 -0700
+From: usuario972@example.com
+To: usuario624@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario972 <usuario972@example.com>
+X-To: Usuario624 <usuario624@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario972_folder\spam
+X-Origin: usuario972-P
+X-FileName: usuario972.pst
+
+Please let me know if there's anything else you need from my end.
+Looking forward to hearing from you soon
+I would love to hear your feedback on the proposal.
+----------------------------------------

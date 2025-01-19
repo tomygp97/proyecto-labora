@@ -1,0 +1,20 @@
+Message-ID: <b9c744073aa64627aed207f7511cdf57@thyme>
+Date: Wed, 03 Apr 2024 00:00:00 -0700
+From: usuario502@example.com
+To: usuario941@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario502 <usuario502@example.com>
+X-To: Usuario941 <usuario941@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario502_folder\inbox
+X-Origin: usuario502-P
+X-FileName: usuario502.pst
+
+I wanted to remind you about the upcoming deadline.
+Hope you're doing well. Here's the requested information.
+I look forward to your response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <9da8a42f5a354c618e7e33d7ec8a42c8@thyme>
+Date: Sat, 20 Sep 2025 00:00:00 -0700
+From: usuario859@example.com
+To: usuario3@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario859 <usuario859@example.com>
+X-To: Usuario3 <usuario3@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario859_folder\sent
+X-Origin: usuario859-P
+X-FileName: usuario859.pst
+
+I hope you're having a productive week.
+I hope this email finds you well.
+Please find the attached report for the last quarter
+----------------------------------------

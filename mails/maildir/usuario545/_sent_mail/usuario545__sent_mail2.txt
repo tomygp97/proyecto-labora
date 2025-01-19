@@ -1,0 +1,20 @@
+Message-ID: <220d3f2a2585441e8dfb7aec13ffa055@thyme>
+Date: Sat, 16 Apr 2022 00:00:00 -0700
+From: usuario545@example.com
+To: usuario151@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario545 <usuario545@example.com>
+X-To: Usuario151 <usuario151@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario545_folder\_sent_mail
+X-Origin: usuario545-P
+X-FileName: usuario545.pst
+
+Please don't hesitate to reach out if you need any help.
+Hope you're doing well. Here's the requested information.
+Please find the latest updates on the project
+----------------------------------------

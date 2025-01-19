@@ -1,0 +1,20 @@
+Message-ID: <e1bb43a916424bde9b9ef9402a72385b@thyme>
+Date: Thu, 27 Feb 2003 00:00:00 -0700
+From: usuario482@example.com
+To: usuario678@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario482 <usuario482@example.com>
+X-To: Usuario678 <usuario678@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario482_folder\inbox
+X-Origin: usuario482-P
+X-FileName: usuario482.pst
+
+Looking forward to hearing from you soon
+I wanted to follow up on our last meeting
+Please let me know if there are any changes to the schedule.
+----------------------------------------

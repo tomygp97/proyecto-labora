@@ -1,0 +1,20 @@
+Message-ID: <cc6215ec901c4b50aedbe537a0f5e38a@thyme>
+Date: Mon, 09 May 2005 00:00:00 -0700
+From: usuario860@example.com
+To: usuario546@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario860 <usuario860@example.com>
+X-To: Usuario546 <usuario546@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario860_folder\_sent_mail
+X-Origin: usuario860-P
+X-FileName: usuario860.pst
+
+I wanted to confirm our meeting for tomorrow.
+Just wanted to touch base on the upcoming project milestone.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

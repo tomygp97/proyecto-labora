@@ -1,0 +1,20 @@
+Message-ID: <d49f3a24c47c4e8cbea91bf371ce656b@thyme>
+Date: Thu, 11 Aug 2011 00:00:00 -0700
+From: usuario647@example.com
+To: usuario546@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario647 <usuario647@example.com>
+X-To: Usuario546 <usuario546@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario647_folder\all_documents
+X-Origin: usuario647-P
+X-FileName: usuario647.pst
+
+Please review the materials at your earliest convenience.
+I would love to hear your feedback on the proposal.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <1e30f85d219d4b27bcc4090d678cda35@thyme>
+Date: Mon, 15 Apr 2002 00:00:00 -0700
+From: usuario480@example.com
+To: usuario513@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario480 <usuario480@example.com>
+X-To: Usuario513 <usuario513@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario480_folder\spam
+X-Origin: usuario480-P
+X-FileName: usuario480.pst
+
+I wanted to remind you about the upcoming deadline.
+Please find the attached report for the last quarter
+I look forward to your response.
+----------------------------------------

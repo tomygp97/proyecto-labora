@@ -1,0 +1,20 @@
+Message-ID: <b5b9a4827d244a1697b0a44b390bf543@thyme>
+Date: Sat, 08 May 2021 00:00:00 -0700
+From: usuario126@example.com
+To: usuario722@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario126 <usuario126@example.com>
+X-To: Usuario722 <usuario722@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario126_folder\sent
+X-Origin: usuario126-P
+X-FileName: usuario126.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Looking forward to discussing the project in more detail soon.
+Can you please confirm receipt of the files?
+----------------------------------------

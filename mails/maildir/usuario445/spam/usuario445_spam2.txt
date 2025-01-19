@@ -1,0 +1,20 @@
+Message-ID: <b8a0ced11c2345f19949f06827a2ba5d@thyme>
+Date: Mon, 22 Sep 2014 00:00:00 -0700
+From: usuario445@example.com
+To: usuario501@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario445 <usuario445@example.com>
+X-To: Usuario501 <usuario501@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario445_folder\spam
+X-Origin: usuario445-P
+X-FileName: usuario445.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I wanted to check in regarding the status of the project.
+Hope everything is going well on your end.
+----------------------------------------

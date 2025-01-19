@@ -1,0 +1,20 @@
+Message-ID: <3f25408887814734ab211f64785a435e@thyme>
+Date: Wed, 10 Feb 2021 00:00:00 -0700
+From: usuario573@example.com
+To: usuario148@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario573 <usuario573@example.com>
+X-To: Usuario148 <usuario148@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario573_folder\_sent_mail
+X-Origin: usuario573-P
+X-FileName: usuario573.pst
+
+I appreciate your attention to this matter.
+Thank you for your attention
+Hope you're doing well. Here's the requested information.
+----------------------------------------

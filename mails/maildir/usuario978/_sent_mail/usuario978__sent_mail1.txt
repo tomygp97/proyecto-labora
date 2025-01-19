@@ -1,0 +1,20 @@
+Message-ID: <8b40c8ef6eb4466da64ae5efb7f601c6@thyme>
+Date: Fri, 25 Nov 2022 00:00:00 -0700
+From: usuario978@example.com
+To: usuario654@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario978 <usuario978@example.com>
+X-To: Usuario654 <usuario654@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario978_folder\_sent_mail
+X-Origin: usuario978-P
+X-FileName: usuario978.pst
+
+Please let me know if there are any issues with the attached files.
+I trust the documents will be helpful for our upcoming discussion.
+I wanted to check in regarding the status of the project.
+----------------------------------------

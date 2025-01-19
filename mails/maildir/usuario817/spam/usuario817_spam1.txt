@@ -1,0 +1,20 @@
+Message-ID: <bf122f08eb5942c9898d582ef81b37c6@thyme>
+Date: Sun, 18 Aug 2013 00:00:00 -0700
+From: usuario817@example.com
+To: usuario176@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario817 <usuario817@example.com>
+X-To: Usuario176 <usuario176@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario817_folder\spam
+X-Origin: usuario817-P
+X-FileName: usuario817.pst
+
+Thank you for your attention
+Just wanted to touch base on the upcoming project milestone.
+Here are the next steps we need to take.
+----------------------------------------

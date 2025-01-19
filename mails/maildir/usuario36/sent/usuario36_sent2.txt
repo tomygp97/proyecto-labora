@@ -1,0 +1,20 @@
+Message-ID: <6beb48a4d27842f3b9a0cdc2fa012178@thyme>
+Date: Tue, 02 Sep 2003 00:00:00 -0700
+From: usuario36@example.com
+To: usuario631@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario36 <usuario36@example.com>
+X-To: Usuario631 <usuario631@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario36_folder\sent
+X-Origin: usuario36-P
+X-FileName: usuario36.pst
+
+Here are the results from the analysis we discussed.
+Just wanted to touch base on the upcoming project milestone.
+I wanted to thank you for your prompt response.
+----------------------------------------

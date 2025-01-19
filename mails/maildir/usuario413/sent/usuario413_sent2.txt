@@ -1,0 +1,20 @@
+Message-ID: <9d1478be82f4409894b064d89387edab@thyme>
+Date: Thu, 19 Sep 2002 00:00:00 -0700
+From: usuario413@example.com
+To: usuario501@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario413 <usuario413@example.com>
+X-To: Usuario501 <usuario501@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario413_folder\sent
+X-Origin: usuario413-P
+X-FileName: usuario413.pst
+
+Here are the next steps we need to take.
+Here are the results from the analysis we discussed.
+Here is our forecast
+----------------------------------------

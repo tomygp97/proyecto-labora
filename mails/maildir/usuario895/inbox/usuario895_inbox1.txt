@@ -1,0 +1,20 @@
+Message-ID: <de7cd5cf6d77407098eb012944eee9ff@thyme>
+Date: Fri, 02 Dec 2022 00:00:00 -0700
+From: usuario895@example.com
+To: usuario81@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario895 <usuario895@example.com>
+X-To: Usuario81 <usuario81@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario895_folder\inbox
+X-Origin: usuario895-P
+X-FileName: usuario895.pst
+
+I have included all the necessary details in the attached report.
+Let me know if there's anything I can assist you with.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <ce2fce06248f49299ecf826c3a0c7ef1@thyme>
+Date: Mon, 12 Jun 2017 00:00:00 -0700
+From: usuario157@example.com
+To: usuario758@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario157 <usuario157@example.com>
+X-To: Usuario758 <usuario758@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario157_folder\_sent_mail
+X-Origin: usuario157-P
+X-FileName: usuario157.pst
+
+I wanted to remind you about the upcoming deadline.
+Here are the results from the analysis we discussed.
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <65eb27f1abe6498e93f8bf541f23ffde@thyme>
+Date: Sat, 15 Jan 2022 00:00:00 -0700
+From: usuario746@example.com
+To: usuario652@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario746 <usuario746@example.com>
+X-To: Usuario652 <usuario652@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario746_folder\spam
+X-Origin: usuario746-P
+X-FileName: usuario746.pst
+
+Let me know if there's anything I can assist you with.
+Please let me know if there's anything else you need from my end.
+Here is our forecast
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <f26874f4dd314c43bad13c227a36ad54@thyme>
+Date: Sun, 10 Jan 2016 00:00:00 -0700
+From: usuario21@example.com
+To: usuario583@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario21 <usuario21@example.com>
+X-To: Usuario583 <usuario583@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario21_folder\inbox
+X-Origin: usuario21-P
+X-FileName: usuario21.pst
+
+Please review the materials at your earliest convenience.
+I wanted to follow up on our last meeting
+I have included all the necessary details in the attached report.
+----------------------------------------

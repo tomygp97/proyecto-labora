@@ -1,0 +1,20 @@
+Message-ID: <f4bc0a81b87042d4ba4ae71e526ccffe@thyme>
+Date: Wed, 23 Oct 2002 00:00:00 -0700
+From: usuario403@example.com
+To: usuario668@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario403 <usuario403@example.com>
+X-To: Usuario668 <usuario668@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario403_folder\spam
+X-Origin: usuario403-P
+X-FileName: usuario403.pst
+
+Please let me know if there are any issues with the attached files.
+I wanted to remind you about the upcoming deadline.
+Please find the attached report for the last quarter
+----------------------------------------

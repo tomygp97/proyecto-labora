@@ -1,0 +1,20 @@
+Message-ID: <0f13bf8bbc9945659574c8cb92e04dfe@thyme>
+Date: Wed, 07 Sep 2016 00:00:00 -0700
+From: usuario808@example.com
+To: usuario116@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario808 <usuario808@example.com>
+X-To: Usuario116 <usuario116@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario808_folder\spam
+X-Origin: usuario808-P
+X-FileName: usuario808.pst
+
+I look forward to collaborating further on this initiative.
+I appreciate your attention to this matter.
+Thank you for your attention
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <74b693c2a1bb41f588cded49258ef9b0@thyme>
+Date: Fri, 14 Jun 2019 00:00:00 -0700
+From: usuario677@example.com
+To: usuario511@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario677 <usuario677@example.com>
+X-To: Usuario511 <usuario511@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario677_folder\inbox
+X-Origin: usuario677-P
+X-FileName: usuario677.pst
+
+Please review the attached files and provide feedback.
+I wanted to remind you about the upcoming deadline.
+Can you please confirm receipt of the files?
+----------------------------------------

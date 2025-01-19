@@ -1,0 +1,20 @@
+Message-ID: <c17160b39b4e42d3aefa233ff69e95ea@thyme>
+Date: Wed, 12 Feb 2003 00:00:00 -0700
+From: usuario66@example.com
+To: usuario841@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario66 <usuario66@example.com>
+X-To: Usuario841 <usuario841@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario66_folder\_sent_mail
+X-Origin: usuario66-P
+X-FileName: usuario66.pst
+
+Looking forward to hearing from you soon
+Thank you for your attention
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <c6db7018c867482383c9a047727dd698@thyme>
+Date: Mon, 04 May 2015 00:00:00 -0700
+From: usuario475@example.com
+To: usuario502@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario475 <usuario475@example.com>
+X-To: Usuario502 <usuario502@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario475_folder\sent
+X-Origin: usuario475-P
+X-FileName: usuario475.pst
+
+As discussed, I have attached the report you requested.
+I wanted to confirm our meeting for tomorrow.
+I hope you're having a productive week.
+----------------------------------------

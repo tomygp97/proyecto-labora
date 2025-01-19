@@ -1,0 +1,20 @@
+Message-ID: <88f107f8a1c44a0b939b0dc66c54d223@thyme>
+Date: Sat, 30 Mar 2024 00:00:00 -0700
+From: usuario480@example.com
+To: usuario74@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario480 <usuario480@example.com>
+X-To: Usuario74 <usuario74@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario480_folder\spam
+X-Origin: usuario480-P
+X-FileName: usuario480.pst
+
+I look forward to your response.
+Let me know if you'd like to schedule a follow-up discussion.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

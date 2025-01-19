@@ -1,0 +1,20 @@
+Message-ID: <65dce92f1b9148e7a6e5cf12385f25a9@thyme>
+Date: Fri, 26 Oct 2007 00:00:00 -0700
+From: usuario194@example.com
+To: usuario582@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario194 <usuario194@example.com>
+X-To: Usuario582 <usuario582@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario194_folder\inbox
+X-Origin: usuario194-P
+X-FileName: usuario194.pst
+
+I wanted to confirm our meeting for tomorrow.
+Please make sure to go through the attached documents before our meeting.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

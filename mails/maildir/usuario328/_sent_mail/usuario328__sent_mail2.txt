@@ -1,0 +1,20 @@
+Message-ID: <ec324de5b0c44436bc93ac349fb2b4c8@thyme>
+Date: Thu, 07 Dec 2023 00:00:00 -0700
+From: usuario328@example.com
+To: usuario635@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario328 <usuario328@example.com>
+X-To: Usuario635 <usuario635@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario328_folder\_sent_mail
+X-Origin: usuario328-P
+X-FileName: usuario328.pst
+
+Here are the documents I mentioned during our call.
+I hope you're enjoying a nice week so far.
+I would love to hear your feedback on the proposal.
+----------------------------------------

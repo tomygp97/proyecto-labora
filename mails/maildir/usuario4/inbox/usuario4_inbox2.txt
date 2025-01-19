@@ -1,0 +1,20 @@
+Message-ID: <fb4d75335d3a4c1ea42f1ed3d9a775cc@thyme>
+Date: Mon, 14 Apr 2014 00:00:00 -0700
+From: usuario4@example.com
+To: usuario64@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario4 <usuario4@example.com>
+X-To: Usuario64 <usuario64@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario4_folder\inbox
+X-Origin: usuario4-P
+X-FileName: usuario4.pst
+
+I look forward to your response.
+I wanted to thank you for your prompt response.
+Please review the materials at your earliest convenience.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <8f7096befc314553a5a889670252a620@thyme>
+Date: Mon, 06 Feb 2012 00:00:00 -0700
+From: usuario661@example.com
+To: usuario30@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario661 <usuario661@example.com>
+X-To: Usuario30 <usuario30@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario661_folder\_sent_mail
+X-Origin: usuario661-P
+X-FileName: usuario661.pst
+
+Please review the materials at your earliest convenience.
+I hope you're having a productive week.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

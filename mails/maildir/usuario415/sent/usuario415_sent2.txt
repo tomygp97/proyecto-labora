@@ -1,0 +1,20 @@
+Message-ID: <effdc00e604e407bb72ccb9fc8da73cb@thyme>
+Date: Tue, 04 Nov 2014 00:00:00 -0700
+From: usuario415@example.com
+To: usuario995@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario415 <usuario415@example.com>
+X-To: Usuario995 <usuario995@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario415_folder\sent
+X-Origin: usuario415-P
+X-FileName: usuario415.pst
+
+Looking forward to discussing the project in more detail soon.
+I hope this email finds you well.
+Please review the materials at your earliest convenience.
+----------------------------------------

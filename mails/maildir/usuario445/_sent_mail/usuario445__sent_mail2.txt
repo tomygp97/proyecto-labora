@@ -1,0 +1,20 @@
+Message-ID: <6ef7a2cc1afe458ba3e6567e344c7814@thyme>
+Date: Wed, 09 Jan 2019 00:00:00 -0700
+From: usuario445@example.com
+To: usuario208@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario445 <usuario445@example.com>
+X-To: Usuario208 <usuario208@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario445_folder\_sent_mail
+X-Origin: usuario445-P
+X-FileName: usuario445.pst
+
+I look forward to collaborating further on this initiative.
+Looking forward to discussing the project in more detail soon.
+Please find the latest updates on the project
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <0e48509ac04640dd871489488f726385@thyme>
+Date: Sun, 11 Jul 2010 00:00:00 -0700
+From: usuario69@example.com
+To: usuario619@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario69 <usuario69@example.com>
+X-To: Usuario619 <usuario619@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario69_folder\spam
+X-Origin: usuario69-P
+X-FileName: usuario69.pst
+
+I wanted to confirm our meeting for tomorrow.
+I trust the documents will be helpful for our upcoming discussion.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

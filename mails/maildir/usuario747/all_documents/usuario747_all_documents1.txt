@@ -1,0 +1,20 @@
+Message-ID: <b73055b08cc04bdeb05a23e4e74d0522@thyme>
+Date: Sun, 05 Feb 2012 00:00:00 -0700
+From: usuario747@example.com
+To: usuario393@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario747 <usuario747@example.com>
+X-To: Usuario393 <usuario393@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario747_folder\all_documents
+X-Origin: usuario747-P
+X-FileName: usuario747.pst
+
+Please find the latest updates on the project
+I hope you're having a productive week.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

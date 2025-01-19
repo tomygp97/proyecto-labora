@@ -1,0 +1,20 @@
+Message-ID: <26d9a2ecdd424a4fb97630241223ba04@thyme>
+Date: Mon, 22 Dec 2025 00:00:00 -0700
+From: usuario644@example.com
+To: usuario344@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario644 <usuario644@example.com>
+X-To: Usuario344 <usuario344@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario644_folder\_sent_mail
+X-Origin: usuario644-P
+X-FileName: usuario644.pst
+
+Please find the attached report for the last quarter
+Here are the results from the analysis we discussed.
+I wanted to give you an update on the status of the project.
+----------------------------------------

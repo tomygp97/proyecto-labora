@@ -1,0 +1,20 @@
+Message-ID: <4613096b9e104905b256b9909aec0339@thyme>
+Date: Fri, 05 Dec 2025 00:00:00 -0700
+From: usuario892@example.com
+To: usuario417@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario892 <usuario892@example.com>
+X-To: Usuario417 <usuario417@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario892_folder\sent
+X-Origin: usuario892-P
+X-FileName: usuario892.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to thank you for your prompt response.
+Please review the attached files and provide feedback.
+----------------------------------------

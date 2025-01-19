@@ -1,0 +1,20 @@
+Message-ID: <3e57b094620240d68bf7f76db85cb68f@thyme>
+Date: Wed, 16 Nov 2022 00:00:00 -0700
+From: usuario791@example.com
+To: usuario833@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario791 <usuario791@example.com>
+X-To: Usuario833 <usuario833@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario791_folder\spam
+X-Origin: usuario791-P
+X-FileName: usuario791.pst
+
+Please let me know if there's anything else you need from my end.
+I hope you're having a productive week.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

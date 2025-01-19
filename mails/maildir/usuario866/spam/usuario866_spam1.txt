@@ -1,0 +1,20 @@
+Message-ID: <519835c1325b4900886baa3d7cdf9c57@thyme>
+Date: Fri, 10 Apr 2009 00:00:00 -0700
+From: usuario866@example.com
+To: usuario47@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario866 <usuario866@example.com>
+X-To: Usuario47 <usuario47@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario866_folder\spam
+X-Origin: usuario866-P
+X-FileName: usuario866.pst
+
+As discussed, I have attached the report you requested.
+Can you please confirm receipt of the files?
+Hope everything is going well on your end.
+----------------------------------------

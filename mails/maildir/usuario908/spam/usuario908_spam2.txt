@@ -1,0 +1,20 @@
+Message-ID: <4ff7bc149465465697a62a589a60b135@thyme>
+Date: Thu, 15 Mar 2001 00:00:00 -0700
+From: usuario908@example.com
+To: usuario636@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario908 <usuario908@example.com>
+X-To: Usuario636 <usuario636@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario908_folder\spam
+X-Origin: usuario908-P
+X-FileName: usuario908.pst
+
+I would love to hear your feedback on the proposal.
+Thank you for your attention
+I appreciate your attention to this matter.
+----------------------------------------

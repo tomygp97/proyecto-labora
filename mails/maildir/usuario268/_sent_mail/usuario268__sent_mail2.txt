@@ -1,0 +1,20 @@
+Message-ID: <1c96afd61fd54cdcb6d2996b152cda9c@thyme>
+Date: Mon, 23 Sep 2019 00:00:00 -0700
+From: usuario268@example.com
+To: usuario256@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario268 <usuario268@example.com>
+X-To: Usuario256 <usuario256@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario268_folder\_sent_mail
+X-Origin: usuario268-P
+X-FileName: usuario268.pst
+
+Here are the next steps we need to take.
+I hope you're enjoying a nice week so far.
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <5e975065e643491cb40d03cf17c1009d@thyme>
+Date: Fri, 16 Nov 2007 00:00:00 -0700
+From: usuario133@example.com
+To: usuario802@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario133 <usuario133@example.com>
+X-To: Usuario802 <usuario802@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario133_folder\all_documents
+X-Origin: usuario133-P
+X-FileName: usuario133.pst
+
+Hope you're doing well. Here's the requested information.
+Hope everything is going well on your end.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

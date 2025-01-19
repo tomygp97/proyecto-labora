@@ -1,0 +1,20 @@
+Message-ID: <c3485d1f67c146a380c8455220a3704a@thyme>
+Date: Tue, 06 Jul 2021 00:00:00 -0700
+From: usuario731@example.com
+To: usuario655@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario731 <usuario731@example.com>
+X-To: Usuario655 <usuario655@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario731_folder\spam
+X-Origin: usuario731-P
+X-FileName: usuario731.pst
+
+Please don't hesitate to reach out if you need any help.
+Please review the materials at your earliest convenience.
+Here are the next steps we need to take.
+----------------------------------------

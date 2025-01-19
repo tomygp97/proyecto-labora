@@ -1,0 +1,20 @@
+Message-ID: <afc025072e5041138d934dc9d8167208@thyme>
+Date: Sun, 30 Apr 2023 00:00:00 -0700
+From: usuario832@example.com
+To: usuario537@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario832 <usuario832@example.com>
+X-To: Usuario537 <usuario537@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario832_folder\_sent_mail
+X-Origin: usuario832-P
+X-FileName: usuario832.pst
+
+Thank you for your attention
+Please let me know if there are any issues with the attached files.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

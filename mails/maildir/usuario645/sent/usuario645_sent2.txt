@@ -1,0 +1,20 @@
+Message-ID: <8b36db29b3174b9dbd77330aab0a89e5@thyme>
+Date: Tue, 27 Feb 2007 00:00:00 -0700
+From: usuario645@example.com
+To: usuario160@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario645 <usuario645@example.com>
+X-To: Usuario160 <usuario160@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario645_folder\sent
+X-Origin: usuario645-P
+X-FileName: usuario645.pst
+
+Just checking in to see if you've received my previous email.
+I wanted to confirm our meeting for tomorrow.
+Thank you for your attention
+----------------------------------------

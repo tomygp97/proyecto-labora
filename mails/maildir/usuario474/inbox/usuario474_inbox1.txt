@@ -1,0 +1,20 @@
+Message-ID: <b088bc704ed74460a5b691e83bab5f51@thyme>
+Date: Sun, 02 Jun 2019 00:00:00 -0700
+From: usuario474@example.com
+To: usuario16@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario474 <usuario474@example.com>
+X-To: Usuario16 <usuario16@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario474_folder\inbox
+X-Origin: usuario474-P
+X-FileName: usuario474.pst
+
+I wanted to remind you about the upcoming deadline.
+Please find the attached report for the last quarter
+I hope you're enjoying a nice week so far.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <ffa6e6d1fc1c4488a15161569c97f674@thyme>
+Date: Fri, 19 Mar 2021 00:00:00 -0700
+From: usuario995@example.com
+To: usuario577@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario995 <usuario995@example.com>
+X-To: Usuario577 <usuario577@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario995_folder\sent
+X-Origin: usuario995-P
+X-FileName: usuario995.pst
+
+Please find the latest updates on the project
+I hope this email finds you well.
+Please review the materials at your earliest convenience.
+----------------------------------------

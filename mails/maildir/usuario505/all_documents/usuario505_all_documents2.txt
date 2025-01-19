@@ -1,0 +1,20 @@
+Message-ID: <389ca1ae20ee4de0815efaad7742bdd5@thyme>
+Date: Sat, 11 Apr 2020 00:00:00 -0700
+From: usuario505@example.com
+To: usuario153@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario505 <usuario505@example.com>
+X-To: Usuario153 <usuario153@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario505_folder\all_documents
+X-Origin: usuario505-P
+X-FileName: usuario505.pst
+
+Here are the results from the analysis we discussed.
+Can you please confirm receipt of the files?
+I look forward to your response.
+----------------------------------------

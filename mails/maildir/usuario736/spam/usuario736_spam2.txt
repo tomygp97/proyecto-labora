@@ -1,0 +1,20 @@
+Message-ID: <e5dd77378a644d819aeef566f8526692@thyme>
+Date: Thu, 01 Sep 2011 00:00:00 -0700
+From: usuario736@example.com
+To: usuario206@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario736 <usuario736@example.com>
+X-To: Usuario206 <usuario206@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario736_folder\spam
+X-Origin: usuario736-P
+X-FileName: usuario736.pst
+
+Please let me know if there are any issues with the attached files.
+I wanted to follow up on our last meeting
+I wanted to thank you for your prompt response.
+----------------------------------------

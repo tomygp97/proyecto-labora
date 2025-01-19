@@ -1,0 +1,20 @@
+Message-ID: <f114914f5c3f4a4f8869255cf191203d@thyme>
+Date: Mon, 10 Jun 2024 00:00:00 -0700
+From: usuario953@example.com
+To: usuario12@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario953 <usuario953@example.com>
+X-To: Usuario12 <usuario12@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario953_folder\_sent_mail
+X-Origin: usuario953-P
+X-FileName: usuario953.pst
+
+I wanted to thank you for your prompt response.
+Here are the documents I mentioned during our call.
+I wanted to follow up on our last meeting
+----------------------------------------

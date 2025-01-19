@@ -1,0 +1,20 @@
+Message-ID: <42eaf31e94c24d37b98cdb504a7791c5@thyme>
+Date: Thu, 04 Dec 2008 00:00:00 -0700
+From: usuario109@example.com
+To: usuario761@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario109 <usuario109@example.com>
+X-To: Usuario761 <usuario761@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario109_folder\spam
+X-Origin: usuario109-P
+X-FileName: usuario109.pst
+
+Hope you're doing well. Here's the requested information.
+I wanted to give you an update on the status of the project.
+I wanted to thank you for your prompt response.
+----------------------------------------

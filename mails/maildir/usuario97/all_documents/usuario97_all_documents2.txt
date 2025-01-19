@@ -1,0 +1,20 @@
+Message-ID: <8f4877cf77ea401fbeb8c362846c204f@thyme>
+Date: Fri, 04 Oct 2024 00:00:00 -0700
+From: usuario97@example.com
+To: usuario1000@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario97 <usuario97@example.com>
+X-To: Usuario1000 <usuario1000@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario97_folder\all_documents
+X-Origin: usuario97-P
+X-FileName: usuario97.pst
+
+I hope this email finds you well.
+I wanted to thank you for your prompt response.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

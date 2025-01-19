@@ -1,0 +1,20 @@
+Message-ID: <a77262c593c7485e99130a3564ff5b3f@thyme>
+Date: Thu, 04 Oct 2007 00:00:00 -0700
+From: usuario976@example.com
+To: usuario435@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario976 <usuario976@example.com>
+X-To: Usuario435 <usuario435@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario976_folder\all_documents
+X-Origin: usuario976-P
+X-FileName: usuario976.pst
+
+I wanted to follow up on our last meeting
+Let me know if there's anything I can assist you with.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

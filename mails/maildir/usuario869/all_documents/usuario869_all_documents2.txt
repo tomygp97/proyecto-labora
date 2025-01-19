@@ -1,0 +1,20 @@
+Message-ID: <ccfcfd90e4d84ef1854dbd0fbac1664b@thyme>
+Date: Sun, 31 Dec 2017 00:00:00 -0700
+From: usuario869@example.com
+To: usuario354@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario869 <usuario869@example.com>
+X-To: Usuario354 <usuario354@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario869_folder\all_documents
+X-Origin: usuario869-P
+X-FileName: usuario869.pst
+
+I have included all the necessary details in the attached report.
+I wanted to remind you about the upcoming deadline.
+I look forward to collaborating further on this initiative.
+----------------------------------------

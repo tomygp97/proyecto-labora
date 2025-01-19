@@ -1,0 +1,20 @@
+Message-ID: <45845bfea37e4bbba8438ef032ba597a@thyme>
+Date: Thu, 23 Jun 2011 00:00:00 -0700
+From: usuario864@example.com
+To: usuario544@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario864 <usuario864@example.com>
+X-To: Usuario544 <usuario544@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario864_folder\all_documents
+X-Origin: usuario864-P
+X-FileName: usuario864.pst
+
+Please review the attached files and provide feedback.
+Please review the materials at your earliest convenience.
+I wanted to follow up on our last meeting
+----------------------------------------

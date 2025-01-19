@@ -1,0 +1,20 @@
+Message-ID: <550fd1c6491c473c8d9f9791225e3df7@thyme>
+Date: Wed, 09 Aug 2023 00:00:00 -0700
+From: usuario850@example.com
+To: usuario753@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario850 <usuario850@example.com>
+X-To: Usuario753 <usuario753@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario850_folder\inbox
+X-Origin: usuario850-P
+X-FileName: usuario850.pst
+
+Thank you for your attention
+Hope everything is going well on your end.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

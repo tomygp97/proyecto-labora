@@ -1,0 +1,20 @@
+Message-ID: <419af8e2327840d88474543e506885f0@thyme>
+Date: Sat, 11 Mar 2017 00:00:00 -0700
+From: usuario501@example.com
+To: usuario121@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario501 <usuario501@example.com>
+X-To: Usuario121 <usuario121@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario501_folder\sent
+X-Origin: usuario501-P
+X-FileName: usuario501.pst
+
+Please find the latest updates on the project
+Let me know if you'd like to schedule a follow-up discussion.
+I hope you're having a productive week.
+----------------------------------------

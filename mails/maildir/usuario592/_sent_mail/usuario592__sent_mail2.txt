@@ -1,0 +1,20 @@
+Message-ID: <28e2c9a2e6e84b46bcf1828c793dfe44@thyme>
+Date: Wed, 06 Oct 2021 00:00:00 -0700
+From: usuario592@example.com
+To: usuario122@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario592 <usuario592@example.com>
+X-To: Usuario122 <usuario122@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario592_folder\_sent_mail
+X-Origin: usuario592-P
+X-FileName: usuario592.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please make sure to go through the attached documents before our meeting.
+I have included all the necessary details in the attached report.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <732ac6da305f4e44ba881a94feb1b7f3@thyme>
+Date: Tue, 09 Mar 2021 00:00:00 -0700
+From: usuario163@example.com
+To: usuario341@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario163 <usuario163@example.com>
+X-To: Usuario341 <usuario341@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario163_folder\sent
+X-Origin: usuario163-P
+X-FileName: usuario163.pst
+
+I appreciate your attention to this matter.
+Please let me know if there are any changes to the schedule.
+Thank you for your attention
+----------------------------------------

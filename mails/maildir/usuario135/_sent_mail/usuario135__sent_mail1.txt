@@ -1,0 +1,20 @@
+Message-ID: <1f1eae472959413cbb0caccbd8aea1f3@thyme>
+Date: Fri, 27 Jan 2023 00:00:00 -0700
+From: usuario135@example.com
+To: usuario828@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario135 <usuario135@example.com>
+X-To: Usuario828 <usuario828@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario135_folder\_sent_mail
+X-Origin: usuario135-P
+X-FileName: usuario135.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here is our forecast
+I wanted to thank you for your prompt response.
+----------------------------------------

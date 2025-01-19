@@ -1,0 +1,20 @@
+Message-ID: <b8aab710c4a34e93b53b65f4f783a81b@thyme>
+Date: Fri, 27 Jul 2018 00:00:00 -0700
+From: usuario993@example.com
+To: usuario190@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario993 <usuario993@example.com>
+X-To: Usuario190 <usuario190@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario993_folder\spam
+X-Origin: usuario993-P
+X-FileName: usuario993.pst
+
+Please don't hesitate to reach out if you need any help.
+Here is a summary of the last meeting for your reference.
+I have included all the necessary details in the attached report.
+----------------------------------------

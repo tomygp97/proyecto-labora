@@ -1,0 +1,20 @@
+Message-ID: <cc7ced3de39b40bfa2e74159329e3aab@thyme>
+Date: Wed, 02 Apr 2003 00:00:00 -0700
+From: usuario423@example.com
+To: usuario498@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario423 <usuario423@example.com>
+X-To: Usuario498 <usuario498@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario423_folder\inbox
+X-Origin: usuario423-P
+X-FileName: usuario423.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to thank you for your prompt response.
+I would love to hear your feedback on the proposal.
+----------------------------------------

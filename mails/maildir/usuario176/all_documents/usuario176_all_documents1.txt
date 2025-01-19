@@ -1,0 +1,20 @@
+Message-ID: <e3e9c5355d1349d7b3aa46a9b998bced@thyme>
+Date: Fri, 19 Nov 2021 00:00:00 -0700
+From: usuario176@example.com
+To: usuario145@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario176 <usuario176@example.com>
+X-To: Usuario145 <usuario145@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario176_folder\all_documents
+X-Origin: usuario176-P
+X-FileName: usuario176.pst
+
+I wanted to remind you about the upcoming deadline.
+Please let me know if there are any changes to the schedule.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

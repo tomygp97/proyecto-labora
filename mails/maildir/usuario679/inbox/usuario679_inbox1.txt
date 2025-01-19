@@ -1,0 +1,20 @@
+Message-ID: <38f5daaf5239486fb465a55a2e7b37eb@thyme>
+Date: Thu, 06 Jul 2023 00:00:00 -0700
+From: usuario679@example.com
+To: usuario477@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario679 <usuario679@example.com>
+X-To: Usuario477 <usuario477@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario679_folder\inbox
+X-Origin: usuario679-P
+X-FileName: usuario679.pst
+
+I wanted to confirm our meeting for tomorrow.
+I wanted to thank you for your prompt response.
+Please find the attached report for the last quarter
+----------------------------------------

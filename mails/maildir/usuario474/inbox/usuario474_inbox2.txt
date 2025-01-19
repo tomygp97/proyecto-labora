@@ -1,0 +1,20 @@
+Message-ID: <25cb23bbaf1d44d4883c1f96db07fdf4@thyme>
+Date: Fri, 25 Jun 2021 00:00:00 -0700
+From: usuario474@example.com
+To: usuario107@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario474 <usuario474@example.com>
+X-To: Usuario107 <usuario107@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario474_folder\inbox
+X-Origin: usuario474-P
+X-FileName: usuario474.pst
+
+Here is a summary of the last meeting for your reference.
+Looking forward to hearing from you soon
+Just checking in to see if you've received my previous email.
+----------------------------------------

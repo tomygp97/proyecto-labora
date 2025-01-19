@@ -1,0 +1,20 @@
+Message-ID: <fb412a7e55eb4bc29b119843c44b11a6@thyme>
+Date: Wed, 26 Aug 2020 00:00:00 -0700
+From: usuario286@example.com
+To: usuario125@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario286 <usuario286@example.com>
+X-To: Usuario125 <usuario125@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario286_folder\sent
+X-Origin: usuario286-P
+X-FileName: usuario286.pst
+
+Please find the attached report for the last quarter
+Here is a summary of the last meeting for your reference.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

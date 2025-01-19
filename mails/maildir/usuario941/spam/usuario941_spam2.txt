@@ -1,0 +1,20 @@
+Message-ID: <7a6512a477fd46f4bba39b52953160eb@thyme>
+Date: Wed, 03 Jun 2020 00:00:00 -0700
+From: usuario941@example.com
+To: usuario1@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario941 <usuario941@example.com>
+X-To: Usuario1 <usuario1@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario941_folder\spam
+X-Origin: usuario941-P
+X-FileName: usuario941.pst
+
+I wanted to thank you for your prompt response.
+Please make sure to go through the attached documents before our meeting.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

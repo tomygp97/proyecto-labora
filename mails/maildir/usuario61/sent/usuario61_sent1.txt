@@ -1,0 +1,20 @@
+Message-ID: <26c633f178e84a2abb3527e6615221f8@thyme>
+Date: Mon, 14 Dec 2020 00:00:00 -0700
+From: usuario61@example.com
+To: usuario927@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario61 <usuario61@example.com>
+X-To: Usuario927 <usuario927@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario61_folder\sent
+X-Origin: usuario61-P
+X-FileName: usuario61.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+I look forward to collaborating further on this initiative.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

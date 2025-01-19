@@ -1,0 +1,20 @@
+Message-ID: <275f467711e24ddc8aeee8795dc787c5@thyme>
+Date: Fri, 05 Jul 2024 00:00:00 -0700
+From: usuario105@example.com
+To: usuario745@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario105 <usuario105@example.com>
+X-To: Usuario745 <usuario745@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario105_folder\inbox
+X-Origin: usuario105-P
+X-FileName: usuario105.pst
+
+Looking forward to discussing the project in more detail soon.
+Please let me know if there are any changes to the schedule.
+Hope everything is going well on your end.
+----------------------------------------

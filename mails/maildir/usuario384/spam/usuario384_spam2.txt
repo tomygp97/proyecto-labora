@@ -1,0 +1,20 @@
+Message-ID: <d5676fc628ca493ebc29fd5664e55dd8@thyme>
+Date: Thu, 16 Feb 2023 00:00:00 -0700
+From: usuario384@example.com
+To: usuario138@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario384 <usuario384@example.com>
+X-To: Usuario138 <usuario138@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario384_folder\spam
+X-Origin: usuario384-P
+X-FileName: usuario384.pst
+
+I would love to hear your feedback on the proposal.
+I hope you're having a productive week.
+Please find the latest updates on the project
+----------------------------------------

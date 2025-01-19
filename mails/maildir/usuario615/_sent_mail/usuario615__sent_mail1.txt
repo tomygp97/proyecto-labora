@@ -1,0 +1,20 @@
+Message-ID: <a8e5c779c7764b84bc22f831599140c7@thyme>
+Date: Wed, 28 Mar 2012 00:00:00 -0700
+From: usuario615@example.com
+To: usuario840@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario615 <usuario615@example.com>
+X-To: Usuario840 <usuario840@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario615_folder\_sent_mail
+X-Origin: usuario615-P
+X-FileName: usuario615.pst
+
+I look forward to your response.
+I wanted to thank you for your prompt response.
+Can you please confirm receipt of the files?
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <eb118771b53e4a089bffce5cae9b61d4@thyme>
+Date: Fri, 19 Oct 2007 00:00:00 -0700
+From: usuario600@example.com
+To: usuario359@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario600 <usuario600@example.com>
+X-To: Usuario359 <usuario359@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario600_folder\sent
+X-Origin: usuario600-P
+X-FileName: usuario600.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I would love to hear your feedback on the proposal.
+I look forward to your response.
+----------------------------------------

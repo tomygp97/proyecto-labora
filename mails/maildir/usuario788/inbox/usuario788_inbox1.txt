@@ -1,0 +1,20 @@
+Message-ID: <0b6ce3e2bf9d4b489d2d0acd18c86ad3@thyme>
+Date: Sat, 06 Dec 2008 00:00:00 -0700
+From: usuario788@example.com
+To: usuario697@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario788 <usuario788@example.com>
+X-To: Usuario697 <usuario697@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario788_folder\inbox
+X-Origin: usuario788-P
+X-FileName: usuario788.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please let me know if there are any changes to the schedule.
+Can you please confirm receipt of the files?
+----------------------------------------

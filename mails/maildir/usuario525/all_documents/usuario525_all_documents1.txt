@@ -1,0 +1,20 @@
+Message-ID: <bd2a88400ae54a5a966775898d970106@thyme>
+Date: Sat, 30 Nov 2002 00:00:00 -0700
+From: usuario525@example.com
+To: usuario691@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario525 <usuario525@example.com>
+X-To: Usuario691 <usuario691@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario525_folder\all_documents
+X-Origin: usuario525-P
+X-FileName: usuario525.pst
+
+Here is a summary of the last meeting for your reference.
+I wanted to remind you about the upcoming deadline.
+Here are the results from the analysis we discussed.
+----------------------------------------

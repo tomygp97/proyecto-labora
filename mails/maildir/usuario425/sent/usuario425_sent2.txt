@@ -1,0 +1,20 @@
+Message-ID: <23c38025e3e54db48614c215d8b3c4b0@thyme>
+Date: Mon, 27 Oct 2025 00:00:00 -0700
+From: usuario425@example.com
+To: usuario307@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario425 <usuario425@example.com>
+X-To: Usuario307 <usuario307@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario425_folder\sent
+X-Origin: usuario425-P
+X-FileName: usuario425.pst
+
+Hope you're doing well. Here's the requested information.
+Let me know if you need any additional details.
+Here are the results from the analysis we discussed.
+----------------------------------------

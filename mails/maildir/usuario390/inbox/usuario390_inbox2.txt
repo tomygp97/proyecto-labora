@@ -1,0 +1,20 @@
+Message-ID: <c7d9553a798a4972acf218912ae52fdc@thyme>
+Date: Tue, 04 Jun 2024 00:00:00 -0700
+From: usuario390@example.com
+To: usuario120@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario390 <usuario390@example.com>
+X-To: Usuario120 <usuario120@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario390_folder\inbox
+X-Origin: usuario390-P
+X-FileName: usuario390.pst
+
+I hope you're having a productive week.
+Can you please confirm receipt of the files?
+I appreciate your attention to this matter.
+----------------------------------------

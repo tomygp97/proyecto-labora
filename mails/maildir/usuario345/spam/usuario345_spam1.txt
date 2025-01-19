@@ -1,0 +1,20 @@
+Message-ID: <2398c183ecdf4de6868d78f5ec0c62b0@thyme>
+Date: Mon, 23 Sep 2019 00:00:00 -0700
+From: usuario345@example.com
+To: usuario53@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario345 <usuario345@example.com>
+X-To: Usuario53 <usuario53@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario345_folder\spam
+X-Origin: usuario345-P
+X-FileName: usuario345.pst
+
+Here are the documents I mentioned during our call.
+I wanted to confirm our meeting for tomorrow.
+Thank you for your attention
+----------------------------------------

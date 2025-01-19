@@ -1,0 +1,20 @@
+Message-ID: <e5b3aa4f8bdc4971a0eb3ca4914060e7@thyme>
+Date: Fri, 04 Nov 2022 00:00:00 -0700
+From: usuario721@example.com
+To: usuario836@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario721 <usuario721@example.com>
+X-To: Usuario836 <usuario836@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario721_folder\spam
+X-Origin: usuario721-P
+X-FileName: usuario721.pst
+
+Looking forward to discussing the project in more detail soon.
+Please let me know if there are any changes to the schedule.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

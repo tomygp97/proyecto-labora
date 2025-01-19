@@ -1,0 +1,20 @@
+Message-ID: <9838aad1b12643dd882ad0844c276d88@thyme>
+Date: Wed, 19 Sep 2018 00:00:00 -0700
+From: usuario68@example.com
+To: usuario791@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario68 <usuario68@example.com>
+X-To: Usuario791 <usuario791@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario68_folder\inbox
+X-Origin: usuario68-P
+X-FileName: usuario68.pst
+
+Please let me know if there are any changes to the schedule.
+Thank you for your attention
+I hope you're enjoying a nice week so far.
+----------------------------------------

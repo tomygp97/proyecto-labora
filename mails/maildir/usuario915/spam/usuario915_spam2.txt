@@ -1,0 +1,20 @@
+Message-ID: <f92adf23ea114d4dbbefda7444b078f1@thyme>
+Date: Sun, 05 Jun 2022 00:00:00 -0700
+From: usuario915@example.com
+To: usuario772@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario915 <usuario915@example.com>
+X-To: Usuario772 <usuario772@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario915_folder\spam
+X-Origin: usuario915-P
+X-FileName: usuario915.pst
+
+Please find the attached report for the last quarter
+I wanted to thank you for your prompt response.
+I look forward to your response.
+----------------------------------------

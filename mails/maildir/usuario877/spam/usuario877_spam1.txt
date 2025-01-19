@@ -1,0 +1,20 @@
+Message-ID: <cfa264a331a243e2afd60f687ea183e1@thyme>
+Date: Fri, 06 Oct 2023 00:00:00 -0700
+From: usuario877@example.com
+To: usuario83@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario877 <usuario877@example.com>
+X-To: Usuario83 <usuario83@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario877_folder\spam
+X-Origin: usuario877-P
+X-FileName: usuario877.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please review the materials at your earliest convenience.
+I wanted to give you an update on the status of the project.
+----------------------------------------

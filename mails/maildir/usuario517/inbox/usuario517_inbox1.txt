@@ -1,0 +1,20 @@
+Message-ID: <17ac27eb6d2f4e2d94cc615e99d19d56@thyme>
+Date: Sun, 28 Sep 2008 00:00:00 -0700
+From: usuario517@example.com
+To: usuario945@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario517 <usuario517@example.com>
+X-To: Usuario945 <usuario945@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario517_folder\inbox
+X-Origin: usuario517-P
+X-FileName: usuario517.pst
+
+Please review the materials at your earliest convenience.
+I look forward to your response.
+Let me know if there's anything I can assist you with.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <1947b19e58b74032bc2626af84963efe@thyme>
+Date: Fri, 18 May 2012 00:00:00 -0700
+From: usuario787@example.com
+To: usuario229@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario787 <usuario787@example.com>
+X-To: Usuario229 <usuario229@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario787_folder\spam
+X-Origin: usuario787-P
+X-FileName: usuario787.pst
+
+Please find the attached report for the last quarter
+I wanted to thank you for your prompt response.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

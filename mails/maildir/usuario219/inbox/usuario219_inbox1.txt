@@ -1,0 +1,20 @@
+Message-ID: <3c387f6e26f048f38cabf8e9ae5b3665@thyme>
+Date: Thu, 23 Feb 2023 00:00:00 -0700
+From: usuario219@example.com
+To: usuario124@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario219 <usuario219@example.com>
+X-To: Usuario124 <usuario124@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario219_folder\inbox
+X-Origin: usuario219-P
+X-FileName: usuario219.pst
+
+Here is a summary of the last meeting for your reference.
+As discussed, I have attached the report you requested.
+Just checking in to see if you've received my previous email.
+----------------------------------------

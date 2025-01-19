@@ -1,0 +1,20 @@
+Message-ID: <01ae29a3d19c46f98cf699bd2d9b5625@thyme>
+Date: Thu, 17 Jun 2021 00:00:00 -0700
+From: usuario538@example.com
+To: usuario743@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario538 <usuario538@example.com>
+X-To: Usuario743 <usuario743@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario538_folder\spam
+X-Origin: usuario538-P
+X-FileName: usuario538.pst
+
+Let me know if there's anything I can assist you with.
+Please make sure to go through the attached documents before our meeting.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

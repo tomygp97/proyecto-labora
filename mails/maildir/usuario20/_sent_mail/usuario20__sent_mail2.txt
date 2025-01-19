@@ -1,0 +1,20 @@
+Message-ID: <196b472a213e41ba95597dcd8655089b@thyme>
+Date: Mon, 03 Apr 2023 00:00:00 -0700
+From: usuario20@example.com
+To: usuario940@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario20 <usuario20@example.com>
+X-To: Usuario940 <usuario940@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario20_folder\_sent_mail
+X-Origin: usuario20-P
+X-FileName: usuario20.pst
+
+I would love to hear your feedback on the proposal.
+Hope everything is going well on your end.
+Can you please confirm receipt of the files?
+----------------------------------------

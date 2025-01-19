@@ -1,0 +1,20 @@
+Message-ID: <08bee03943094af98c85bca812aa025c@thyme>
+Date: Mon, 20 Nov 2000 00:00:00 -0700
+From: usuario560@example.com
+To: usuario573@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario560 <usuario560@example.com>
+X-To: Usuario573 <usuario573@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario560_folder\all_documents
+X-Origin: usuario560-P
+X-FileName: usuario560.pst
+
+Please let me know if there are any issues with the attached files.
+Thank you for your attention
+Please let me know if there are any changes to the schedule.
+----------------------------------------

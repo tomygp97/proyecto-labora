@@ -1,0 +1,20 @@
+Message-ID: <5307a000ad42482fa44d89e2a1eea841@thyme>
+Date: Thu, 04 Aug 2011 00:00:00 -0700
+From: usuario175@example.com
+To: usuario892@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario175 <usuario175@example.com>
+X-To: Usuario892 <usuario892@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario175_folder\sent
+X-Origin: usuario175-P
+X-FileName: usuario175.pst
+
+Please let me know if there are any changes to the schedule.
+I hope you're having a productive week.
+Here is our forecast
+----------------------------------------

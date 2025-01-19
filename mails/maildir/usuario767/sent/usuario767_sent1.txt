@@ -1,0 +1,20 @@
+Message-ID: <e1686ede026a4f4b8ae810b26cbdb509@thyme>
+Date: Sun, 22 Dec 2013 00:00:00 -0700
+From: usuario767@example.com
+To: usuario648@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario767 <usuario767@example.com>
+X-To: Usuario648 <usuario648@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario767_folder\sent
+X-Origin: usuario767-P
+X-FileName: usuario767.pst
+
+Can you please confirm receipt of the files?
+Let me know if you need any additional details.
+Just checking in to see if you've received my previous email.
+----------------------------------------

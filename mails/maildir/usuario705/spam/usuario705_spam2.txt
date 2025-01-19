@@ -1,0 +1,20 @@
+Message-ID: <9e1eb94545c6463d8df96a9476effd6b@thyme>
+Date: Thu, 24 Aug 2023 00:00:00 -0700
+From: usuario705@example.com
+To: usuario804@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario705 <usuario705@example.com>
+X-To: Usuario804 <usuario804@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario705_folder\spam
+X-Origin: usuario705-P
+X-FileName: usuario705.pst
+
+I wanted to confirm our meeting for tomorrow.
+Thank you for your attention
+Here is our forecast
+----------------------------------------

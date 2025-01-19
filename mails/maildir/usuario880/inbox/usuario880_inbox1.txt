@@ -1,0 +1,20 @@
+Message-ID: <cbdbcdab8c1040678c2683dcda49174a@thyme>
+Date: Sun, 26 May 2013 00:00:00 -0700
+From: usuario880@example.com
+To: usuario699@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario880 <usuario880@example.com>
+X-To: Usuario699 <usuario699@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario880_folder\inbox
+X-Origin: usuario880-P
+X-FileName: usuario880.pst
+
+I look forward to collaborating further on this initiative.
+I wanted to give you an update on the status of the project.
+Looking forward to hearing from you soon
+----------------------------------------

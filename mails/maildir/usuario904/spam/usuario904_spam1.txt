@@ -1,0 +1,20 @@
+Message-ID: <780771c8d33c40ddbb24ee003b1dab52@thyme>
+Date: Fri, 09 Feb 2007 00:00:00 -0700
+From: usuario904@example.com
+To: usuario770@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario904 <usuario904@example.com>
+X-To: Usuario770 <usuario770@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario904_folder\spam
+X-Origin: usuario904-P
+X-FileName: usuario904.pst
+
+Here is a summary of the last meeting for your reference.
+I hope this email finds you well.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

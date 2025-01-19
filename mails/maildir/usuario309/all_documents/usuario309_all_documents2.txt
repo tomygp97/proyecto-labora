@@ -1,0 +1,20 @@
+Message-ID: <793ac04e744e4f4c9e1453cc805a791a@thyme>
+Date: Sat, 29 Sep 2012 00:00:00 -0700
+From: usuario309@example.com
+To: usuario703@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario309 <usuario309@example.com>
+X-To: Usuario703 <usuario703@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario309_folder\all_documents
+X-Origin: usuario309-P
+X-FileName: usuario309.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please review the materials at your earliest convenience.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

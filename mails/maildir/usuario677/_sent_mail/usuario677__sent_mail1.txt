@@ -1,0 +1,20 @@
+Message-ID: <2ff147a7d9264c6992857c8152b5b644@thyme>
+Date: Sat, 29 Apr 2017 00:00:00 -0700
+From: usuario677@example.com
+To: usuario686@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario677 <usuario677@example.com>
+X-To: Usuario686 <usuario686@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario677_folder\_sent_mail
+X-Origin: usuario677-P
+X-FileName: usuario677.pst
+
+I wanted to remind you about the upcoming deadline.
+Please review the materials at your earliest convenience.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

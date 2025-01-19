@@ -1,0 +1,20 @@
+Message-ID: <af94e1b10c4b451a951c1def4d7bc799@thyme>
+Date: Wed, 29 Jan 2020 00:00:00 -0700
+From: usuario178@example.com
+To: usuario277@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario178 <usuario178@example.com>
+X-To: Usuario277 <usuario277@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario178_folder\inbox
+X-Origin: usuario178-P
+X-FileName: usuario178.pst
+
+I have included all the necessary details in the attached report.
+Hope everything is going well on your end.
+I wanted to thank you for your prompt response.
+----------------------------------------

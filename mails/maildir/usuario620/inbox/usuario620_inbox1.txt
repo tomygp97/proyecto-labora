@@ -1,0 +1,20 @@
+Message-ID: <17e9da4f1a7d47718e04e212354a4b5f@thyme>
+Date: Mon, 20 Aug 2001 00:00:00 -0700
+From: usuario620@example.com
+To: usuario539@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario620 <usuario620@example.com>
+X-To: Usuario539 <usuario539@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario620_folder\inbox
+X-Origin: usuario620-P
+X-FileName: usuario620.pst
+
+Here is our forecast
+I hope you're enjoying a nice week so far.
+Please find the attached report for the last quarter
+----------------------------------------

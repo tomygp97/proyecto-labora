@@ -1,0 +1,20 @@
+Message-ID: <467072c4b3e7415db971ec386c459f46@thyme>
+Date: Thu, 07 Jul 2022 00:00:00 -0700
+From: usuario861@example.com
+To: usuario262@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario861 <usuario861@example.com>
+X-To: Usuario262 <usuario262@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario861_folder\all_documents
+X-Origin: usuario861-P
+X-FileName: usuario861.pst
+
+I hope you're having a productive week.
+I would love to hear your feedback on the proposal.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

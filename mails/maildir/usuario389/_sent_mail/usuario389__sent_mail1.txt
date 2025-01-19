@@ -1,0 +1,20 @@
+Message-ID: <cb37eef3751e4c7f9b14a85de76f7ff8@thyme>
+Date: Sun, 01 Mar 2020 00:00:00 -0700
+From: usuario389@example.com
+To: usuario195@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario389 <usuario389@example.com>
+X-To: Usuario195 <usuario195@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario389_folder\_sent_mail
+X-Origin: usuario389-P
+X-FileName: usuario389.pst
+
+Here are the next steps we need to take.
+Looking forward to hearing from you soon
+Please find the attached report for the last quarter
+----------------------------------------

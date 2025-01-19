@@ -1,0 +1,20 @@
+Message-ID: <fc5541d5fb84494bac044d7a3b651305@thyme>
+Date: Sun, 01 Aug 2021 00:00:00 -0700
+From: usuario876@example.com
+To: usuario132@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario876 <usuario876@example.com>
+X-To: Usuario132 <usuario132@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario876_folder\spam
+X-Origin: usuario876-P
+X-FileName: usuario876.pst
+
+I wanted to thank you for your prompt response.
+Please make sure to go through the attached documents before our meeting.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

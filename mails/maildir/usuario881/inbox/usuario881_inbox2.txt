@@ -1,0 +1,20 @@
+Message-ID: <62b40312ae324ff8bb32a0d2bd260600@thyme>
+Date: Thu, 28 Mar 2024 00:00:00 -0700
+From: usuario881@example.com
+To: usuario16@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario881 <usuario881@example.com>
+X-To: Usuario16 <usuario16@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario881_folder\inbox
+X-Origin: usuario881-P
+X-FileName: usuario881.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to give you an update on the status of the project.
+I have included all the necessary details in the attached report.
+----------------------------------------

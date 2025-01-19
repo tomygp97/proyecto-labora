@@ -1,0 +1,20 @@
+Message-ID: <25b5ce55450f41c086b26283fde982c1@thyme>
+Date: Sat, 17 Dec 2022 00:00:00 -0700
+From: usuario265@example.com
+To: usuario61@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario265 <usuario265@example.com>
+X-To: Usuario61 <usuario61@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario265_folder\sent
+X-Origin: usuario265-P
+X-FileName: usuario265.pst
+
+Just checking in to see if you've received my previous email.
+Here is our forecast
+I would love to hear your feedback on the proposal.
+----------------------------------------

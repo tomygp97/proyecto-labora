@@ -1,0 +1,20 @@
+Message-ID: <2e565937b3664d8c9e9129a1fa99903b@thyme>
+Date: Sat, 28 Nov 2020 00:00:00 -0700
+From: usuario438@example.com
+To: usuario759@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario438 <usuario438@example.com>
+X-To: Usuario759 <usuario759@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario438_folder\all_documents
+X-Origin: usuario438-P
+X-FileName: usuario438.pst
+
+Please review the attached files and provide feedback.
+I wanted to remind you about the upcoming deadline.
+Let me know if you need any additional details.
+----------------------------------------

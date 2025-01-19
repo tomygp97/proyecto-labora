@@ -1,0 +1,20 @@
+Message-ID: <d66b823a332d44058e1e6437f45de806@thyme>
+Date: Wed, 01 Mar 2023 00:00:00 -0700
+From: usuario289@example.com
+To: usuario998@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario289 <usuario289@example.com>
+X-To: Usuario998 <usuario998@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario289_folder\all_documents
+X-Origin: usuario289-P
+X-FileName: usuario289.pst
+
+Looking forward to hearing from you soon
+I hope this email finds you well.
+Here is our forecast
+----------------------------------------

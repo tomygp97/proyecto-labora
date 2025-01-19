@@ -1,0 +1,20 @@
+Message-ID: <f25cd2459cad4ac0b09faf902a9e13b8@thyme>
+Date: Fri, 16 May 2014 00:00:00 -0700
+From: usuario863@example.com
+To: usuario231@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario863 <usuario863@example.com>
+X-To: Usuario231 <usuario231@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario863_folder\spam
+X-Origin: usuario863-P
+X-FileName: usuario863.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to give you an update on the status of the project.
+As discussed, I have attached the report you requested.
+----------------------------------------

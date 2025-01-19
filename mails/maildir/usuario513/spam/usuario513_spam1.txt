@@ -1,0 +1,20 @@
+Message-ID: <827139575ea8450791d5cd6536ccfd86@thyme>
+Date: Mon, 28 Mar 2016 00:00:00 -0700
+From: usuario513@example.com
+To: usuario367@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario513 <usuario513@example.com>
+X-To: Usuario367 <usuario367@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario513_folder\spam
+X-Origin: usuario513-P
+X-FileName: usuario513.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to check in regarding the status of the project.
+I would love to hear your feedback on the proposal.
+----------------------------------------

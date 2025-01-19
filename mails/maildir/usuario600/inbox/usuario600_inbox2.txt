@@ -1,0 +1,20 @@
+Message-ID: <7e6f81f89e754b92b0602f9b16562d45@thyme>
+Date: Fri, 08 Dec 2017 00:00:00 -0700
+From: usuario600@example.com
+To: usuario696@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario600 <usuario600@example.com>
+X-To: Usuario696 <usuario696@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario600_folder\inbox
+X-Origin: usuario600-P
+X-FileName: usuario600.pst
+
+Hope you're doing well. Here's the requested information.
+Please let me know if there are any changes to the schedule.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

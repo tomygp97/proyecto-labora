@@ -1,0 +1,20 @@
+Message-ID: <4bc95afc47cd4caea56ff6e66152f4b4@thyme>
+Date: Sun, 30 Jan 2000 00:00:00 -0700
+From: usuario115@example.com
+To: usuario325@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario115 <usuario115@example.com>
+X-To: Usuario325 <usuario325@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario115_folder\inbox
+X-Origin: usuario115-P
+X-FileName: usuario115.pst
+
+Please find the latest updates on the project
+I wanted to remind you about the upcoming deadline.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

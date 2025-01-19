@@ -1,0 +1,20 @@
+Message-ID: <843525809c344f57ae1c1b19cc2f0bde@thyme>
+Date: Wed, 05 Dec 2007 00:00:00 -0700
+From: usuario676@example.com
+To: usuario384@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario676 <usuario676@example.com>
+X-To: Usuario384 <usuario384@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario676_folder\all_documents
+X-Origin: usuario676-P
+X-FileName: usuario676.pst
+
+I have included all the necessary details in the attached report.
+Please find the latest updates on the project
+Here are the next steps we need to take.
+----------------------------------------

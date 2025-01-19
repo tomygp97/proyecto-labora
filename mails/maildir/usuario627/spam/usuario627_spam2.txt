@@ -1,0 +1,20 @@
+Message-ID: <95de46f74ae14e94afe43f0efedcb344@thyme>
+Date: Wed, 16 Sep 2015 00:00:00 -0700
+From: usuario627@example.com
+To: usuario918@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario627 <usuario627@example.com>
+X-To: Usuario918 <usuario918@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario627_folder\spam
+X-Origin: usuario627-P
+X-FileName: usuario627.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Hope you're doing well. Here's the requested information.
+I would love to hear your feedback on the proposal.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <fee2a57637a24882ba0edd24087d2493@thyme>
+Date: Sat, 19 Aug 2000 00:00:00 -0700
+From: usuario76@example.com
+To: usuario522@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario76 <usuario76@example.com>
+X-To: Usuario522 <usuario522@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario76_folder\sent
+X-Origin: usuario76-P
+X-FileName: usuario76.pst
+
+Please don't hesitate to reach out if you need any help.
+I wanted to follow up on our last meeting
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

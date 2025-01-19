@@ -1,0 +1,20 @@
+Message-ID: <8d5bb2da527b4cfbb34663b7f5cb4678@thyme>
+Date: Fri, 27 Nov 2009 00:00:00 -0700
+From: usuario939@example.com
+To: usuario776@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario939 <usuario939@example.com>
+X-To: Usuario776 <usuario776@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario939_folder\inbox
+X-Origin: usuario939-P
+X-FileName: usuario939.pst
+
+Here is our forecast
+Here are the documents I mentioned during our call.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

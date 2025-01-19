@@ -1,0 +1,20 @@
+Message-ID: <791240200e6642e998d211461a44956d@thyme>
+Date: Sun, 24 May 2020 00:00:00 -0700
+From: usuario401@example.com
+To: usuario517@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario401 <usuario401@example.com>
+X-To: Usuario517 <usuario517@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario401_folder\sent
+X-Origin: usuario401-P
+X-FileName: usuario401.pst
+
+Here is a summary of the last meeting for your reference.
+Here are the documents I mentioned during our call.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

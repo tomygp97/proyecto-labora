@@ -1,0 +1,20 @@
+Message-ID: <61847aec0c2b460b85e541e2d3829e86@thyme>
+Date: Sat, 18 Jan 2020 00:00:00 -0700
+From: usuario104@example.com
+To: usuario328@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario104 <usuario104@example.com>
+X-To: Usuario328 <usuario328@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario104_folder\sent
+X-Origin: usuario104-P
+X-FileName: usuario104.pst
+
+Please find the latest updates on the project
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

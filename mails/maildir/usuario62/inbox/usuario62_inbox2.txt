@@ -1,0 +1,20 @@
+Message-ID: <3ea015dfb2b34d9291ac463dd327c060@thyme>
+Date: Wed, 26 Sep 2007 00:00:00 -0700
+From: usuario62@example.com
+To: usuario395@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario62 <usuario62@example.com>
+X-To: Usuario395 <usuario395@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario62_folder\inbox
+X-Origin: usuario62-P
+X-FileName: usuario62.pst
+
+Here are the next steps we need to take.
+I hope you're enjoying a nice week so far.
+Just checking in to see if you've received my previous email.
+----------------------------------------

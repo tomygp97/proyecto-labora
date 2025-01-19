@@ -1,0 +1,20 @@
+Message-ID: <b530a9c41b7f418e9dc831ae82c1d883@thyme>
+Date: Thu, 14 Nov 2002 00:00:00 -0700
+From: usuario348@example.com
+To: usuario959@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario348 <usuario348@example.com>
+X-To: Usuario959 <usuario959@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario348_folder\inbox
+X-Origin: usuario348-P
+X-FileName: usuario348.pst
+
+I wanted to thank you for your prompt response.
+Looking forward to discussing the project in more detail soon.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <5c8905a9a93b48ba8f35fc858584641d@thyme>
+Date: Sat, 19 Nov 2022 00:00:00 -0700
+From: usuario94@example.com
+To: usuario328@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario94 <usuario94@example.com>
+X-To: Usuario328 <usuario328@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario94_folder\inbox
+X-Origin: usuario94-P
+X-FileName: usuario94.pst
+
+Just checking in to see if you've received my previous email.
+Please let me know if there's anything else you need from my end.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

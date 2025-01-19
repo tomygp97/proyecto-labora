@@ -1,0 +1,20 @@
+Message-ID: <1847e761e38048e7b2350d9a36b626de@thyme>
+Date: Sun, 18 Nov 2018 00:00:00 -0700
+From: usuario893@example.com
+To: usuario710@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario893 <usuario893@example.com>
+X-To: Usuario710 <usuario710@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario893_folder\_sent_mail
+X-Origin: usuario893-P
+X-FileName: usuario893.pst
+
+Please let me know if there's anything else you need from my end.
+Hope everything is going well on your end.
+Just checking in to see if you've received my previous email.
+----------------------------------------

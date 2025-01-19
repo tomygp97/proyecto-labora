@@ -1,0 +1,20 @@
+Message-ID: <c7cc988a77614554a3848a6963c061ea@thyme>
+Date: Sun, 21 Sep 2014 00:00:00 -0700
+From: usuario57@example.com
+To: usuario753@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario57 <usuario57@example.com>
+X-To: Usuario753 <usuario753@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario57_folder\spam
+X-Origin: usuario57-P
+X-FileName: usuario57.pst
+
+I have included all the necessary details in the attached report.
+I look forward to collaborating further on this initiative.
+I wanted to thank you for your prompt response.
+----------------------------------------

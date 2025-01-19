@@ -1,0 +1,20 @@
+Message-ID: <8ac86525898445ba81128736b54b8d0a@thyme>
+Date: Wed, 03 Feb 2010 00:00:00 -0700
+From: usuario467@example.com
+To: usuario701@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario467 <usuario467@example.com>
+X-To: Usuario701 <usuario701@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario467_folder\_sent_mail
+X-Origin: usuario467-P
+X-FileName: usuario467.pst
+
+I hope you're having a productive week.
+Thank you for your attention
+I look forward to collaborating further on this initiative.
+----------------------------------------

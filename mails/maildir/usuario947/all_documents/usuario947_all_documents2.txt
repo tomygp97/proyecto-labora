@@ -1,0 +1,20 @@
+Message-ID: <98efdc7f7ed54bebab8c2235d057c82a@thyme>
+Date: Wed, 29 Dec 2021 00:00:00 -0700
+From: usuario947@example.com
+To: usuario741@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario947 <usuario947@example.com>
+X-To: Usuario741 <usuario741@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario947_folder\all_documents
+X-Origin: usuario947-P
+X-FileName: usuario947.pst
+
+Here is our forecast
+Let me know if you'd like to schedule a follow-up discussion.
+I have included all the necessary details in the attached report.
+----------------------------------------

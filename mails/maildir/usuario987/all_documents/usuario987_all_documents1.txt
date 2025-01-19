@@ -1,0 +1,20 @@
+Message-ID: <d773ec6628284b7ba882ac828073822c@thyme>
+Date: Thu, 04 Dec 2003 00:00:00 -0700
+From: usuario987@example.com
+To: usuario679@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario987 <usuario987@example.com>
+X-To: Usuario679 <usuario679@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario987_folder\all_documents
+X-Origin: usuario987-P
+X-FileName: usuario987.pst
+
+Please find the latest updates on the project
+I wanted to confirm our meeting for tomorrow.
+Please review the materials at your earliest convenience.
+----------------------------------------

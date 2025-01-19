@@ -1,0 +1,20 @@
+Message-ID: <f00eb16f2a8e4f2ea8b2006497c0deca@thyme>
+Date: Wed, 21 Dec 2011 00:00:00 -0700
+From: usuario407@example.com
+To: usuario322@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario407 <usuario407@example.com>
+X-To: Usuario322 <usuario322@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario407_folder\spam
+X-Origin: usuario407-P
+X-FileName: usuario407.pst
+
+Please let me know if there are any changes to the schedule.
+I have included all the necessary details in the attached report.
+I wanted to give you an update on the status of the project.
+----------------------------------------

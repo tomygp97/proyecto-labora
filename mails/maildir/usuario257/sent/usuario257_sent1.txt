@@ -1,0 +1,20 @@
+Message-ID: <4feded552aea4f2fb7443851e3d291ee@thyme>
+Date: Tue, 11 Oct 2022 00:00:00 -0700
+From: usuario257@example.com
+To: usuario471@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario257 <usuario257@example.com>
+X-To: Usuario471 <usuario471@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario257_folder\sent
+X-Origin: usuario257-P
+X-FileName: usuario257.pst
+
+I wanted to give you an update on the status of the project.
+Just checking in to see if you've received my previous email.
+Here are the documents I mentioned during our call.
+----------------------------------------

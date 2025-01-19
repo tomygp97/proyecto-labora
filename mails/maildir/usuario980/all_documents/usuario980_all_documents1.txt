@@ -1,0 +1,20 @@
+Message-ID: <c5daef2206974dcb9089c59a8e7b6e48@thyme>
+Date: Sat, 09 Sep 2023 00:00:00 -0700
+From: usuario980@example.com
+To: usuario600@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario980 <usuario980@example.com>
+X-To: Usuario600 <usuario600@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario980_folder\all_documents
+X-Origin: usuario980-P
+X-FileName: usuario980.pst
+
+Here is our forecast
+I wanted to confirm our meeting for tomorrow.
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <bcab2bbce5a845a7a5aba7b43508a435@thyme>
+Date: Fri, 15 Feb 2019 00:00:00 -0700
+From: usuario225@example.com
+To: usuario962@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario225 <usuario225@example.com>
+X-To: Usuario962 <usuario962@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario225_folder\spam
+X-Origin: usuario225-P
+X-FileName: usuario225.pst
+
+Hope you're doing well. Here's the requested information.
+Please don't hesitate to reach out if you need any help.
+I wanted to give you an update on the status of the project.
+----------------------------------------

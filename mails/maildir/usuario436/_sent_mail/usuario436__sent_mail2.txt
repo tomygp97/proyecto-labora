@@ -1,0 +1,20 @@
+Message-ID: <304e281723614f0aac509dd77bf42c82@thyme>
+Date: Sat, 01 Nov 2003 00:00:00 -0700
+From: usuario436@example.com
+To: usuario480@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario436 <usuario436@example.com>
+X-To: Usuario480 <usuario480@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario436_folder\_sent_mail
+X-Origin: usuario436-P
+X-FileName: usuario436.pst
+
+Please review the attached files and provide feedback.
+Please make sure to go through the attached documents before our meeting.
+I hope this email finds you well.
+----------------------------------------

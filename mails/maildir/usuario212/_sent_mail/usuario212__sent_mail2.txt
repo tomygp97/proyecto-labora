@@ -1,0 +1,20 @@
+Message-ID: <7db490887eed437e9f18ed10da74c374@thyme>
+Date: Thu, 02 Jul 2015 00:00:00 -0700
+From: usuario212@example.com
+To: usuario780@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario212 <usuario212@example.com>
+X-To: Usuario780 <usuario780@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario212_folder\_sent_mail
+X-Origin: usuario212-P
+X-FileName: usuario212.pst
+
+Please review the attached files and provide feedback.
+I wanted to remind you about the upcoming deadline.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

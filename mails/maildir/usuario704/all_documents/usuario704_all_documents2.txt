@@ -1,0 +1,20 @@
+Message-ID: <6368fe069d994c508a6b2e00a1e9f203@thyme>
+Date: Thu, 30 Jul 2020 00:00:00 -0700
+From: usuario704@example.com
+To: usuario664@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario704 <usuario704@example.com>
+X-To: Usuario664 <usuario664@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario704_folder\all_documents
+X-Origin: usuario704-P
+X-FileName: usuario704.pst
+
+Please review the materials at your earliest convenience.
+I look forward to collaborating further on this initiative.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

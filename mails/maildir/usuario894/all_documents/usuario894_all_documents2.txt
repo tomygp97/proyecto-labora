@@ -1,0 +1,20 @@
+Message-ID: <1709b02d2c99482b925d52e8bf8adf78@thyme>
+Date: Tue, 04 Feb 2020 00:00:00 -0700
+From: usuario894@example.com
+To: usuario405@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario894 <usuario894@example.com>
+X-To: Usuario405 <usuario405@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario894_folder\all_documents
+X-Origin: usuario894-P
+X-FileName: usuario894.pst
+
+Here is our forecast
+I hope you're having a productive week.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

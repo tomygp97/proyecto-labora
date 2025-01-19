@@ -1,0 +1,20 @@
+Message-ID: <4f0041c07a034de2a0505e02210ff7b2@thyme>
+Date: Fri, 30 Mar 2007 00:00:00 -0700
+From: usuario694@example.com
+To: usuario902@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario694 <usuario694@example.com>
+X-To: Usuario902 <usuario902@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario694_folder\_sent_mail
+X-Origin: usuario694-P
+X-FileName: usuario694.pst
+
+Hope everything is going well on your end.
+Here is our forecast
+Please find the attached report for the last quarter
+----------------------------------------

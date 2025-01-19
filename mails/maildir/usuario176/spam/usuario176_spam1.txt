@@ -1,0 +1,20 @@
+Message-ID: <a282f77054374e24b8ca0f10d7ad8f4f@thyme>
+Date: Mon, 12 Apr 2010 00:00:00 -0700
+From: usuario176@example.com
+To: usuario857@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario176 <usuario176@example.com>
+X-To: Usuario857 <usuario857@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario176_folder\spam
+X-Origin: usuario176-P
+X-FileName: usuario176.pst
+
+I wanted to remind you about the upcoming deadline.
+Let me know if there's anything I can assist you with.
+I look forward to collaborating further on this initiative.
+----------------------------------------

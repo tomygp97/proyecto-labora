@@ -1,0 +1,20 @@
+Message-ID: <92b4463ad776453096919232afc29b84@thyme>
+Date: Thu, 24 Apr 2014 00:00:00 -0700
+From: usuario528@example.com
+To: usuario161@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario528 <usuario528@example.com>
+X-To: Usuario161 <usuario161@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario528_folder\spam
+X-Origin: usuario528-P
+X-FileName: usuario528.pst
+
+I look forward to collaborating further on this initiative.
+I trust the documents will be helpful for our upcoming discussion.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

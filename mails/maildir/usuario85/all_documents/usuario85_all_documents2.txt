@@ -1,0 +1,20 @@
+Message-ID: <78f3333d35474a0594d1a75a9d696f2a@thyme>
+Date: Fri, 28 Jun 2002 00:00:00 -0700
+From: usuario85@example.com
+To: usuario456@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario85 <usuario85@example.com>
+X-To: Usuario456 <usuario456@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario85_folder\all_documents
+X-Origin: usuario85-P
+X-FileName: usuario85.pst
+
+Please make sure to go through the attached documents before our meeting.
+Here is a summary of the last meeting for your reference.
+Just checking in to see if you've received my previous email.
+----------------------------------------

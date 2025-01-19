@@ -1,0 +1,20 @@
+Message-ID: <85f0d6b17ac84323a553949dea3d2a3b@thyme>
+Date: Thu, 09 Sep 2021 00:00:00 -0700
+From: usuario343@example.com
+To: usuario629@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario343 <usuario343@example.com>
+X-To: Usuario629 <usuario629@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario343_folder\_sent_mail
+X-Origin: usuario343-P
+X-FileName: usuario343.pst
+
+Please let me know if there are any issues with the attached files.
+I wanted to thank you for your prompt response.
+Please find the latest updates on the project
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <15c74fe778594af4b6b3bfba8a779e8f@thyme>
+Date: Sun, 04 Jun 2023 00:00:00 -0700
+From: usuario841@example.com
+To: usuario903@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario841 <usuario841@example.com>
+X-To: Usuario903 <usuario903@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario841_folder\sent
+X-Origin: usuario841-P
+X-FileName: usuario841.pst
+
+Just checking in to see if you've received my previous email.
+Here is a summary of the last meeting for your reference.
+I wanted to give you an update on the status of the project.
+----------------------------------------

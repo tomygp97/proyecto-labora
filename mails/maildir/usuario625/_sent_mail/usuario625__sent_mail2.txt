@@ -1,0 +1,20 @@
+Message-ID: <635f370d44f64805905ac68c9f832702@thyme>
+Date: Thu, 27 Dec 2012 00:00:00 -0700
+From: usuario625@example.com
+To: usuario967@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario625 <usuario625@example.com>
+X-To: Usuario967 <usuario967@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario625_folder\_sent_mail
+X-Origin: usuario625-P
+X-FileName: usuario625.pst
+
+Please make sure to go through the attached documents before our meeting.
+Here are the next steps we need to take.
+I wanted to thank you for your prompt response.
+----------------------------------------

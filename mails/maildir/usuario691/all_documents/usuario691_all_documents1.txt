@@ -1,0 +1,20 @@
+Message-ID: <e590bfc8a30946dca26b9aee348ec4c8@thyme>
+Date: Fri, 05 Jul 2019 00:00:00 -0700
+From: usuario691@example.com
+To: usuario430@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario691 <usuario691@example.com>
+X-To: Usuario430 <usuario430@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario691_folder\all_documents
+X-Origin: usuario691-P
+X-FileName: usuario691.pst
+
+I have included all the necessary details in the attached report.
+I appreciate your attention to this matter.
+Here are the documents I mentioned during our call.
+----------------------------------------

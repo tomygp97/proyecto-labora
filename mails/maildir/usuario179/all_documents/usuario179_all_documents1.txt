@@ -1,0 +1,20 @@
+Message-ID: <01900024cc1b45e785a3b16e82114c80@thyme>
+Date: Sat, 07 Nov 2009 00:00:00 -0700
+From: usuario179@example.com
+To: usuario724@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario179 <usuario179@example.com>
+X-To: Usuario724 <usuario724@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario179_folder\all_documents
+X-Origin: usuario179-P
+X-FileName: usuario179.pst
+
+Here is a summary of the last meeting for your reference.
+Just checking in to see if you've received my previous email.
+I wanted to check in regarding the status of the project.
+----------------------------------------

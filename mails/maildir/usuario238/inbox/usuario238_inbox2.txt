@@ -1,0 +1,20 @@
+Message-ID: <98d832f57c494bbab25e76c8d63e7e82@thyme>
+Date: Thu, 17 Feb 2005 00:00:00 -0700
+From: usuario238@example.com
+To: usuario21@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario238 <usuario238@example.com>
+X-To: Usuario21 <usuario21@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario238_folder\inbox
+X-Origin: usuario238-P
+X-FileName: usuario238.pst
+
+Can you please confirm receipt of the files?
+Looking forward to discussing the project in more detail soon.
+Let me know if there's anything I can assist you with.
+----------------------------------------

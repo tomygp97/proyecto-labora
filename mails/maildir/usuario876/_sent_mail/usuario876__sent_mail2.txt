@@ -1,0 +1,20 @@
+Message-ID: <6b0168f86e09476a9a2ea3768454421a@thyme>
+Date: Thu, 17 Aug 2000 00:00:00 -0700
+From: usuario876@example.com
+To: usuario707@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario876 <usuario876@example.com>
+X-To: Usuario707 <usuario707@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario876_folder\_sent_mail
+X-Origin: usuario876-P
+X-FileName: usuario876.pst
+
+Please let me know if there are any issues with the attached files.
+I wanted to thank you for your prompt response.
+I hope you're having a productive week.
+----------------------------------------

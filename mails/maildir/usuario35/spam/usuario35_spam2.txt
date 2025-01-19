@@ -1,0 +1,20 @@
+Message-ID: <d61ab36423904e969dfb19ab6852a16f@thyme>
+Date: Thu, 01 May 2025 00:00:00 -0700
+From: usuario35@example.com
+To: usuario755@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario35 <usuario35@example.com>
+X-To: Usuario755 <usuario755@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario35_folder\spam
+X-Origin: usuario35-P
+X-FileName: usuario35.pst
+
+Please review the materials at your earliest convenience.
+Here is our forecast
+I wanted to thank you for your prompt response.
+----------------------------------------

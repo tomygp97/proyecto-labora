@@ -1,0 +1,20 @@
+Message-ID: <e0593808bc074f15a0ae1f8838419fe1@thyme>
+Date: Thu, 05 Jul 2007 00:00:00 -0700
+From: usuario62@example.com
+To: usuario231@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario62 <usuario62@example.com>
+X-To: Usuario231 <usuario231@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario62_folder\spam
+X-Origin: usuario62-P
+X-FileName: usuario62.pst
+
+Looking forward to hearing from you soon
+Please let me know if there's anything else you need from my end.
+Can you please confirm receipt of the files?
+----------------------------------------

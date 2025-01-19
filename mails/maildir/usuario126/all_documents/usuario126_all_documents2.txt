@@ -1,0 +1,20 @@
+Message-ID: <eb72b31708964b6abe8a2e4416f556d4@thyme>
+Date: Sun, 15 May 2016 00:00:00 -0700
+From: usuario126@example.com
+To: usuario869@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario126 <usuario126@example.com>
+X-To: Usuario869 <usuario869@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario126_folder\all_documents
+X-Origin: usuario126-P
+X-FileName: usuario126.pst
+
+I wanted to remind you about the upcoming deadline.
+I have included all the necessary details in the attached report.
+Hope everything is going well on your end.
+----------------------------------------

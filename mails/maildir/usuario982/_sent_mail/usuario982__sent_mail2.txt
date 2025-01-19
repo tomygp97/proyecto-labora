@@ -1,0 +1,20 @@
+Message-ID: <9af4b2e5cbde4581ab7a3ad1ae8c5507@thyme>
+Date: Tue, 17 Mar 2020 00:00:00 -0700
+From: usuario982@example.com
+To: usuario771@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario982 <usuario982@example.com>
+X-To: Usuario771 <usuario771@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario982_folder\_sent_mail
+X-Origin: usuario982-P
+X-FileName: usuario982.pst
+
+Please review the materials at your earliest convenience.
+Hope everything is going well on your end.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

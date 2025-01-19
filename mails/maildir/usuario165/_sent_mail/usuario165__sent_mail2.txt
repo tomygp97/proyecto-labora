@@ -1,0 +1,20 @@
+Message-ID: <8107ed9e19a742ca926d6ac32a6f6762@thyme>
+Date: Fri, 27 Aug 2021 00:00:00 -0700
+From: usuario165@example.com
+To: usuario892@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario165 <usuario165@example.com>
+X-To: Usuario892 <usuario892@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario165_folder\_sent_mail
+X-Origin: usuario165-P
+X-FileName: usuario165.pst
+
+Thank you for your attention
+I wanted to remind you about the upcoming deadline.
+Here is our forecast
+----------------------------------------

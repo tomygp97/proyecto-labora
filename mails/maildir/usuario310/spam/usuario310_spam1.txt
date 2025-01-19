@@ -1,0 +1,20 @@
+Message-ID: <2714bbafbe1e483bbcf857464852c650@thyme>
+Date: Sun, 21 Dec 2008 00:00:00 -0700
+From: usuario310@example.com
+To: usuario169@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario310 <usuario310@example.com>
+X-To: Usuario169 <usuario169@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario310_folder\spam
+X-Origin: usuario310-P
+X-FileName: usuario310.pst
+
+I hope you're enjoying a nice week so far.
+I trust the documents will be helpful for our upcoming discussion.
+Here are the results from the analysis we discussed.
+----------------------------------------

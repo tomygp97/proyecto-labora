@@ -1,0 +1,20 @@
+Message-ID: <00d11440f2f34030841f37dac3669887@thyme>
+Date: Tue, 02 Feb 2021 00:00:00 -0700
+From: usuario362@example.com
+To: usuario385@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario362 <usuario362@example.com>
+X-To: Usuario385 <usuario385@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario362_folder\spam
+X-Origin: usuario362-P
+X-FileName: usuario362.pst
+
+I would love to hear your feedback on the proposal.
+I hope you're enjoying a nice week so far.
+I look forward to collaborating further on this initiative.
+----------------------------------------

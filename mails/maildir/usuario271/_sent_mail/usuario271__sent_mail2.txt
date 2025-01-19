@@ -1,0 +1,20 @@
+Message-ID: <0c5d3bc6320f496f8cd9579c49ae0a83@thyme>
+Date: Fri, 03 Jul 2020 00:00:00 -0700
+From: usuario271@example.com
+To: usuario669@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario271 <usuario271@example.com>
+X-To: Usuario669 <usuario669@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario271_folder\_sent_mail
+X-Origin: usuario271-P
+X-FileName: usuario271.pst
+
+Please don't hesitate to reach out if you need any help.
+I wanted to give you an update on the status of the project.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

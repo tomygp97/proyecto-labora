@@ -1,0 +1,20 @@
+Message-ID: <b02b9d3d441d4082a98829a9ece6119e@thyme>
+Date: Fri, 05 Sep 2025 00:00:00 -0700
+From: usuario342@example.com
+To: usuario63@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario342 <usuario342@example.com>
+X-To: Usuario63 <usuario63@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario342_folder\_sent_mail
+X-Origin: usuario342-P
+X-FileName: usuario342.pst
+
+Just checking in to see if you've received my previous email.
+Just wanted to touch base on the upcoming project milestone.
+Here is our forecast
+----------------------------------------

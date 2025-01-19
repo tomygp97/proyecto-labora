@@ -1,0 +1,20 @@
+Message-ID: <f2a4626b70e64861a303c8a6393334e7@thyme>
+Date: Mon, 20 May 2024 00:00:00 -0700
+From: usuario133@example.com
+To: usuario676@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario133 <usuario133@example.com>
+X-To: Usuario676 <usuario676@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario133_folder\inbox
+X-Origin: usuario133-P
+X-FileName: usuario133.pst
+
+I look forward to your response.
+Can you please confirm receipt of the files?
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <c18d0e5062434df69adbaa1ea1febed3@thyme>
+Date: Wed, 04 Jul 2018 00:00:00 -0700
+From: usuario235@example.com
+To: usuario692@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario235 <usuario235@example.com>
+X-To: Usuario692 <usuario692@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario235_folder\all_documents
+X-Origin: usuario235-P
+X-FileName: usuario235.pst
+
+I wanted to confirm our meeting for tomorrow.
+Please make sure to go through the attached documents before our meeting.
+Here is our forecast
+----------------------------------------

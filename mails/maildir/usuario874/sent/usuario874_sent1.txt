@@ -1,0 +1,20 @@
+Message-ID: <8ee5e9e456c444e28b17d07c29af51c6@thyme>
+Date: Tue, 13 May 2025 00:00:00 -0700
+From: usuario874@example.com
+To: usuario748@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario874 <usuario874@example.com>
+X-To: Usuario748 <usuario748@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario874_folder\sent
+X-Origin: usuario874-P
+X-FileName: usuario874.pst
+
+Here are the documents I mentioned during our call.
+I hope you're having a productive week.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

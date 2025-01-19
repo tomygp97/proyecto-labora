@@ -1,0 +1,20 @@
+Message-ID: <4c39e321f8c7456b89365619c720b10c@thyme>
+Date: Fri, 26 May 2023 00:00:00 -0700
+From: usuario567@example.com
+To: usuario583@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario567 <usuario567@example.com>
+X-To: Usuario583 <usuario583@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario567_folder\inbox
+X-Origin: usuario567-P
+X-FileName: usuario567.pst
+
+Hope everything is going well on your end.
+I hope you're enjoying a nice week so far.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

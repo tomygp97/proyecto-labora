@@ -1,0 +1,20 @@
+Message-ID: <4cc451303a314b51ae61b830977569ea@thyme>
+Date: Thu, 02 May 2013 00:00:00 -0700
+From: usuario32@example.com
+To: usuario492@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario492 <usuario492@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\spam
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+Can you please confirm receipt of the files?
+As discussed, I have attached the report you requested.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

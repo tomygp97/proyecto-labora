@@ -1,0 +1,20 @@
+Message-ID: <1c1c9710b5e84a9ca586c18b3b3bc458@thyme>
+Date: Fri, 19 Jan 2001 00:00:00 -0700
+From: usuario402@example.com
+To: usuario152@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario402 <usuario402@example.com>
+X-To: Usuario152 <usuario152@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario402_folder\spam
+X-Origin: usuario402-P
+X-FileName: usuario402.pst
+
+Please let me know if there are any changes to the schedule.
+Here are the documents I mentioned during our call.
+Can you please confirm receipt of the files?
+----------------------------------------

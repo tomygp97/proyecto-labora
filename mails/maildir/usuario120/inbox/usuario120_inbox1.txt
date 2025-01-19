@@ -1,0 +1,20 @@
+Message-ID: <79c366db7b9f4e88a6696b30e81ff882@thyme>
+Date: Thu, 02 Apr 2020 00:00:00 -0700
+From: usuario120@example.com
+To: usuario229@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario120 <usuario120@example.com>
+X-To: Usuario229 <usuario229@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario120_folder\inbox
+X-Origin: usuario120-P
+X-FileName: usuario120.pst
+
+I hope you're enjoying a nice week so far.
+Please don't hesitate to reach out if you need any help.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

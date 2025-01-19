@@ -1,0 +1,20 @@
+Message-ID: <4f91c224ba274840ab4cabf6db1632f1@thyme>
+Date: Fri, 10 Jul 2015 00:00:00 -0700
+From: usuario156@example.com
+To: usuario428@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario156 <usuario156@example.com>
+X-To: Usuario428 <usuario428@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario156_folder\inbox
+X-Origin: usuario156-P
+X-FileName: usuario156.pst
+
+I hope you're having a productive week.
+I appreciate your attention to this matter.
+Please review the materials at your earliest convenience.
+----------------------------------------

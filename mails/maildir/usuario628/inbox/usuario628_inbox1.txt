@@ -1,0 +1,20 @@
+Message-ID: <c149e82bdc1c4b5ab1e9c561c8a6638c@thyme>
+Date: Thu, 30 Aug 2018 00:00:00 -0700
+From: usuario628@example.com
+To: usuario891@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario628 <usuario628@example.com>
+X-To: Usuario891 <usuario891@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario628_folder\inbox
+X-Origin: usuario628-P
+X-FileName: usuario628.pst
+
+Please find the attached report for the last quarter
+Here are the documents I mentioned during our call.
+I hope you're having a productive week.
+----------------------------------------

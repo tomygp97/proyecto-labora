@@ -1,0 +1,20 @@
+Message-ID: <93e10488d29f43b6a04cf6e10eb61dbe@thyme>
+Date: Wed, 26 Mar 2003 00:00:00 -0700
+From: usuario827@example.com
+To: usuario387@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario827 <usuario827@example.com>
+X-To: Usuario387 <usuario387@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario827_folder\_sent_mail
+X-Origin: usuario827-P
+X-FileName: usuario827.pst
+
+Here are the documents I mentioned during our call.
+I wanted to remind you about the upcoming deadline.
+Please review the attached files and provide feedback.
+----------------------------------------

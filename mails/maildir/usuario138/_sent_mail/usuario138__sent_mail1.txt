@@ -1,0 +1,20 @@
+Message-ID: <4355dfe8805a440aa668cb509c11652f@thyme>
+Date: Mon, 03 Apr 2006 00:00:00 -0700
+From: usuario138@example.com
+To: usuario654@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario138 <usuario138@example.com>
+X-To: Usuario654 <usuario654@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario138_folder\_sent_mail
+X-Origin: usuario138-P
+X-FileName: usuario138.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Please don't hesitate to reach out if you need any help.
+Can you please confirm receipt of the files?
+----------------------------------------

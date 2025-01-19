@@ -1,0 +1,20 @@
+Message-ID: <54deb34f48ae407daccfc6a4251f4733@thyme>
+Date: Tue, 02 Apr 2024 00:00:00 -0700
+From: usuario613@example.com
+To: usuario61@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario613 <usuario613@example.com>
+X-To: Usuario61 <usuario61@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario613_folder\inbox
+X-Origin: usuario613-P
+X-FileName: usuario613.pst
+
+Please review the attached files and provide feedback.
+I wanted to remind you about the upcoming deadline.
+I would love to hear your feedback on the proposal.
+----------------------------------------

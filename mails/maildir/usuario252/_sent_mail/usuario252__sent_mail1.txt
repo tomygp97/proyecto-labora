@@ -1,0 +1,20 @@
+Message-ID: <c44f30605691480f8f947122d6f7d618@thyme>
+Date: Sat, 23 Jun 2001 00:00:00 -0700
+From: usuario252@example.com
+To: usuario761@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario252 <usuario252@example.com>
+X-To: Usuario761 <usuario761@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario252_folder\_sent_mail
+X-Origin: usuario252-P
+X-FileName: usuario252.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+I wanted to remind you about the upcoming deadline.
+Please review the attached files and provide feedback.
+----------------------------------------

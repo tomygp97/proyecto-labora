@@ -1,0 +1,20 @@
+Message-ID: <9e0fc2d72ac04d72b8cf68a9f231ba1a@thyme>
+Date: Thu, 16 Feb 2012 00:00:00 -0700
+From: usuario41@example.com
+To: usuario485@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario41 <usuario41@example.com>
+X-To: Usuario485 <usuario485@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario41_folder\_sent_mail
+X-Origin: usuario41-P
+X-FileName: usuario41.pst
+
+I wanted to follow up on our last meeting
+Just checking in to see if you've received my previous email.
+Can you please confirm receipt of the files?
+----------------------------------------

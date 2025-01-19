@@ -1,0 +1,20 @@
+Message-ID: <d7f52920b66b412eb834a317746e5bfb@thyme>
+Date: Wed, 01 Feb 2023 00:00:00 -0700
+From: usuario511@example.com
+To: usuario552@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario511 <usuario511@example.com>
+X-To: Usuario552 <usuario552@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario511_folder\all_documents
+X-Origin: usuario511-P
+X-FileName: usuario511.pst
+
+As discussed, I have attached the report you requested.
+I hope this email finds you well.
+I would love to hear your feedback on the proposal.
+----------------------------------------

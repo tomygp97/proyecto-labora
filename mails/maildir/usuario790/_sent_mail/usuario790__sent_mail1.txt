@@ -1,0 +1,20 @@
+Message-ID: <62fd7d8b16e94016a1f9e176287fb0ed@thyme>
+Date: Thu, 31 Dec 2009 00:00:00 -0700
+From: usuario790@example.com
+To: usuario597@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario790 <usuario790@example.com>
+X-To: Usuario597 <usuario597@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario790_folder\_sent_mail
+X-Origin: usuario790-P
+X-FileName: usuario790.pst
+
+Just checking in to see if you've received my previous email.
+Let me know if there's anything I can assist you with.
+Please review the materials at your earliest convenience.
+----------------------------------------

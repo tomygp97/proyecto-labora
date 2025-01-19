@@ -1,0 +1,20 @@
+Message-ID: <988f30d186714de583708a91b5f0ea8e@thyme>
+Date: Fri, 07 Nov 2014 00:00:00 -0700
+From: usuario449@example.com
+To: usuario64@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario449 <usuario449@example.com>
+X-To: Usuario64 <usuario64@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario449_folder\spam
+X-Origin: usuario449-P
+X-FileName: usuario449.pst
+
+Please review the materials at your earliest convenience.
+Thank you for your attention
+I hope you're enjoying a nice week so far.
+----------------------------------------

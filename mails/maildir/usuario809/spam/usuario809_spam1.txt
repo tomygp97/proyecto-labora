@@ -1,0 +1,20 @@
+Message-ID: <2c315501194b4eb19f72fccb78d25188@thyme>
+Date: Mon, 07 Sep 2015 00:00:00 -0700
+From: usuario809@example.com
+To: usuario547@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario809 <usuario809@example.com>
+X-To: Usuario547 <usuario547@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario809_folder\spam
+X-Origin: usuario809-P
+X-FileName: usuario809.pst
+
+I hope you're having a productive week.
+I look forward to collaborating further on this initiative.
+Can you please confirm receipt of the files?
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <ed68c8a6f12e4ff0b803c56ec39a0d5d@thyme>
+Date: Sun, 29 Mar 2009 00:00:00 -0700
+From: usuario69@example.com
+To: usuario328@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario69 <usuario69@example.com>
+X-To: Usuario328 <usuario328@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario69_folder\_sent_mail
+X-Origin: usuario69-P
+X-FileName: usuario69.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to give you an update on the status of the project.
+Can you please confirm receipt of the files?
+----------------------------------------

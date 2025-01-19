@@ -1,0 +1,20 @@
+Message-ID: <27f41ca726584ad6874f8ff4586c9ad9@thyme>
+Date: Wed, 20 Sep 2023 00:00:00 -0700
+From: usuario924@example.com
+To: usuario213@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario924 <usuario924@example.com>
+X-To: Usuario213 <usuario213@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario924_folder\sent
+X-Origin: usuario924-P
+X-FileName: usuario924.pst
+
+I wanted to check in regarding the status of the project.
+I wanted to thank you for your prompt response.
+Just checking in to see if you've received my previous email.
+----------------------------------------

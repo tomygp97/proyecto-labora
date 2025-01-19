@@ -1,0 +1,20 @@
+Message-ID: <b0c1bbc7e60745c2a917bf75907d58e8@thyme>
+Date: Sun, 05 Apr 2015 00:00:00 -0700
+From: usuario457@example.com
+To: usuario736@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario457 <usuario457@example.com>
+X-To: Usuario736 <usuario736@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario457_folder\spam
+X-Origin: usuario457-P
+X-FileName: usuario457.pst
+
+Please let me know if there's anything else you need from my end.
+Can you please confirm receipt of the files?
+I wanted to thank you for your prompt response.
+----------------------------------------

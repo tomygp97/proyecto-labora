@@ -1,0 +1,20 @@
+Message-ID: <c49a3f6e2f8d42f8823080e3e82a3d54@thyme>
+Date: Fri, 04 Apr 2008 00:00:00 -0700
+From: usuario293@example.com
+To: usuario505@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario293 <usuario293@example.com>
+X-To: Usuario505 <usuario505@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario293_folder\all_documents
+X-Origin: usuario293-P
+X-FileName: usuario293.pst
+
+Please let me know if there are any changes to the schedule.
+Looking forward to discussing the project in more detail soon.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

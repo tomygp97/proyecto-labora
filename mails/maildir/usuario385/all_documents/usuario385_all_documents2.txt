@@ -1,0 +1,20 @@
+Message-ID: <d996c3cd2bee4a3f94735f82a6497ac8@thyme>
+Date: Thu, 09 Jun 2016 00:00:00 -0700
+From: usuario385@example.com
+To: usuario1@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario385 <usuario385@example.com>
+X-To: Usuario1 <usuario1@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario385_folder\all_documents
+X-Origin: usuario385-P
+X-FileName: usuario385.pst
+
+I wanted to confirm our meeting for tomorrow.
+Thank you for your attention
+I hope you're having a productive week.
+----------------------------------------

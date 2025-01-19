@@ -1,0 +1,20 @@
+Message-ID: <f7a2829dc0a540ea8a4fa6efa84973bb@thyme>
+Date: Wed, 12 Dec 2012 00:00:00 -0700
+From: usuario32@example.com
+To: usuario27@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario27 <usuario27@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\all_documents
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+Please find the attached report for the last quarter
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4f5149858b8b489bba3b7f9a88a6280b@thyme>
+Date: Wed, 15 Aug 2001 00:00:00 -0700
+From: usuario430@example.com
+To: usuario500@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario430 <usuario430@example.com>
+X-To: Usuario500 <usuario500@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario430_folder\spam
+X-Origin: usuario430-P
+X-FileName: usuario430.pst
+
+Please review the attached files and provide feedback.
+I would love to hear your feedback on the proposal.
+Here is our forecast
+----------------------------------------

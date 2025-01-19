@@ -1,0 +1,20 @@
+Message-ID: <0ac3042a5c214313a5188550870986a6@thyme>
+Date: Mon, 14 Mar 2016 00:00:00 -0700
+From: usuario729@example.com
+To: usuario807@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario729 <usuario729@example.com>
+X-To: Usuario807 <usuario807@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario729_folder\inbox
+X-Origin: usuario729-P
+X-FileName: usuario729.pst
+
+Thank you for your attention
+Here are the results from the analysis we discussed.
+Let me know if there's anything I can assist you with.
+----------------------------------------

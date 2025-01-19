@@ -1,0 +1,20 @@
+Message-ID: <fad195f2033a412d841def9a14f96206@thyme>
+Date: Wed, 05 Oct 2011 00:00:00 -0700
+From: usuario808@example.com
+To: usuario847@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario808 <usuario808@example.com>
+X-To: Usuario847 <usuario847@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario808_folder\_sent_mail
+X-Origin: usuario808-P
+X-FileName: usuario808.pst
+
+I appreciate your attention to this matter.
+Looking forward to hearing from you soon
+Please let me know if there are any changes to the schedule.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <0ea467bc8b9341e8a3df3e8f09f6a0f5@thyme>
+Date: Sun, 08 Dec 2024 00:00:00 -0700
+From: usuario937@example.com
+To: usuario416@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario937 <usuario937@example.com>
+X-To: Usuario416 <usuario416@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario937_folder\_sent_mail
+X-Origin: usuario937-P
+X-FileName: usuario937.pst
+
+Please make sure to go through the attached documents before our meeting.
+Just checking in to see if you've received my previous email.
+Thank you for your attention
+----------------------------------------

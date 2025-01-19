@@ -1,0 +1,20 @@
+Message-ID: <509f695518e343edb33c650e9b731f57@thyme>
+Date: Fri, 27 Jan 2023 00:00:00 -0700
+From: usuario747@example.com
+To: usuario848@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario747 <usuario747@example.com>
+X-To: Usuario848 <usuario848@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario747_folder\spam
+X-Origin: usuario747-P
+X-FileName: usuario747.pst
+
+Can you please confirm receipt of the files?
+Just wanted to touch base on the upcoming project milestone.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

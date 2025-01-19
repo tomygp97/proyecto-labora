@@ -1,0 +1,20 @@
+Message-ID: <f549ad291d49473c804431b230fd8048@thyme>
+Date: Sun, 21 Dec 2014 00:00:00 -0700
+From: usuario732@example.com
+To: usuario181@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario732 <usuario732@example.com>
+X-To: Usuario181 <usuario181@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario732_folder\spam
+X-Origin: usuario732-P
+X-FileName: usuario732.pst
+
+I hope you're enjoying a nice week so far.
+Hope you're doing well. Here's the requested information.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <6626a72614db4198a2b7ec26f43e30f7@thyme>
+Date: Mon, 11 Nov 2013 00:00:00 -0700
+From: usuario790@example.com
+To: usuario762@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario790 <usuario790@example.com>
+X-To: Usuario762 <usuario762@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario790_folder\inbox
+X-Origin: usuario790-P
+X-FileName: usuario790.pst
+
+Please make sure to go through the attached documents before our meeting.
+Here is a summary of the last meeting for your reference.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

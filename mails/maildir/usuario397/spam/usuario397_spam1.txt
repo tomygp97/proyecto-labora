@@ -1,0 +1,20 @@
+Message-ID: <1d5abe69ec734e2fae5dba97ec69a37d@thyme>
+Date: Fri, 13 Mar 2015 00:00:00 -0700
+From: usuario397@example.com
+To: usuario984@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario397 <usuario397@example.com>
+X-To: Usuario984 <usuario984@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario397_folder\spam
+X-Origin: usuario397-P
+X-FileName: usuario397.pst
+
+Just checking in to see if you've received my previous email.
+Here is a summary of the last meeting for your reference.
+Here are the documents I mentioned during our call.
+----------------------------------------

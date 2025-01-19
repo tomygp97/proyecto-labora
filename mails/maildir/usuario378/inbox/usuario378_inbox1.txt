@@ -1,0 +1,20 @@
+Message-ID: <4e5e3bc2d8ac4d17b1b231ce7c3100f2@thyme>
+Date: Mon, 17 Oct 2022 00:00:00 -0700
+From: usuario378@example.com
+To: usuario328@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario378 <usuario378@example.com>
+X-To: Usuario328 <usuario328@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario378_folder\inbox
+X-Origin: usuario378-P
+X-FileName: usuario378.pst
+
+Hope everything is going well on your end.
+Hope you're doing well. Here's the requested information.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

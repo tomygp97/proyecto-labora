@@ -1,0 +1,20 @@
+Message-ID: <f8170e7312f24ee18afa003545efdb4f@thyme>
+Date: Wed, 19 Aug 2020 00:00:00 -0700
+From: usuario363@example.com
+To: usuario845@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario363 <usuario363@example.com>
+X-To: Usuario845 <usuario845@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario363_folder\inbox
+X-Origin: usuario363-P
+X-FileName: usuario363.pst
+
+Here are the documents I mentioned during our call.
+Just wanted to touch base on the upcoming project milestone.
+Here is our forecast
+----------------------------------------

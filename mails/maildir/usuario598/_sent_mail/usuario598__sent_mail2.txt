@@ -1,0 +1,20 @@
+Message-ID: <52b6a7cf7a10455f8dccc361267980e9@thyme>
+Date: Fri, 05 Aug 2022 00:00:00 -0700
+From: usuario598@example.com
+To: usuario894@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario598 <usuario598@example.com>
+X-To: Usuario894 <usuario894@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario598_folder\_sent_mail
+X-Origin: usuario598-P
+X-FileName: usuario598.pst
+
+Looking forward to hearing from you soon
+Looking forward to discussing the project in more detail soon.
+Here are the results from the analysis we discussed.
+----------------------------------------

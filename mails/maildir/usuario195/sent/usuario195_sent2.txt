@@ -1,0 +1,20 @@
+Message-ID: <425ecf6855974470971de0b645bf227a@thyme>
+Date: Wed, 19 Jun 2013 00:00:00 -0700
+From: usuario195@example.com
+To: usuario847@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario195 <usuario195@example.com>
+X-To: Usuario847 <usuario847@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario195_folder\sent
+X-Origin: usuario195-P
+X-FileName: usuario195.pst
+
+I wanted to thank you for your prompt response.
+I wanted to remind you about the upcoming deadline.
+Can you please confirm receipt of the files?
+----------------------------------------

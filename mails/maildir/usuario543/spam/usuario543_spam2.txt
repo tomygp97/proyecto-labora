@@ -1,0 +1,20 @@
+Message-ID: <06822bd04765420a9894c61a53838488@thyme>
+Date: Sun, 10 Jun 2001 00:00:00 -0700
+From: usuario543@example.com
+To: usuario732@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario543 <usuario543@example.com>
+X-To: Usuario732 <usuario732@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario543_folder\spam
+X-Origin: usuario543-P
+X-FileName: usuario543.pst
+
+Please let me know if there are any changes to the schedule.
+Just wanted to touch base on the upcoming project milestone.
+Please review the attached files and provide feedback.
+----------------------------------------

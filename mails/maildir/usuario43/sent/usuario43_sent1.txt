@@ -1,0 +1,20 @@
+Message-ID: <e188726825bb49fe94ca6139ea0adad8@thyme>
+Date: Thu, 05 Dec 2019 00:00:00 -0700
+From: usuario43@example.com
+To: usuario753@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario43 <usuario43@example.com>
+X-To: Usuario753 <usuario753@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario43_folder\sent
+X-Origin: usuario43-P
+X-FileName: usuario43.pst
+
+I wanted to give you an update on the status of the project.
+Here is a summary of the last meeting for your reference.
+I appreciate your attention to this matter.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <6a5fa64ce2b2490ba6c6d2e3a17873bd@thyme>
+Date: Fri, 15 Apr 2011 00:00:00 -0700
+From: usuario698@example.com
+To: usuario819@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario698 <usuario698@example.com>
+X-To: Usuario819 <usuario819@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario698_folder\_sent_mail
+X-Origin: usuario698-P
+X-FileName: usuario698.pst
+
+I wanted to thank you for your prompt response.
+I trust the documents will be helpful for our upcoming discussion.
+Please find the attached report for the last quarter
+----------------------------------------

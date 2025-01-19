@@ -1,0 +1,20 @@
+Message-ID: <36a5936e586242a588cc70843ac09520@thyme>
+Date: Sat, 22 Sep 2007 00:00:00 -0700
+From: usuario943@example.com
+To: usuario309@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario943 <usuario943@example.com>
+X-To: Usuario309 <usuario309@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario943_folder\_sent_mail
+X-Origin: usuario943-P
+X-FileName: usuario943.pst
+
+Here are the next steps we need to take.
+I hope you're enjoying a nice week so far.
+I look forward to your response.
+----------------------------------------

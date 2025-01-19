@@ -1,0 +1,20 @@
+Message-ID: <750df176816044e88a274f8c21c032ec@thyme>
+Date: Wed, 01 Feb 2023 00:00:00 -0700
+From: usuario55@example.com
+To: usuario304@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario55 <usuario55@example.com>
+X-To: Usuario304 <usuario304@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario55_folder\spam
+X-Origin: usuario55-P
+X-FileName: usuario55.pst
+
+I look forward to your response.
+Please make sure to go through the attached documents before our meeting.
+Here is our forecast
+----------------------------------------

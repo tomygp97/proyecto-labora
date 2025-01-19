@@ -1,0 +1,20 @@
+Message-ID: <9d8515e10fcc43a481e3ecd4b96fc9ae@thyme>
+Date: Thu, 12 Jun 2014 00:00:00 -0700
+From: usuario406@example.com
+To: usuario696@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario406 <usuario406@example.com>
+X-To: Usuario696 <usuario696@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario406_folder\sent
+X-Origin: usuario406-P
+X-FileName: usuario406.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I wanted to confirm our meeting for tomorrow.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

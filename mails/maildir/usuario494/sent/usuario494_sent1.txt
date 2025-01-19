@@ -1,0 +1,20 @@
+Message-ID: <0fea3c5925b4497585b70a6db5a31294@thyme>
+Date: Tue, 19 Mar 2019 00:00:00 -0700
+From: usuario494@example.com
+To: usuario181@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario494 <usuario494@example.com>
+X-To: Usuario181 <usuario181@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario494_folder\sent
+X-Origin: usuario494-P
+X-FileName: usuario494.pst
+
+I look forward to your response.
+I wanted to thank you for your prompt response.
+I would love to hear your feedback on the proposal.
+----------------------------------------

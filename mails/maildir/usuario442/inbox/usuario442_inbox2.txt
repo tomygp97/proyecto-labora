@@ -1,0 +1,20 @@
+Message-ID: <4ffb58dc58b7495f840c3039374d34f6@thyme>
+Date: Sun, 08 May 2011 00:00:00 -0700
+From: usuario442@example.com
+To: usuario337@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario442 <usuario442@example.com>
+X-To: Usuario337 <usuario337@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario442_folder\inbox
+X-Origin: usuario442-P
+X-FileName: usuario442.pst
+
+I wanted to thank you for your prompt response.
+I have included all the necessary details in the attached report.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

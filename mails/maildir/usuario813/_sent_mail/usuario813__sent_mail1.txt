@@ -1,0 +1,20 @@
+Message-ID: <01ad61da20954c5b8d1f728e7658b91f@thyme>
+Date: Sat, 21 Sep 2019 00:00:00 -0700
+From: usuario813@example.com
+To: usuario342@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario813 <usuario813@example.com>
+X-To: Usuario342 <usuario342@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario813_folder\_sent_mail
+X-Origin: usuario813-P
+X-FileName: usuario813.pst
+
+I have included all the necessary details in the attached report.
+Here are the documents I mentioned during our call.
+Let me know if there's anything I can assist you with.
+----------------------------------------

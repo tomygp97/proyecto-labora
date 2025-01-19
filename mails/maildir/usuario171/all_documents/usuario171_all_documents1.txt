@@ -1,0 +1,20 @@
+Message-ID: <18cf975554864ec78e3b17c16f504c68@thyme>
+Date: Tue, 28 Nov 2017 00:00:00 -0700
+From: usuario171@example.com
+To: usuario683@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario171 <usuario171@example.com>
+X-To: Usuario683 <usuario683@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario171_folder\all_documents
+X-Origin: usuario171-P
+X-FileName: usuario171.pst
+
+I look forward to collaborating further on this initiative.
+I wanted to remind you about the upcoming deadline.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

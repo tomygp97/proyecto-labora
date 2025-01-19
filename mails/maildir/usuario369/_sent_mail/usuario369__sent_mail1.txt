@@ -1,0 +1,20 @@
+Message-ID: <bf109bd140034a47b228c550b53407bb@thyme>
+Date: Fri, 22 Dec 2000 00:00:00 -0700
+From: usuario369@example.com
+To: usuario391@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario369 <usuario369@example.com>
+X-To: Usuario391 <usuario391@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario369_folder\_sent_mail
+X-Origin: usuario369-P
+X-FileName: usuario369.pst
+
+Here is our forecast
+Looking forward to discussing the project in more detail soon.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

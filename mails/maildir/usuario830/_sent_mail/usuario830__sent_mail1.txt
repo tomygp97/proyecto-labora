@@ -1,0 +1,20 @@
+Message-ID: <b8d37c66862347b1bb48e4607d448821@thyme>
+Date: Sat, 03 Nov 2018 00:00:00 -0700
+From: usuario830@example.com
+To: usuario398@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario830 <usuario830@example.com>
+X-To: Usuario398 <usuario398@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario830_folder\_sent_mail
+X-Origin: usuario830-P
+X-FileName: usuario830.pst
+
+Looking forward to hearing from you soon
+I wanted to thank you for your prompt response.
+Here are the next steps we need to take.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <fd174a08e8434a4aad462173f3dbcb68@thyme>
+Date: Thu, 30 Jun 2022 00:00:00 -0700
+From: usuario581@example.com
+To: usuario574@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario581 <usuario581@example.com>
+X-To: Usuario574 <usuario574@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario581_folder\all_documents
+X-Origin: usuario581-P
+X-FileName: usuario581.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here are the next steps we need to take.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <15d3e0b2665e4521b6a26ff7da3aef0d@thyme>
+Date: Tue, 02 Mar 2010 00:00:00 -0700
+From: usuario846@example.com
+To: usuario506@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario846 <usuario846@example.com>
+X-To: Usuario506 <usuario506@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario846_folder\_sent_mail
+X-Origin: usuario846-P
+X-FileName: usuario846.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Please find the latest updates on the project
+Here is a summary of the last meeting for your reference.
+----------------------------------------

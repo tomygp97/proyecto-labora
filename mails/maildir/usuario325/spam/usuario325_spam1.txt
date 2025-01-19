@@ -1,0 +1,20 @@
+Message-ID: <23af03117c8d4dc28783056135e4fa7d@thyme>
+Date: Mon, 02 Oct 2000 00:00:00 -0700
+From: usuario325@example.com
+To: usuario670@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario325 <usuario325@example.com>
+X-To: Usuario670 <usuario670@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario325_folder\spam
+X-Origin: usuario325-P
+X-FileName: usuario325.pst
+
+I hope you're enjoying a nice week so far.
+I wanted to confirm our meeting for tomorrow.
+Let me know if you need any additional details.
+----------------------------------------

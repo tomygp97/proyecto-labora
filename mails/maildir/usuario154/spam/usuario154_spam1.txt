@@ -1,0 +1,20 @@
+Message-ID: <30a40ecfd1524c759be31db0aa6f7417@thyme>
+Date: Wed, 15 Sep 2010 00:00:00 -0700
+From: usuario154@example.com
+To: usuario105@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario154 <usuario154@example.com>
+X-To: Usuario105 <usuario105@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario154_folder\spam
+X-Origin: usuario154-P
+X-FileName: usuario154.pst
+
+Please let me know if there are any issues with the attached files.
+Just wanted to touch base on the upcoming project milestone.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <9c77d33f017e4d1eb1fe6fc6acbd363d@thyme>
+Date: Tue, 19 Dec 2023 00:00:00 -0700
+From: usuario682@example.com
+To: usuario253@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario682 <usuario682@example.com>
+X-To: Usuario253 <usuario253@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario682_folder\_sent_mail
+X-Origin: usuario682-P
+X-FileName: usuario682.pst
+
+I look forward to collaborating further on this initiative.
+Here are the next steps we need to take.
+I hope this email finds you well.
+----------------------------------------

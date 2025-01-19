@@ -1,0 +1,20 @@
+Message-ID: <5baf5cdc0ac241209a64c9dea3f068c8@thyme>
+Date: Wed, 09 Apr 2003 00:00:00 -0700
+From: usuario217@example.com
+To: usuario342@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario217 <usuario217@example.com>
+X-To: Usuario342 <usuario342@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario217_folder\spam
+X-Origin: usuario217-P
+X-FileName: usuario217.pst
+
+Please don't hesitate to reach out if you need any help.
+Please make sure to go through the attached documents before our meeting.
+Looking forward to hearing from you soon
+----------------------------------------

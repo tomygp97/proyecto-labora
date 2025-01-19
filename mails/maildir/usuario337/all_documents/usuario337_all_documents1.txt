@@ -1,0 +1,20 @@
+Message-ID: <22e81e66158c44f6992e304258df77a4@thyme>
+Date: Tue, 24 Feb 2009 00:00:00 -0700
+From: usuario337@example.com
+To: usuario84@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario337 <usuario337@example.com>
+X-To: Usuario84 <usuario84@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario337_folder\all_documents
+X-Origin: usuario337-P
+X-FileName: usuario337.pst
+
+Can you please confirm receipt of the files?
+I wanted to check in regarding the status of the project.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <5b83dd805a11475fa221b7f613cc3689@thyme>
+Date: Thu, 06 Oct 2022 00:00:00 -0700
+From: usuario871@example.com
+To: usuario233@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario871 <usuario871@example.com>
+X-To: Usuario233 <usuario233@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario871_folder\sent
+X-Origin: usuario871-P
+X-FileName: usuario871.pst
+
+I hope this email finds you well.
+Please find the attached report for the last quarter
+I hope you're enjoying a nice week so far.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <328a9d3e6c1b43c3a68551b83a780b15@thyme>
+Date: Mon, 01 Oct 2001 00:00:00 -0700
+From: usuario523@example.com
+To: usuario299@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario523 <usuario523@example.com>
+X-To: Usuario299 <usuario299@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario523_folder\all_documents
+X-Origin: usuario523-P
+X-FileName: usuario523.pst
+
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+Please review the attached files and provide feedback.
+----------------------------------------

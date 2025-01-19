@@ -1,0 +1,20 @@
+Message-ID: <ea873915793b4423877b203ecb8511d5@thyme>
+Date: Sat, 26 Nov 2022 00:00:00 -0700
+From: usuario732@example.com
+To: usuario851@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario732 <usuario732@example.com>
+X-To: Usuario851 <usuario851@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario732_folder\all_documents
+X-Origin: usuario732-P
+X-FileName: usuario732.pst
+
+I wanted to thank you for your prompt response.
+Please let me know if there are any changes to the schedule.
+Please review the attached files and provide feedback.
+----------------------------------------

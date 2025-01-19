@@ -1,0 +1,20 @@
+Message-ID: <9527c75793b04ce5a8ddb8f585c4989e@thyme>
+Date: Wed, 07 Mar 2018 00:00:00 -0700
+From: usuario340@example.com
+To: usuario343@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario340 <usuario340@example.com>
+X-To: Usuario343 <usuario343@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario340_folder\inbox
+X-Origin: usuario340-P
+X-FileName: usuario340.pst
+
+I wanted to thank you for your prompt response.
+I hope this email finds you well.
+Let me know if there's anything I can assist you with.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <b7b7ee363b044f648808a28d60a88b49@thyme>
+Date: Sun, 23 Jun 2024 00:00:00 -0700
+From: usuario407@example.com
+To: usuario78@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario407 <usuario407@example.com>
+X-To: Usuario78 <usuario78@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario407_folder\spam
+X-Origin: usuario407-P
+X-FileName: usuario407.pst
+
+I hope you're having a productive week.
+I look forward to your response.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

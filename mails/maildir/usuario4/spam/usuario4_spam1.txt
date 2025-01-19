@@ -1,0 +1,20 @@
+Message-ID: <214975eeb4ad4b769faa501abdb5139a@thyme>
+Date: Fri, 09 Oct 2020 00:00:00 -0700
+From: usuario4@example.com
+To: usuario169@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario4 <usuario4@example.com>
+X-To: Usuario169 <usuario169@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario4_folder\spam
+X-Origin: usuario4-P
+X-FileName: usuario4.pst
+
+Here is our forecast
+I appreciate your attention to this matter.
+I hope you're enjoying a nice week so far.
+----------------------------------------

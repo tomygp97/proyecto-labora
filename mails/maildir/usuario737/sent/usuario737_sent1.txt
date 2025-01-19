@@ -1,0 +1,20 @@
+Message-ID: <5466da84d333482198f5088b28694fe9@thyme>
+Date: Thu, 10 May 2012 00:00:00 -0700
+From: usuario737@example.com
+To: usuario733@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario737 <usuario737@example.com>
+X-To: Usuario733 <usuario733@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario737_folder\sent
+X-Origin: usuario737-P
+X-FileName: usuario737.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to remind you about the upcoming deadline.
+Just checking in to see if you've received my previous email.
+----------------------------------------

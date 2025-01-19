@@ -1,0 +1,20 @@
+Message-ID: <3c89c02db5db48bfbb0ebf2e254e7072@thyme>
+Date: Fri, 27 Jan 2012 00:00:00 -0700
+From: usuario583@example.com
+To: usuario416@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario583 <usuario583@example.com>
+X-To: Usuario416 <usuario416@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario583_folder\spam
+X-Origin: usuario583-P
+X-FileName: usuario583.pst
+
+Here are the next steps we need to take.
+I look forward to your response.
+I wanted to check in regarding the status of the project.
+----------------------------------------

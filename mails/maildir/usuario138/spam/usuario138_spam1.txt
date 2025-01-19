@@ -1,0 +1,20 @@
+Message-ID: <9c73ecfc2ec640df98a118cd937a6690@thyme>
+Date: Sun, 30 Aug 2020 00:00:00 -0700
+From: usuario138@example.com
+To: usuario912@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario138 <usuario138@example.com>
+X-To: Usuario912 <usuario912@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario138_folder\spam
+X-Origin: usuario138-P
+X-FileName: usuario138.pst
+
+I look forward to collaborating further on this initiative.
+Just wanted to touch base on the upcoming project milestone.
+Please find the attached report for the last quarter
+----------------------------------------

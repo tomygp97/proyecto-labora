@@ -1,0 +1,20 @@
+Message-ID: <2717d356c384437e8ec4f67a59d18743@thyme>
+Date: Thu, 03 Jan 2008 00:00:00 -0700
+From: usuario283@example.com
+To: usuario549@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario283 <usuario283@example.com>
+X-To: Usuario549 <usuario549@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario283_folder\inbox
+X-Origin: usuario283-P
+X-FileName: usuario283.pst
+
+Here is our forecast
+Please let me know if there are any issues with the attached files.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

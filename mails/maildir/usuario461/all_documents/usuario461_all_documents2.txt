@@ -1,0 +1,20 @@
+Message-ID: <d78093ebf8b74de7bcd0b326c0bc9010@thyme>
+Date: Thu, 14 Oct 2004 00:00:00 -0700
+From: usuario461@example.com
+To: usuario868@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario461 <usuario461@example.com>
+X-To: Usuario868 <usuario868@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario461_folder\all_documents
+X-Origin: usuario461-P
+X-FileName: usuario461.pst
+
+I hope you're having a productive week.
+Please make sure to go through the attached documents before our meeting.
+Here is our forecast
+----------------------------------------

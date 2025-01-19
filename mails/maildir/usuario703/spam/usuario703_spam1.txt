@@ -1,0 +1,20 @@
+Message-ID: <2b79c6e2ee7f40caaebd475b539fb231@thyme>
+Date: Sat, 30 Oct 2010 00:00:00 -0700
+From: usuario703@example.com
+To: usuario101@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario703 <usuario703@example.com>
+X-To: Usuario101 <usuario101@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario703_folder\spam
+X-Origin: usuario703-P
+X-FileName: usuario703.pst
+
+Here are the documents I mentioned during our call.
+Looking forward to hearing from you soon
+Please let me know if there are any changes to the schedule.
+----------------------------------------

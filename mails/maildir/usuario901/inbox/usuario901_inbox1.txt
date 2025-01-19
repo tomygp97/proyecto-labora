@@ -1,0 +1,20 @@
+Message-ID: <92930ee899e440f6b9b9fc0cf759d77c@thyme>
+Date: Mon, 21 Jul 2025 00:00:00 -0700
+From: usuario901@example.com
+To: usuario534@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario901 <usuario901@example.com>
+X-To: Usuario534 <usuario534@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario901_folder\inbox
+X-Origin: usuario901-P
+X-FileName: usuario901.pst
+
+Please review the attached files and provide feedback.
+Here are the documents I mentioned during our call.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

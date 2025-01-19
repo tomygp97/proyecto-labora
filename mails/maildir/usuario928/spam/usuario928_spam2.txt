@@ -1,0 +1,20 @@
+Message-ID: <52da243ba6d44fa9aef74f17c058f0d2@thyme>
+Date: Tue, 22 Nov 2005 00:00:00 -0700
+From: usuario928@example.com
+To: usuario983@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario928 <usuario928@example.com>
+X-To: Usuario983 <usuario983@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario928_folder\spam
+X-Origin: usuario928-P
+X-FileName: usuario928.pst
+
+I would love to hear your feedback on the proposal.
+I hope you're enjoying a nice week so far.
+Hope everything is going well on your end.
+----------------------------------------

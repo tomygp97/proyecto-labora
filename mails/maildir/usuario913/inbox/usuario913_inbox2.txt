@@ -1,0 +1,20 @@
+Message-ID: <50a5119e82a746a69a2a2f1abcac1f92@thyme>
+Date: Fri, 28 Feb 2020 00:00:00 -0700
+From: usuario913@example.com
+To: usuario114@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario913 <usuario913@example.com>
+X-To: Usuario114 <usuario114@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario913_folder\inbox
+X-Origin: usuario913-P
+X-FileName: usuario913.pst
+
+Please review the materials at your earliest convenience.
+Please let me know if there are any issues with the attached files.
+As discussed, I have attached the report you requested.
+----------------------------------------

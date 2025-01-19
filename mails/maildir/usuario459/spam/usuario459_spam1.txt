@@ -1,0 +1,20 @@
+Message-ID: <53c736cdda2740d0b588803d0830639d@thyme>
+Date: Fri, 20 Mar 2015 00:00:00 -0700
+From: usuario459@example.com
+To: usuario598@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario459 <usuario459@example.com>
+X-To: Usuario598 <usuario598@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario459_folder\spam
+X-Origin: usuario459-P
+X-FileName: usuario459.pst
+
+Here are the next steps we need to take.
+I have included all the necessary details in the attached report.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <be239a49facc4607a41f6ea8c32f5a8c@thyme>
+Date: Thu, 15 May 2014 00:00:00 -0700
+From: usuario715@example.com
+To: usuario908@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario715 <usuario715@example.com>
+X-To: Usuario908 <usuario908@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario715_folder\spam
+X-Origin: usuario715-P
+X-FileName: usuario715.pst
+
+I look forward to collaborating further on this initiative.
+Looking forward to discussing the project in more detail soon.
+Can you please confirm receipt of the files?
+----------------------------------------

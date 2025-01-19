@@ -1,0 +1,20 @@
+Message-ID: <9b2c7cf389eb49e7a853afb3a86f87d9@thyme>
+Date: Sat, 20 Mar 2021 00:00:00 -0700
+From: usuario37@example.com
+To: usuario948@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario37 <usuario37@example.com>
+X-To: Usuario948 <usuario948@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario37_folder\_sent_mail
+X-Origin: usuario37-P
+X-FileName: usuario37.pst
+
+Please find the attached report for the last quarter
+Looking forward to discussing the project in more detail soon.
+As discussed, I have attached the report you requested.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <757822c45d584ddf9b9d5ade7d815b57@thyme>
+Date: Sun, 28 Oct 2007 00:00:00 -0700
+From: usuario605@example.com
+To: usuario303@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario605 <usuario605@example.com>
+X-To: Usuario303 <usuario303@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario605_folder\inbox
+X-Origin: usuario605-P
+X-FileName: usuario605.pst
+
+Hope everything is going well on your end.
+I look forward to your response.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

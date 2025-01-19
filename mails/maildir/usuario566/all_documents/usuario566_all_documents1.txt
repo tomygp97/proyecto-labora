@@ -1,0 +1,20 @@
+Message-ID: <ee065c7834e5499f898d6d4fa999960a@thyme>
+Date: Sat, 28 May 2022 00:00:00 -0700
+From: usuario566@example.com
+To: usuario737@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario566 <usuario566@example.com>
+X-To: Usuario737 <usuario737@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario566_folder\all_documents
+X-Origin: usuario566-P
+X-FileName: usuario566.pst
+
+Thank you for your attention
+I would love to hear your feedback on the proposal.
+Please review the materials at your earliest convenience.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <a14c006f4942400b9289fed4832dfea0@thyme>
+Date: Sun, 22 Sep 2019 00:00:00 -0700
+From: usuario220@example.com
+To: usuario384@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario220 <usuario220@example.com>
+X-To: Usuario384 <usuario384@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario220_folder\all_documents
+X-Origin: usuario220-P
+X-FileName: usuario220.pst
+
+Here is a summary of the last meeting for your reference.
+Here are the results from the analysis we discussed.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <32a8dd1d276f4ec0841490c601a6901b@thyme>
+Date: Mon, 14 Mar 2016 00:00:00 -0700
+From: usuario159@example.com
+To: usuario155@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario159 <usuario159@example.com>
+X-To: Usuario155 <usuario155@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario159_folder\inbox
+X-Origin: usuario159-P
+X-FileName: usuario159.pst
+
+I hope this email finds you well.
+I look forward to your response.
+Just checking in to see if you've received my previous email.
+----------------------------------------

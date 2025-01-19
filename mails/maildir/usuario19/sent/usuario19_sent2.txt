@@ -1,0 +1,20 @@
+Message-ID: <4de927085c4240fe8c4e25be31221be9@thyme>
+Date: Sat, 24 Dec 2005 00:00:00 -0700
+From: usuario19@example.com
+To: usuario111@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario19 <usuario19@example.com>
+X-To: Usuario111 <usuario111@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario19_folder\sent
+X-Origin: usuario19-P
+X-FileName: usuario19.pst
+
+Here is our forecast
+Please let me know if there's anything else you need from my end.
+Here are the results from the analysis we discussed.
+----------------------------------------

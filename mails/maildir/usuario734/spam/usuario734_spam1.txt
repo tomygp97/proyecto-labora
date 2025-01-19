@@ -1,0 +1,20 @@
+Message-ID: <0bb95424549b40329852627a636677bf@thyme>
+Date: Mon, 28 Nov 2022 00:00:00 -0700
+From: usuario734@example.com
+To: usuario185@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario734 <usuario734@example.com>
+X-To: Usuario185 <usuario185@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario734_folder\spam
+X-Origin: usuario734-P
+X-FileName: usuario734.pst
+
+Here are the results from the analysis we discussed.
+Thank you for your attention
+I wanted to check in regarding the status of the project.
+----------------------------------------

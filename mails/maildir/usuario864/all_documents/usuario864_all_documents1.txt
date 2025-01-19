@@ -1,0 +1,20 @@
+Message-ID: <69f28d31530e4c808524af4fd42fa9f1@thyme>
+Date: Sun, 03 Jul 2016 00:00:00 -0700
+From: usuario864@example.com
+To: usuario663@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario864 <usuario864@example.com>
+X-To: Usuario663 <usuario663@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario864_folder\all_documents
+X-Origin: usuario864-P
+X-FileName: usuario864.pst
+
+I wanted to thank you for your prompt response.
+Just checking in to see if you've received my previous email.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

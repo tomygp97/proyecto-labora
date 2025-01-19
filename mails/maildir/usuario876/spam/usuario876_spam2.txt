@@ -1,0 +1,20 @@
+Message-ID: <cad391388c6448e1892517edfacfb241@thyme>
+Date: Thu, 28 Nov 2024 00:00:00 -0700
+From: usuario876@example.com
+To: usuario518@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario876 <usuario876@example.com>
+X-To: Usuario518 <usuario518@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario876_folder\spam
+X-Origin: usuario876-P
+X-FileName: usuario876.pst
+
+Here is our forecast
+As discussed, I have attached the report you requested.
+Let me know if you need any additional details.
+----------------------------------------

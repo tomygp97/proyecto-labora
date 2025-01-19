@@ -1,0 +1,20 @@
+Message-ID: <4664cc210d0149349ad81e55315b0ff3@thyme>
+Date: Thu, 06 Nov 2025 00:00:00 -0700
+From: usuario125@example.com
+To: usuario432@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario125 <usuario125@example.com>
+X-To: Usuario432 <usuario432@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario125_folder\all_documents
+X-Origin: usuario125-P
+X-FileName: usuario125.pst
+
+Please review the materials at your earliest convenience.
+Just checking in to see if you've received my previous email.
+I wanted to give you an update on the status of the project.
+----------------------------------------

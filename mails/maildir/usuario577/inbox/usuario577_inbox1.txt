@@ -1,0 +1,20 @@
+Message-ID: <db4893b0cbbf4d5c87a8385e110d5060@thyme>
+Date: Sun, 02 Apr 2017 00:00:00 -0700
+From: usuario577@example.com
+To: usuario680@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario577 <usuario577@example.com>
+X-To: Usuario680 <usuario680@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario577_folder\inbox
+X-Origin: usuario577-P
+X-FileName: usuario577.pst
+
+Please review the materials at your earliest convenience.
+I wanted to remind you about the upcoming deadline.
+I hope this email finds you well.
+----------------------------------------

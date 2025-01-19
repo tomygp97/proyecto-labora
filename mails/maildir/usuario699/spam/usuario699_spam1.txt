@@ -1,0 +1,20 @@
+Message-ID: <1870e9c7b5c9474698794a39f444ac84@thyme>
+Date: Fri, 22 Jun 2018 00:00:00 -0700
+From: usuario699@example.com
+To: usuario307@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario699 <usuario699@example.com>
+X-To: Usuario307 <usuario307@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario699_folder\spam
+X-Origin: usuario699-P
+X-FileName: usuario699.pst
+
+Here is a summary of the last meeting for your reference.
+I wanted to remind you about the upcoming deadline.
+I look forward to your response.
+----------------------------------------

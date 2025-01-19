@@ -1,0 +1,20 @@
+Message-ID: <5fd104617a754a7ca70fb422be60eac0@thyme>
+Date: Fri, 01 Jun 2001 00:00:00 -0700
+From: usuario21@example.com
+To: usuario998@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario21 <usuario21@example.com>
+X-To: Usuario998 <usuario998@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario21_folder\_sent_mail
+X-Origin: usuario21-P
+X-FileName: usuario21.pst
+
+I wanted to follow up on our last meeting
+I wanted to give you an update on the status of the project.
+I have included all the necessary details in the attached report.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <233baa47b31f459bbf82a32b5285f7a0@thyme>
+Date: Mon, 23 Mar 2015 00:00:00 -0700
+From: usuario540@example.com
+To: usuario395@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario540 <usuario540@example.com>
+X-To: Usuario395 <usuario395@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario540_folder\inbox
+X-Origin: usuario540-P
+X-FileName: usuario540.pst
+
+I wanted to check in regarding the status of the project.
+Please let me know if there are any changes to the schedule.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

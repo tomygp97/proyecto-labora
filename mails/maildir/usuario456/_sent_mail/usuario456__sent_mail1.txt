@@ -1,0 +1,20 @@
+Message-ID: <28d76880e28144e297a6c6f51d62d6a3@thyme>
+Date: Mon, 10 Dec 2007 00:00:00 -0700
+From: usuario456@example.com
+To: usuario261@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario456 <usuario456@example.com>
+X-To: Usuario261 <usuario261@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario456_folder\_sent_mail
+X-Origin: usuario456-P
+X-FileName: usuario456.pst
+
+Please let me know if there's anything else you need from my end.
+Please let me know if there are any issues with the attached files.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

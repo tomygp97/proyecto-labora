@@ -1,0 +1,20 @@
+Message-ID: <fb75a6116bde43ca9b572a5a90df99e5@thyme>
+Date: Fri, 29 May 2020 00:00:00 -0700
+From: usuario755@example.com
+To: usuario477@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario755 <usuario755@example.com>
+X-To: Usuario477 <usuario477@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario755_folder\_sent_mail
+X-Origin: usuario755-P
+X-FileName: usuario755.pst
+
+Here is a summary of the last meeting for your reference.
+Looking forward to discussing the project in more detail soon.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

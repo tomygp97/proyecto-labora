@@ -1,0 +1,20 @@
+Message-ID: <d03b608f4226454caa8769e01f2ee2ae@thyme>
+Date: Wed, 23 Mar 2022 00:00:00 -0700
+From: usuario920@example.com
+To: usuario526@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario920 <usuario920@example.com>
+X-To: Usuario526 <usuario526@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario920_folder\_sent_mail
+X-Origin: usuario920-P
+X-FileName: usuario920.pst
+
+Please review the attached files and provide feedback.
+I wanted to confirm our meeting for tomorrow.
+Please find the latest updates on the project
+----------------------------------------

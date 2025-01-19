@@ -1,0 +1,20 @@
+Message-ID: <b7c1ca33f9a3450bb64e1aedfeca2056@thyme>
+Date: Wed, 12 Aug 2020 00:00:00 -0700
+From: usuario653@example.com
+To: usuario95@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario653 <usuario653@example.com>
+X-To: Usuario95 <usuario95@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario653_folder\all_documents
+X-Origin: usuario653-P
+X-FileName: usuario653.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I hope you're having a productive week.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

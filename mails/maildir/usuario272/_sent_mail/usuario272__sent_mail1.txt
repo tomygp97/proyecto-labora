@@ -1,0 +1,20 @@
+Message-ID: <6cd10031fc584fffb9ccb7796458f0f6@thyme>
+Date: Fri, 03 Mar 2006 00:00:00 -0700
+From: usuario272@example.com
+To: usuario594@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario272 <usuario272@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario272_folder\_sent_mail
+X-Origin: usuario272-P
+X-FileName: usuario272.pst
+
+Here are the next steps we need to take.
+Please let me know if there are any changes to the schedule.
+Please review the materials at your earliest convenience.
+----------------------------------------

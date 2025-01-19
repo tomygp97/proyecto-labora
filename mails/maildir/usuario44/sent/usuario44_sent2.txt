@@ -1,0 +1,20 @@
+Message-ID: <246b878abceb422cb0c8acf44f8afdc8@thyme>
+Date: Tue, 06 Aug 2019 00:00:00 -0700
+From: usuario44@example.com
+To: usuario109@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario44 <usuario44@example.com>
+X-To: Usuario109 <usuario109@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario44_folder\sent
+X-Origin: usuario44-P
+X-FileName: usuario44.pst
+
+I hope you're enjoying a nice week so far.
+As discussed, I have attached the report you requested.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

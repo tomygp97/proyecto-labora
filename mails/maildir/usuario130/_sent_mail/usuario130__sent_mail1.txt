@@ -1,0 +1,20 @@
+Message-ID: <22694fa223a24342a79a5a78e2360c45@thyme>
+Date: Mon, 23 Jun 2025 00:00:00 -0700
+From: usuario130@example.com
+To: usuario239@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario130 <usuario130@example.com>
+X-To: Usuario239 <usuario239@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario130_folder\_sent_mail
+X-Origin: usuario130-P
+X-FileName: usuario130.pst
+
+Please find the latest updates on the project
+I wanted to confirm our meeting for tomorrow.
+I hope you're enjoying a nice week so far.
+----------------------------------------

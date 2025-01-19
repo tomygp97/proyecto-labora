@@ -1,0 +1,20 @@
+Message-ID: <4a2b4a04c585412094ed9c216f6e09f7@thyme>
+Date: Mon, 28 Sep 2020 00:00:00 -0700
+From: usuario380@example.com
+To: usuario252@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario380 <usuario380@example.com>
+X-To: Usuario252 <usuario252@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario380_folder\inbox
+X-Origin: usuario380-P
+X-FileName: usuario380.pst
+
+Please let me know if there's anything else you need from my end.
+I wanted to check in regarding the status of the project.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4c60d3994de04c379f4a86f5e989f674@thyme>
+Date: Tue, 24 Jul 2007 00:00:00 -0700
+From: usuario644@example.com
+To: usuario994@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario644 <usuario644@example.com>
+X-To: Usuario994 <usuario994@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario644_folder\spam
+X-Origin: usuario644-P
+X-FileName: usuario644.pst
+
+Just checking in to see if you've received my previous email.
+As discussed, I have attached the report you requested.
+I hope you're enjoying a nice week so far.
+----------------------------------------

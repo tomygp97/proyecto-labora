@@ -1,0 +1,20 @@
+Message-ID: <d087c9deb72244f58f6ca473b07e2262@thyme>
+Date: Sat, 12 May 2018 00:00:00 -0700
+From: usuario819@example.com
+To: usuario976@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario819 <usuario819@example.com>
+X-To: Usuario976 <usuario976@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario819_folder\spam
+X-Origin: usuario819-P
+X-FileName: usuario819.pst
+
+Here is a summary of the last meeting for your reference.
+Just checking in to see if you've received my previous email.
+Looking forward to hearing from you soon
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <27eff6cb52e1414c8479781ef08225cc@thyme>
+Date: Sat, 10 Aug 2002 00:00:00 -0700
+From: usuario745@example.com
+To: usuario305@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario745 <usuario745@example.com>
+X-To: Usuario305 <usuario305@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario745_folder\all_documents
+X-Origin: usuario745-P
+X-FileName: usuario745.pst
+
+I wanted to confirm our meeting for tomorrow.
+I wanted to remind you about the upcoming deadline.
+Looking forward to hearing from you soon
+----------------------------------------

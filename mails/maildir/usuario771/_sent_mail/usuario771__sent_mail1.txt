@@ -1,0 +1,20 @@
+Message-ID: <ab32f47e22ad452c9254ad9ef67015bb@thyme>
+Date: Sat, 08 Nov 2003 00:00:00 -0700
+From: usuario771@example.com
+To: usuario17@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario771 <usuario771@example.com>
+X-To: Usuario17 <usuario17@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario771_folder\_sent_mail
+X-Origin: usuario771-P
+X-FileName: usuario771.pst
+
+Can you please confirm receipt of the files?
+Here are the results from the analysis we discussed.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

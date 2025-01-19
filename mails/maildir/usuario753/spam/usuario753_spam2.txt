@@ -1,0 +1,20 @@
+Message-ID: <a5d9b03b2d7d4cb0974391d6bcc2ccb1@thyme>
+Date: Mon, 23 Jul 2001 00:00:00 -0700
+From: usuario753@example.com
+To: usuario318@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario753 <usuario753@example.com>
+X-To: Usuario318 <usuario318@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario753_folder\spam
+X-Origin: usuario753-P
+X-FileName: usuario753.pst
+
+Here are the next steps we need to take.
+Please let me know if there are any issues with the attached files.
+I hope you're enjoying a nice week so far.
+----------------------------------------

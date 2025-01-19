@@ -1,0 +1,20 @@
+Message-ID: <a0d55f866ac94d0099a8193cdbc79a62@thyme>
+Date: Sat, 03 Aug 2024 00:00:00 -0700
+From: usuario257@example.com
+To: usuario337@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario257 <usuario257@example.com>
+X-To: Usuario337 <usuario337@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario257_folder\_sent_mail
+X-Origin: usuario257-P
+X-FileName: usuario257.pst
+
+I wanted to confirm our meeting for tomorrow.
+I hope you're having a productive week.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4c728780d61c4416ac51e25a8bb7cfa1@thyme>
+Date: Sat, 28 Dec 2013 00:00:00 -0700
+From: usuario123@example.com
+To: usuario154@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario123 <usuario123@example.com>
+X-To: Usuario154 <usuario154@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario123_folder\spam
+X-Origin: usuario123-P
+X-FileName: usuario123.pst
+
+I wanted to remind you about the upcoming deadline.
+Here are the next steps we need to take.
+Just checking in to see if you've received my previous email.
+----------------------------------------

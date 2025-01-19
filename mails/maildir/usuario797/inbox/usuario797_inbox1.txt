@@ -1,0 +1,20 @@
+Message-ID: <44a2e2893b044d548967548c6e7844d5@thyme>
+Date: Wed, 19 Jan 2011 00:00:00 -0700
+From: usuario797@example.com
+To: usuario232@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario797 <usuario797@example.com>
+X-To: Usuario232 <usuario232@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario797_folder\inbox
+X-Origin: usuario797-P
+X-FileName: usuario797.pst
+
+Hope everything is going well on your end.
+I wanted to check in regarding the status of the project.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

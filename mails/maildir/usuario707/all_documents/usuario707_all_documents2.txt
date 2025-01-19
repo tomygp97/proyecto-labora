@@ -1,0 +1,20 @@
+Message-ID: <06a468de01f44c4e9038b9c4500f0355@thyme>
+Date: Sat, 12 Aug 2017 00:00:00 -0700
+From: usuario707@example.com
+To: usuario640@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario707 <usuario707@example.com>
+X-To: Usuario640 <usuario640@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario707_folder\all_documents
+X-Origin: usuario707-P
+X-FileName: usuario707.pst
+
+Can you please confirm receipt of the files?
+Please review the materials at your earliest convenience.
+I hope you're enjoying a nice week so far.
+----------------------------------------

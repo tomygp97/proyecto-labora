@@ -1,0 +1,20 @@
+Message-ID: <73b2d39cc9cb4729979d513483d885fd@thyme>
+Date: Sat, 15 Jun 2019 00:00:00 -0700
+From: usuario185@example.com
+To: usuario526@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario185 <usuario185@example.com>
+X-To: Usuario526 <usuario526@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario185_folder\sent
+X-Origin: usuario185-P
+X-FileName: usuario185.pst
+
+I wanted to give you an update on the status of the project.
+I would love to hear your feedback on the proposal.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

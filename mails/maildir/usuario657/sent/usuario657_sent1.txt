@@ -1,0 +1,20 @@
+Message-ID: <d7a508feac3c4f2c8649b757d7d38542@thyme>
+Date: Tue, 06 May 2003 00:00:00 -0700
+From: usuario657@example.com
+To: usuario564@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario657 <usuario657@example.com>
+X-To: Usuario564 <usuario564@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario657_folder\sent
+X-Origin: usuario657-P
+X-FileName: usuario657.pst
+
+I hope you're enjoying a nice week so far.
+Please review the attached files and provide feedback.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <46c52a12e2944fd8a01d0492470e6b14@thyme>
+Date: Tue, 14 Aug 2012 00:00:00 -0700
+From: usuario905@example.com
+To: usuario783@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario905 <usuario905@example.com>
+X-To: Usuario783 <usuario783@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario905_folder\spam
+X-Origin: usuario905-P
+X-FileName: usuario905.pst
+
+Please review the attached files and provide feedback.
+I wanted to remind you about the upcoming deadline.
+Please review the materials at your earliest convenience.
+----------------------------------------

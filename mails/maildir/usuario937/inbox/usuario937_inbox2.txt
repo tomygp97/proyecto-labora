@@ -1,0 +1,20 @@
+Message-ID: <75f1b60a827349d98e636e10715b6484@thyme>
+Date: Mon, 02 Sep 2024 00:00:00 -0700
+From: usuario937@example.com
+To: usuario352@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario937 <usuario937@example.com>
+X-To: Usuario352 <usuario352@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario937_folder\inbox
+X-Origin: usuario937-P
+X-FileName: usuario937.pst
+
+Just checking in to see if you've received my previous email.
+Just wanted to touch base on the upcoming project milestone.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

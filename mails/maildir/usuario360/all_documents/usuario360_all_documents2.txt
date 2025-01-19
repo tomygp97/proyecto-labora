@@ -1,0 +1,20 @@
+Message-ID: <6c94bf8ae80c4314986a21eb5df3af0a@thyme>
+Date: Sun, 16 Feb 2003 00:00:00 -0700
+From: usuario360@example.com
+To: usuario376@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario360 <usuario360@example.com>
+X-To: Usuario376 <usuario376@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario360_folder\all_documents
+X-Origin: usuario360-P
+X-FileName: usuario360.pst
+
+Here is our forecast
+Here are the next steps we need to take.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <3d2633e69aff4f3aa9483582c2853932@thyme>
+Date: Fri, 23 Apr 2021 00:00:00 -0700
+From: usuario821@example.com
+To: usuario844@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario821 <usuario821@example.com>
+X-To: Usuario844 <usuario844@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario821_folder\_sent_mail
+X-Origin: usuario821-P
+X-FileName: usuario821.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I look forward to your response.
+Just checking in to see if you've received my previous email.
+----------------------------------------

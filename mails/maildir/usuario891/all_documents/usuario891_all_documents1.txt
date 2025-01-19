@@ -1,0 +1,20 @@
+Message-ID: <65d07d54b4d642e8be4b56c0e6eb17e0@thyme>
+Date: Tue, 24 Aug 2021 00:00:00 -0700
+From: usuario891@example.com
+To: usuario144@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario891 <usuario891@example.com>
+X-To: Usuario144 <usuario144@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario891_folder\all_documents
+X-Origin: usuario891-P
+X-FileName: usuario891.pst
+
+Please find the attached report for the last quarter
+Hope everything is going well on your end.
+Let me know if there's anything I can assist you with.
+----------------------------------------

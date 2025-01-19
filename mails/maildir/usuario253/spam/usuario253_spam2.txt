@@ -1,0 +1,20 @@
+Message-ID: <20d2a0df36694ed89967bc509e99cdd7@thyme>
+Date: Tue, 03 May 2016 00:00:00 -0700
+From: usuario253@example.com
+To: usuario770@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario253 <usuario253@example.com>
+X-To: Usuario770 <usuario770@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario253_folder\spam
+X-Origin: usuario253-P
+X-FileName: usuario253.pst
+
+Please make sure to go through the attached documents before our meeting.
+Hope everything is going well on your end.
+I hope this email finds you well.
+----------------------------------------

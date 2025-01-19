@@ -1,0 +1,20 @@
+Message-ID: <8300a2b7c4be4dc08fa65f50b3bd5651@thyme>
+Date: Sun, 07 Apr 2024 00:00:00 -0700
+From: usuario741@example.com
+To: usuario195@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario741 <usuario741@example.com>
+X-To: Usuario195 <usuario195@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario741_folder\inbox
+X-Origin: usuario741-P
+X-FileName: usuario741.pst
+
+I look forward to collaborating further on this initiative.
+Just checking in to see if you've received my previous email.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <7d962bbd535b4a1488c175e9d710b1ea@thyme>
+Date: Mon, 03 Aug 2020 00:00:00 -0700
+From: usuario385@example.com
+To: usuario514@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario385 <usuario385@example.com>
+X-To: Usuario514 <usuario514@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario385_folder\inbox
+X-Origin: usuario385-P
+X-FileName: usuario385.pst
+
+I look forward to your response.
+Can you please confirm receipt of the files?
+I appreciate your attention to this matter.
+----------------------------------------

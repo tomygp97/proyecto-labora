@@ -1,0 +1,20 @@
+Message-ID: <8606433da3bf4ccb8bbe2fe16b3eb37d@thyme>
+Date: Thu, 07 Feb 2008 00:00:00 -0700
+From: usuario759@example.com
+To: usuario478@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario759 <usuario759@example.com>
+X-To: Usuario478 <usuario478@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario759_folder\inbox
+X-Origin: usuario759-P
+X-FileName: usuario759.pst
+
+Just checking in to see if you've received my previous email.
+I look forward to your response.
+Here are the results from the analysis we discussed.
+----------------------------------------

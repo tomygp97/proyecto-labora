@@ -1,0 +1,20 @@
+Message-ID: <8051a5078eac4b0c93d63ddf3588521f@thyme>
+Date: Tue, 23 Jan 2018 00:00:00 -0700
+From: usuario587@example.com
+To: usuario939@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario587 <usuario587@example.com>
+X-To: Usuario939 <usuario939@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario587_folder\inbox
+X-Origin: usuario587-P
+X-FileName: usuario587.pst
+
+I wanted to remind you about the upcoming deadline.
+Please don't hesitate to reach out if you need any help.
+Can you please confirm receipt of the files?
+----------------------------------------

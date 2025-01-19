@@ -1,0 +1,20 @@
+Message-ID: <9b9f7ca1af39476b8a12cbc36b5afb94@thyme>
+Date: Mon, 21 Mar 2016 00:00:00 -0700
+From: usuario31@example.com
+To: usuario493@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario31 <usuario31@example.com>
+X-To: Usuario493 <usuario493@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario31_folder\sent
+X-Origin: usuario31-P
+X-FileName: usuario31.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please don't hesitate to reach out if you need any help.
+I wanted to give you an update on the status of the project.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <b0f17530911742c4a51d5473493314aa@thyme>
+Date: Sat, 02 Apr 2022 00:00:00 -0700
+From: usuario833@example.com
+To: usuario876@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario833 <usuario833@example.com>
+X-To: Usuario876 <usuario876@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario833_folder\spam
+X-Origin: usuario833-P
+X-FileName: usuario833.pst
+
+Here are the documents I mentioned during our call.
+Here are the results from the analysis we discussed.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

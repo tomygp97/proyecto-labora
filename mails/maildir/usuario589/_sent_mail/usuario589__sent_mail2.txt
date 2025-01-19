@@ -1,0 +1,20 @@
+Message-ID: <ff61c76c60464d2a9799ee1885e3d4a8@thyme>
+Date: Thu, 04 Feb 2016 00:00:00 -0700
+From: usuario589@example.com
+To: usuario710@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario589 <usuario589@example.com>
+X-To: Usuario710 <usuario710@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario589_folder\_sent_mail
+X-Origin: usuario589-P
+X-FileName: usuario589.pst
+
+I hope you're enjoying a nice week so far.
+Please review the materials at your earliest convenience.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

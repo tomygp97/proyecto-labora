@@ -1,0 +1,20 @@
+Message-ID: <16e4c5580c44444f8574224214fe8c74@thyme>
+Date: Sat, 18 Mar 2023 00:00:00 -0700
+From: usuario674@example.com
+To: usuario456@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario674 <usuario674@example.com>
+X-To: Usuario456 <usuario456@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario674_folder\sent
+X-Origin: usuario674-P
+X-FileName: usuario674.pst
+
+Here is our forecast
+Hope everything is going well on your end.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

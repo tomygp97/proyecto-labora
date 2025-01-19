@@ -1,0 +1,20 @@
+Message-ID: <b3b86c4ff8434a6aa7361a8a3e310016@thyme>
+Date: Fri, 05 Jul 2019 00:00:00 -0700
+From: usuario961@example.com
+To: usuario114@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario961 <usuario961@example.com>
+X-To: Usuario114 <usuario114@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario961_folder\all_documents
+X-Origin: usuario961-P
+X-FileName: usuario961.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I hope you're having a productive week.
+Please review the materials at your earliest convenience.
+----------------------------------------

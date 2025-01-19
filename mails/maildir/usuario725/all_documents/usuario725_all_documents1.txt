@@ -1,0 +1,20 @@
+Message-ID: <cb7b47fabc47447aaa03b85e6d015170@thyme>
+Date: Wed, 12 Mar 2003 00:00:00 -0700
+From: usuario725@example.com
+To: usuario909@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario725 <usuario725@example.com>
+X-To: Usuario909 <usuario909@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario725_folder\all_documents
+X-Origin: usuario725-P
+X-FileName: usuario725.pst
+
+Can you please confirm receipt of the files?
+I wanted to thank you for your prompt response.
+Please find the latest updates on the project
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <2d61f889db4440759e4145c1213f9bb0@thyme>
+Date: Sun, 31 Oct 2021 00:00:00 -0700
+From: usuario249@example.com
+To: usuario501@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario249 <usuario249@example.com>
+X-To: Usuario501 <usuario501@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario249_folder\_sent_mail
+X-Origin: usuario249-P
+X-FileName: usuario249.pst
+
+Please find the attached report for the last quarter
+I wanted to thank you for your prompt response.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

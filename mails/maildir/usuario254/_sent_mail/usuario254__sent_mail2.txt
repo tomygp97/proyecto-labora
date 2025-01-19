@@ -1,0 +1,20 @@
+Message-ID: <34c8569e88454868929109e337fe9604@thyme>
+Date: Sat, 15 Jun 2019 00:00:00 -0700
+From: usuario254@example.com
+To: usuario386@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario254 <usuario254@example.com>
+X-To: Usuario386 <usuario386@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario254_folder\_sent_mail
+X-Origin: usuario254-P
+X-FileName: usuario254.pst
+
+Thank you for your attention
+I have included all the necessary details in the attached report.
+I hope you're enjoying a nice week so far.
+----------------------------------------

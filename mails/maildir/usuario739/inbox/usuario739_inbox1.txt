@@ -1,0 +1,20 @@
+Message-ID: <e8e89b92431d41749464770a827366ca@thyme>
+Date: Mon, 14 Jul 2003 00:00:00 -0700
+From: usuario739@example.com
+To: usuario236@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario739 <usuario739@example.com>
+X-To: Usuario236 <usuario236@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario739_folder\inbox
+X-Origin: usuario739-P
+X-FileName: usuario739.pst
+
+I appreciate your attention to this matter.
+Hope you're doing well. Here's the requested information.
+I hope this email finds you well.
+----------------------------------------

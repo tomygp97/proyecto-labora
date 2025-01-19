@@ -1,0 +1,20 @@
+Message-ID: <e2dabef9c148454496bbfa589f4c7ee3@thyme>
+Date: Tue, 24 Jul 2018 00:00:00 -0700
+From: usuario88@example.com
+To: usuario494@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario88 <usuario88@example.com>
+X-To: Usuario494 <usuario494@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario88_folder\spam
+X-Origin: usuario88-P
+X-FileName: usuario88.pst
+
+I wanted to give you an update on the status of the project.
+As discussed, I have attached the report you requested.
+Here are the documents I mentioned during our call.
+----------------------------------------

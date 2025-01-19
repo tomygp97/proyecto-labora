@@ -1,0 +1,20 @@
+Message-ID: <47f05c42c2934970b67ee9d6e8a5fde5@thyme>
+Date: Sun, 23 Dec 2018 00:00:00 -0700
+From: usuario681@example.com
+To: usuario197@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario681 <usuario681@example.com>
+X-To: Usuario197 <usuario197@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario681_folder\sent
+X-Origin: usuario681-P
+X-FileName: usuario681.pst
+
+Here is our forecast
+Looking forward to hearing from you soon
+Please let me know if there are any issues with the attached files.
+----------------------------------------

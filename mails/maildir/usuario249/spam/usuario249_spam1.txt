@@ -1,0 +1,20 @@
+Message-ID: <d5bb864433ce4176880c9d805704544d@thyme>
+Date: Wed, 28 Aug 2002 00:00:00 -0700
+From: usuario249@example.com
+To: usuario642@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario249 <usuario249@example.com>
+X-To: Usuario642 <usuario642@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario249_folder\spam
+X-Origin: usuario249-P
+X-FileName: usuario249.pst
+
+I hope this email finds you well.
+Let me know if there's anything I can assist you with.
+I would love to hear your feedback on the proposal.
+----------------------------------------

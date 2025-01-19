@@ -1,0 +1,20 @@
+Message-ID: <d4968686fb5945f0a29e8600c0c8ed6e@thyme>
+Date: Thu, 26 Jun 2025 00:00:00 -0700
+From: usuario533@example.com
+To: usuario834@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario533 <usuario533@example.com>
+X-To: Usuario834 <usuario834@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario533_folder\spam
+X-Origin: usuario533-P
+X-FileName: usuario533.pst
+
+Here are the results from the analysis we discussed.
+Please find the latest updates on the project
+Can you please confirm receipt of the files?
+----------------------------------------

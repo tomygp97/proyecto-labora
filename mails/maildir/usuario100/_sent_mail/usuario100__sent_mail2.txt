@@ -1,0 +1,20 @@
+Message-ID: <f9b69a7d279644ba9b9c80b7899d6b7c@thyme>
+Date: Fri, 22 Mar 2019 00:00:00 -0700
+From: usuario100@example.com
+To: usuario750@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario100 <usuario100@example.com>
+X-To: Usuario750 <usuario750@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario100_folder\_sent_mail
+X-Origin: usuario100-P
+X-FileName: usuario100.pst
+
+Here is a summary of the last meeting for your reference.
+Please review the materials at your earliest convenience.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <25ca6f188d7c4e54896227a880b9af2b@thyme>
+Date: Wed, 24 Apr 2002 00:00:00 -0700
+From: usuario526@example.com
+To: usuario2@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario526 <usuario526@example.com>
+X-To: Usuario2 <usuario2@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario526_folder\_sent_mail
+X-Origin: usuario526-P
+X-FileName: usuario526.pst
+
+Please find the latest updates on the project
+Here is a summary of the last meeting for your reference.
+Just checking in to see if you've received my previous email.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <1ab8f52bd1974e6499518972131751e4@thyme>
+Date: Thu, 07 Jun 2001 00:00:00 -0700
+From: usuario821@example.com
+To: usuario245@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario821 <usuario821@example.com>
+X-To: Usuario245 <usuario245@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario821_folder\sent
+X-Origin: usuario821-P
+X-FileName: usuario821.pst
+
+Just checking in to see if you've received my previous email.
+Let me know if there's anything I can assist you with.
+I appreciate your attention to this matter.
+----------------------------------------

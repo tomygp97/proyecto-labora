@@ -1,0 +1,20 @@
+Message-ID: <44a20223a1a942d28b9d309c34bc0ea5@thyme>
+Date: Tue, 11 Jan 2022 00:00:00 -0700
+From: usuario617@example.com
+To: usuario347@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario617 <usuario617@example.com>
+X-To: Usuario347 <usuario347@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario617_folder\inbox
+X-Origin: usuario617-P
+X-FileName: usuario617.pst
+
+Please don't hesitate to reach out if you need any help.
+I hope this email finds you well.
+Please find the attached report for the last quarter
+----------------------------------------

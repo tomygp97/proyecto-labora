@@ -1,0 +1,20 @@
+Message-ID: <e20d82cfa2924d618f28150ecd1e5bc3@thyme>
+Date: Sat, 30 Jul 2022 00:00:00 -0700
+From: usuario60@example.com
+To: usuario363@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario60 <usuario60@example.com>
+X-To: Usuario363 <usuario363@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario60_folder\spam
+X-Origin: usuario60-P
+X-FileName: usuario60.pst
+
+I hope you're enjoying a nice week so far.
+I would love to hear your feedback on the proposal.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

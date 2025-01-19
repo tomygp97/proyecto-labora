@@ -1,0 +1,20 @@
+Message-ID: <c5f65930755f404fb7eb6f77e4d5001e@thyme>
+Date: Thu, 14 Jul 2005 00:00:00 -0700
+From: usuario721@example.com
+To: usuario238@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario721 <usuario721@example.com>
+X-To: Usuario238 <usuario238@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario721_folder\inbox
+X-Origin: usuario721-P
+X-FileName: usuario721.pst
+
+Hope you're doing well. Here's the requested information.
+I wanted to thank you for your prompt response.
+Here are the results from the analysis we discussed.
+----------------------------------------

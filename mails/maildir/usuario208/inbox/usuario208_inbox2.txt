@@ -1,0 +1,20 @@
+Message-ID: <623f9d0d783c4990bdd199363252c5be@thyme>
+Date: Fri, 27 Feb 2015 00:00:00 -0700
+From: usuario208@example.com
+To: usuario633@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario208 <usuario208@example.com>
+X-To: Usuario633 <usuario633@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario208_folder\inbox
+X-Origin: usuario208-P
+X-FileName: usuario208.pst
+
+Hope everything is going well on your end.
+I have included all the necessary details in the attached report.
+Thank you for your attention
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <24e39c5e7e084babb67d9fea2601dfa4@thyme>
+Date: Fri, 03 Jan 2025 00:00:00 -0700
+From: usuario880@example.com
+To: usuario480@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario880 <usuario880@example.com>
+X-To: Usuario480 <usuario480@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario880_folder\_sent_mail
+X-Origin: usuario880-P
+X-FileName: usuario880.pst
+
+Please let me know if there's anything else you need from my end.
+I would love to hear your feedback on the proposal.
+Can you please confirm receipt of the files?
+----------------------------------------

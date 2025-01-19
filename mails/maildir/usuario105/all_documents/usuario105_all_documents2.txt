@@ -1,0 +1,20 @@
+Message-ID: <3827b5239ada46e985f3b9e0e4933270@thyme>
+Date: Mon, 03 Nov 2014 00:00:00 -0700
+From: usuario105@example.com
+To: usuario699@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario105 <usuario105@example.com>
+X-To: Usuario699 <usuario699@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario105_folder\all_documents
+X-Origin: usuario105-P
+X-FileName: usuario105.pst
+
+Please find the attached report for the last quarter
+As discussed, I have attached the report you requested.
+I hope this email finds you well.
+----------------------------------------

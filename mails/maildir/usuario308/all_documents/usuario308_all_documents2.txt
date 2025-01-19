@@ -1,0 +1,20 @@
+Message-ID: <47622f0123f5410a8d088409b6144299@thyme>
+Date: Wed, 16 Oct 2024 00:00:00 -0700
+From: usuario308@example.com
+To: usuario888@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario308 <usuario308@example.com>
+X-To: Usuario888 <usuario888@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario308_folder\all_documents
+X-Origin: usuario308-P
+X-FileName: usuario308.pst
+
+Here are the next steps we need to take.
+I hope you're enjoying a nice week so far.
+Can you please confirm receipt of the files?
+----------------------------------------

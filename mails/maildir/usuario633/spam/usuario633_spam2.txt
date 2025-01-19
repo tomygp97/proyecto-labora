@@ -1,0 +1,20 @@
+Message-ID: <ec4c3444417c432c90dc31f5a511e7b0@thyme>
+Date: Sun, 16 Jun 2024 00:00:00 -0700
+From: usuario633@example.com
+To: usuario159@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario633 <usuario633@example.com>
+X-To: Usuario159 <usuario159@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario633_folder\spam
+X-Origin: usuario633-P
+X-FileName: usuario633.pst
+
+I look forward to collaborating further on this initiative.
+Here are the next steps we need to take.
+I hope you're enjoying a nice week so far.
+----------------------------------------

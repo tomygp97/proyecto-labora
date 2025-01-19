@@ -1,0 +1,20 @@
+Message-ID: <f8f0b8e286d74f01a0d3cfd0b5ab56e9@thyme>
+Date: Sun, 19 Aug 2001 00:00:00 -0700
+From: usuario221@example.com
+To: usuario184@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario221 <usuario221@example.com>
+X-To: Usuario184 <usuario184@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario221_folder\sent
+X-Origin: usuario221-P
+X-FileName: usuario221.pst
+
+Here is our forecast
+Looking forward to discussing the project in more detail soon.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

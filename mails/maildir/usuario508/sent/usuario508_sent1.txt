@@ -1,0 +1,20 @@
+Message-ID: <c39f051f192e43bba73b9ea9de90a2fc@thyme>
+Date: Sun, 02 May 2010 00:00:00 -0700
+From: usuario508@example.com
+To: usuario127@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario508 <usuario508@example.com>
+X-To: Usuario127 <usuario127@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario508_folder\sent
+X-Origin: usuario508-P
+X-FileName: usuario508.pst
+
+I look forward to your response.
+Please review the materials at your earliest convenience.
+I wanted to give you an update on the status of the project.
+----------------------------------------

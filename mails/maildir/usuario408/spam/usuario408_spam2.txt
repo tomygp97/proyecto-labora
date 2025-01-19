@@ -1,0 +1,20 @@
+Message-ID: <5f671dae67664b48823579753af2a2c7@thyme>
+Date: Sat, 16 Mar 2024 00:00:00 -0700
+From: usuario408@example.com
+To: usuario111@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario408 <usuario408@example.com>
+X-To: Usuario111 <usuario111@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario408_folder\spam
+X-Origin: usuario408-P
+X-FileName: usuario408.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Looking forward to discussing the project in more detail soon.
+Let me know if there's anything I can assist you with.
+----------------------------------------

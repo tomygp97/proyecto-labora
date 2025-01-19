@@ -1,0 +1,20 @@
+Message-ID: <832c3610d82c4e12bc92ac894f7a0a64@thyme>
+Date: Thu, 14 Sep 2006 00:00:00 -0700
+From: usuario928@example.com
+To: usuario172@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario928 <usuario928@example.com>
+X-To: Usuario172 <usuario172@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario928_folder\sent
+X-Origin: usuario928-P
+X-FileName: usuario928.pst
+
+Hope everything is going well on your end.
+I look forward to your response.
+I would love to hear your feedback on the proposal.
+----------------------------------------

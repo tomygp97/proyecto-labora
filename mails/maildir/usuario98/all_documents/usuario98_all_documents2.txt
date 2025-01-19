@@ -1,0 +1,20 @@
+Message-ID: <3ea1b72b0bcd46f3a1aaa19a1d32284b@thyme>
+Date: Thu, 21 Apr 2022 00:00:00 -0700
+From: usuario98@example.com
+To: usuario161@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario98 <usuario98@example.com>
+X-To: Usuario161 <usuario161@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario98_folder\all_documents
+X-Origin: usuario98-P
+X-FileName: usuario98.pst
+
+I hope you're having a productive week.
+I wanted to remind you about the upcoming deadline.
+I wanted to thank you for your prompt response.
+----------------------------------------

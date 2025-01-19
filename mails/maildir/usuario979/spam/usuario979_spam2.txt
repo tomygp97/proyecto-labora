@@ -1,0 +1,20 @@
+Message-ID: <d81583a9f552479294de0ff9b4f895b7@thyme>
+Date: Mon, 30 Sep 2024 00:00:00 -0700
+From: usuario979@example.com
+To: usuario831@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario979 <usuario979@example.com>
+X-To: Usuario831 <usuario831@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario979_folder\spam
+X-Origin: usuario979-P
+X-FileName: usuario979.pst
+
+Can you please confirm receipt of the files?
+Here are the documents I mentioned during our call.
+I hope you're enjoying a nice week so far.
+----------------------------------------

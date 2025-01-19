@@ -1,0 +1,20 @@
+Message-ID: <14bca56b0e364cda91b293f9866e255f@thyme>
+Date: Tue, 19 Apr 2005 00:00:00 -0700
+From: usuario612@example.com
+To: usuario493@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario612 <usuario612@example.com>
+X-To: Usuario493 <usuario493@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario612_folder\all_documents
+X-Origin: usuario612-P
+X-FileName: usuario612.pst
+
+Please don't hesitate to reach out if you need any help.
+Let me know if you need any additional details.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

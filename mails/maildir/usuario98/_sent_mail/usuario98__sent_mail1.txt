@@ -1,0 +1,20 @@
+Message-ID: <2d8b59ff109745aea5bf31f0fe7e1fe7@thyme>
+Date: Sat, 01 Apr 2023 00:00:00 -0700
+From: usuario98@example.com
+To: usuario946@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario98 <usuario98@example.com>
+X-To: Usuario946 <usuario946@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario98_folder\_sent_mail
+X-Origin: usuario98-P
+X-FileName: usuario98.pst
+
+Please review the attached files and provide feedback.
+I trust the documents will be helpful for our upcoming discussion.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

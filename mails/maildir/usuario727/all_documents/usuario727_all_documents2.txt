@@ -1,0 +1,20 @@
+Message-ID: <fa330b3188a4448aaaacb820611a2498@thyme>
+Date: Sun, 30 Jun 2013 00:00:00 -0700
+From: usuario727@example.com
+To: usuario695@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario727 <usuario727@example.com>
+X-To: Usuario695 <usuario695@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario727_folder\all_documents
+X-Origin: usuario727-P
+X-FileName: usuario727.pst
+
+Please make sure to go through the attached documents before our meeting.
+Looking forward to hearing from you soon
+I hope you're having a productive week.
+----------------------------------------

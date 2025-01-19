@@ -1,0 +1,20 @@
+Message-ID: <c9d996c151c04e0f9a610cbe41616fe6@thyme>
+Date: Tue, 11 May 2004 00:00:00 -0700
+From: usuario567@example.com
+To: usuario815@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario567 <usuario567@example.com>
+X-To: Usuario815 <usuario815@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario567_folder\spam
+X-Origin: usuario567-P
+X-FileName: usuario567.pst
+
+Please make sure to go through the attached documents before our meeting.
+Looking forward to discussing the project in more detail soon.
+I hope you're enjoying a nice week so far.
+----------------------------------------

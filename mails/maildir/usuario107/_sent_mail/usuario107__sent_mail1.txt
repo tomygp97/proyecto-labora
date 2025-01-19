@@ -1,0 +1,20 @@
+Message-ID: <d341b872d83d46e08868028a196f6ca4@thyme>
+Date: Tue, 05 May 2020 00:00:00 -0700
+From: usuario107@example.com
+To: usuario838@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario107 <usuario107@example.com>
+X-To: Usuario838 <usuario838@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario107_folder\_sent_mail
+X-Origin: usuario107-P
+X-FileName: usuario107.pst
+
+I look forward to your response.
+Just wanted to touch base on the upcoming project milestone.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <d20d25e9d5e1466fbed0831cc12da2f1@thyme>
+Date: Fri, 06 Jul 2007 00:00:00 -0700
+From: usuario556@example.com
+To: usuario778@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario556 <usuario556@example.com>
+X-To: Usuario778 <usuario778@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario556_folder\spam
+X-Origin: usuario556-P
+X-FileName: usuario556.pst
+
+Here is our forecast
+Hope everything is going well on your end.
+I have included all the necessary details in the attached report.
+----------------------------------------

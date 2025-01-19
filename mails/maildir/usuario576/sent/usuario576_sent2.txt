@@ -1,0 +1,20 @@
+Message-ID: <4692526f4bf04e5cb6fd73bc61ca1b09@thyme>
+Date: Fri, 03 Feb 2023 00:00:00 -0700
+From: usuario576@example.com
+To: usuario31@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario576 <usuario576@example.com>
+X-To: Usuario31 <usuario31@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario576_folder\sent
+X-Origin: usuario576-P
+X-FileName: usuario576.pst
+
+Hope you're doing well. Here's the requested information.
+Thank you for your attention
+Please let me know if there's anything else you need from my end.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <a3ef8803ad844411aed83050561567ca@thyme>
+Date: Tue, 28 Feb 2017 00:00:00 -0700
+From: usuario243@example.com
+To: usuario379@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario243 <usuario243@example.com>
+X-To: Usuario379 <usuario379@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario243_folder\spam
+X-Origin: usuario243-P
+X-FileName: usuario243.pst
+
+I have included all the necessary details in the attached report.
+Can you please confirm receipt of the files?
+I would love to hear your feedback on the proposal.
+----------------------------------------

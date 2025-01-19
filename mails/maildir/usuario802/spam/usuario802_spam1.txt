@@ -1,0 +1,20 @@
+Message-ID: <dcda20b88b9e46c0ba0ba17016e6e450@thyme>
+Date: Sat, 27 Jan 2018 00:00:00 -0700
+From: usuario802@example.com
+To: usuario593@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario802 <usuario802@example.com>
+X-To: Usuario593 <usuario593@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario802_folder\spam
+X-Origin: usuario802-P
+X-FileName: usuario802.pst
+
+Hope you're doing well. Here's the requested information.
+Let me know if you need any additional details.
+Here are the documents I mentioned during our call.
+----------------------------------------

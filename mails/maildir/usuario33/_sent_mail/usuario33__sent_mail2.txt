@@ -1,0 +1,20 @@
+Message-ID: <e2b73868e2cf4e60b534900605169d6d@thyme>
+Date: Tue, 24 Jul 2018 00:00:00 -0700
+From: usuario33@example.com
+To: usuario447@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario33 <usuario33@example.com>
+X-To: Usuario447 <usuario447@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario33_folder\_sent_mail
+X-Origin: usuario33-P
+X-FileName: usuario33.pst
+
+I look forward to your response.
+Please review the materials at your earliest convenience.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

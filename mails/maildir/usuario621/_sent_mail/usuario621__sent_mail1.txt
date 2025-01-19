@@ -1,0 +1,20 @@
+Message-ID: <54bca204f57f489a86cfaf211c5a84ef@thyme>
+Date: Wed, 20 Jun 2007 00:00:00 -0700
+From: usuario621@example.com
+To: usuario229@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario621 <usuario621@example.com>
+X-To: Usuario229 <usuario229@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario621_folder\_sent_mail
+X-Origin: usuario621-P
+X-FileName: usuario621.pst
+
+I look forward to collaborating further on this initiative.
+I wanted to remind you about the upcoming deadline.
+Can you please confirm receipt of the files?
+----------------------------------------

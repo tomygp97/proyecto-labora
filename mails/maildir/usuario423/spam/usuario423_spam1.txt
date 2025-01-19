@@ -1,0 +1,20 @@
+Message-ID: <910ddc37c7c149a0880b3f1d69ebd9f5@thyme>
+Date: Sun, 20 Mar 2005 00:00:00 -0700
+From: usuario423@example.com
+To: usuario83@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario423 <usuario423@example.com>
+X-To: Usuario83 <usuario83@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario423_folder\spam
+X-Origin: usuario423-P
+X-FileName: usuario423.pst
+
+I appreciate your attention to this matter.
+I look forward to your response.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

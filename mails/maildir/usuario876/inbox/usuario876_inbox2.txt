@@ -1,0 +1,20 @@
+Message-ID: <d13a2199a9314ba8b1d3444dc09a3876@thyme>
+Date: Sat, 19 Aug 2006 00:00:00 -0700
+From: usuario876@example.com
+To: usuario614@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario876 <usuario876@example.com>
+X-To: Usuario614 <usuario614@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario876_folder\inbox
+X-Origin: usuario876-P
+X-FileName: usuario876.pst
+
+Please don't hesitate to reach out if you need any help.
+I wanted to check in regarding the status of the project.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

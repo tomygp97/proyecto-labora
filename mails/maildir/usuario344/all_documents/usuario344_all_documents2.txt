@@ -1,0 +1,20 @@
+Message-ID: <3fc8b70b0ec94f229b655da73ca0ece7@thyme>
+Date: Mon, 29 Feb 2016 00:00:00 -0700
+From: usuario344@example.com
+To: usuario186@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario344 <usuario344@example.com>
+X-To: Usuario186 <usuario186@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario344_folder\all_documents
+X-Origin: usuario344-P
+X-FileName: usuario344.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Please find the latest updates on the project
+Can you please confirm receipt of the files?
+----------------------------------------

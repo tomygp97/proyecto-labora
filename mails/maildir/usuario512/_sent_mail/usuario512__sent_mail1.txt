@@ -1,0 +1,20 @@
+Message-ID: <23ba3c4fb0bc4d7696d88ec9f4c9ac9b@thyme>
+Date: Mon, 05 May 2014 00:00:00 -0700
+From: usuario512@example.com
+To: usuario70@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario512 <usuario512@example.com>
+X-To: Usuario70 <usuario70@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario512_folder\_sent_mail
+X-Origin: usuario512-P
+X-FileName: usuario512.pst
+
+As discussed, I have attached the report you requested.
+I would love to hear your feedback on the proposal.
+Let me know if you need any additional details.
+----------------------------------------

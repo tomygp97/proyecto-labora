@@ -1,0 +1,20 @@
+Message-ID: <d31485a20d944e26b134fbfaaae823a1@thyme>
+Date: Mon, 10 Oct 2022 00:00:00 -0700
+From: usuario977@example.com
+To: usuario200@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario977 <usuario977@example.com>
+X-To: Usuario200 <usuario200@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario977_folder\all_documents
+X-Origin: usuario977-P
+X-FileName: usuario977.pst
+
+Here is our forecast
+Please let me know if there are any changes to the schedule.
+Here are the next steps we need to take.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <0a27c11007054bb5b4eae9f7696efe0e@thyme>
+Date: Thu, 22 Apr 2004 00:00:00 -0700
+From: usuario441@example.com
+To: usuario840@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario441 <usuario441@example.com>
+X-To: Usuario840 <usuario840@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario441_folder\spam
+X-Origin: usuario441-P
+X-FileName: usuario441.pst
+
+Here is a summary of the last meeting for your reference.
+Looking forward to hearing from you soon
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4a6e6f822f254ed9b4cc159954a22930@thyme>
+Date: Thu, 06 May 2021 00:00:00 -0700
+From: usuario458@example.com
+To: usuario62@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario458 <usuario458@example.com>
+X-To: Usuario62 <usuario62@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario458_folder\spam
+X-Origin: usuario458-P
+X-FileName: usuario458.pst
+
+Please don't hesitate to reach out if you need any help.
+Please let me know if there are any changes to the schedule.
+Thank you for your attention
+----------------------------------------

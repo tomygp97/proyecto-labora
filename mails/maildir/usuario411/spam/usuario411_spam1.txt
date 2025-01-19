@@ -1,0 +1,20 @@
+Message-ID: <1fd4a57613844259bfee380bc97d8184@thyme>
+Date: Tue, 04 Feb 2014 00:00:00 -0700
+From: usuario411@example.com
+To: usuario274@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario411 <usuario411@example.com>
+X-To: Usuario274 <usuario274@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario411_folder\spam
+X-Origin: usuario411-P
+X-FileName: usuario411.pst
+
+Please find the latest updates on the project
+I wanted to thank you for your prompt response.
+I appreciate your attention to this matter.
+----------------------------------------

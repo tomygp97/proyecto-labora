@@ -1,0 +1,20 @@
+Message-ID: <5fd8618eb3ca4529a64bc17f4de7bc8b@thyme>
+Date: Wed, 27 Oct 2021 00:00:00 -0700
+From: usuario780@example.com
+To: usuario435@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario780 <usuario780@example.com>
+X-To: Usuario435 <usuario435@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario780_folder\spam
+X-Origin: usuario780-P
+X-FileName: usuario780.pst
+
+Please make sure to go through the attached documents before our meeting.
+As discussed, I have attached the report you requested.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

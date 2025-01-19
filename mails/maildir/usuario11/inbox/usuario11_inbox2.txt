@@ -1,0 +1,20 @@
+Message-ID: <5d6cfbbd57e24574b0a27661ac417d61@thyme>
+Date: Mon, 09 Mar 2015 00:00:00 -0700
+From: usuario11@example.com
+To: usuario506@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario11 <usuario11@example.com>
+X-To: Usuario506 <usuario506@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario11_folder\inbox
+X-Origin: usuario11-P
+X-FileName: usuario11.pst
+
+I wanted to give you an update on the status of the project.
+I appreciate your attention to this matter.
+Just checking in to see if you've received my previous email.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <17d9d7aee75844c4a0fe2f2ed52c0300@thyme>
+Date: Wed, 10 Aug 2022 00:00:00 -0700
+From: usuario814@example.com
+To: usuario117@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario814 <usuario814@example.com>
+X-To: Usuario117 <usuario117@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario814_folder\inbox
+X-Origin: usuario814-P
+X-FileName: usuario814.pst
+
+Here are the results from the analysis we discussed.
+I look forward to your response.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

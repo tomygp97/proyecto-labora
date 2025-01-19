@@ -1,0 +1,20 @@
+Message-ID: <94048648437a40bfb88801b102555d5e@thyme>
+Date: Tue, 31 Dec 2002 00:00:00 -0700
+From: usuario47@example.com
+To: usuario465@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario47 <usuario47@example.com>
+X-To: Usuario465 <usuario465@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario47_folder\spam
+X-Origin: usuario47-P
+X-FileName: usuario47.pst
+
+Looking forward to discussing the project in more detail soon.
+I hope this email finds you well.
+As discussed, I have attached the report you requested.
+----------------------------------------

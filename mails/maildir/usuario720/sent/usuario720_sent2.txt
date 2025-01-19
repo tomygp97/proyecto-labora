@@ -1,0 +1,20 @@
+Message-ID: <c8c0b89bee8e43e5a3d5c0cec9689354@thyme>
+Date: Tue, 31 Aug 2021 00:00:00 -0700
+From: usuario720@example.com
+To: usuario210@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario720 <usuario720@example.com>
+X-To: Usuario210 <usuario210@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario720_folder\sent
+X-Origin: usuario720-P
+X-FileName: usuario720.pst
+
+I wanted to thank you for your prompt response.
+Please find the latest updates on the project
+I have included all the necessary details in the attached report.
+----------------------------------------

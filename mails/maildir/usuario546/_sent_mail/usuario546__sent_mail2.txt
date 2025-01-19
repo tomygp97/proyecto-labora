@@ -1,0 +1,20 @@
+Message-ID: <7f2a9cf6daef41bba920c8c158b5a982@thyme>
+Date: Fri, 22 May 2009 00:00:00 -0700
+From: usuario546@example.com
+To: usuario395@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario546 <usuario546@example.com>
+X-To: Usuario395 <usuario395@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario546_folder\_sent_mail
+X-Origin: usuario546-P
+X-FileName: usuario546.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I look forward to your response.
+Just checking in to see if you've received my previous email.
+----------------------------------------

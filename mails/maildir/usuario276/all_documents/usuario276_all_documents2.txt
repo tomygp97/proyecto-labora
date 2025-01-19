@@ -1,0 +1,20 @@
+Message-ID: <4c41fa2faa9940c4b6eb6f18a8c92d74@thyme>
+Date: Thu, 01 Jul 2010 00:00:00 -0700
+From: usuario276@example.com
+To: usuario998@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario276 <usuario276@example.com>
+X-To: Usuario998 <usuario998@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario276_folder\all_documents
+X-Origin: usuario276-P
+X-FileName: usuario276.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to thank you for your prompt response.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <46f6489179c24b7a89ddcd76e19232d8@thyme>
+Date: Mon, 24 Apr 2023 00:00:00 -0700
+From: usuario138@example.com
+To: usuario425@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario138 <usuario138@example.com>
+X-To: Usuario425 <usuario425@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario138_folder\all_documents
+X-Origin: usuario138-P
+X-FileName: usuario138.pst
+
+I wanted to follow up on our last meeting
+Here are the next steps we need to take.
+Let me know if you need any additional details.
+----------------------------------------

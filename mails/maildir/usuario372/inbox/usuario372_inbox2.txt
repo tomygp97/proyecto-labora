@@ -1,0 +1,20 @@
+Message-ID: <cb5253adb78d4692baa369d279ad41a9@thyme>
+Date: Thu, 14 Feb 2013 00:00:00 -0700
+From: usuario372@example.com
+To: usuario630@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario372 <usuario372@example.com>
+X-To: Usuario630 <usuario630@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario372_folder\inbox
+X-Origin: usuario372-P
+X-FileName: usuario372.pst
+
+Thank you for your attention
+Here is our forecast
+Looking forward to hearing from you soon
+----------------------------------------

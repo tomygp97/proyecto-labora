@@ -1,0 +1,20 @@
+Message-ID: <96e17abd6ea344d290f908a488dd68b5@thyme>
+Date: Sun, 02 Oct 2022 00:00:00 -0700
+From: usuario822@example.com
+To: usuario875@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario822 <usuario822@example.com>
+X-To: Usuario875 <usuario875@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario822_folder\_sent_mail
+X-Origin: usuario822-P
+X-FileName: usuario822.pst
+
+Thank you for your attention
+Please let me know if there are any changes to the schedule.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

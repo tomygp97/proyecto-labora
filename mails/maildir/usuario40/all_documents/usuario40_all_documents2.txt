@@ -1,0 +1,20 @@
+Message-ID: <56d12bf75bd54a89bca768b3df243a61@thyme>
+Date: Wed, 25 Sep 2002 00:00:00 -0700
+From: usuario40@example.com
+To: usuario20@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario40 <usuario40@example.com>
+X-To: Usuario20 <usuario20@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario40_folder\all_documents
+X-Origin: usuario40-P
+X-FileName: usuario40.pst
+
+I hope this email finds you well.
+Please let me know if there's anything else you need from my end.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

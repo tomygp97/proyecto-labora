@@ -1,0 +1,20 @@
+Message-ID: <3c9d3b9e350546b1982f61791ae5eb07@thyme>
+Date: Tue, 19 Sep 2023 00:00:00 -0700
+From: usuario99@example.com
+To: usuario831@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario99 <usuario99@example.com>
+X-To: Usuario831 <usuario831@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario99_folder\_sent_mail
+X-Origin: usuario99-P
+X-FileName: usuario99.pst
+
+I wanted to remind you about the upcoming deadline.
+Let me know if you need any additional details.
+I appreciate your attention to this matter.
+----------------------------------------

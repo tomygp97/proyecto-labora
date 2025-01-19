@@ -1,0 +1,20 @@
+Message-ID: <3fee75e44e71434b9f6475b5ce802924@thyme>
+Date: Fri, 06 Mar 2020 00:00:00 -0700
+From: usuario878@example.com
+To: usuario276@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario878 <usuario878@example.com>
+X-To: Usuario276 <usuario276@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario878_folder\spam
+X-Origin: usuario878-P
+X-FileName: usuario878.pst
+
+Looking forward to hearing from you soon
+Please find the attached report for the last quarter
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

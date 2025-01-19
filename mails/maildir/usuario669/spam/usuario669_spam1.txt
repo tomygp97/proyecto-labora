@@ -1,0 +1,20 @@
+Message-ID: <e4c33717d2dd49ba83c74dbdb476b799@thyme>
+Date: Thu, 02 Sep 2004 00:00:00 -0700
+From: usuario669@example.com
+To: usuario292@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario669 <usuario669@example.com>
+X-To: Usuario292 <usuario292@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario669_folder\spam
+X-Origin: usuario669-P
+X-FileName: usuario669.pst
+
+Here is our forecast
+Please find the latest updates on the project
+Please let me know if there's anything else you need from my end.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <69475faaf80941eda1f1c6cfbfd19959@thyme>
+Date: Fri, 18 Aug 2006 00:00:00 -0700
+From: usuario112@example.com
+To: usuario47@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario112 <usuario112@example.com>
+X-To: Usuario47 <usuario47@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario112_folder\all_documents
+X-Origin: usuario112-P
+X-FileName: usuario112.pst
+
+I wanted to confirm our meeting for tomorrow.
+Looking forward to hearing from you soon
+Hope everything is going well on your end.
+----------------------------------------

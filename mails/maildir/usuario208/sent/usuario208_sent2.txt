@@ -1,0 +1,20 @@
+Message-ID: <5728d73442b648aeb156e4891e1ef612@thyme>
+Date: Tue, 24 Jun 2025 00:00:00 -0700
+From: usuario208@example.com
+To: usuario888@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario208 <usuario208@example.com>
+X-To: Usuario888 <usuario888@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario208_folder\sent
+X-Origin: usuario208-P
+X-FileName: usuario208.pst
+
+Please let me know if there are any changes to the schedule.
+I have included all the necessary details in the attached report.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

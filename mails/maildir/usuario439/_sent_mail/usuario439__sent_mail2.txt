@@ -1,0 +1,20 @@
+Message-ID: <8a838006261c4dce9085ebb3921b7eee@thyme>
+Date: Tue, 17 Mar 2009 00:00:00 -0700
+From: usuario439@example.com
+To: usuario409@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario439 <usuario439@example.com>
+X-To: Usuario409 <usuario409@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario439_folder\_sent_mail
+X-Origin: usuario439-P
+X-FileName: usuario439.pst
+
+I wanted to follow up on our last meeting
+Thank you for your attention
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

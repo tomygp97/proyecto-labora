@@ -1,0 +1,20 @@
+Message-ID: <5ec1303378e9461ba1a53bf8533c2f4c@thyme>
+Date: Thu, 09 Nov 2017 00:00:00 -0700
+From: usuario301@example.com
+To: usuario579@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario301 <usuario301@example.com>
+X-To: Usuario579 <usuario579@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario301_folder\spam
+X-Origin: usuario301-P
+X-FileName: usuario301.pst
+
+I wanted to remind you about the upcoming deadline.
+Please let me know if there are any changes to the schedule.
+I wanted to thank you for your prompt response.
+----------------------------------------

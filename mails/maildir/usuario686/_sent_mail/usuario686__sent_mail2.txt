@@ -1,0 +1,20 @@
+Message-ID: <ed84b500b88842dba7d0bcf48161bae3@thyme>
+Date: Wed, 19 Mar 2003 00:00:00 -0700
+From: usuario686@example.com
+To: usuario66@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario686 <usuario686@example.com>
+X-To: Usuario66 <usuario66@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario686_folder\_sent_mail
+X-Origin: usuario686-P
+X-FileName: usuario686.pst
+
+Here are the next steps we need to take.
+Here are the documents I mentioned during our call.
+I wanted to give you an update on the status of the project.
+----------------------------------------

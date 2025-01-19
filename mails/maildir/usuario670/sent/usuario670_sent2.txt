@@ -1,0 +1,20 @@
+Message-ID: <cb97d2489ea9482eb578fb0d296bb51e@thyme>
+Date: Tue, 02 Jan 2024 00:00:00 -0700
+From: usuario670@example.com
+To: usuario394@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario670 <usuario670@example.com>
+X-To: Usuario394 <usuario394@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario670_folder\sent
+X-Origin: usuario670-P
+X-FileName: usuario670.pst
+
+I wanted to follow up on our last meeting
+Please let me know if there are any changes to the schedule.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

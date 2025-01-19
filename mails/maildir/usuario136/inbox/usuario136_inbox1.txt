@@ -1,0 +1,20 @@
+Message-ID: <22aac08d7e0d4bc6814de35303cda93b@thyme>
+Date: Fri, 22 Nov 2019 00:00:00 -0700
+From: usuario136@example.com
+To: usuario26@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario136 <usuario136@example.com>
+X-To: Usuario26 <usuario26@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario136_folder\inbox
+X-Origin: usuario136-P
+X-FileName: usuario136.pst
+
+I would love to hear your feedback on the proposal.
+Hope everything is going well on your end.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

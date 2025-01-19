@@ -1,0 +1,20 @@
+Message-ID: <d5f4b53fb35649f6af538c228dcc7550@thyme>
+Date: Sun, 04 Dec 2005 00:00:00 -0700
+From: usuario923@example.com
+To: usuario318@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario923 <usuario923@example.com>
+X-To: Usuario318 <usuario318@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario923_folder\sent
+X-Origin: usuario923-P
+X-FileName: usuario923.pst
+
+I wanted to confirm our meeting for tomorrow.
+As discussed, I have attached the report you requested.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

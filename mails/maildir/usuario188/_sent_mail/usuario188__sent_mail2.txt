@@ -1,0 +1,20 @@
+Message-ID: <6329c716b0724c7981c5c5a7086a2999@thyme>
+Date: Sun, 12 Aug 2018 00:00:00 -0700
+From: usuario188@example.com
+To: usuario288@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario188 <usuario188@example.com>
+X-To: Usuario288 <usuario288@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario188_folder\_sent_mail
+X-Origin: usuario188-P
+X-FileName: usuario188.pst
+
+I have included all the necessary details in the attached report.
+Just wanted to touch base on the upcoming project milestone.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

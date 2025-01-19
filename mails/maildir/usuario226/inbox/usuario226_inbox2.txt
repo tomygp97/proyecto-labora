@@ -1,0 +1,20 @@
+Message-ID: <2da90edf728f4ee3bb505fc639815d9d@thyme>
+Date: Tue, 14 Nov 2000 00:00:00 -0700
+From: usuario226@example.com
+To: usuario329@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario226 <usuario226@example.com>
+X-To: Usuario329 <usuario329@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario226_folder\inbox
+X-Origin: usuario226-P
+X-FileName: usuario226.pst
+
+I wanted to check in regarding the status of the project.
+Here is a summary of the last meeting for your reference.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

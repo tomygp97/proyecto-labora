@@ -1,0 +1,20 @@
+Message-ID: <f27094281d3a49cda476ce78562ca05b@thyme>
+Date: Sat, 14 Sep 2019 00:00:00 -0700
+From: usuario263@example.com
+To: usuario870@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario263 <usuario263@example.com>
+X-To: Usuario870 <usuario870@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario263_folder\inbox
+X-Origin: usuario263-P
+X-FileName: usuario263.pst
+
+Please find the latest updates on the project
+I wanted to confirm our meeting for tomorrow.
+I hope you're enjoying a nice week so far.
+----------------------------------------

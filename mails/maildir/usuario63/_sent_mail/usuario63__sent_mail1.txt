@@ -1,0 +1,20 @@
+Message-ID: <214d8f21f5b7471884521b2a2c017085@thyme>
+Date: Tue, 31 Mar 2020 00:00:00 -0700
+From: usuario63@example.com
+To: usuario664@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario63 <usuario63@example.com>
+X-To: Usuario664 <usuario664@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario63_folder\_sent_mail
+X-Origin: usuario63-P
+X-FileName: usuario63.pst
+
+Hope everything is going well on your end.
+I wanted to thank you for your prompt response.
+I wanted to give you an update on the status of the project.
+----------------------------------------

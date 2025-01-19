@@ -1,0 +1,20 @@
+Message-ID: <9341f56b294544df994ebc0a9c67926d@thyme>
+Date: Thu, 03 Mar 2005 00:00:00 -0700
+From: usuario474@example.com
+To: usuario884@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario474 <usuario474@example.com>
+X-To: Usuario884 <usuario884@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario474_folder\spam
+X-Origin: usuario474-P
+X-FileName: usuario474.pst
+
+Hope everything is going well on your end.
+Thank you for your attention
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <150c238e1c0f4dc7b6160fd77fcbf551@thyme>
+Date: Mon, 04 Jul 2005 00:00:00 -0700
+From: usuario321@example.com
+To: usuario680@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario321 <usuario321@example.com>
+X-To: Usuario680 <usuario680@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario321_folder\inbox
+X-Origin: usuario321-P
+X-FileName: usuario321.pst
+
+Here is our forecast
+Here are the results from the analysis we discussed.
+Looking forward to hearing from you soon
+----------------------------------------

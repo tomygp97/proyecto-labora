@@ -1,0 +1,20 @@
+Message-ID: <8d46bf75bc8e49a0ab7728c9ca12338d@thyme>
+Date: Wed, 12 Jan 2022 00:00:00 -0700
+From: usuario456@example.com
+To: usuario387@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario456 <usuario456@example.com>
+X-To: Usuario387 <usuario387@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario456_folder\spam
+X-Origin: usuario456-P
+X-FileName: usuario456.pst
+
+I wanted to thank you for your prompt response.
+I would love to hear your feedback on the proposal.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

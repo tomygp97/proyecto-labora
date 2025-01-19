@@ -1,0 +1,20 @@
+Message-ID: <4d9c7da7b5cf431a9d2a0b3035e3277c@thyme>
+Date: Mon, 17 Jul 2006 00:00:00 -0700
+From: usuario83@example.com
+To: usuario114@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario83 <usuario83@example.com>
+X-To: Usuario114 <usuario114@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario83_folder\all_documents
+X-Origin: usuario83-P
+X-FileName: usuario83.pst
+
+As discussed, I have attached the report you requested.
+Please let me know if there are any changes to the schedule.
+Here are the next steps we need to take.
+----------------------------------------

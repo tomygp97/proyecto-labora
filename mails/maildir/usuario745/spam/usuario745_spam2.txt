@@ -1,0 +1,20 @@
+Message-ID: <c9a4535d3ee148deb03143f159fcfd10@thyme>
+Date: Wed, 17 Feb 2010 00:00:00 -0700
+From: usuario745@example.com
+To: usuario154@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario745 <usuario745@example.com>
+X-To: Usuario154 <usuario154@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario745_folder\spam
+X-Origin: usuario745-P
+X-FileName: usuario745.pst
+
+I wanted to remind you about the upcoming deadline.
+Please make sure to go through the attached documents before our meeting.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

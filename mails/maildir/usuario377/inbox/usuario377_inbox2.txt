@@ -1,0 +1,20 @@
+Message-ID: <4b5ba0a1697d430abd13554211c364f3@thyme>
+Date: Mon, 20 Aug 2012 00:00:00 -0700
+From: usuario377@example.com
+To: usuario870@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario377 <usuario377@example.com>
+X-To: Usuario870 <usuario870@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario377_folder\inbox
+X-Origin: usuario377-P
+X-FileName: usuario377.pst
+
+I wanted to check in regarding the status of the project.
+Can you please confirm receipt of the files?
+I look forward to collaborating further on this initiative.
+----------------------------------------

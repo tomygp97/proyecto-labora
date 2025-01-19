@@ -1,0 +1,20 @@
+Message-ID: <20a961d977b94d52bfca661d33595eed@thyme>
+Date: Tue, 17 Oct 2023 00:00:00 -0700
+From: usuario733@example.com
+To: usuario418@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario733 <usuario733@example.com>
+X-To: Usuario418 <usuario418@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario733_folder\inbox
+X-Origin: usuario733-P
+X-FileName: usuario733.pst
+
+I wanted to confirm our meeting for tomorrow.
+Here are the documents I mentioned during our call.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

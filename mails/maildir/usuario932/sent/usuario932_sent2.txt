@@ -1,0 +1,20 @@
+Message-ID: <29470511272c4614bb868244999fbf32@thyme>
+Date: Sat, 21 Sep 2013 00:00:00 -0700
+From: usuario932@example.com
+To: usuario372@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario932 <usuario932@example.com>
+X-To: Usuario372 <usuario372@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario932_folder\sent
+X-Origin: usuario932-P
+X-FileName: usuario932.pst
+
+I hope this email finds you well.
+Looking forward to hearing from you soon
+Hope you're doing well. Here's the requested information.
+----------------------------------------

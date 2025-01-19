@@ -1,0 +1,20 @@
+Message-ID: <7b2159a6899e46ea978831476bdd2a1c@thyme>
+Date: Mon, 12 Sep 2005 00:00:00 -0700
+From: usuario879@example.com
+To: usuario866@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario879 <usuario879@example.com>
+X-To: Usuario866 <usuario866@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario879_folder\all_documents
+X-Origin: usuario879-P
+X-FileName: usuario879.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I look forward to collaborating further on this initiative.
+Here is our forecast
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <6902636c06bb4ab8a02ea3801bd07798@thyme>
+Date: Thu, 26 May 2016 00:00:00 -0700
+From: usuario650@example.com
+To: usuario333@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario650 <usuario650@example.com>
+X-To: Usuario333 <usuario333@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario650_folder\sent
+X-Origin: usuario650-P
+X-FileName: usuario650.pst
+
+Please review the materials at your earliest convenience.
+Please review the attached files and provide feedback.
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <854f62d51ccb4a3b90b1e44dc51592ee@thyme>
+Date: Fri, 08 Apr 2022 00:00:00 -0700
+From: usuario776@example.com
+To: usuario824@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario776 <usuario776@example.com>
+X-To: Usuario824 <usuario824@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario776_folder\_sent_mail
+X-Origin: usuario776-P
+X-FileName: usuario776.pst
+
+Please find the latest updates on the project
+Please review the attached files and provide feedback.
+I hope you're having a productive week.
+----------------------------------------

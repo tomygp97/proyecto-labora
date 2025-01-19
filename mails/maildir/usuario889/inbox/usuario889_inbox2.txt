@@ -1,0 +1,20 @@
+Message-ID: <ca0c018614144bbbbc7f0d5e47ba47f7@thyme>
+Date: Thu, 07 Jul 2011 00:00:00 -0700
+From: usuario889@example.com
+To: usuario715@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario889 <usuario889@example.com>
+X-To: Usuario715 <usuario715@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario889_folder\inbox
+X-Origin: usuario889-P
+X-FileName: usuario889.pst
+
+I have included all the necessary details in the attached report.
+Please review the materials at your earliest convenience.
+Please find the latest updates on the project
+----------------------------------------

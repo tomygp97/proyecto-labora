@@ -1,0 +1,20 @@
+Message-ID: <9839644af8a4472b8c658c55b4603184@thyme>
+Date: Sat, 15 Aug 2020 00:00:00 -0700
+From: usuario275@example.com
+To: usuario180@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario275 <usuario275@example.com>
+X-To: Usuario180 <usuario180@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario275_folder\inbox
+X-Origin: usuario275-P
+X-FileName: usuario275.pst
+
+Please review the attached files and provide feedback.
+I hope you're enjoying a nice week so far.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

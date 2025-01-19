@@ -1,0 +1,20 @@
+Message-ID: <0a8fc8acfee34e0fbb520ce9986c25b6@thyme>
+Date: Thu, 25 Jul 2013 00:00:00 -0700
+From: usuario410@example.com
+To: usuario446@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario410 <usuario410@example.com>
+X-To: Usuario446 <usuario446@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario410_folder\inbox
+X-Origin: usuario410-P
+X-FileName: usuario410.pst
+
+As discussed, I have attached the report you requested.
+Please find the attached report for the last quarter
+Just checking in to see if you've received my previous email.
+----------------------------------------

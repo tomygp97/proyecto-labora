@@ -1,0 +1,20 @@
+Message-ID: <62e5008ea8d84caca5bd816585379ec6@thyme>
+Date: Wed, 25 Aug 2004 00:00:00 -0700
+From: usuario178@example.com
+To: usuario428@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario178 <usuario178@example.com>
+X-To: Usuario428 <usuario428@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario178_folder\spam
+X-Origin: usuario178-P
+X-FileName: usuario178.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+I wanted to check in regarding the status of the project.
+Just checking in to see if you've received my previous email.
+----------------------------------------

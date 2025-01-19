@@ -1,0 +1,20 @@
+Message-ID: <2e322724aacc457199732fdf90b1b643@thyme>
+Date: Wed, 25 Jan 2012 00:00:00 -0700
+From: usuario366@example.com
+To: usuario248@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario366 <usuario366@example.com>
+X-To: Usuario248 <usuario248@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario366_folder\inbox
+X-Origin: usuario366-P
+X-FileName: usuario366.pst
+
+Let me know if you need any additional details.
+Here are the next steps we need to take.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

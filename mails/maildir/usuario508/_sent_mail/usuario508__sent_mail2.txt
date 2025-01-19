@@ -1,0 +1,20 @@
+Message-ID: <fe14eeb8fd8c4f89a0da7c283cd77ece@thyme>
+Date: Fri, 19 May 2000 00:00:00 -0700
+From: usuario508@example.com
+To: usuario16@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario508 <usuario508@example.com>
+X-To: Usuario16 <usuario16@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario508_folder\_sent_mail
+X-Origin: usuario508-P
+X-FileName: usuario508.pst
+
+I hope you're enjoying a nice week so far.
+I would love to hear your feedback on the proposal.
+As discussed, I have attached the report you requested.
+----------------------------------------

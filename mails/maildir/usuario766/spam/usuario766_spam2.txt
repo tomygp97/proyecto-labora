@@ -1,0 +1,20 @@
+Message-ID: <59795f2620234145873e52fd3dc865c2@thyme>
+Date: Fri, 26 Oct 2007 00:00:00 -0700
+From: usuario766@example.com
+To: usuario158@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario766 <usuario766@example.com>
+X-To: Usuario158 <usuario158@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario766_folder\spam
+X-Origin: usuario766-P
+X-FileName: usuario766.pst
+
+Please find the attached report for the last quarter
+Please find the latest updates on the project
+I hope you're enjoying a nice week so far.
+----------------------------------------

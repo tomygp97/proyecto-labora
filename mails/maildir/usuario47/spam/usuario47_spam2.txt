@@ -1,0 +1,20 @@
+Message-ID: <cf1b1d3b188c4198896bc537371c7a74@thyme>
+Date: Wed, 30 Aug 2017 00:00:00 -0700
+From: usuario47@example.com
+To: usuario877@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario47 <usuario47@example.com>
+X-To: Usuario877 <usuario877@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario47_folder\spam
+X-Origin: usuario47-P
+X-FileName: usuario47.pst
+
+I look forward to your response.
+Please let me know if there's anything else you need from my end.
+I wanted to follow up on our last meeting
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <3b17491846764bb995b43d15ee0a2522@thyme>
+Date: Tue, 10 Jan 2012 00:00:00 -0700
+From: usuario561@example.com
+To: usuario528@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario561 <usuario561@example.com>
+X-To: Usuario528 <usuario528@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario561_folder\inbox
+X-Origin: usuario561-P
+X-FileName: usuario561.pst
+
+I hope you're enjoying a nice week so far.
+I look forward to collaborating further on this initiative.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

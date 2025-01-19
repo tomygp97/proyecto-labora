@@ -1,0 +1,20 @@
+Message-ID: <ec67caab482042348cdbd36c510d61d1@thyme>
+Date: Wed, 21 Apr 2021 00:00:00 -0700
+From: usuario27@example.com
+To: usuario200@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario27 <usuario27@example.com>
+X-To: Usuario200 <usuario200@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario27_folder\sent
+X-Origin: usuario27-P
+X-FileName: usuario27.pst
+
+Please review the materials at your earliest convenience.
+Here are the next steps we need to take.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

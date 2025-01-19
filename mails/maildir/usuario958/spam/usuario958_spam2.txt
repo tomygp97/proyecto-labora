@@ -1,0 +1,20 @@
+Message-ID: <c4bf5ed341544c1381b54561d01d5625@thyme>
+Date: Wed, 27 Sep 2023 00:00:00 -0700
+From: usuario958@example.com
+To: usuario202@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario958 <usuario958@example.com>
+X-To: Usuario202 <usuario202@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario958_folder\spam
+X-Origin: usuario958-P
+X-FileName: usuario958.pst
+
+Here are the results from the analysis we discussed.
+I wanted to confirm our meeting for tomorrow.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

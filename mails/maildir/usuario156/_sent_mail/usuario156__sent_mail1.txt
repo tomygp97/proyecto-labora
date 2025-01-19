@@ -1,0 +1,20 @@
+Message-ID: <248b2d721aba46f28a9132244ee5ad0d@thyme>
+Date: Tue, 06 Aug 2002 00:00:00 -0700
+From: usuario156@example.com
+To: usuario541@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario156 <usuario156@example.com>
+X-To: Usuario541 <usuario541@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario156_folder\_sent_mail
+X-Origin: usuario156-P
+X-FileName: usuario156.pst
+
+Looking forward to hearing from you soon
+Please don't hesitate to reach out if you need any help.
+I look forward to collaborating further on this initiative.
+----------------------------------------

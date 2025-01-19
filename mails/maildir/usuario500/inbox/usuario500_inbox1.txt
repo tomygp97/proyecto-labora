@@ -1,0 +1,20 @@
+Message-ID: <1666d491a0544b60a70dce394589fc42@thyme>
+Date: Mon, 12 Feb 2024 00:00:00 -0700
+From: usuario500@example.com
+To: usuario719@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario500 <usuario500@example.com>
+X-To: Usuario719 <usuario719@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario500_folder\inbox
+X-Origin: usuario500-P
+X-FileName: usuario500.pst
+
+I wanted to thank you for your prompt response.
+Here is a summary of the last meeting for your reference.
+Please review the materials at your earliest convenience.
+----------------------------------------

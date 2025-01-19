@@ -1,0 +1,20 @@
+Message-ID: <f3db7851249944cd945dc6cffb999570@thyme>
+Date: Wed, 18 Oct 2000 00:00:00 -0700
+From: usuario229@example.com
+To: usuario362@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario229 <usuario229@example.com>
+X-To: Usuario362 <usuario362@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario229_folder\sent
+X-Origin: usuario229-P
+X-FileName: usuario229.pst
+
+Please find the attached report for the last quarter
+Looking forward to discussing the project in more detail soon.
+I would love to hear your feedback on the proposal.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <04f8858d1bc7468f9a12fb64355dbd78@thyme>
+Date: Mon, 01 Sep 2008 00:00:00 -0700
+From: usuario861@example.com
+To: usuario137@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario861 <usuario861@example.com>
+X-To: Usuario137 <usuario137@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario861_folder\sent
+X-Origin: usuario861-P
+X-FileName: usuario861.pst
+
+Thank you for your attention
+Please let me know if there are any issues with the attached files.
+I would love to hear your feedback on the proposal.
+----------------------------------------

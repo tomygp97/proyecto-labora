@@ -1,0 +1,20 @@
+Message-ID: <9544e11a3a084e6d90e8e06c71e4dd91@thyme>
+Date: Thu, 07 Jan 2021 00:00:00 -0700
+From: usuario369@example.com
+To: usuario967@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario369 <usuario369@example.com>
+X-To: Usuario967 <usuario967@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario369_folder\spam
+X-Origin: usuario369-P
+X-FileName: usuario369.pst
+
+Please find the attached report for the last quarter
+Please find the latest updates on the project
+I look forward to your response.
+----------------------------------------

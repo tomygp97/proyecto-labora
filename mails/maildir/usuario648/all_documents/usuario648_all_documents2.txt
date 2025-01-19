@@ -1,0 +1,20 @@
+Message-ID: <aeafd8a9105d49a480d48344258c249f@thyme>
+Date: Thu, 18 Jul 2013 00:00:00 -0700
+From: usuario648@example.com
+To: usuario625@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario648 <usuario648@example.com>
+X-To: Usuario625 <usuario625@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario648_folder\all_documents
+X-Origin: usuario648-P
+X-FileName: usuario648.pst
+
+Looking forward to discussing the project in more detail soon.
+Looking forward to hearing from you soon
+I wanted to give you an update on the status of the project.
+----------------------------------------

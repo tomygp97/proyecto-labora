@@ -1,0 +1,20 @@
+Message-ID: <c5b08fe278ce4b8182564c0f9f4749ef@thyme>
+Date: Wed, 13 Oct 2004 00:00:00 -0700
+From: usuario706@example.com
+To: usuario515@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario706 <usuario706@example.com>
+X-To: Usuario515 <usuario515@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario706_folder\_sent_mail
+X-Origin: usuario706-P
+X-FileName: usuario706.pst
+
+Here is a summary of the last meeting for your reference.
+I wanted to give you an update on the status of the project.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <cdf12a1868494ff0b24a829fd77f201e@thyme>
+Date: Sat, 27 Jan 2001 00:00:00 -0700
+From: usuario446@example.com
+To: usuario576@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario446 <usuario446@example.com>
+X-To: Usuario576 <usuario576@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario446_folder\spam
+X-Origin: usuario446-P
+X-FileName: usuario446.pst
+
+I hope you're having a productive week.
+I would love to hear your feedback on the proposal.
+I hope this email finds you well.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <f25a65b71f5f474ca5ed4860a6b67091@thyme>
+Date: Thu, 15 Mar 2001 00:00:00 -0700
+From: usuario231@example.com
+To: usuario910@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario231 <usuario231@example.com>
+X-To: Usuario910 <usuario910@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario231_folder\inbox
+X-Origin: usuario231-P
+X-FileName: usuario231.pst
+
+I look forward to collaborating further on this initiative.
+Just checking in to see if you've received my previous email.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

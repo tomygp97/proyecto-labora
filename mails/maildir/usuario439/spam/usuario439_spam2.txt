@@ -1,0 +1,20 @@
+Message-ID: <71d6f8a7f4c2421ca1e217ab8e3cb0b8@thyme>
+Date: Tue, 24 May 2005 00:00:00 -0700
+From: usuario439@example.com
+To: usuario873@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario439 <usuario439@example.com>
+X-To: Usuario873 <usuario873@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario439_folder\spam
+X-Origin: usuario439-P
+X-FileName: usuario439.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here is a summary of the last meeting for your reference.
+Let me know if there's anything I can assist you with.
+----------------------------------------

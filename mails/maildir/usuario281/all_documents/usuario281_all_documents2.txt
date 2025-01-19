@@ -1,0 +1,20 @@
+Message-ID: <a22bd2547ae94757a2e891399b5cb483@thyme>
+Date: Wed, 07 Apr 2010 00:00:00 -0700
+From: usuario281@example.com
+To: usuario258@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario281 <usuario281@example.com>
+X-To: Usuario258 <usuario258@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario281_folder\all_documents
+X-Origin: usuario281-P
+X-FileName: usuario281.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Thank you for your attention
+Just checking in to see if you've received my previous email.
+----------------------------------------

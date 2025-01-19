@@ -1,0 +1,20 @@
+Message-ID: <a45077998818481da9f53a47f29d80b3@thyme>
+Date: Fri, 04 Jun 2010 00:00:00 -0700
+From: usuario377@example.com
+To: usuario68@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario377 <usuario377@example.com>
+X-To: Usuario68 <usuario68@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario377_folder\_sent_mail
+X-Origin: usuario377-P
+X-FileName: usuario377.pst
+
+Thank you for your attention
+Please don't hesitate to reach out if you need any help.
+Please find the latest updates on the project
+----------------------------------------

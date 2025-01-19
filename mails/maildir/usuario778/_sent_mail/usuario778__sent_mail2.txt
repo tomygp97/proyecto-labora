@@ -1,0 +1,20 @@
+Message-ID: <f960cb48c3174a31ad4101b0b7571830@thyme>
+Date: Fri, 25 Mar 2011 00:00:00 -0700
+From: usuario778@example.com
+To: usuario585@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario778 <usuario778@example.com>
+X-To: Usuario585 <usuario585@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario778_folder\_sent_mail
+X-Origin: usuario778-P
+X-FileName: usuario778.pst
+
+Hope everything is going well on your end.
+I trust the documents will be helpful for our upcoming discussion.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

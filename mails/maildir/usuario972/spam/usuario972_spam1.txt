@@ -1,0 +1,20 @@
+Message-ID: <afc17dbf80b343bc881e07ff44ec7953@thyme>
+Date: Tue, 08 Jul 2003 00:00:00 -0700
+From: usuario972@example.com
+To: usuario903@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario972 <usuario972@example.com>
+X-To: Usuario903 <usuario903@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario972_folder\spam
+X-Origin: usuario972-P
+X-FileName: usuario972.pst
+
+I wanted to thank you for your prompt response.
+Here are the documents I mentioned during our call.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

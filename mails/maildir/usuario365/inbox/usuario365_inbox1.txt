@@ -1,0 +1,20 @@
+Message-ID: <6f1a0f5f855244efaa4937ef1317e03b@thyme>
+Date: Sun, 06 Nov 2011 00:00:00 -0700
+From: usuario365@example.com
+To: usuario802@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario365 <usuario365@example.com>
+X-To: Usuario802 <usuario802@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario365_folder\inbox
+X-Origin: usuario365-P
+X-FileName: usuario365.pst
+
+Here is our forecast
+Let me know if you'd like to schedule a follow-up discussion.
+I have included all the necessary details in the attached report.
+----------------------------------------

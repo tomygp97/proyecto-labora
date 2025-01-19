@@ -1,0 +1,20 @@
+Message-ID: <761f135a23044ae8b6276b0fd55121db@thyme>
+Date: Thu, 24 Aug 2023 00:00:00 -0700
+From: usuario391@example.com
+To: usuario920@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario391 <usuario391@example.com>
+X-To: Usuario920 <usuario920@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario391_folder\sent
+X-Origin: usuario391-P
+X-FileName: usuario391.pst
+
+Please review the attached files and provide feedback.
+Hope you're doing well. Here's the requested information.
+I hope you're enjoying a nice week so far.
+----------------------------------------

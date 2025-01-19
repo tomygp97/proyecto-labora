@@ -1,0 +1,20 @@
+Message-ID: <41980394090f4ffd8d3a4f4cb9ab2cd2@thyme>
+Date: Mon, 09 Jun 2014 00:00:00 -0700
+From: usuario631@example.com
+To: usuario146@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario631 <usuario631@example.com>
+X-To: Usuario146 <usuario146@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario631_folder\all_documents
+X-Origin: usuario631-P
+X-FileName: usuario631.pst
+
+Let me know if there's anything I can assist you with.
+Please make sure to go through the attached documents before our meeting.
+I have included all the necessary details in the attached report.
+----------------------------------------

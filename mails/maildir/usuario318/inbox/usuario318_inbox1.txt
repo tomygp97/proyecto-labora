@@ -1,0 +1,20 @@
+Message-ID: <469b7d91389840218dfc9330ea1125ef@thyme>
+Date: Sun, 06 Nov 2016 00:00:00 -0700
+From: usuario318@example.com
+To: usuario809@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario318 <usuario318@example.com>
+X-To: Usuario809 <usuario809@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario318_folder\inbox
+X-Origin: usuario318-P
+X-FileName: usuario318.pst
+
+Please let me know if there are any changes to the schedule.
+Here are the documents I mentioned during our call.
+I wanted to follow up on our last meeting
+----------------------------------------

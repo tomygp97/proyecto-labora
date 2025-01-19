@@ -1,0 +1,20 @@
+Message-ID: <ca44dbc51a8a42f9a1efbe3e8fc49fb4@thyme>
+Date: Tue, 25 Jul 2017 00:00:00 -0700
+From: usuario177@example.com
+To: usuario547@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario177 <usuario177@example.com>
+X-To: Usuario547 <usuario547@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario177_folder\sent
+X-Origin: usuario177-P
+X-FileName: usuario177.pst
+
+Please review the materials at your earliest convenience.
+Here are the documents I mentioned during our call.
+Please find the attached report for the last quarter
+----------------------------------------

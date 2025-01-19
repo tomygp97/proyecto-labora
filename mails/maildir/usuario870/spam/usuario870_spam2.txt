@@ -1,0 +1,20 @@
+Message-ID: <fe5d3a9e709e4846b2aabe1c05a761da@thyme>
+Date: Sun, 17 May 2009 00:00:00 -0700
+From: usuario870@example.com
+To: usuario558@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario870 <usuario870@example.com>
+X-To: Usuario558 <usuario558@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario870_folder\spam
+X-Origin: usuario870-P
+X-FileName: usuario870.pst
+
+I look forward to collaborating further on this initiative.
+Can you please confirm receipt of the files?
+I appreciate your attention to this matter.
+----------------------------------------

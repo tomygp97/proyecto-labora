@@ -1,0 +1,20 @@
+Message-ID: <0f229226f6314591bb6e473d19c9b40f@thyme>
+Date: Sun, 12 Dec 2010 00:00:00 -0700
+From: usuario701@example.com
+To: usuario658@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario701 <usuario701@example.com>
+X-To: Usuario658 <usuario658@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario701_folder\sent
+X-Origin: usuario701-P
+X-FileName: usuario701.pst
+
+Hope everything is going well on your end.
+I appreciate your attention to this matter.
+Please find the latest updates on the project
+----------------------------------------

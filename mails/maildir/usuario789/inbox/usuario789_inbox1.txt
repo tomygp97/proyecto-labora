@@ -1,0 +1,20 @@
+Message-ID: <59379bb2f56f4c2e9d7db8aae79cbc86@thyme>
+Date: Mon, 13 Jun 2016 00:00:00 -0700
+From: usuario789@example.com
+To: usuario987@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario789 <usuario789@example.com>
+X-To: Usuario987 <usuario987@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario789_folder\inbox
+X-Origin: usuario789-P
+X-FileName: usuario789.pst
+
+Here are the documents I mentioned during our call.
+I wanted to confirm our meeting for tomorrow.
+I wanted to thank you for your prompt response.
+----------------------------------------

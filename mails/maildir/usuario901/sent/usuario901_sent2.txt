@@ -1,0 +1,20 @@
+Message-ID: <c9adca1f7ade4dba8c3216d2cc71b350@thyme>
+Date: Wed, 30 Oct 2019 00:00:00 -0700
+From: usuario901@example.com
+To: usuario429@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario901 <usuario901@example.com>
+X-To: Usuario429 <usuario429@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario901_folder\sent
+X-Origin: usuario901-P
+X-FileName: usuario901.pst
+
+Can you please confirm receipt of the files?
+Please review the materials at your earliest convenience.
+Just checking in to see if you've received my previous email.
+----------------------------------------

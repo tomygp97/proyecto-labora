@@ -1,0 +1,20 @@
+Message-ID: <3605577ab55b4c5387cd1fbe667c2810@thyme>
+Date: Sun, 17 Jul 2016 00:00:00 -0700
+From: usuario670@example.com
+To: usuario328@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario670 <usuario670@example.com>
+X-To: Usuario328 <usuario328@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario670_folder\inbox
+X-Origin: usuario670-P
+X-FileName: usuario670.pst
+
+Here is a summary of the last meeting for your reference.
+I wanted to thank you for your prompt response.
+Let me know if there's anything I can assist you with.
+----------------------------------------

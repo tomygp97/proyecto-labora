@@ -1,0 +1,20 @@
+Message-ID: <65cfe1cfc68e441da57567da039d300d@thyme>
+Date: Sun, 28 Dec 2003 00:00:00 -0700
+From: usuario305@example.com
+To: usuario891@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario305 <usuario305@example.com>
+X-To: Usuario891 <usuario891@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario305_folder\spam
+X-Origin: usuario305-P
+X-FileName: usuario305.pst
+
+Please review the attached files and provide feedback.
+Let me know if you'd like to schedule a follow-up discussion.
+I hope this email finds you well.
+----------------------------------------

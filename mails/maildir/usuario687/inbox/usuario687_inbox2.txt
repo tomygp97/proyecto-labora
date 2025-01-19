@@ -1,0 +1,20 @@
+Message-ID: <ff40e2cc18f8486c9be8f1ae2b5082c4@thyme>
+Date: Sat, 25 Dec 2010 00:00:00 -0700
+From: usuario687@example.com
+To: usuario100@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario687 <usuario687@example.com>
+X-To: Usuario100 <usuario100@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario687_folder\inbox
+X-Origin: usuario687-P
+X-FileName: usuario687.pst
+
+I wanted to thank you for your prompt response.
+Let me know if there's anything I can assist you with.
+I hope you're having a productive week.
+----------------------------------------

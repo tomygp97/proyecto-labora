@@ -1,0 +1,20 @@
+Message-ID: <72e09b67f2634b81aca1015c2f5b909f@thyme>
+Date: Tue, 23 Jun 2020 00:00:00 -0700
+From: usuario248@example.com
+To: usuario378@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario248 <usuario248@example.com>
+X-To: Usuario378 <usuario378@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario248_folder\_sent_mail
+X-Origin: usuario248-P
+X-FileName: usuario248.pst
+
+Please review the attached files and provide feedback.
+Here is a summary of the last meeting for your reference.
+I hope you're enjoying a nice week so far.
+----------------------------------------

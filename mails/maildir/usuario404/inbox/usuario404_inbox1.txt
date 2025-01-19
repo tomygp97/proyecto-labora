@@ -1,0 +1,20 @@
+Message-ID: <f22b87d92d724c7bba7a90cf1af20059@thyme>
+Date: Tue, 24 Jan 2023 00:00:00 -0700
+From: usuario404@example.com
+To: usuario143@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario404 <usuario404@example.com>
+X-To: Usuario143 <usuario143@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario404_folder\inbox
+X-Origin: usuario404-P
+X-FileName: usuario404.pst
+
+Please let me know if there are any changes to the schedule.
+I wanted to confirm our meeting for tomorrow.
+I wanted to give you an update on the status of the project.
+----------------------------------------

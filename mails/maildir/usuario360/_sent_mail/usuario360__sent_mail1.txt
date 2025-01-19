@@ -1,0 +1,20 @@
+Message-ID: <0d207dfeac4d4b39b55be6f215fba96d@thyme>
+Date: Tue, 20 Jun 2017 00:00:00 -0700
+From: usuario360@example.com
+To: usuario207@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario360 <usuario360@example.com>
+X-To: Usuario207 <usuario207@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario360_folder\_sent_mail
+X-Origin: usuario360-P
+X-FileName: usuario360.pst
+
+Thank you for your attention
+I would love to hear your feedback on the proposal.
+Please find the attached report for the last quarter
+----------------------------------------

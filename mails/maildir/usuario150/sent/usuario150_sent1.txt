@@ -1,0 +1,20 @@
+Message-ID: <5e334506a95545d1928f4633551ef441@thyme>
+Date: Tue, 17 May 2022 00:00:00 -0700
+From: usuario150@example.com
+To: usuario737@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario150 <usuario150@example.com>
+X-To: Usuario737 <usuario737@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario150_folder\sent
+X-Origin: usuario150-P
+X-FileName: usuario150.pst
+
+As discussed, I have attached the report you requested.
+Please let me know if there are any issues with the attached files.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <35499e3c5dec4da8a587fa7c3d1ad53e@thyme>
+Date: Sat, 20 Jul 2002 00:00:00 -0700
+From: usuario550@example.com
+To: usuario800@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario550 <usuario550@example.com>
+X-To: Usuario800 <usuario800@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario550_folder\spam
+X-Origin: usuario550-P
+X-FileName: usuario550.pst
+
+Please review the materials at your earliest convenience.
+Let me know if you'd like to schedule a follow-up discussion.
+I wanted to follow up on our last meeting
+----------------------------------------

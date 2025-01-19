@@ -1,0 +1,20 @@
+Message-ID: <307d479a384240418e8775888a681438@thyme>
+Date: Fri, 24 May 2013 00:00:00 -0700
+From: usuario484@example.com
+To: usuario77@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario484 <usuario484@example.com>
+X-To: Usuario77 <usuario77@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario484_folder\spam
+X-Origin: usuario484-P
+X-FileName: usuario484.pst
+
+Please let me know if there are any issues with the attached files.
+Can you please confirm receipt of the files?
+Please review the materials at your earliest convenience.
+----------------------------------------

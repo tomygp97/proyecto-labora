@@ -1,0 +1,20 @@
+Message-ID: <6512b10da6a84f7b8d82dcc1ddc8f420@thyme>
+Date: Tue, 07 Dec 2010 00:00:00 -0700
+From: usuario82@example.com
+To: usuario824@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario82 <usuario82@example.com>
+X-To: Usuario824 <usuario824@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario82_folder\all_documents
+X-Origin: usuario82-P
+X-FileName: usuario82.pst
+
+I hope you're having a productive week.
+Just wanted to touch base on the upcoming project milestone.
+Let me know if you need any additional details.
+----------------------------------------

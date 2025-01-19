@@ -1,0 +1,20 @@
+Message-ID: <b024c62e04cd4a1abb7dc9d3dbba27f5@thyme>
+Date: Mon, 13 Sep 2021 00:00:00 -0700
+From: usuario305@example.com
+To: usuario912@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario305 <usuario305@example.com>
+X-To: Usuario912 <usuario912@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario305_folder\_sent_mail
+X-Origin: usuario305-P
+X-FileName: usuario305.pst
+
+I wanted to thank you for your prompt response.
+I wanted to check in regarding the status of the project.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

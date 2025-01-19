@@ -1,0 +1,20 @@
+Message-ID: <061c95a2eaf84abca05344ddeda61873@thyme>
+Date: Tue, 18 Mar 2025 00:00:00 -0700
+From: usuario772@example.com
+To: usuario333@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario772 <usuario772@example.com>
+X-To: Usuario333 <usuario333@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario772_folder\_sent_mail
+X-Origin: usuario772-P
+X-FileName: usuario772.pst
+
+I have included all the necessary details in the attached report.
+Please make sure to go through the attached documents before our meeting.
+Hope everything is going well on your end.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <162576b54cd94dcb803c674a13dfbe0d@thyme>
+Date: Thu, 03 Feb 2005 00:00:00 -0700
+From: usuario130@example.com
+To: usuario419@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario130 <usuario130@example.com>
+X-To: Usuario419 <usuario419@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario130_folder\_sent_mail
+X-Origin: usuario130-P
+X-FileName: usuario130.pst
+
+I would love to hear your feedback on the proposal.
+Let me know if there's anything I can assist you with.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <9e9d69d863aa483cbe0fd086721ff4e7@thyme>
+Date: Thu, 20 Nov 2025 00:00:00 -0700
+From: usuario101@example.com
+To: usuario633@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario101 <usuario101@example.com>
+X-To: Usuario633 <usuario633@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario101_folder\inbox
+X-Origin: usuario101-P
+X-FileName: usuario101.pst
+
+I hope this email finds you well.
+I hope you're having a productive week.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

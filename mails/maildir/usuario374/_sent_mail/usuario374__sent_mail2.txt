@@ -1,0 +1,20 @@
+Message-ID: <92f03244d9314b3c8a727826cea0bdd7@thyme>
+Date: Wed, 20 Feb 2019 00:00:00 -0700
+From: usuario374@example.com
+To: usuario498@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario374 <usuario374@example.com>
+X-To: Usuario498 <usuario498@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario374_folder\_sent_mail
+X-Origin: usuario374-P
+X-FileName: usuario374.pst
+
+I appreciate your attention to this matter.
+I look forward to collaborating further on this initiative.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <25bbe525d2b647888b0c8b1cb3fc29f3@thyme>
+Date: Wed, 05 Jan 2000 00:00:00 -0700
+From: usuario152@example.com
+To: usuario124@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario152 <usuario152@example.com>
+X-To: Usuario124 <usuario124@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario152_folder\spam
+X-Origin: usuario152-P
+X-FileName: usuario152.pst
+
+I have included all the necessary details in the attached report.
+Here are the next steps we need to take.
+Just checking in to see if you've received my previous email.
+----------------------------------------

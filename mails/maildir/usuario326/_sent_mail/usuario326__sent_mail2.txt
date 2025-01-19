@@ -1,0 +1,20 @@
+Message-ID: <6103c447e5de40fcb1dcd5ec0a12cd8a@thyme>
+Date: Wed, 31 Dec 2025 00:00:00 -0700
+From: usuario326@example.com
+To: usuario76@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario326 <usuario326@example.com>
+X-To: Usuario76 <usuario76@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario326_folder\_sent_mail
+X-Origin: usuario326-P
+X-FileName: usuario326.pst
+
+Here are the next steps we need to take.
+Hope you're doing well. Here's the requested information.
+I would love to hear your feedback on the proposal.
+----------------------------------------

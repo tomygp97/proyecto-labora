@@ -1,0 +1,20 @@
+Message-ID: <b07cc4d065cf4cf6927779a04170f72b@thyme>
+Date: Sat, 09 Aug 2025 00:00:00 -0700
+From: usuario215@example.com
+To: usuario745@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario215 <usuario215@example.com>
+X-To: Usuario745 <usuario745@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario215_folder\all_documents
+X-Origin: usuario215-P
+X-FileName: usuario215.pst
+
+I wanted to give you an update on the status of the project.
+Please find the attached report for the last quarter
+Here are the documents I mentioned during our call.
+----------------------------------------

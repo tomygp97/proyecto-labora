@@ -1,0 +1,20 @@
+Message-ID: <3a224fd0b565489d96f14ecdb424af01@thyme>
+Date: Sun, 01 Mar 2020 00:00:00 -0700
+From: usuario670@example.com
+To: usuario833@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario670 <usuario670@example.com>
+X-To: Usuario833 <usuario833@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario670_folder\_sent_mail
+X-Origin: usuario670-P
+X-FileName: usuario670.pst
+
+Can you please confirm receipt of the files?
+Let me know if you'd like to schedule a follow-up discussion.
+I wanted to follow up on our last meeting
+----------------------------------------

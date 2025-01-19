@@ -1,0 +1,20 @@
+Message-ID: <a90d23a75fbb480eadaef9f9a23555bc@thyme>
+Date: Tue, 20 Jun 2023 00:00:00 -0700
+From: usuario384@example.com
+To: usuario528@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario384 <usuario384@example.com>
+X-To: Usuario528 <usuario528@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario384_folder\_sent_mail
+X-Origin: usuario384-P
+X-FileName: usuario384.pst
+
+I hope this email finds you well.
+I look forward to your response.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

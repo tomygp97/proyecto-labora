@@ -1,0 +1,20 @@
+Message-ID: <df3fd1dba52c48a29d61ca30aaeb4417@thyme>
+Date: Wed, 27 Mar 2024 00:00:00 -0700
+From: usuario909@example.com
+To: usuario976@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario909 <usuario909@example.com>
+X-To: Usuario976 <usuario976@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario909_folder\inbox
+X-Origin: usuario909-P
+X-FileName: usuario909.pst
+
+Please let me know if there are any changes to the schedule.
+I hope you're having a productive week.
+As discussed, I have attached the report you requested.
+----------------------------------------

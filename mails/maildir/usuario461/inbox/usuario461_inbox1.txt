@@ -1,0 +1,20 @@
+Message-ID: <ad0547d987c348d48ac1423a759a812f@thyme>
+Date: Thu, 02 Feb 2023 00:00:00 -0700
+From: usuario461@example.com
+To: usuario360@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario461 <usuario461@example.com>
+X-To: Usuario360 <usuario360@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario461_folder\inbox
+X-Origin: usuario461-P
+X-FileName: usuario461.pst
+
+Here is our forecast
+Can you please confirm receipt of the files?
+Please let me know if there are any issues with the attached files.
+----------------------------------------

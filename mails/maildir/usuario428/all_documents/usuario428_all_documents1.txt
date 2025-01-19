@@ -1,0 +1,20 @@
+Message-ID: <940b43c36f944080933db8436e5704ff@thyme>
+Date: Sun, 06 Mar 2016 00:00:00 -0700
+From: usuario428@example.com
+To: usuario752@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario428 <usuario428@example.com>
+X-To: Usuario752 <usuario752@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario428_folder\all_documents
+X-Origin: usuario428-P
+X-FileName: usuario428.pst
+
+I have included all the necessary details in the attached report.
+Just checking in to see if you've received my previous email.
+I wanted to follow up on our last meeting
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <73343dc2202d4fcbb5e68012877c1330@thyme>
+Date: Wed, 18 Oct 2006 00:00:00 -0700
+From: usuario352@example.com
+To: usuario549@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario352 <usuario352@example.com>
+X-To: Usuario549 <usuario549@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario352_folder\spam
+X-Origin: usuario352-P
+X-FileName: usuario352.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please let me know if there are any issues with the attached files.
+I hope you're enjoying a nice week so far.
+----------------------------------------

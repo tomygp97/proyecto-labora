@@ -1,0 +1,20 @@
+Message-ID: <66e0ccbf8bca435598c0c84546e00af3@thyme>
+Date: Sun, 12 Mar 2000 00:00:00 -0700
+From: usuario832@example.com
+To: usuario402@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario832 <usuario832@example.com>
+X-To: Usuario402 <usuario402@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario832_folder\spam
+X-Origin: usuario832-P
+X-FileName: usuario832.pst
+
+I wanted to give you an update on the status of the project.
+Please find the latest updates on the project
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

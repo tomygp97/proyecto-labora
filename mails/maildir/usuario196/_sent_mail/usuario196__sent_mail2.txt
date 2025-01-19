@@ -1,0 +1,20 @@
+Message-ID: <d879fe1a33fe4f6c8326b844658d20ef@thyme>
+Date: Sat, 12 Nov 2022 00:00:00 -0700
+From: usuario196@example.com
+To: usuario860@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario196 <usuario196@example.com>
+X-To: Usuario860 <usuario860@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario196_folder\_sent_mail
+X-Origin: usuario196-P
+X-FileName: usuario196.pst
+
+I hope you're having a productive week.
+Here are the results from the analysis we discussed.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

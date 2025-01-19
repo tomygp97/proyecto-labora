@@ -1,0 +1,20 @@
+Message-ID: <31ddaabadb6443efb9270251326516aa@thyme>
+Date: Sun, 22 Aug 2004 00:00:00 -0700
+From: usuario17@example.com
+To: usuario811@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario17 <usuario17@example.com>
+X-To: Usuario811 <usuario811@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario17_folder\inbox
+X-Origin: usuario17-P
+X-FileName: usuario17.pst
+
+Please review the attached files and provide feedback.
+I look forward to collaborating further on this initiative.
+Here are the documents I mentioned during our call.
+----------------------------------------

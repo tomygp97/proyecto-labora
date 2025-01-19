@@ -1,0 +1,20 @@
+Message-ID: <acbb217db7ee48da915a9aacd8422c62@thyme>
+Date: Wed, 29 Nov 2017 00:00:00 -0700
+From: usuario274@example.com
+To: usuario931@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario274 <usuario274@example.com>
+X-To: Usuario931 <usuario931@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario274_folder\spam
+X-Origin: usuario274-P
+X-FileName: usuario274.pst
+
+Please review the attached files and provide feedback.
+Here are the results from the analysis we discussed.
+I appreciate your attention to this matter.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <e160d6bdc49e44fd916c29c7eb37f19d@thyme>
+Date: Mon, 30 Dec 2013 00:00:00 -0700
+From: usuario39@example.com
+To: usuario362@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario39 <usuario39@example.com>
+X-To: Usuario362 <usuario362@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario39_folder\spam
+X-Origin: usuario39-P
+X-FileName: usuario39.pst
+
+I wanted to confirm our meeting for tomorrow.
+I wanted to check in regarding the status of the project.
+Just checking in to see if you've received my previous email.
+----------------------------------------

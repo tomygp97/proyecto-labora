@@ -1,0 +1,20 @@
+Message-ID: <cbb63694281f4b3181f68305214c2639@thyme>
+Date: Thu, 03 Nov 2022 00:00:00 -0700
+From: usuario824@example.com
+To: usuario836@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario824 <usuario824@example.com>
+X-To: Usuario836 <usuario836@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario824_folder\inbox
+X-Origin: usuario824-P
+X-FileName: usuario824.pst
+
+Here are the documents I mentioned during our call.
+Just checking in to see if you've received my previous email.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

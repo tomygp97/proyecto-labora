@@ -1,0 +1,20 @@
+Message-ID: <e67661711d0d400da82ebf91f5e9a81c@thyme>
+Date: Tue, 10 Sep 2024 00:00:00 -0700
+From: usuario902@example.com
+To: usuario143@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario902 <usuario902@example.com>
+X-To: Usuario143 <usuario143@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario902_folder\all_documents
+X-Origin: usuario902-P
+X-FileName: usuario902.pst
+
+Looking forward to discussing the project in more detail soon.
+Please review the materials at your earliest convenience.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

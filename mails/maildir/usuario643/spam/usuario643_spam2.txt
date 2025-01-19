@@ -1,0 +1,20 @@
+Message-ID: <8bbfc7603d554e21a9326e3f4fb2a0d9@thyme>
+Date: Mon, 26 Sep 2011 00:00:00 -0700
+From: usuario643@example.com
+To: usuario460@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario643 <usuario643@example.com>
+X-To: Usuario460 <usuario460@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario643_folder\spam
+X-Origin: usuario643-P
+X-FileName: usuario643.pst
+
+I hope this email finds you well.
+I look forward to your response.
+I would love to hear your feedback on the proposal.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <7488af69d5024d00a396ebf6a717b7c0@thyme>
+Date: Sat, 06 Aug 2005 00:00:00 -0700
+From: usuario908@example.com
+To: usuario88@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario908 <usuario908@example.com>
+X-To: Usuario88 <usuario88@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario908_folder\_sent_mail
+X-Origin: usuario908-P
+X-FileName: usuario908.pst
+
+Just checking in to see if you've received my previous email.
+Here are the documents I mentioned during our call.
+Here are the results from the analysis we discussed.
+----------------------------------------

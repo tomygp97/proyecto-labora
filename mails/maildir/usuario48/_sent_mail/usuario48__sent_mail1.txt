@@ -1,0 +1,20 @@
+Message-ID: <e606bcda1cd9401b9045a7c3575ad205@thyme>
+Date: Fri, 18 Jun 2021 00:00:00 -0700
+From: usuario48@example.com
+To: usuario554@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario48 <usuario48@example.com>
+X-To: Usuario554 <usuario554@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario48_folder\_sent_mail
+X-Origin: usuario48-P
+X-FileName: usuario48.pst
+
+I wanted to confirm our meeting for tomorrow.
+I look forward to collaborating further on this initiative.
+I have included all the necessary details in the attached report.
+----------------------------------------

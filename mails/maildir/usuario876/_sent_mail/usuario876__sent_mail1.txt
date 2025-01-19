@@ -1,0 +1,20 @@
+Message-ID: <225aeb1df19740e58b38f6679f37d650@thyme>
+Date: Thu, 07 Dec 2006 00:00:00 -0700
+From: usuario876@example.com
+To: usuario323@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario876 <usuario876@example.com>
+X-To: Usuario323 <usuario323@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario876_folder\_sent_mail
+X-Origin: usuario876-P
+X-FileName: usuario876.pst
+
+I wanted to confirm our meeting for tomorrow.
+Looking forward to discussing the project in more detail soon.
+I hope you're enjoying a nice week so far.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <7a3813e0f64c4856baf78c8e112072f6@thyme>
+Date: Thu, 18 Dec 2025 00:00:00 -0700
+From: usuario128@example.com
+To: usuario864@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario128 <usuario128@example.com>
+X-To: Usuario864 <usuario864@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario128_folder\spam
+X-Origin: usuario128-P
+X-FileName: usuario128.pst
+
+Here is our forecast
+Please review the attached files and provide feedback.
+I hope you're having a productive week.
+----------------------------------------

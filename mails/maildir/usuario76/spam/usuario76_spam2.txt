@@ -1,0 +1,20 @@
+Message-ID: <89291ea7aa3a4105a6c666edee190672@thyme>
+Date: Sat, 03 Jun 2000 00:00:00 -0700
+From: usuario76@example.com
+To: usuario197@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario76 <usuario76@example.com>
+X-To: Usuario197 <usuario197@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario76_folder\spam
+X-Origin: usuario76-P
+X-FileName: usuario76.pst
+
+I wanted to remind you about the upcoming deadline.
+I hope you're enjoying a nice week so far.
+Here are the results from the analysis we discussed.
+----------------------------------------

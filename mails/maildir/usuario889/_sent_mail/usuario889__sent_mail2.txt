@@ -1,0 +1,20 @@
+Message-ID: <2ea4c724740541b5a94ce1298688b745@thyme>
+Date: Mon, 09 Aug 2004 00:00:00 -0700
+From: usuario889@example.com
+To: usuario223@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario889 <usuario889@example.com>
+X-To: Usuario223 <usuario223@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario889_folder\_sent_mail
+X-Origin: usuario889-P
+X-FileName: usuario889.pst
+
+I wanted to give you an update on the status of the project.
+Please let me know if there are any changes to the schedule.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <969bfdc3d66d4b12a781e7236e5269e8@thyme>
+Date: Sun, 07 May 2023 00:00:00 -0700
+From: usuario957@example.com
+To: usuario74@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario957 <usuario957@example.com>
+X-To: Usuario74 <usuario74@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario957_folder\inbox
+X-Origin: usuario957-P
+X-FileName: usuario957.pst
+
+Please find the latest updates on the project
+Please make sure to go through the attached documents before our meeting.
+Please review the attached files and provide feedback.
+----------------------------------------

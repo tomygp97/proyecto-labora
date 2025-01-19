@@ -1,0 +1,20 @@
+Message-ID: <f4e79d5bd4824d828fd05c1d6eabd8eb@thyme>
+Date: Fri, 21 Oct 2022 00:00:00 -0700
+From: usuario400@example.com
+To: usuario147@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario400 <usuario400@example.com>
+X-To: Usuario147 <usuario147@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario400_folder\inbox
+X-Origin: usuario400-P
+X-FileName: usuario400.pst
+
+Please make sure to go through the attached documents before our meeting.
+Please review the attached files and provide feedback.
+I wanted to give you an update on the status of the project.
+----------------------------------------

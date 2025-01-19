@@ -1,0 +1,20 @@
+Message-ID: <9604550dfb1e46dfa2079ae619b890ad@thyme>
+Date: Fri, 10 Jan 2003 00:00:00 -0700
+From: usuario676@example.com
+To: usuario7@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario676 <usuario676@example.com>
+X-To: Usuario7 <usuario7@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario676_folder\sent
+X-Origin: usuario676-P
+X-FileName: usuario676.pst
+
+Please don't hesitate to reach out if you need any help.
+I would love to hear your feedback on the proposal.
+Please find the latest updates on the project
+----------------------------------------

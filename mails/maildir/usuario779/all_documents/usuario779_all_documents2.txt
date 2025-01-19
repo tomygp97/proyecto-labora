@@ -1,0 +1,20 @@
+Message-ID: <3fd08aab058847aab571abfbd1acf9e3@thyme>
+Date: Tue, 12 Oct 2010 00:00:00 -0700
+From: usuario779@example.com
+To: usuario149@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario779 <usuario779@example.com>
+X-To: Usuario149 <usuario149@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario779_folder\all_documents
+X-Origin: usuario779-P
+X-FileName: usuario779.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Please review the attached files and provide feedback.
+Please review the materials at your earliest convenience.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <52d5843c12764949bf6a7dd6e336a232@thyme>
+Date: Fri, 06 Sep 2019 00:00:00 -0700
+From: usuario264@example.com
+To: usuario540@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario264 <usuario264@example.com>
+X-To: Usuario540 <usuario540@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario264_folder\sent
+X-Origin: usuario264-P
+X-FileName: usuario264.pst
+
+Here is a summary of the last meeting for your reference.
+I wanted to thank you for your prompt response.
+Just checking in to see if you've received my previous email.
+----------------------------------------

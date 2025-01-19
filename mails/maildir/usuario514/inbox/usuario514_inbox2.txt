@@ -1,0 +1,20 @@
+Message-ID: <d2b6e866cbac4e68ad981bc72c98d28d@thyme>
+Date: Tue, 15 Jun 2010 00:00:00 -0700
+From: usuario514@example.com
+To: usuario835@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario514 <usuario514@example.com>
+X-To: Usuario835 <usuario835@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario514_folder\inbox
+X-Origin: usuario514-P
+X-FileName: usuario514.pst
+
+I wanted to follow up on our last meeting
+I look forward to your response.
+I hope you're enjoying a nice week so far.
+----------------------------------------

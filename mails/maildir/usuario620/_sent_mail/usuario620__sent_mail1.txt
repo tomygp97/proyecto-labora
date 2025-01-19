@@ -1,0 +1,20 @@
+Message-ID: <6cd940780ac64a458f00d48da46c5040@thyme>
+Date: Sat, 19 Sep 2020 00:00:00 -0700
+From: usuario620@example.com
+To: usuario359@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario620 <usuario620@example.com>
+X-To: Usuario359 <usuario359@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario620_folder\_sent_mail
+X-Origin: usuario620-P
+X-FileName: usuario620.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Here is a summary of the last meeting for your reference.
+Looking forward to hearing from you soon
+----------------------------------------

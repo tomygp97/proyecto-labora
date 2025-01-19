@@ -1,0 +1,20 @@
+Message-ID: <8f846d3399a34af1b8ab5b8fa59b86a2@thyme>
+Date: Fri, 18 Mar 2011 00:00:00 -0700
+From: usuario619@example.com
+To: usuario376@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario619 <usuario619@example.com>
+X-To: Usuario376 <usuario376@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario619_folder\inbox
+X-Origin: usuario619-P
+X-FileName: usuario619.pst
+
+I wanted to remind you about the upcoming deadline.
+I have included all the necessary details in the attached report.
+I appreciate your attention to this matter.
+----------------------------------------

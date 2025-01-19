@@ -1,0 +1,20 @@
+Message-ID: <50fdbaa1671e4f43ac297adc77b2726b@thyme>
+Date: Sun, 20 Oct 2024 00:00:00 -0700
+From: usuario775@example.com
+To: usuario56@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario775 <usuario775@example.com>
+X-To: Usuario56 <usuario56@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario775_folder\all_documents
+X-Origin: usuario775-P
+X-FileName: usuario775.pst
+
+Thank you for your attention
+Just wanted to touch base on the upcoming project milestone.
+I hope you're having a productive week.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <201e99558a7d466cb828e4dbac394653@thyme>
+Date: Sun, 10 Nov 2024 00:00:00 -0700
+From: usuario303@example.com
+To: usuario788@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario303 <usuario303@example.com>
+X-To: Usuario788 <usuario788@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario303_folder\_sent_mail
+X-Origin: usuario303-P
+X-FileName: usuario303.pst
+
+Please review the attached files and provide feedback.
+Here are the results from the analysis we discussed.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

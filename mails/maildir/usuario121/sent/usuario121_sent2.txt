@@ -1,0 +1,20 @@
+Message-ID: <a95ad4e728ed4640969c1af23b217272@thyme>
+Date: Wed, 26 Jun 2019 00:00:00 -0700
+From: usuario121@example.com
+To: usuario80@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario121 <usuario121@example.com>
+X-To: Usuario80 <usuario80@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario121_folder\sent
+X-Origin: usuario121-P
+X-FileName: usuario121.pst
+
+Hope everything is going well on your end.
+Just checking in to see if you've received my previous email.
+I hope you're enjoying a nice week so far.
+----------------------------------------

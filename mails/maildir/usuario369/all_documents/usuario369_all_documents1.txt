@@ -1,0 +1,20 @@
+Message-ID: <4e292951a3904254a2d622fc360a476b@thyme>
+Date: Sun, 08 May 2022 00:00:00 -0700
+From: usuario369@example.com
+To: usuario263@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario369 <usuario369@example.com>
+X-To: Usuario263 <usuario263@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario369_folder\all_documents
+X-Origin: usuario369-P
+X-FileName: usuario369.pst
+
+Can you please confirm receipt of the files?
+Looking forward to discussing the project in more detail soon.
+I wanted to follow up on our last meeting
+----------------------------------------

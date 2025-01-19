@@ -1,0 +1,20 @@
+Message-ID: <6c5e3174fbbe4503b71ed0591ccda2ac@thyme>
+Date: Fri, 14 Apr 2006 00:00:00 -0700
+From: usuario908@example.com
+To: usuario767@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario908 <usuario908@example.com>
+X-To: Usuario767 <usuario767@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario908_folder\spam
+X-Origin: usuario908-P
+X-FileName: usuario908.pst
+
+Here is a summary of the last meeting for your reference.
+I appreciate your attention to this matter.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

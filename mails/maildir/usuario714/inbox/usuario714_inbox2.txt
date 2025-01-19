@@ -1,0 +1,20 @@
+Message-ID: <071779413fa34828a018383e9ea2d1b1@thyme>
+Date: Mon, 04 Aug 2008 00:00:00 -0700
+From: usuario714@example.com
+To: usuario959@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario714 <usuario714@example.com>
+X-To: Usuario959 <usuario959@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario714_folder\inbox
+X-Origin: usuario714-P
+X-FileName: usuario714.pst
+
+Here is a summary of the last meeting for your reference.
+Just checking in to see if you've received my previous email.
+Thank you for your attention
+----------------------------------------

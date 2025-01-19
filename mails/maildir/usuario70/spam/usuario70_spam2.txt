@@ -1,0 +1,20 @@
+Message-ID: <dac0138db5e244e2b992c4398ef61c5c@thyme>
+Date: Thu, 30 Jul 2015 00:00:00 -0700
+From: usuario70@example.com
+To: usuario363@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario70 <usuario70@example.com>
+X-To: Usuario363 <usuario363@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario70_folder\spam
+X-Origin: usuario70-P
+X-FileName: usuario70.pst
+
+Let me know if you need any additional details.
+Please find the attached report for the last quarter
+I hope you're having a productive week.
+----------------------------------------

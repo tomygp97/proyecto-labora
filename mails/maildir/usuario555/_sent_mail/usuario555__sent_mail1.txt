@@ -1,0 +1,20 @@
+Message-ID: <d473971f9a5e403f8316d046eb7ab42f@thyme>
+Date: Wed, 29 Nov 2023 00:00:00 -0700
+From: usuario555@example.com
+To: usuario147@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario555 <usuario555@example.com>
+X-To: Usuario147 <usuario147@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario555_folder\_sent_mail
+X-Origin: usuario555-P
+X-FileName: usuario555.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I trust the documents will be helpful for our upcoming discussion.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

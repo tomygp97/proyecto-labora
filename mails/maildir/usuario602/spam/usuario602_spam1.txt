@@ -1,0 +1,20 @@
+Message-ID: <096e42d42fc74b93898734022e7b132c@thyme>
+Date: Mon, 02 Apr 2018 00:00:00 -0700
+From: usuario602@example.com
+To: usuario364@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario602 <usuario602@example.com>
+X-To: Usuario364 <usuario364@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario602_folder\spam
+X-Origin: usuario602-P
+X-FileName: usuario602.pst
+
+I look forward to your response.
+I wanted to follow up on our last meeting
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

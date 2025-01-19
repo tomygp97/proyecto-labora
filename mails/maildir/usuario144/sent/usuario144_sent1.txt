@@ -1,0 +1,20 @@
+Message-ID: <a06eae4b42104443870a954c79b46efb@thyme>
+Date: Sat, 24 Dec 2022 00:00:00 -0700
+From: usuario144@example.com
+To: usuario948@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario144 <usuario144@example.com>
+X-To: Usuario948 <usuario948@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario144_folder\sent
+X-Origin: usuario144-P
+X-FileName: usuario144.pst
+
+Looking forward to hearing from you soon
+I would love to hear your feedback on the proposal.
+I look forward to collaborating further on this initiative.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <54e688ceecb8433b938d2c38ca365599@thyme>
+Date: Sun, 07 Feb 2010 00:00:00 -0700
+From: usuario588@example.com
+To: usuario424@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario588 <usuario588@example.com>
+X-To: Usuario424 <usuario424@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario588_folder\_sent_mail
+X-Origin: usuario588-P
+X-FileName: usuario588.pst
+
+I wanted to remind you about the upcoming deadline.
+I wanted to confirm our meeting for tomorrow.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

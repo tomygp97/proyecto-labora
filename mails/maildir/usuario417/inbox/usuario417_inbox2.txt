@@ -1,0 +1,20 @@
+Message-ID: <474b4076580e42fa92ea3cf5d59238e7@thyme>
+Date: Mon, 27 Nov 2000 00:00:00 -0700
+From: usuario417@example.com
+To: usuario327@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario417 <usuario417@example.com>
+X-To: Usuario327 <usuario327@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario417_folder\inbox
+X-Origin: usuario417-P
+X-FileName: usuario417.pst
+
+Looking forward to discussing the project in more detail soon.
+Please don't hesitate to reach out if you need any help.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

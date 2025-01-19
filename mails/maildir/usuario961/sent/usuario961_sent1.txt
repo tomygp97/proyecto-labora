@@ -1,0 +1,20 @@
+Message-ID: <3aed11fe39084cf292ab81a0f60e38e3@thyme>
+Date: Fri, 14 Dec 2001 00:00:00 -0700
+From: usuario961@example.com
+To: usuario289@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario961 <usuario961@example.com>
+X-To: Usuario289 <usuario289@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario961_folder\sent
+X-Origin: usuario961-P
+X-FileName: usuario961.pst
+
+Just wanted to touch base on the upcoming project milestone.
+I hope you're enjoying a nice week so far.
+Here are the documents I mentioned during our call.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <58729f2b878d464f8a11f017be3d107c@thyme>
+Date: Sat, 24 Feb 2007 00:00:00 -0700
+From: usuario369@example.com
+To: usuario879@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario369 <usuario369@example.com>
+X-To: Usuario879 <usuario879@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario369_folder\sent
+X-Origin: usuario369-P
+X-FileName: usuario369.pst
+
+Please make sure to go through the attached documents before our meeting.
+Here are the documents I mentioned during our call.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

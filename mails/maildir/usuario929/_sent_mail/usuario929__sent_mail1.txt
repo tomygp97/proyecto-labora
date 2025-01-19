@@ -1,0 +1,20 @@
+Message-ID: <62c4804e4a824e818356536297780b7d@thyme>
+Date: Sat, 11 Aug 2012 00:00:00 -0700
+From: usuario929@example.com
+To: usuario762@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario929 <usuario929@example.com>
+X-To: Usuario762 <usuario762@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario929_folder\_sent_mail
+X-Origin: usuario929-P
+X-FileName: usuario929.pst
+
+Please review the materials at your earliest convenience.
+Please let me know if there's anything else you need from my end.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

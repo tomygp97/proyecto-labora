@@ -1,0 +1,20 @@
+Message-ID: <c84d76545f5149049544c9d77adf3a70@thyme>
+Date: Sun, 06 Aug 2017 00:00:00 -0700
+From: usuario600@example.com
+To: usuario467@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario600 <usuario600@example.com>
+X-To: Usuario467 <usuario467@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario600_folder\_sent_mail
+X-Origin: usuario600-P
+X-FileName: usuario600.pst
+
+Thank you for your attention
+I wanted to thank you for your prompt response.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

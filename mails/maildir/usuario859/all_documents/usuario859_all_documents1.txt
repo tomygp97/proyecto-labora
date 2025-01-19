@@ -1,0 +1,20 @@
+Message-ID: <0f70d475d9f149aa87ee96f80157d09a@thyme>
+Date: Mon, 27 Apr 2020 00:00:00 -0700
+From: usuario859@example.com
+To: usuario784@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario859 <usuario859@example.com>
+X-To: Usuario784 <usuario784@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario859_folder\all_documents
+X-Origin: usuario859-P
+X-FileName: usuario859.pst
+
+Here are the results from the analysis we discussed.
+Let me know if you need any additional details.
+I hope you're enjoying a nice week so far.
+----------------------------------------

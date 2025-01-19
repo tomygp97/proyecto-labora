@@ -1,0 +1,20 @@
+Message-ID: <0046f6eed7334e17a6397462692fd931@thyme>
+Date: Wed, 13 Mar 2024 00:00:00 -0700
+From: usuario766@example.com
+To: usuario166@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario766 <usuario766@example.com>
+X-To: Usuario166 <usuario166@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario766_folder\spam
+X-Origin: usuario766-P
+X-FileName: usuario766.pst
+
+Please let me know if there's anything else you need from my end.
+Let me know if you need any additional details.
+Just checking in to see if you've received my previous email.
+----------------------------------------

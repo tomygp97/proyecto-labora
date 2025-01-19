@@ -1,0 +1,20 @@
+Message-ID: <4b11020e460e44c8a51cf6fe033968e8@thyme>
+Date: Thu, 03 Dec 2020 00:00:00 -0700
+From: usuario94@example.com
+To: usuario136@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario94 <usuario94@example.com>
+X-To: Usuario136 <usuario136@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario94_folder\_sent_mail
+X-Origin: usuario94-P
+X-FileName: usuario94.pst
+
+I look forward to your response.
+Please review the attached files and provide feedback.
+Looking forward to hearing from you soon
+----------------------------------------

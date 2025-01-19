@@ -1,0 +1,20 @@
+Message-ID: <055dcaa2495e49f3a7ddcfc391e86824@thyme>
+Date: Mon, 14 Dec 2009 00:00:00 -0700
+From: usuario305@example.com
+To: usuario661@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario305 <usuario305@example.com>
+X-To: Usuario661 <usuario661@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario305_folder\inbox
+X-Origin: usuario305-P
+X-FileName: usuario305.pst
+
+Please let me know if there are any changes to the schedule.
+Just checking in to see if you've received my previous email.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

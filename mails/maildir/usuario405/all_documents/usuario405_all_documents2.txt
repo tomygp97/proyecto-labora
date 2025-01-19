@@ -1,0 +1,20 @@
+Message-ID: <721b789e7a214e7ea5a8e90b30f10ce9@thyme>
+Date: Fri, 09 Sep 2016 00:00:00 -0700
+From: usuario405@example.com
+To: usuario238@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario405 <usuario405@example.com>
+X-To: Usuario238 <usuario238@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario405_folder\all_documents
+X-Origin: usuario405-P
+X-FileName: usuario405.pst
+
+Can you please confirm receipt of the files?
+I wanted to remind you about the upcoming deadline.
+I look forward to your response.
+----------------------------------------

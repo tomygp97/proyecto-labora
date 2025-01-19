@@ -1,0 +1,20 @@
+Message-ID: <f6a51593df304cd382da2db946497ed9@thyme>
+Date: Wed, 29 Jun 2005 00:00:00 -0700
+From: usuario534@example.com
+To: usuario428@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario534 <usuario534@example.com>
+X-To: Usuario428 <usuario428@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario534_folder\spam
+X-Origin: usuario534-P
+X-FileName: usuario534.pst
+
+Please find the attached report for the last quarter
+I trust the documents will be helpful for our upcoming discussion.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

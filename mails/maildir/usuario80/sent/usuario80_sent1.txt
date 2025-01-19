@@ -1,0 +1,20 @@
+Message-ID: <aafce3d6ab0b46ad9256b84c8bef804f@thyme>
+Date: Tue, 25 Mar 2025 00:00:00 -0700
+From: usuario80@example.com
+To: usuario38@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario80 <usuario80@example.com>
+X-To: Usuario38 <usuario38@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario80_folder\sent
+X-Origin: usuario80-P
+X-FileName: usuario80.pst
+
+I wanted to remind you about the upcoming deadline.
+I hope you're having a productive week.
+I would love to hear your feedback on the proposal.
+----------------------------------------

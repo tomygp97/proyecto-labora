@@ -1,0 +1,20 @@
+Message-ID: <6cb1a67c097d48acba0373b9217d99a4@thyme>
+Date: Sun, 26 Feb 2017 00:00:00 -0700
+From: usuario712@example.com
+To: usuario366@example.com
+Subject: Urgent Update Required
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario712 <usuario712@example.com>
+X-To: Usuario366 <usuario366@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario712_folder\spam
+X-Origin: usuario712-P
+X-FileName: usuario712.pst
+
+I hope you're enjoying a nice week so far.
+Please let me know if there's anything else you need from my end.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

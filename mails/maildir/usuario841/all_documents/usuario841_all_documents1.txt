@@ -1,0 +1,20 @@
+Message-ID: <019fad2e50ae4ec2b0619d4476c20bc3@thyme>
+Date: Thu, 12 May 2005 00:00:00 -0700
+From: usuario841@example.com
+To: usuario145@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario841 <usuario841@example.com>
+X-To: Usuario145 <usuario145@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario841_folder\all_documents
+X-Origin: usuario841-P
+X-FileName: usuario841.pst
+
+I wanted to confirm our meeting for tomorrow.
+Please let me know if there are any changes to the schedule.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

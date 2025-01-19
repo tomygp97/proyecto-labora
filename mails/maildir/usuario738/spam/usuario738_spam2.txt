@@ -1,0 +1,20 @@
+Message-ID: <3790eafabffd49dea9aafead71f20cf7@thyme>
+Date: Sat, 19 Jan 2013 00:00:00 -0700
+From: usuario738@example.com
+To: usuario674@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario738 <usuario738@example.com>
+X-To: Usuario674 <usuario674@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario738_folder\spam
+X-Origin: usuario738-P
+X-FileName: usuario738.pst
+
+I would love to hear your feedback on the proposal.
+Just checking in to see if you've received my previous email.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

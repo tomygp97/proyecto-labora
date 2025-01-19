@@ -1,0 +1,20 @@
+Message-ID: <9bd1458da0a144478e3e8c23b2bba97a@thyme>
+Date: Tue, 12 Jun 2012 00:00:00 -0700
+From: usuario638@example.com
+To: usuario354@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario638 <usuario638@example.com>
+X-To: Usuario354 <usuario354@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario638_folder\spam
+X-Origin: usuario638-P
+X-FileName: usuario638.pst
+
+I wanted to follow up on our last meeting
+I hope you're enjoying a nice week so far.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

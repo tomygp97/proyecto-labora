@@ -1,0 +1,20 @@
+Message-ID: <099efeb4f6b74703bec36ee6d18f4659@thyme>
+Date: Thu, 01 Jan 2009 00:00:00 -0700
+From: usuario226@example.com
+To: usuario586@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario226 <usuario226@example.com>
+X-To: Usuario586 <usuario586@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario226_folder\spam
+X-Origin: usuario226-P
+X-FileName: usuario226.pst
+
+I look forward to your response.
+I wanted to thank you for your prompt response.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

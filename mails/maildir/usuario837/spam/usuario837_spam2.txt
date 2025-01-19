@@ -1,0 +1,20 @@
+Message-ID: <a78189daad354ab193da096e63ee00f3@thyme>
+Date: Sun, 05 Nov 2023 00:00:00 -0700
+From: usuario837@example.com
+To: usuario207@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario837 <usuario837@example.com>
+X-To: Usuario207 <usuario207@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario837_folder\spam
+X-Origin: usuario837-P
+X-FileName: usuario837.pst
+
+I would love to hear your feedback on the proposal.
+Here are the results from the analysis we discussed.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

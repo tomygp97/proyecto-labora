@@ -1,0 +1,20 @@
+Message-ID: <1943ed45da9d49a5aa009f406d4b5a0d@thyme>
+Date: Thu, 02 Jan 2025 00:00:00 -0700
+From: usuario557@example.com
+To: usuario989@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario557 <usuario557@example.com>
+X-To: Usuario989 <usuario989@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario557_folder\inbox
+X-Origin: usuario557-P
+X-FileName: usuario557.pst
+
+I hope you're having a productive week.
+I wanted to confirm our meeting for tomorrow.
+I wanted to check in regarding the status of the project.
+----------------------------------------

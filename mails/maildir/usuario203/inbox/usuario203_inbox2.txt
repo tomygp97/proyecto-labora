@@ -1,0 +1,20 @@
+Message-ID: <d84e9f34e64c4e4b98ed42dbcd00e689@thyme>
+Date: Mon, 05 Feb 2018 00:00:00 -0700
+From: usuario203@example.com
+To: usuario524@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario203 <usuario203@example.com>
+X-To: Usuario524 <usuario524@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario203_folder\inbox
+X-Origin: usuario203-P
+X-FileName: usuario203.pst
+
+Hope you're doing well. Here's the requested information.
+Hope everything is going well on your end.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

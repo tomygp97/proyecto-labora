@@ -1,0 +1,20 @@
+Message-ID: <331cff70ad344c5f9398cb70353b3a26@thyme>
+Date: Tue, 11 Jan 2011 00:00:00 -0700
+From: usuario321@example.com
+To: usuario311@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario321 <usuario321@example.com>
+X-To: Usuario311 <usuario311@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario321_folder\sent
+X-Origin: usuario321-P
+X-FileName: usuario321.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+I hope you're having a productive week.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

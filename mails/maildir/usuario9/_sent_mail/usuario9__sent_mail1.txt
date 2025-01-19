@@ -1,0 +1,20 @@
+Message-ID: <bff050da9b56446f8ce4774f22096e8c@thyme>
+Date: Sat, 01 May 2010 00:00:00 -0700
+From: usuario9@example.com
+To: usuario145@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario9 <usuario9@example.com>
+X-To: Usuario145 <usuario145@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario9_folder\_sent_mail
+X-Origin: usuario9-P
+X-FileName: usuario9.pst
+
+I wanted to thank you for your prompt response.
+Hope everything is going well on your end.
+Here are the next steps we need to take.
+----------------------------------------

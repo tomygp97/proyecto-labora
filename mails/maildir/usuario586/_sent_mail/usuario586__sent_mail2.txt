@@ -1,0 +1,20 @@
+Message-ID: <964ca029d7f148748e8e507c23c2b910@thyme>
+Date: Fri, 01 Nov 2002 00:00:00 -0700
+From: usuario586@example.com
+To: usuario416@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario586 <usuario586@example.com>
+X-To: Usuario416 <usuario416@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario586_folder\_sent_mail
+X-Origin: usuario586-P
+X-FileName: usuario586.pst
+
+Thank you for your attention
+I wanted to check in regarding the status of the project.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

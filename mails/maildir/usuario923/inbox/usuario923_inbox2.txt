@@ -1,0 +1,20 @@
+Message-ID: <e2f41a28ef7341c8996b40a367979681@thyme>
+Date: Thu, 05 Jun 2014 00:00:00 -0700
+From: usuario923@example.com
+To: usuario967@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario923 <usuario923@example.com>
+X-To: Usuario967 <usuario967@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario923_folder\inbox
+X-Origin: usuario923-P
+X-FileName: usuario923.pst
+
+Can you please confirm receipt of the files?
+Here is a summary of the last meeting for your reference.
+Here are the next steps we need to take.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <8ab583f019f34e188d365c8d9cd584d2@thyme>
+Date: Wed, 15 Aug 2018 00:00:00 -0700
+From: usuario951@example.com
+To: usuario227@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario951 <usuario951@example.com>
+X-To: Usuario227 <usuario227@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario951_folder\sent
+X-Origin: usuario951-P
+X-FileName: usuario951.pst
+
+Thank you for your attention
+I wanted to follow up on our last meeting
+I hope you're enjoying a nice week so far.
+----------------------------------------

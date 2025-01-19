@@ -1,0 +1,20 @@
+Message-ID: <72dec17301a244fda8904933378465a1@thyme>
+Date: Fri, 20 Jan 2023 00:00:00 -0700
+From: usuario636@example.com
+To: usuario623@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario636 <usuario636@example.com>
+X-To: Usuario623 <usuario623@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario636_folder\inbox
+X-Origin: usuario636-P
+X-FileName: usuario636.pst
+
+Looking forward to hearing from you soon
+Please don't hesitate to reach out if you need any help.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

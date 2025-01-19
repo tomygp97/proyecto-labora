@@ -1,0 +1,20 @@
+Message-ID: <9ba6e5cc6a8e487b94c754da769c4d06@thyme>
+Date: Fri, 30 Jul 2004 00:00:00 -0700
+From: usuario313@example.com
+To: usuario656@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario313 <usuario313@example.com>
+X-To: Usuario656 <usuario656@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario313_folder\inbox
+X-Origin: usuario313-P
+X-FileName: usuario313.pst
+
+Please let me know if there are any issues with the attached files.
+Please review the attached files and provide feedback.
+Here is our forecast
+----------------------------------------

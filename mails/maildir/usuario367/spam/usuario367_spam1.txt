@@ -1,0 +1,20 @@
+Message-ID: <218fd79052d343c7a6bacfcac6001f57@thyme>
+Date: Tue, 21 Sep 2021 00:00:00 -0700
+From: usuario367@example.com
+To: usuario674@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario367 <usuario367@example.com>
+X-To: Usuario674 <usuario674@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario367_folder\spam
+X-Origin: usuario367-P
+X-FileName: usuario367.pst
+
+Just checking in to see if you've received my previous email.
+Please review the attached files and provide feedback.
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

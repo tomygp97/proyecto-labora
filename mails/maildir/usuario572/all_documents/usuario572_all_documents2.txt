@@ -1,0 +1,20 @@
+Message-ID: <6ac0de4d02fb4e63bbd43291455e39f8@thyme>
+Date: Tue, 12 Nov 2002 00:00:00 -0700
+From: usuario572@example.com
+To: usuario223@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario572 <usuario572@example.com>
+X-To: Usuario223 <usuario223@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario572_folder\all_documents
+X-Origin: usuario572-P
+X-FileName: usuario572.pst
+
+Please let me know if there are any changes to the schedule.
+I look forward to collaborating further on this initiative.
+Here are the documents I mentioned during our call.
+----------------------------------------

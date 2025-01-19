@@ -1,0 +1,20 @@
+Message-ID: <bbde883f690c418b95497f95001b9186@thyme>
+Date: Tue, 02 Jan 2018 00:00:00 -0700
+From: usuario211@example.com
+To: usuario167@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario211 <usuario211@example.com>
+X-To: Usuario167 <usuario167@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario211_folder\all_documents
+X-Origin: usuario211-P
+X-FileName: usuario211.pst
+
+I would love to hear your feedback on the proposal.
+Please let me know if there are any issues with the attached files.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <95721e291bee455b8165c3082a6a590f@thyme>
+Date: Thu, 14 Feb 2002 00:00:00 -0700
+From: usuario154@example.com
+To: usuario400@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario154 <usuario154@example.com>
+X-To: Usuario400 <usuario400@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario154_folder\sent
+X-Origin: usuario154-P
+X-FileName: usuario154.pst
+
+Thank you for your attention
+Please make sure to go through the attached documents before our meeting.
+I wanted to check in regarding the status of the project.
+----------------------------------------

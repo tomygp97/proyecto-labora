@@ -1,0 +1,20 @@
+Message-ID: <bcae6d75b81a47598ebbcf9814d2f5c1@thyme>
+Date: Sat, 09 Sep 2023 00:00:00 -0700
+From: usuario770@example.com
+To: usuario513@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario770 <usuario770@example.com>
+X-To: Usuario513 <usuario513@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario770_folder\_sent_mail
+X-Origin: usuario770-P
+X-FileName: usuario770.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to remind you about the upcoming deadline.
+Let me know if there's anything I can assist you with.
+----------------------------------------

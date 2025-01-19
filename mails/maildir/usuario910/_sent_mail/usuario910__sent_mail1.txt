@@ -1,0 +1,20 @@
+Message-ID: <f0ac437be4de42d1a36c1663b75159e6@thyme>
+Date: Tue, 14 Jun 2005 00:00:00 -0700
+From: usuario910@example.com
+To: usuario915@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario910 <usuario910@example.com>
+X-To: Usuario915 <usuario915@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario910_folder\_sent_mail
+X-Origin: usuario910-P
+X-FileName: usuario910.pst
+
+Looking forward to hearing from you soon
+Please let me know if there are any changes to the schedule.
+Please review the materials at your earliest convenience.
+----------------------------------------

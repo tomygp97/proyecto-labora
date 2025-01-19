@@ -1,0 +1,20 @@
+Message-ID: <3d9a90cc9e6341dc84bb16059d79525f@thyme>
+Date: Wed, 09 Dec 2020 00:00:00 -0700
+From: usuario209@example.com
+To: usuario260@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario209 <usuario209@example.com>
+X-To: Usuario260 <usuario260@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario209_folder\sent
+X-Origin: usuario209-P
+X-FileName: usuario209.pst
+
+I wanted to confirm our meeting for tomorrow.
+I wanted to check in regarding the status of the project.
+Please review the attached files and provide feedback.
+----------------------------------------

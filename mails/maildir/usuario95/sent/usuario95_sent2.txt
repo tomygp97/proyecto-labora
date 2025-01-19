@@ -1,0 +1,20 @@
+Message-ID: <a4e540da2ac94ca298871812ecbe8530@thyme>
+Date: Thu, 12 Oct 2023 00:00:00 -0700
+From: usuario95@example.com
+To: usuario103@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario95 <usuario95@example.com>
+X-To: Usuario103 <usuario103@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario95_folder\sent
+X-Origin: usuario95-P
+X-FileName: usuario95.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Please let me know if there are any changes to the schedule.
+Hope everything is going well on your end.
+----------------------------------------

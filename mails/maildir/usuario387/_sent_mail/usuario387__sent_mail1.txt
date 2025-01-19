@@ -1,0 +1,20 @@
+Message-ID: <dbf212935fe645418d6e53a70cf18dd3@thyme>
+Date: Tue, 23 Nov 2021 00:00:00 -0700
+From: usuario387@example.com
+To: usuario363@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario387 <usuario387@example.com>
+X-To: Usuario363 <usuario363@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario387_folder\_sent_mail
+X-Origin: usuario387-P
+X-FileName: usuario387.pst
+
+Can you please confirm receipt of the files?
+Here is our forecast
+Please review the materials at your earliest convenience.
+----------------------------------------

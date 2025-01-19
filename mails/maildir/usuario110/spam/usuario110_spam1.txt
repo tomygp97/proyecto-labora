@@ -1,0 +1,20 @@
+Message-ID: <747900194db54cd2ab0224416381f0ac@thyme>
+Date: Fri, 25 Oct 2024 00:00:00 -0700
+From: usuario110@example.com
+To: usuario797@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario110 <usuario110@example.com>
+X-To: Usuario797 <usuario797@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario110_folder\spam
+X-Origin: usuario110-P
+X-FileName: usuario110.pst
+
+I wanted to confirm our meeting for tomorrow.
+Please review the materials at your earliest convenience.
+I hope you're having a productive week.
+----------------------------------------

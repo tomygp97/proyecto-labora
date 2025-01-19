@@ -1,0 +1,20 @@
+Message-ID: <4bdb8b23043542788d04fa6819a88bd1@thyme>
+Date: Wed, 07 Jun 2000 00:00:00 -0700
+From: usuario360@example.com
+To: usuario714@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario360 <usuario360@example.com>
+X-To: Usuario714 <usuario714@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario360_folder\all_documents
+X-Origin: usuario360-P
+X-FileName: usuario360.pst
+
+Here is a summary of the last meeting for your reference.
+I appreciate your attention to this matter.
+I look forward to your response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <cfb16d4cc64d449aa2951d49f2445248@thyme>
+Date: Thu, 21 Apr 2005 00:00:00 -0700
+From: usuario170@example.com
+To: usuario762@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario170 <usuario170@example.com>
+X-To: Usuario762 <usuario762@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario170_folder\spam
+X-Origin: usuario170-P
+X-FileName: usuario170.pst
+
+I hope you're having a productive week.
+Please find the latest updates on the project
+Hope you're doing well. Here's the requested information.
+----------------------------------------

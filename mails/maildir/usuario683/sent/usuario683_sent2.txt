@@ -1,0 +1,20 @@
+Message-ID: <24107adbde7f4362909187e5f6603040@thyme>
+Date: Mon, 21 May 2012 00:00:00 -0700
+From: usuario683@example.com
+To: usuario99@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario683 <usuario683@example.com>
+X-To: Usuario99 <usuario99@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario683_folder\sent
+X-Origin: usuario683-P
+X-FileName: usuario683.pst
+
+I wanted to follow up on our last meeting
+Just checking in to see if you've received my previous email.
+Let me know if you need any additional details.
+----------------------------------------

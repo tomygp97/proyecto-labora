@@ -1,0 +1,20 @@
+Message-ID: <f9c1b638ddaa447fbbfd1db774aea2c9@thyme>
+Date: Thu, 18 Mar 2004 00:00:00 -0700
+From: usuario780@example.com
+To: usuario391@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario780 <usuario780@example.com>
+X-To: Usuario391 <usuario391@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario780_folder\all_documents
+X-Origin: usuario780-P
+X-FileName: usuario780.pst
+
+Thank you for your attention
+Let me know if there's anything I can assist you with.
+I wanted to thank you for your prompt response.
+----------------------------------------

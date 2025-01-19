@@ -1,0 +1,20 @@
+Message-ID: <3ef7f57b00fe49f897f2722b7a6896d2@thyme>
+Date: Sun, 09 Jul 2000 00:00:00 -0700
+From: usuario874@example.com
+To: usuario77@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario874 <usuario874@example.com>
+X-To: Usuario77 <usuario77@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario874_folder\_sent_mail
+X-Origin: usuario874-P
+X-FileName: usuario874.pst
+
+Please review the materials at your earliest convenience.
+I would love to hear your feedback on the proposal.
+I look forward to your response.
+----------------------------------------

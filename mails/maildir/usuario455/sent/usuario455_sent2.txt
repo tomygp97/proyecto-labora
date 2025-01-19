@@ -1,0 +1,20 @@
+Message-ID: <6100da39a72b4b18bbc6ca7019936211@thyme>
+Date: Wed, 19 Sep 2018 00:00:00 -0700
+From: usuario455@example.com
+To: usuario871@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario455 <usuario455@example.com>
+X-To: Usuario871 <usuario871@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario455_folder\sent
+X-Origin: usuario455-P
+X-FileName: usuario455.pst
+
+Here are the next steps we need to take.
+Just wanted to touch base on the upcoming project milestone.
+Please find the latest updates on the project
+----------------------------------------

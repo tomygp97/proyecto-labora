@@ -1,0 +1,20 @@
+Message-ID: <c9afa8011f534f46b656d2d780d74d20@thyme>
+Date: Fri, 04 May 2001 00:00:00 -0700
+From: usuario465@example.com
+To: usuario2@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario465 <usuario465@example.com>
+X-To: Usuario2 <usuario2@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario465_folder\sent
+X-Origin: usuario465-P
+X-FileName: usuario465.pst
+
+I hope you're having a productive week.
+Thank you for your attention
+As discussed, I have attached the report you requested.
+----------------------------------------

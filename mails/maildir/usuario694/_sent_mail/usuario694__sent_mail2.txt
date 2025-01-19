@@ -1,0 +1,20 @@
+Message-ID: <44763a5d089d4fd991a7a3032ec63284@thyme>
+Date: Wed, 27 Apr 2022 00:00:00 -0700
+From: usuario694@example.com
+To: usuario726@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario694 <usuario694@example.com>
+X-To: Usuario726 <usuario726@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario694_folder\_sent_mail
+X-Origin: usuario694-P
+X-FileName: usuario694.pst
+
+Thank you for your attention
+I trust the documents will be helpful for our upcoming discussion.
+I appreciate your attention to this matter.
+----------------------------------------

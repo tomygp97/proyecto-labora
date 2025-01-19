@@ -1,0 +1,20 @@
+Message-ID: <1351301f5cfe4eea983d77c632e7dd34@thyme>
+Date: Mon, 23 Apr 2001 00:00:00 -0700
+From: usuario404@example.com
+To: usuario557@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario404 <usuario404@example.com>
+X-To: Usuario557 <usuario557@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario404_folder\sent
+X-Origin: usuario404-P
+X-FileName: usuario404.pst
+
+Let me know if there's anything I can assist you with.
+Please let me know if there are any changes to the schedule.
+I look forward to your response.
+----------------------------------------

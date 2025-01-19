@@ -1,0 +1,20 @@
+Message-ID: <34350b50b89242a5b97e561ee2f48e33@thyme>
+Date: Sat, 03 Mar 2012 00:00:00 -0700
+From: usuario704@example.com
+To: usuario921@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario704 <usuario704@example.com>
+X-To: Usuario921 <usuario921@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario704_folder\spam
+X-Origin: usuario704-P
+X-FileName: usuario704.pst
+
+Here are the results from the analysis we discussed.
+I hope you're enjoying a nice week so far.
+Here are the next steps we need to take.
+----------------------------------------

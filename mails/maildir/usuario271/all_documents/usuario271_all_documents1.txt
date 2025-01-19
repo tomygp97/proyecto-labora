@@ -1,0 +1,20 @@
+Message-ID: <4a0ed896315f46c3989d4f03738e0a98@thyme>
+Date: Tue, 07 Dec 2010 00:00:00 -0700
+From: usuario271@example.com
+To: usuario917@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario271 <usuario271@example.com>
+X-To: Usuario917 <usuario917@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario271_folder\all_documents
+X-Origin: usuario271-P
+X-FileName: usuario271.pst
+
+Hope you're doing well. Here's the requested information.
+I wanted to confirm our meeting for tomorrow.
+Let me know if there's anything I can assist you with.
+----------------------------------------

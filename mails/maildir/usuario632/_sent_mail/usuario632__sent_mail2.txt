@@ -1,0 +1,20 @@
+Message-ID: <5cfebe19851942c5ab199d660f5cf5ba@thyme>
+Date: Fri, 13 Nov 2020 00:00:00 -0700
+From: usuario632@example.com
+To: usuario820@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario632 <usuario632@example.com>
+X-To: Usuario820 <usuario820@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario632_folder\_sent_mail
+X-Origin: usuario632-P
+X-FileName: usuario632.pst
+
+Please let me know if there are any changes to the schedule.
+Here are the next steps we need to take.
+I have included all the necessary details in the attached report.
+----------------------------------------

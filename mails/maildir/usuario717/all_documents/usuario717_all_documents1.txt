@@ -1,0 +1,20 @@
+Message-ID: <9fe85e2cbfad4f7a90663617d5d54a36@thyme>
+Date: Thu, 10 Feb 2022 00:00:00 -0700
+From: usuario717@example.com
+To: usuario924@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario717 <usuario717@example.com>
+X-To: Usuario924 <usuario924@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario717_folder\all_documents
+X-Origin: usuario717-P
+X-FileName: usuario717.pst
+
+Please let me know if there are any issues with the attached files.
+Please review the attached files and provide feedback.
+I wanted to follow up on our last meeting
+----------------------------------------

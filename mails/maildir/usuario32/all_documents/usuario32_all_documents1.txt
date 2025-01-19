@@ -1,0 +1,20 @@
+Message-ID: <0c48cdb3d17145b29642a28e09717453@thyme>
+Date: Sat, 06 Mar 2004 00:00:00 -0700
+From: usuario32@example.com
+To: usuario217@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario217 <usuario217@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\all_documents
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+Here is a summary of the last meeting for your reference.
+I wanted to check in regarding the status of the project.
+Here are the next steps we need to take.
+----------------------------------------

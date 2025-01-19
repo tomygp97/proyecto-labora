@@ -1,0 +1,20 @@
+Message-ID: <7cb2b6174f7e4da2b3ccaa3051248f7c@thyme>
+Date: Sat, 30 Jul 2022 00:00:00 -0700
+From: usuario786@example.com
+To: usuario364@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario786 <usuario786@example.com>
+X-To: Usuario364 <usuario364@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario786_folder\spam
+X-Origin: usuario786-P
+X-FileName: usuario786.pst
+
+Please find the attached report for the last quarter
+I wanted to remind you about the upcoming deadline.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

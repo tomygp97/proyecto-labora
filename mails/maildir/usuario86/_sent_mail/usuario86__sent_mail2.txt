@@ -1,0 +1,20 @@
+Message-ID: <69bf13ebd66744d5930869c0b3ebf523@thyme>
+Date: Tue, 11 Nov 2025 00:00:00 -0700
+From: usuario86@example.com
+To: usuario320@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario86 <usuario86@example.com>
+X-To: Usuario320 <usuario320@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario86_folder\_sent_mail
+X-Origin: usuario86-P
+X-FileName: usuario86.pst
+
+I look forward to your response.
+Hope you're doing well. Here's the requested information.
+I have included all the necessary details in the attached report.
+----------------------------------------

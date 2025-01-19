@@ -1,0 +1,20 @@
+Message-ID: <71edc57f722a4b859e3398ad1d9405ad@thyme>
+Date: Thu, 16 Nov 2017 00:00:00 -0700
+From: usuario842@example.com
+To: usuario220@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario842 <usuario842@example.com>
+X-To: Usuario220 <usuario220@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario842_folder\sent
+X-Origin: usuario842-P
+X-FileName: usuario842.pst
+
+Please let me know if there are any changes to the schedule.
+Hope you're doing well. Here's the requested information.
+As discussed, I have attached the report you requested.
+----------------------------------------

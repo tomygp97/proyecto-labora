@@ -1,0 +1,20 @@
+Message-ID: <2d009ac90f834c7da908f9e6e4e083a4@thyme>
+Date: Mon, 17 Oct 2016 00:00:00 -0700
+From: usuario155@example.com
+To: usuario839@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario155 <usuario155@example.com>
+X-To: Usuario839 <usuario839@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario155_folder\sent
+X-Origin: usuario155-P
+X-FileName: usuario155.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+I hope this email finds you well.
+I have included all the necessary details in the attached report.
+----------------------------------------

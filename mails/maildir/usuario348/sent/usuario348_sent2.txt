@@ -1,0 +1,20 @@
+Message-ID: <5335649fd4b243b29fb8850525126984@thyme>
+Date: Sun, 19 Nov 2000 00:00:00 -0700
+From: usuario348@example.com
+To: usuario357@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario348 <usuario348@example.com>
+X-To: Usuario357 <usuario357@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario348_folder\sent
+X-Origin: usuario348-P
+X-FileName: usuario348.pst
+
+As discussed, I have attached the report you requested.
+Please don't hesitate to reach out if you need any help.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

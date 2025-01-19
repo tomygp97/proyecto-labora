@@ -1,0 +1,20 @@
+Message-ID: <f36087d652694d829a571e28971c20b3@thyme>
+Date: Sun, 16 Mar 2008 00:00:00 -0700
+From: usuario291@example.com
+To: usuario219@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario291 <usuario291@example.com>
+X-To: Usuario219 <usuario219@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario291_folder\spam
+X-Origin: usuario291-P
+X-FileName: usuario291.pst
+
+Please review the materials at your earliest convenience.
+I wanted to thank you for your prompt response.
+Here are the next steps we need to take.
+----------------------------------------

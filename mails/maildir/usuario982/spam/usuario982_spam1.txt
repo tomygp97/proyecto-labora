@@ -1,0 +1,20 @@
+Message-ID: <972e1cc0eaa6499b87ba92abecc01697@thyme>
+Date: Thu, 31 Aug 2006 00:00:00 -0700
+From: usuario982@example.com
+To: usuario975@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario982 <usuario982@example.com>
+X-To: Usuario975 <usuario975@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario982_folder\spam
+X-Origin: usuario982-P
+X-FileName: usuario982.pst
+
+Let me know if there's anything I can assist you with.
+Here are the results from the analysis we discussed.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

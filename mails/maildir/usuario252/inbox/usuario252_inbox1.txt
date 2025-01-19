@@ -1,0 +1,20 @@
+Message-ID: <0ef6cccc911a45f0ae4633339f7d2f5c@thyme>
+Date: Sat, 15 Feb 2014 00:00:00 -0700
+From: usuario252@example.com
+To: usuario539@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario252 <usuario252@example.com>
+X-To: Usuario539 <usuario539@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario252_folder\inbox
+X-Origin: usuario252-P
+X-FileName: usuario252.pst
+
+I hope this email finds you well.
+I hope you're having a productive week.
+I wanted to give you an update on the status of the project.
+----------------------------------------

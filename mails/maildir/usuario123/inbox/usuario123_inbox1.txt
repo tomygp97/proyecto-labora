@@ -1,0 +1,20 @@
+Message-ID: <b69ff29a3d194c84bedd5f4cacf25c41@thyme>
+Date: Sun, 14 Apr 2024 00:00:00 -0700
+From: usuario123@example.com
+To: usuario537@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario123 <usuario123@example.com>
+X-To: Usuario537 <usuario537@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario123_folder\inbox
+X-Origin: usuario123-P
+X-FileName: usuario123.pst
+
+Please let me know if there are any changes to the schedule.
+I wanted to remind you about the upcoming deadline.
+Please let me know if there are any issues with the attached files.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <91d5f140e09d433980611d9d01d50e6b@thyme>
+Date: Sat, 19 Mar 2016 00:00:00 -0700
+From: usuario277@example.com
+To: usuario330@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario277 <usuario277@example.com>
+X-To: Usuario330 <usuario330@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario277_folder\inbox
+X-Origin: usuario277-P
+X-FileName: usuario277.pst
+
+I wanted to thank you for your prompt response.
+I wanted to remind you about the upcoming deadline.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

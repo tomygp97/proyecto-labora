@@ -1,0 +1,20 @@
+Message-ID: <bf169f854ad44b7f8f9af8e2bc8f141f@thyme>
+Date: Thu, 22 Dec 2016 00:00:00 -0700
+From: usuario30@example.com
+To: usuario91@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario30 <usuario30@example.com>
+X-To: Usuario91 <usuario91@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario30_folder\spam
+X-Origin: usuario30-P
+X-FileName: usuario30.pst
+
+Just wanted to touch base on the upcoming project milestone.
+Please find the latest updates on the project
+Please review the materials at your earliest convenience.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <05c01e5c31a547b1927801217299febb@thyme>
+Date: Sun, 02 Jul 2000 00:00:00 -0700
+From: usuario733@example.com
+To: usuario558@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario733 <usuario733@example.com>
+X-To: Usuario558 <usuario558@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario733_folder\spam
+X-Origin: usuario733-P
+X-FileName: usuario733.pst
+
+Hope everything is going well on your end.
+Please find the attached report for the last quarter
+Let me know if there's anything I can assist you with.
+----------------------------------------

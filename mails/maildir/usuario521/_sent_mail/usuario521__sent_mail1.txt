@@ -1,0 +1,20 @@
+Message-ID: <3652af22f38a41bfa17a1821afab5fbc@thyme>
+Date: Sat, 22 Feb 2020 00:00:00 -0700
+From: usuario521@example.com
+To: usuario483@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario521 <usuario521@example.com>
+X-To: Usuario483 <usuario483@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario521_folder\_sent_mail
+X-Origin: usuario521-P
+X-FileName: usuario521.pst
+
+Here are the results from the analysis we discussed.
+I wanted to thank you for your prompt response.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

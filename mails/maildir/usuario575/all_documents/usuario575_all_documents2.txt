@@ -1,0 +1,20 @@
+Message-ID: <d8ab8b5ab8bd462ebbd5b2a9c04a8064@thyme>
+Date: Wed, 19 Aug 2015 00:00:00 -0700
+From: usuario575@example.com
+To: usuario285@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario575 <usuario575@example.com>
+X-To: Usuario285 <usuario285@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario575_folder\all_documents
+X-Origin: usuario575-P
+X-FileName: usuario575.pst
+
+I appreciate your attention to this matter.
+Please make sure to go through the attached documents before our meeting.
+Here are the results from the analysis we discussed.
+----------------------------------------

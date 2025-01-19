@@ -1,0 +1,20 @@
+Message-ID: <860f720fb15e459a9c5b65878b27a06b@thyme>
+Date: Wed, 24 Jan 2024 00:00:00 -0700
+From: usuario502@example.com
+To: usuario807@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario502 <usuario502@example.com>
+X-To: Usuario807 <usuario807@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario502_folder\_sent_mail
+X-Origin: usuario502-P
+X-FileName: usuario502.pst
+
+Looking forward to discussing the project in more detail soon.
+I look forward to collaborating further on this initiative.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

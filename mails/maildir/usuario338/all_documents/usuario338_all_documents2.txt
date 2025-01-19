@@ -1,0 +1,20 @@
+Message-ID: <c26293d3b3214a258cdecef75bc920a4@thyme>
+Date: Mon, 02 Sep 2024 00:00:00 -0700
+From: usuario338@example.com
+To: usuario309@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario338 <usuario338@example.com>
+X-To: Usuario309 <usuario309@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario338_folder\all_documents
+X-Origin: usuario338-P
+X-FileName: usuario338.pst
+
+Looking forward to discussing the project in more detail soon.
+I wanted to remind you about the upcoming deadline.
+Can you please confirm receipt of the files?
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <07b493e165ae45e7b18940a273338c4e@thyme>
+Date: Mon, 24 Jun 2019 00:00:00 -0700
+From: usuario84@example.com
+To: usuario241@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario84 <usuario84@example.com>
+X-To: Usuario241 <usuario241@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario84_folder\_sent_mail
+X-Origin: usuario84-P
+X-FileName: usuario84.pst
+
+Here are the documents I mentioned during our call.
+Here is our forecast
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

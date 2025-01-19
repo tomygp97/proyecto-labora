@@ -1,0 +1,20 @@
+Message-ID: <247acab606e04e4b85b3d14b13c03f1d@thyme>
+Date: Wed, 15 Sep 2010 00:00:00 -0700
+From: usuario404@example.com
+To: usuario772@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario404 <usuario404@example.com>
+X-To: Usuario772 <usuario772@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario404_folder\all_documents
+X-Origin: usuario404-P
+X-FileName: usuario404.pst
+
+Please find the attached report for the last quarter
+Please don't hesitate to reach out if you need any help.
+Hope everything is going well on your end.
+----------------------------------------

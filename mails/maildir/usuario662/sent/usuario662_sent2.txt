@@ -1,0 +1,20 @@
+Message-ID: <c5b27e3f3ca34c279b88475951e30cfc@thyme>
+Date: Tue, 15 Oct 2019 00:00:00 -0700
+From: usuario662@example.com
+To: usuario855@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario662 <usuario662@example.com>
+X-To: Usuario855 <usuario855@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario662_folder\sent
+X-Origin: usuario662-P
+X-FileName: usuario662.pst
+
+Please review the materials at your earliest convenience.
+I appreciate your attention to this matter.
+I wanted to confirm our meeting for tomorrow.
+----------------------------------------

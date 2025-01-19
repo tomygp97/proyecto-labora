@@ -1,0 +1,20 @@
+Message-ID: <2e6d66079a034d8998cc962f94921d17@thyme>
+Date: Wed, 20 Nov 2024 00:00:00 -0700
+From: usuario354@example.com
+To: usuario724@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario354 <usuario354@example.com>
+X-To: Usuario724 <usuario724@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario354_folder\_sent_mail
+X-Origin: usuario354-P
+X-FileName: usuario354.pst
+
+I wanted to give you an update on the status of the project.
+I look forward to collaborating further on this initiative.
+Please review the materials at your earliest convenience.
+----------------------------------------

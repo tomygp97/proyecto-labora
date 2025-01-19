@@ -1,0 +1,20 @@
+Message-ID: <80a8f55f61b149249336b9c59ae3b2b0@thyme>
+Date: Tue, 09 May 2000 00:00:00 -0700
+From: usuario673@example.com
+To: usuario995@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario673 <usuario673@example.com>
+X-To: Usuario995 <usuario995@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario673_folder\inbox
+X-Origin: usuario673-P
+X-FileName: usuario673.pst
+
+Please let me know if there are any changes to the schedule.
+I hope this email finds you well.
+Please review the attached files and provide feedback.
+----------------------------------------

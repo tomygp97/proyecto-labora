@@ -1,0 +1,20 @@
+Message-ID: <bb5ef64b22ff4d0391d0f72057e9d530@thyme>
+Date: Fri, 23 Nov 2001 00:00:00 -0700
+From: usuario267@example.com
+To: usuario396@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario267 <usuario267@example.com>
+X-To: Usuario396 <usuario396@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario267_folder\spam
+X-Origin: usuario267-P
+X-FileName: usuario267.pst
+
+Please find the attached report for the last quarter
+Thank you for your attention
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

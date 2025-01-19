@@ -1,0 +1,20 @@
+Message-ID: <2cc81e469a2941c5bdf287fca5566d9f@thyme>
+Date: Mon, 28 Jul 2025 00:00:00 -0700
+From: usuario470@example.com
+To: usuario158@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario470 <usuario470@example.com>
+X-To: Usuario158 <usuario158@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario470_folder\spam
+X-Origin: usuario470-P
+X-FileName: usuario470.pst
+
+I wanted to thank you for your prompt response.
+Let me know if there's anything I can assist you with.
+I hope you're enjoying a nice week so far.
+----------------------------------------

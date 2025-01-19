@@ -1,0 +1,20 @@
+Message-ID: <afbb5015255445e19e37b78e0abce7e3@thyme>
+Date: Fri, 13 May 2016 00:00:00 -0700
+From: usuario156@example.com
+To: usuario594@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario156 <usuario156@example.com>
+X-To: Usuario594 <usuario594@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario156_folder\sent
+X-Origin: usuario156-P
+X-FileName: usuario156.pst
+
+I wanted to give you an update on the status of the project.
+Please review the materials at your earliest convenience.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

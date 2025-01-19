@@ -1,0 +1,20 @@
+Message-ID: <a16cf70eb46246df997e5f68098369a1@thyme>
+Date: Tue, 02 Jan 2001 00:00:00 -0700
+From: usuario12@example.com
+To: usuario715@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario12 <usuario12@example.com>
+X-To: Usuario715 <usuario715@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario12_folder\spam
+X-Origin: usuario12-P
+X-FileName: usuario12.pst
+
+Here are the results from the analysis we discussed.
+Please let me know if there's anything else you need from my end.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

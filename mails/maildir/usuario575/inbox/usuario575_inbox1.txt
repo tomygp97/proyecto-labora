@@ -1,0 +1,20 @@
+Message-ID: <1e681cf68c23418a87e9c1c8be6d6442@thyme>
+Date: Sun, 04 Feb 2018 00:00:00 -0700
+From: usuario575@example.com
+To: usuario281@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario575 <usuario575@example.com>
+X-To: Usuario281 <usuario281@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario575_folder\inbox
+X-Origin: usuario575-P
+X-FileName: usuario575.pst
+
+I wanted to remind you about the upcoming deadline.
+I look forward to your response.
+I appreciate your attention to this matter.
+----------------------------------------

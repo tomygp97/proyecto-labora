@@ -1,0 +1,20 @@
+Message-ID: <bdc069df3b094a069d28f341f437af3c@thyme>
+Date: Wed, 12 Apr 2023 00:00:00 -0700
+From: usuario603@example.com
+To: usuario435@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario603 <usuario603@example.com>
+X-To: Usuario435 <usuario435@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario603_folder\_sent_mail
+X-Origin: usuario603-P
+X-FileName: usuario603.pst
+
+Please let me know if there's anything else you need from my end.
+Please make sure to go through the attached documents before our meeting.
+I have included all the necessary details in the attached report.
+----------------------------------------

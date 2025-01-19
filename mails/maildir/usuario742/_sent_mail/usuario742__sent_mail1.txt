@@ -1,0 +1,20 @@
+Message-ID: <a262cd8721c446caba4d5bcb9609a1a6@thyme>
+Date: Wed, 09 Sep 2020 00:00:00 -0700
+From: usuario742@example.com
+To: usuario104@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario742 <usuario742@example.com>
+X-To: Usuario104 <usuario104@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario742_folder\_sent_mail
+X-Origin: usuario742-P
+X-FileName: usuario742.pst
+
+I wanted to confirm our meeting for tomorrow.
+I have included all the necessary details in the attached report.
+Please find the latest updates on the project
+----------------------------------------

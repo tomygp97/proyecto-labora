@@ -1,0 +1,20 @@
+Message-ID: <92225ae42f3e42bea9de0916a872d821@thyme>
+Date: Mon, 01 Jun 2015 00:00:00 -0700
+From: usuario637@example.com
+To: usuario928@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario637 <usuario637@example.com>
+X-To: Usuario928 <usuario928@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario637_folder\_sent_mail
+X-Origin: usuario637-P
+X-FileName: usuario637.pst
+
+Please don't hesitate to reach out if you need any help.
+Just wanted to touch base on the upcoming project milestone.
+Please let me know if there's anything else you need from my end.
+----------------------------------------

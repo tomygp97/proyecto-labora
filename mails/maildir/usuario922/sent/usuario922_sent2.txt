@@ -1,0 +1,20 @@
+Message-ID: <3bfd14c760164475b251e01776f09122@thyme>
+Date: Sat, 21 Jul 2007 00:00:00 -0700
+From: usuario922@example.com
+To: usuario341@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario922 <usuario922@example.com>
+X-To: Usuario341 <usuario341@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario922_folder\sent
+X-Origin: usuario922-P
+X-FileName: usuario922.pst
+
+Looking forward to discussing the project in more detail soon.
+I would love to hear your feedback on the proposal.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

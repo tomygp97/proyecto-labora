@@ -1,0 +1,20 @@
+Message-ID: <52ca820bae7f4423a944e7f7140a2454@thyme>
+Date: Thu, 18 Feb 2021 00:00:00 -0700
+From: usuario338@example.com
+To: usuario844@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario338 <usuario338@example.com>
+X-To: Usuario844 <usuario844@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario338_folder\_sent_mail
+X-Origin: usuario338-P
+X-FileName: usuario338.pst
+
+Please let me know if there's anything else you need from my end.
+I wanted to remind you about the upcoming deadline.
+Here is our forecast
+----------------------------------------

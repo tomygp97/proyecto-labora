@@ -1,0 +1,20 @@
+Message-ID: <af02fd59545a4cbbb66c3cdd5bfbff5b@thyme>
+Date: Wed, 19 Nov 2014 00:00:00 -0700
+From: usuario137@example.com
+To: usuario278@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario137 <usuario137@example.com>
+X-To: Usuario278 <usuario278@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario137_folder\spam
+X-Origin: usuario137-P
+X-FileName: usuario137.pst
+
+Looking forward to hearing from you soon
+I look forward to your response.
+Here is a summary of the last meeting for your reference.
+----------------------------------------

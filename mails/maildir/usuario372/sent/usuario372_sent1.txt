@@ -1,0 +1,20 @@
+Message-ID: <17fa717bb8224fdb9c7bf82b34468b7f@thyme>
+Date: Thu, 25 Dec 2014 00:00:00 -0700
+From: usuario372@example.com
+To: usuario43@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario372 <usuario372@example.com>
+X-To: Usuario43 <usuario43@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario372_folder\sent
+X-Origin: usuario372-P
+X-FileName: usuario372.pst
+
+I hope this email finds you well.
+Can you please confirm receipt of the files?
+Here is a summary of the last meeting for your reference.
+----------------------------------------

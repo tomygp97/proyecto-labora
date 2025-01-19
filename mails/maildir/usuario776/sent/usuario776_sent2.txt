@@ -1,0 +1,20 @@
+Message-ID: <f6145ef7bb4f4b24b14e514006221ad3@thyme>
+Date: Tue, 21 Sep 2021 00:00:00 -0700
+From: usuario776@example.com
+To: usuario769@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario776 <usuario776@example.com>
+X-To: Usuario769 <usuario769@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario776_folder\sent
+X-Origin: usuario776-P
+X-FileName: usuario776.pst
+
+Let me know if there's anything I can assist you with.
+Here are the results from the analysis we discussed.
+Please let me know if there are any changes to the schedule.
+----------------------------------------

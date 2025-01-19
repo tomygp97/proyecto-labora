@@ -1,0 +1,20 @@
+Message-ID: <417c161037eb4c41ace381dd7ecaf5ef@thyme>
+Date: Thu, 07 Apr 2005 00:00:00 -0700
+From: usuario958@example.com
+To: usuario162@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario958 <usuario958@example.com>
+X-To: Usuario162 <usuario162@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario958_folder\_sent_mail
+X-Origin: usuario958-P
+X-FileName: usuario958.pst
+
+I would love to hear your feedback on the proposal.
+Please review the attached files and provide feedback.
+Can you please confirm receipt of the files?
+----------------------------------------

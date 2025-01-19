@@ -1,0 +1,20 @@
+Message-ID: <4adc570655224236947c7d92104544ad@thyme>
+Date: Tue, 01 Mar 2005 00:00:00 -0700
+From: usuario32@example.com
+To: usuario202@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario32 <usuario32@example.com>
+X-To: Usuario202 <usuario202@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario32_folder\_sent_mail
+X-Origin: usuario32-P
+X-FileName: usuario32.pst
+
+I wanted to check in regarding the status of the project.
+Here are the next steps we need to take.
+Just checking in to see if you've received my previous email.
+----------------------------------------

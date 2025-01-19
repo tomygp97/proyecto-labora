@@ -1,0 +1,20 @@
+Message-ID: <31494af3b78f411ba504e287dfbe5e14@thyme>
+Date: Sun, 02 Mar 2008 00:00:00 -0700
+From: usuario126@example.com
+To: usuario322@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario126 <usuario126@example.com>
+X-To: Usuario322 <usuario322@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario126_folder\all_documents
+X-Origin: usuario126-P
+X-FileName: usuario126.pst
+
+Please make sure to go through the attached documents before our meeting.
+I look forward to collaborating further on this initiative.
+I have included all the necessary details in the attached report.
+----------------------------------------

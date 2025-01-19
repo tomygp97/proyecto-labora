@@ -1,0 +1,20 @@
+Message-ID: <45cf59c8142c44c3a200c9187de1a9f5@thyme>
+Date: Fri, 09 Jan 2015 00:00:00 -0700
+From: usuario172@example.com
+To: usuario912@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario172 <usuario172@example.com>
+X-To: Usuario912 <usuario912@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario172_folder\inbox
+X-Origin: usuario172-P
+X-FileName: usuario172.pst
+
+I hope you're having a productive week.
+I look forward to collaborating further on this initiative.
+I look forward to your response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <4045f6734c564098ac8adb60b2b52897@thyme>
+Date: Sun, 30 Jan 2005 00:00:00 -0700
+From: usuario48@example.com
+To: usuario186@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario48 <usuario48@example.com>
+X-To: Usuario186 <usuario186@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario48_folder\spam
+X-Origin: usuario48-P
+X-FileName: usuario48.pst
+
+I would love to hear your feedback on the proposal.
+I wanted to thank you for your prompt response.
+I wanted to give you an update on the status of the project.
+----------------------------------------

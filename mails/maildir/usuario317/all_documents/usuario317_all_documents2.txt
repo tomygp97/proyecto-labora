@@ -1,0 +1,20 @@
+Message-ID: <18d4c7214098418cac5ebba9bf4655d7@thyme>
+Date: Mon, 14 Feb 2022 00:00:00 -0700
+From: usuario317@example.com
+To: usuario640@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario317 <usuario317@example.com>
+X-To: Usuario640 <usuario640@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario317_folder\all_documents
+X-Origin: usuario317-P
+X-FileName: usuario317.pst
+
+Let me know if you need any additional details.
+Just wanted to touch base on the upcoming project milestone.
+I hope you're enjoying a nice week so far.
+----------------------------------------

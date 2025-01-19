@@ -1,0 +1,20 @@
+Message-ID: <d1ac7f2c953b44a18598e4dcb7138bbc@thyme>
+Date: Sat, 15 Jul 2006 00:00:00 -0700
+From: usuario307@example.com
+To: usuario179@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario307 <usuario307@example.com>
+X-To: Usuario179 <usuario179@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario307_folder\_sent_mail
+X-Origin: usuario307-P
+X-FileName: usuario307.pst
+
+I look forward to your response.
+Can you please confirm receipt of the files?
+I appreciate your attention to this matter.
+----------------------------------------

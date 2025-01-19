@@ -1,0 +1,20 @@
+Message-ID: <610374246b3345128196889f89606c88@thyme>
+Date: Fri, 10 Sep 2010 00:00:00 -0700
+From: usuario510@example.com
+To: usuario589@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario510 <usuario510@example.com>
+X-To: Usuario589 <usuario589@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario510_folder\spam
+X-Origin: usuario510-P
+X-FileName: usuario510.pst
+
+As discussed, I have attached the report you requested.
+I wanted to remind you about the upcoming deadline.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <c11274230c914b59b28a247e2e30e02b@thyme>
+Date: Fri, 10 Jul 2015 00:00:00 -0700
+From: usuario428@example.com
+To: usuario443@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario428 <usuario428@example.com>
+X-To: Usuario443 <usuario443@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario428_folder\inbox
+X-Origin: usuario428-P
+X-FileName: usuario428.pst
+
+Please let me know if there's anything else you need from my end.
+Here are the next steps we need to take.
+Let me know if you'd like to schedule a follow-up discussion.
+----------------------------------------

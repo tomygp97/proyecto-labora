@@ -1,0 +1,20 @@
+Message-ID: <3d97fc40f71a496691a6bbb0b1e66c10@thyme>
+Date: Sun, 07 Jul 2002 00:00:00 -0700
+From: usuario119@example.com
+To: usuario181@example.com
+Subject: Thank You for Your Help
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario119 <usuario119@example.com>
+X-To: Usuario181 <usuario181@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario119_folder\spam
+X-Origin: usuario119-P
+X-FileName: usuario119.pst
+
+Here are the results from the analysis we discussed.
+Please let me know if there are any issues with the attached files.
+I have included all the necessary details in the attached report.
+----------------------------------------

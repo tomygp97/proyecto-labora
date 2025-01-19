@@ -1,0 +1,20 @@
+Message-ID: <c62b156f0436414b821bc8a18dc14251@thyme>
+Date: Mon, 25 Feb 2019 00:00:00 -0700
+From: usuario975@example.com
+To: usuario349@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario975 <usuario975@example.com>
+X-To: Usuario349 <usuario349@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario975_folder\all_documents
+X-Origin: usuario975-P
+X-FileName: usuario975.pst
+
+Please let me know if there's anything else you need from my end.
+I wanted to thank you for your prompt response.
+I look forward to collaborating further on this initiative.
+----------------------------------------

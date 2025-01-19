@@ -1,0 +1,20 @@
+Message-ID: <ad8dc94b5e714ca0ba4d6f65ce3678f5@thyme>
+Date: Fri, 14 Jan 2022 00:00:00 -0700
+From: usuario845@example.com
+To: usuario117@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario845 <usuario845@example.com>
+X-To: Usuario117 <usuario117@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario845_folder\all_documents
+X-Origin: usuario845-P
+X-FileName: usuario845.pst
+
+I wanted to follow up on our last meeting
+I hope you're enjoying a nice week so far.
+Can you please confirm receipt of the files?
+----------------------------------------

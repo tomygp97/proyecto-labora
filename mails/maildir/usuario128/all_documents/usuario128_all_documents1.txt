@@ -1,0 +1,20 @@
+Message-ID: <2f524fbf5a58439c83af249421dc6601@thyme>
+Date: Fri, 12 Oct 2001 00:00:00 -0700
+From: usuario128@example.com
+To: usuario325@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario128 <usuario128@example.com>
+X-To: Usuario325 <usuario325@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario128_folder\all_documents
+X-Origin: usuario128-P
+X-FileName: usuario128.pst
+
+Looking forward to hearing from you soon
+Looking forward to discussing the project in more detail soon.
+Here are the documents I mentioned during our call.
+----------------------------------------

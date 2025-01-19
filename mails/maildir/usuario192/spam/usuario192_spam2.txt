@@ -1,0 +1,20 @@
+Message-ID: <fa82311e23614ae2ba98984be1969a4d@thyme>
+Date: Tue, 31 Jan 2017 00:00:00 -0700
+From: usuario192@example.com
+To: usuario337@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario192 <usuario192@example.com>
+X-To: Usuario337 <usuario337@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario192_folder\spam
+X-Origin: usuario192-P
+X-FileName: usuario192.pst
+
+Please let me know if there's anything else you need from my end.
+I hope you're enjoying a nice week so far.
+Just checking in to see if you've received my previous email.
+----------------------------------------

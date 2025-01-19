@@ -1,0 +1,20 @@
+Message-ID: <245a146904e64536b7a25a32c26da430@thyme>
+Date: Wed, 17 Apr 2013 00:00:00 -0700
+From: usuario527@example.com
+To: usuario555@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario527 <usuario527@example.com>
+X-To: Usuario555 <usuario555@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario527_folder\_sent_mail
+X-Origin: usuario527-P
+X-FileName: usuario527.pst
+
+Here is a summary of the last meeting for your reference.
+Here are the next steps we need to take.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

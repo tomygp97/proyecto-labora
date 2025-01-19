@@ -1,0 +1,20 @@
+Message-ID: <40cc9c4c27764649a17858fdf2e39f4b@thyme>
+Date: Mon, 15 Jan 2001 00:00:00 -0700
+From: usuario159@example.com
+To: usuario511@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario159 <usuario159@example.com>
+X-To: Usuario511 <usuario511@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario159_folder\_sent_mail
+X-Origin: usuario159-P
+X-FileName: usuario159.pst
+
+Please review the materials at your earliest convenience.
+Here is our forecast
+I wanted to thank you for your prompt response.
+----------------------------------------

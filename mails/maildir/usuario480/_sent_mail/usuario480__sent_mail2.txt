@@ -1,0 +1,20 @@
+Message-ID: <84647ddd6b99492bae73eb0872bc9174@thyme>
+Date: Sun, 29 May 2011 00:00:00 -0700
+From: usuario480@example.com
+To: usuario783@example.com
+Subject: New Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario480 <usuario480@example.com>
+X-To: Usuario783 <usuario783@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario480_folder\_sent_mail
+X-Origin: usuario480-P
+X-FileName: usuario480.pst
+
+I look forward to your response.
+Here are the documents I mentioned during our call.
+I look forward to collaborating further on this initiative.
+----------------------------------------

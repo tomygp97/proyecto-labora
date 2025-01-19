@@ -1,0 +1,20 @@
+Message-ID: <56925b2514d24c3b91391bf3d97b3ba7@thyme>
+Date: Fri, 07 Apr 2017 00:00:00 -0700
+From: usuario705@example.com
+To: usuario31@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario705 <usuario705@example.com>
+X-To: Usuario31 <usuario31@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario705_folder\_sent_mail
+X-Origin: usuario705-P
+X-FileName: usuario705.pst
+
+Looking forward to hearing from you soon
+I wanted to check in regarding the status of the project.
+I hope this email finds you well.
+----------------------------------------

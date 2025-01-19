@@ -1,0 +1,20 @@
+Message-ID: <47cfcd9b197940ca846c6f97bb29b4b0@thyme>
+Date: Wed, 16 Dec 2015 00:00:00 -0700
+From: usuario483@example.com
+To: usuario21@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario483 <usuario483@example.com>
+X-To: Usuario21 <usuario21@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario483_folder\spam
+X-Origin: usuario483-P
+X-FileName: usuario483.pst
+
+Here is our forecast
+I wanted to thank you for your prompt response.
+Let me know if there's anything I can assist you with.
+----------------------------------------

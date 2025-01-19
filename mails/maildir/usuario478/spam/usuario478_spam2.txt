@@ -1,0 +1,20 @@
+Message-ID: <5f3c50f08bab436e93180e5fd7981165@thyme>
+Date: Mon, 24 Nov 2025 00:00:00 -0700
+From: usuario478@example.com
+To: usuario121@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario478 <usuario478@example.com>
+X-To: Usuario121 <usuario121@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario478_folder\spam
+X-Origin: usuario478-P
+X-FileName: usuario478.pst
+
+Please don't hesitate to reach out if you need any help.
+Here are the results from the analysis we discussed.
+Just checking in to see if you've received my previous email.
+----------------------------------------

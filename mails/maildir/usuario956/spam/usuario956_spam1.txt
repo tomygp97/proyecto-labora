@@ -1,0 +1,20 @@
+Message-ID: <93fe311b7b5d4339a6ad49a0e2da940d@thyme>
+Date: Wed, 10 Nov 2004 00:00:00 -0700
+From: usuario956@example.com
+To: usuario534@example.com
+Subject: Review of Your Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario956 <usuario956@example.com>
+X-To: Usuario534 <usuario534@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario956_folder\spam
+X-Origin: usuario956-P
+X-FileName: usuario956.pst
+
+I wanted to check in regarding the status of the project.
+Hope you're doing well. Here's the requested information.
+Here are the results from the analysis we discussed.
+----------------------------------------

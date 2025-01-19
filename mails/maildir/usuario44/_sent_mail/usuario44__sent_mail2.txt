@@ -1,0 +1,20 @@
+Message-ID: <422cdf2b48104044948f45c3f43ad130@thyme>
+Date: Mon, 10 Jan 2000 00:00:00 -0700
+From: usuario44@example.com
+To: usuario54@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario44 <usuario44@example.com>
+X-To: Usuario54 <usuario54@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario44_folder\_sent_mail
+X-Origin: usuario44-P
+X-FileName: usuario44.pst
+
+Here are the next steps we need to take.
+Here are the results from the analysis we discussed.
+Please review the attached files and provide feedback.
+----------------------------------------

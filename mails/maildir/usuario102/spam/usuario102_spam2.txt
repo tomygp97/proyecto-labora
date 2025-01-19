@@ -1,0 +1,20 @@
+Message-ID: <ca603f14b4d747438f35e9bff2281bd7@thyme>
+Date: Thu, 04 Aug 2016 00:00:00 -0700
+From: usuario102@example.com
+To: usuario717@example.com
+Subject: Quarterly Report Submission
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario102 <usuario102@example.com>
+X-To: Usuario717 <usuario717@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario102_folder\spam
+X-Origin: usuario102-P
+X-FileName: usuario102.pst
+
+Please let me know if there are any changes to the schedule.
+Please make sure to go through the attached documents before our meeting.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

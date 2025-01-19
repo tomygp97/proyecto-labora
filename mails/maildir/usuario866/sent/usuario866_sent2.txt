@@ -1,0 +1,20 @@
+Message-ID: <3783cc85b2b74f9a858f9ab725d7ea02@thyme>
+Date: Fri, 17 Oct 2008 00:00:00 -0700
+From: usuario866@example.com
+To: usuario556@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario866 <usuario866@example.com>
+X-To: Usuario556 <usuario556@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario866_folder\sent
+X-Origin: usuario866-P
+X-FileName: usuario866.pst
+
+I have included all the necessary details in the attached report.
+I wanted to remind you about the upcoming deadline.
+Please make sure to go through the attached documents before our meeting.
+----------------------------------------

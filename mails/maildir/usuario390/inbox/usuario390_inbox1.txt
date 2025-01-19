@@ -1,0 +1,20 @@
+Message-ID: <06e47f0f038d41958d8f39b96131c244@thyme>
+Date: Fri, 31 Jan 2003 00:00:00 -0700
+From: usuario390@example.com
+To: usuario710@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario390 <usuario390@example.com>
+X-To: Usuario710 <usuario710@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario390_folder\inbox
+X-Origin: usuario390-P
+X-FileName: usuario390.pst
+
+Here are the results from the analysis we discussed.
+I wanted to thank you for your prompt response.
+Hope everything is going well on your end.
+----------------------------------------

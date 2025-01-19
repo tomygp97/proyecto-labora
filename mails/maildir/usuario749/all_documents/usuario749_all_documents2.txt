@@ -1,0 +1,20 @@
+Message-ID: <da5069edfb8a4d5b8037438c58d3c712@thyme>
+Date: Wed, 12 Apr 2006 00:00:00 -0700
+From: usuario749@example.com
+To: usuario979@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario749 <usuario749@example.com>
+X-To: Usuario979 <usuario979@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario749_folder\all_documents
+X-Origin: usuario749-P
+X-FileName: usuario749.pst
+
+Please let me know if there are any changes to the schedule.
+Please find the attached report for the last quarter
+Can you please confirm receipt of the files?
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <73d3c52db23341bb921a9fc37356e50d@thyme>
+Date: Tue, 15 Nov 2016 00:00:00 -0700
+From: usuario826@example.com
+To: usuario896@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario826 <usuario826@example.com>
+X-To: Usuario896 <usuario896@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario826_folder\sent
+X-Origin: usuario826-P
+X-FileName: usuario826.pst
+
+Let me know if you need any additional details.
+Please make sure to go through the attached documents before our meeting.
+I wanted to thank you for your prompt response.
+----------------------------------------

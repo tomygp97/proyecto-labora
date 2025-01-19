@@ -1,0 +1,20 @@
+Message-ID: <d075a3a4c28c4c37b02cbfc38c634d6f@thyme>
+Date: Sun, 04 Jan 2009 00:00:00 -0700
+From: usuario789@example.com
+To: usuario994@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario789 <usuario789@example.com>
+X-To: Usuario994 <usuario994@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario789_folder\all_documents
+X-Origin: usuario789-P
+X-FileName: usuario789.pst
+
+I wanted to confirm our meeting for tomorrow.
+I hope you're enjoying a nice week so far.
+I hope this email finds you well.
+----------------------------------------

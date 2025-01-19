@@ -1,0 +1,20 @@
+Message-ID: <841000c45ce54585bcfe9dff3a456633@thyme>
+Date: Sat, 03 Jun 2023 00:00:00 -0700
+From: usuario714@example.com
+To: usuario126@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario714 <usuario714@example.com>
+X-To: Usuario126 <usuario126@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario714_folder\inbox
+X-Origin: usuario714-P
+X-FileName: usuario714.pst
+
+Here is our forecast
+Please find the latest updates on the project
+Looking forward to discussing the project in more detail soon.
+----------------------------------------

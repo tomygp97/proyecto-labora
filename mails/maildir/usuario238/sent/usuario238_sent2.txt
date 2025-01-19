@@ -1,0 +1,20 @@
+Message-ID: <43cde76203564ae09b6aa29fa75c4b07@thyme>
+Date: Mon, 07 Sep 2015 00:00:00 -0700
+From: usuario238@example.com
+To: usuario115@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario238 <usuario238@example.com>
+X-To: Usuario115 <usuario115@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario238_folder\sent
+X-Origin: usuario238-P
+X-FileName: usuario238.pst
+
+I hope you're enjoying a nice week so far.
+Please let me know if there are any changes to the schedule.
+Please review the materials at your earliest convenience.
+----------------------------------------

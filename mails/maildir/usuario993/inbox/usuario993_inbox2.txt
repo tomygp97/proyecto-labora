@@ -1,0 +1,20 @@
+Message-ID: <e750c2db64004e4fb0ce231d146f474d@thyme>
+Date: Mon, 25 Aug 2025 00:00:00 -0700
+From: usuario993@example.com
+To: usuario42@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario993 <usuario993@example.com>
+X-To: Usuario42 <usuario42@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario993_folder\inbox
+X-Origin: usuario993-P
+X-FileName: usuario993.pst
+
+Here is a summary of the last meeting for your reference.
+Here are the documents I mentioned during our call.
+Please review the attached files and provide feedback.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <6d5104db3aae48a9b8f80d4a08b654a2@thyme>
+Date: Tue, 08 Oct 2002 00:00:00 -0700
+From: usuario448@example.com
+To: usuario389@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario448 <usuario448@example.com>
+X-To: Usuario389 <usuario389@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario448_folder\sent
+X-Origin: usuario448-P
+X-FileName: usuario448.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here are the results from the analysis we discussed.
+I have included all the necessary details in the attached report.
+----------------------------------------

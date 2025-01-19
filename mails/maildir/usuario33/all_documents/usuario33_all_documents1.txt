@@ -1,0 +1,20 @@
+Message-ID: <4c22f708c5024f3789112d229d93242f@thyme>
+Date: Wed, 25 Aug 2010 00:00:00 -0700
+From: usuario33@example.com
+To: usuario984@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario33 <usuario33@example.com>
+X-To: Usuario984 <usuario984@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario33_folder\all_documents
+X-Origin: usuario33-P
+X-FileName: usuario33.pst
+
+Let me know if you need any additional details.
+Here is a summary of the last meeting for your reference.
+As discussed, I have attached the report you requested.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <0e23524999ef4a1cad6fd9470ac24d21@thyme>
+Date: Mon, 27 Feb 2023 00:00:00 -0700
+From: usuario315@example.com
+To: usuario660@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario315 <usuario315@example.com>
+X-To: Usuario660 <usuario660@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario315_folder\spam
+X-Origin: usuario315-P
+X-FileName: usuario315.pst
+
+I hope you're having a productive week.
+Please review the materials at your earliest convenience.
+Looking forward to hearing from you soon
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <ec90ec183325487e993e526880856565@thyme>
+Date: Sat, 28 Oct 2017 00:00:00 -0700
+From: usuario360@example.com
+To: usuario899@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario360 <usuario360@example.com>
+X-To: Usuario899 <usuario899@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario360_folder\spam
+X-Origin: usuario360-P
+X-FileName: usuario360.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Hope you're doing well. Here's the requested information.
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

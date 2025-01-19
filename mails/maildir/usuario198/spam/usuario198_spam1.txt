@@ -1,0 +1,20 @@
+Message-ID: <4a62f21ad20846c2a1c1765efceb41e2@thyme>
+Date: Sun, 12 Nov 2023 00:00:00 -0700
+From: usuario198@example.com
+To: usuario13@example.com
+Subject: Request for Additional Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario198 <usuario198@example.com>
+X-To: Usuario13 <usuario13@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario198_folder\spam
+X-Origin: usuario198-P
+X-FileName: usuario198.pst
+
+Please review the attached files and provide feedback.
+Please find the latest updates on the project
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

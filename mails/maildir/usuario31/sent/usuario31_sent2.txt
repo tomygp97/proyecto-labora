@@ -1,0 +1,20 @@
+Message-ID: <ff67c4e90a4c471197bec60939c90c22@thyme>
+Date: Wed, 05 Nov 2014 00:00:00 -0700
+From: usuario31@example.com
+To: usuario754@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario31 <usuario31@example.com>
+X-To: Usuario754 <usuario754@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario31_folder\sent
+X-Origin: usuario31-P
+X-FileName: usuario31.pst
+
+Please let me know if there's anything else you need from my end.
+Please find the latest updates on the project
+Just wanted to touch base on the upcoming project milestone.
+----------------------------------------

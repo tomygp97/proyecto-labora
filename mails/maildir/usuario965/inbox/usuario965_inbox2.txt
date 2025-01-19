@@ -1,0 +1,20 @@
+Message-ID: <557e0b4f0bb8455e9a378cd199f417d3@thyme>
+Date: Sun, 21 Dec 2003 00:00:00 -0700
+From: usuario965@example.com
+To: usuario701@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario965 <usuario965@example.com>
+X-To: Usuario701 <usuario701@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario965_folder\inbox
+X-Origin: usuario965-P
+X-FileName: usuario965.pst
+
+Can you please confirm receipt of the files?
+I wanted to remind you about the upcoming deadline.
+I trust the documents will be helpful for our upcoming discussion.
+----------------------------------------

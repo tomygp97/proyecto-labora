@@ -1,0 +1,20 @@
+Message-ID: <3f6751611c6042c39ef2dec9fcf79927@thyme>
+Date: Sat, 15 Oct 2005 00:00:00 -0700
+From: usuario27@example.com
+To: usuario729@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario27 <usuario27@example.com>
+X-To: Usuario729 <usuario729@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario27_folder\spam
+X-Origin: usuario27-P
+X-FileName: usuario27.pst
+
+Can you please confirm receipt of the files?
+Hope everything is going well on your end.
+I hope this email finds you well.
+----------------------------------------

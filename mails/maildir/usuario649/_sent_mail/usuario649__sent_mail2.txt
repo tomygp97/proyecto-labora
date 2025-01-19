@@ -1,0 +1,20 @@
+Message-ID: <7264fe55435146d2a01fb3316c20d9d9@thyme>
+Date: Thu, 05 Jan 2023 00:00:00 -0700
+From: usuario649@example.com
+To: usuario794@example.com
+Subject: Upcoming Deadline Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario649 <usuario649@example.com>
+X-To: Usuario794 <usuario794@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario649_folder\_sent_mail
+X-Origin: usuario649-P
+X-FileName: usuario649.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+Here is a summary of the last meeting for your reference.
+Hope everything is going well on your end.
+----------------------------------------

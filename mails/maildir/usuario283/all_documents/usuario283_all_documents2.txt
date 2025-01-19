@@ -1,0 +1,20 @@
+Message-ID: <2b4640498fe34ed9b9c3a76c494d4694@thyme>
+Date: Sun, 15 Apr 2001 00:00:00 -0700
+From: usuario283@example.com
+To: usuario787@example.com
+Subject: Important Information Regarding Upcoming Events
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario283 <usuario283@example.com>
+X-To: Usuario787 <usuario787@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario283_folder\all_documents
+X-Origin: usuario283-P
+X-FileName: usuario283.pst
+
+Please let me know if there's anything else you need from my end.
+I hope you're having a productive week.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <022717c1c6064108bda8daabef35bcd1@thyme>
+Date: Mon, 29 Dec 2008 00:00:00 -0700
+From: usuario705@example.com
+To: usuario798@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario705 <usuario705@example.com>
+X-To: Usuario798 <usuario798@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario705_folder\_sent_mail
+X-Origin: usuario705-P
+X-FileName: usuario705.pst
+
+Hope you're doing well. Here's the requested information.
+I would love to hear your feedback on the proposal.
+I wanted to thank you for your prompt response.
+----------------------------------------

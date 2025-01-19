@@ -1,0 +1,20 @@
+Message-ID: <c9eed12dd3f74acd9de5a070862397e5@thyme>
+Date: Mon, 20 Mar 2000 00:00:00 -0700
+From: usuario75@example.com
+To: usuario809@example.com
+Subject: Invitation for Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario75 <usuario75@example.com>
+X-To: Usuario809 <usuario809@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario75_folder\sent
+X-Origin: usuario75-P
+X-FileName: usuario75.pst
+
+Let me know if you'd like to schedule a follow-up discussion.
+Here are the results from the analysis we discussed.
+I would love to hear your feedback on the proposal.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <7bcc47b917f647afa402bd35c7abfb95@thyme>
+Date: Mon, 30 Apr 2012 00:00:00 -0700
+From: usuario878@example.com
+To: usuario510@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario878 <usuario878@example.com>
+X-To: Usuario510 <usuario510@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario878_folder\inbox
+X-Origin: usuario878-P
+X-FileName: usuario878.pst
+
+I wanted to remind you about the upcoming deadline.
+Let me know if you'd like to schedule a follow-up discussion.
+I have included all the necessary details in the attached report.
+----------------------------------------

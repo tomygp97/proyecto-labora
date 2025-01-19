@@ -1,0 +1,20 @@
+Message-ID: <e791e19e5d38484290dad1c169edd198@thyme>
+Date: Mon, 16 Jun 2025 00:00:00 -0700
+From: usuario59@example.com
+To: usuario719@example.com
+Subject: Meeting Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario59 <usuario59@example.com>
+X-To: Usuario719 <usuario719@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario59_folder\sent
+X-Origin: usuario59-P
+X-FileName: usuario59.pst
+
+As discussed, I have attached the report you requested.
+Please find the attached report for the last quarter
+Please review the materials at your earliest convenience.
+----------------------------------------

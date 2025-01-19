@@ -1,0 +1,20 @@
+Message-ID: <132685442dfe4656a2ff7554cae3b59f@thyme>
+Date: Thu, 28 Jun 2001 00:00:00 -0700
+From: usuario23@example.com
+To: usuario869@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario23 <usuario23@example.com>
+X-To: Usuario869 <usuario869@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario23_folder\_sent_mail
+X-Origin: usuario23-P
+X-FileName: usuario23.pst
+
+Here is our forecast
+Just wanted to touch base on the upcoming project milestone.
+I wanted to check in regarding the status of the project.
+----------------------------------------

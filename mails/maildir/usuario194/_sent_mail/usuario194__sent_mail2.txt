@@ -1,0 +1,20 @@
+Message-ID: <298d3c4e09c04074b8e147d9e8b9a201@thyme>
+Date: Fri, 14 Mar 2008 00:00:00 -0700
+From: usuario194@example.com
+To: usuario111@example.com
+Subject: Action Required: Review Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario194 <usuario194@example.com>
+X-To: Usuario111 <usuario111@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario194_folder\_sent_mail
+X-Origin: usuario194-P
+X-FileName: usuario194.pst
+
+I wanted to give you an update on the status of the project.
+Please let me know if there are any changes to the schedule.
+I hope this email finds you well.
+----------------------------------------

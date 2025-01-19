@@ -1,0 +1,20 @@
+Message-ID: <423d5c0f2d2e4cb3a74cb19b5fd40f6c@thyme>
+Date: Mon, 24 Apr 2000 00:00:00 -0700
+From: usuario165@example.com
+To: usuario391@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario165 <usuario165@example.com>
+X-To: Usuario391 <usuario391@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario165_folder\spam
+X-Origin: usuario165-P
+X-FileName: usuario165.pst
+
+Here are the documents I mentioned during our call.
+I wanted to confirm our meeting for tomorrow.
+I would love to hear your feedback on the proposal.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <61c20ae1c41249b4a6fb09d37133bde2@thyme>
+Date: Sun, 07 Dec 2025 00:00:00 -0700
+From: usuario156@example.com
+To: usuario246@example.com
+Subject: Request for Confirmation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario156 <usuario156@example.com>
+X-To: Usuario246 <usuario246@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario156_folder\spam
+X-Origin: usuario156-P
+X-FileName: usuario156.pst
+
+I hope this email finds you well.
+I look forward to your response.
+I wanted to thank you for your prompt response.
+----------------------------------------

@@ -1,0 +1,20 @@
+Message-ID: <9ae90663f6fd44e5b866cb12d1483c71@thyme>
+Date: Tue, 21 Oct 2014 00:00:00 -0700
+From: usuario470@example.com
+To: usuario306@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario470 <usuario470@example.com>
+X-To: Usuario306 <usuario306@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario470_folder\inbox
+X-Origin: usuario470-P
+X-FileName: usuario470.pst
+
+I wanted to give you an update on the status of the project.
+Hope you're doing well. Here's the requested information.
+I wanted to remind you about the upcoming deadline.
+----------------------------------------

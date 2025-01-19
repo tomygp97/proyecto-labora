@@ -1,0 +1,20 @@
+Message-ID: <e1e16f945460479e8bf5bb8ee1909653@thyme>
+Date: Mon, 27 Jan 2020 00:00:00 -0700
+From: usuario270@example.com
+To: usuario191@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario270 <usuario270@example.com>
+X-To: Usuario191 <usuario191@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario270_folder\spam
+X-Origin: usuario270-P
+X-FileName: usuario270.pst
+
+I trust the documents will be helpful for our upcoming discussion.
+I look forward to your response.
+I hope you're enjoying a nice week so far.
+----------------------------------------

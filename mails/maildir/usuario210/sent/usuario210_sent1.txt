@@ -1,0 +1,20 @@
+Message-ID: <2265b64cf1e242668e594e9c2ec431b4@thyme>
+Date: Wed, 13 Jun 2012 00:00:00 -0700
+From: usuario210@example.com
+To: usuario826@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario210 <usuario210@example.com>
+X-To: Usuario826 <usuario826@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario210_folder\sent
+X-Origin: usuario210-P
+X-FileName: usuario210.pst
+
+I hope you're enjoying a nice week so far.
+Let me know if you need any additional details.
+Looking forward to hearing from you soon
+----------------------------------------

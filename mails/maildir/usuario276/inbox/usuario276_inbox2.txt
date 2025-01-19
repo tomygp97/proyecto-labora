@@ -1,0 +1,20 @@
+Message-ID: <b9e55076730849ce82e10b6dcc293f3d@thyme>
+Date: Mon, 08 May 2023 00:00:00 -0700
+From: usuario276@example.com
+To: usuario301@example.com
+Subject: Feedback on Proposal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario276 <usuario276@example.com>
+X-To: Usuario301 <usuario301@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario276_folder\inbox
+X-Origin: usuario276-P
+X-FileName: usuario276.pst
+
+Can you please confirm receipt of the files?
+Please make sure to go through the attached documents before our meeting.
+Please don't hesitate to reach out if you need any help.
+----------------------------------------

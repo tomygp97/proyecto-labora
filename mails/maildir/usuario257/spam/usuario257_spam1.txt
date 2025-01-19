@@ -1,0 +1,20 @@
+Message-ID: <18a9a32a782c4479a391c61bae664a7d@thyme>
+Date: Wed, 15 Dec 2021 00:00:00 -0700
+From: usuario257@example.com
+To: usuario92@example.com
+Subject: Important Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario257 <usuario257@example.com>
+X-To: Usuario92 <usuario92@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario257_folder\spam
+X-Origin: usuario257-P
+X-FileName: usuario257.pst
+
+Thank you for your attention
+I wanted to remind you about the upcoming deadline.
+I hope you're enjoying a nice week so far.
+----------------------------------------

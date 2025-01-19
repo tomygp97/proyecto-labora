@@ -1,0 +1,20 @@
+Message-ID: <bbb92280f9634a8a8333c8498e54316b@thyme>
+Date: Sat, 12 Nov 2005 00:00:00 -0700
+From: usuario559@example.com
+To: usuario181@example.com
+Subject: Reminder: Deadline Approaching
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario559 <usuario559@example.com>
+X-To: Usuario181 <usuario181@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario559_folder\all_documents
+X-Origin: usuario559-P
+X-FileName: usuario559.pst
+
+I look forward to collaborating further on this initiative.
+I wanted to thank you for your prompt response.
+Here is our forecast
+----------------------------------------

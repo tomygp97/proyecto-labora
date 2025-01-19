@@ -1,0 +1,20 @@
+Message-ID: <4e6c9ad045344d2a8aa08bd736ed177c@thyme>
+Date: Tue, 13 Nov 2012 00:00:00 -0700
+From: usuario826@example.com
+To: usuario344@example.com
+Subject: Follow-up on Project Milestone
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario826 <usuario826@example.com>
+X-To: Usuario344 <usuario344@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario826_folder\_sent_mail
+X-Origin: usuario826-P
+X-FileName: usuario826.pst
+
+I wanted to check in regarding the status of the project.
+Here are the results from the analysis we discussed.
+Please find the latest updates on the project
+----------------------------------------
