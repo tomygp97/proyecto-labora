@@ -1,0 +1,20 @@
+Message-ID: <9bde93ffc8ee4ef5af39861b34c2dc51@thyme>
+Date: Thu, 16 Sep 2004 00:00:00 -0700
+From: usuario999@example.com
+To: usuario242@example.com
+Subject: New Project Opportunities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario999 <usuario999@example.com>
+X-To: Usuario242 <usuario242@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario999_folder\all_documents
+X-Origin: usuario999-P
+X-FileName: usuario999.pst
+
+I wanted to thank you for your prompt response.
+I appreciate your attention to this matter.
+Here are the documents I mentioned during our call.
+----------------------------------------

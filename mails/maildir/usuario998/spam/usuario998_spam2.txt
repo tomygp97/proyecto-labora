@@ -1,0 +1,20 @@
+Message-ID: <487113fe24424cb2bd56194293cc8b1e@thyme>
+Date: Fri, 08 Aug 2025 00:00:00 -0700
+From: usuario998@example.com
+To: usuario731@example.com
+Subject: Finalizing Contract Details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario998 <usuario998@example.com>
+X-To: Usuario731 <usuario731@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario998_folder\spam
+X-Origin: usuario998-P
+X-FileName: usuario998.pst
+
+Please make sure to go through the attached documents before our meeting.
+I wanted to follow up on our last meeting
+Hope everything is going well on your end.
+----------------------------------------

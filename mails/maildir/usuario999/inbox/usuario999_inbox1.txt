@@ -1,0 +1,20 @@
+Message-ID: <1517b6413afe491cae07d70e24ab0c31@thyme>
+Date: Wed, 13 Mar 2019 00:00:00 -0700
+From: usuario999@example.com
+To: usuario66@example.com
+Subject: Changes to Meeting Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario999 <usuario999@example.com>
+X-To: Usuario66 <usuario66@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario999_folder\inbox
+X-Origin: usuario999-P
+X-FileName: usuario999.pst
+
+Just checking in to see if you've received my previous email.
+Here are the results from the analysis we discussed.
+Hope you're doing well. Here's the requested information.
+----------------------------------------

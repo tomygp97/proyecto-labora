@@ -1,0 +1,20 @@
+Message-ID: <8da53aad11674a30ab2d3ec66ffaca14@thyme>
+Date: Fri, 09 Apr 2021 00:00:00 -0700
+From: usuario999@example.com
+To: usuario949@example.com
+Subject: Project Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Usuario999 <usuario999@example.com>
+X-To: Usuario949 <usuario949@example.com>
+X-cc:
+X-bcc:
+X-Folder: \usuario999_folder\spam
+X-Origin: usuario999-P
+X-FileName: usuario999.pst
+
+I wanted to give you an update on the status of the project.
+Here is our forecast
+I hope this email finds you well.
+----------------------------------------
